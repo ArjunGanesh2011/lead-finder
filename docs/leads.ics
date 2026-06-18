@@ -220,4 +220,95 @@ DESCRIPTION:Follow up on lead
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:savannah-halal-gyro-savannah-ga-20260618@lead-finder
+DTSTAMP:20260618T143716Z
+DTSTART:20260619T090000
+DTEND:20260619T093000
+SUMMARY:Lead: Savannah Halal Gyro (Savannah GA)
+LOCATION:Savannah GA
+DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 77.5  |  No-webs
+ ite confidence: 92.0%  |  Buyer signal: 63\nAffordability: Established - g
+ ood fit for Growth\nPhone: (912) 577-6111\nNiche: food truck  |  City: Sav
+ annah GA\nSocials: instagram: https://www.instagram.com/reel/DR15j1DDqs5/ 
+ | facebook: https://www.facebook.com/groups/196104578447263/posts/13528237
+ 46108668/ | tiktok: https://www.tiktok.com/discover/savannah-georgia-halal
+ -food\nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Follow up on lead
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:j-star-tax-bookkeeping-service-llc-orlando-fl-20260618@lead-finder
+DTSTAMP:20260618T143716Z
+DTSTART:20260619T093000
+DTEND:20260619T100000
+SUMMARY:Lead: J STAR TAX & BOOKKEEPING SERVICE LLC (Orlando FL)
+LOCATION:Orlando FL
+DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 71.0  |  No-webs
+ ite confidence: 92.0%  |  Buyer signal: 50\nAffordability: Established - g
+ ood fit for Growth\nPhone: (407) 276-3815\nNiche: bookkeeping service  |  
+ City: Orlando FL\nSocials: linkedin: https://www.linkedin.com/in/jillian-j
+ ohnson-235b7142/\nDashboard: https://arjunganesh2011.github.io/lead-finder
+ /
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Follow up on lead
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:affordable-insurance-denver-denver-co-20260618@lead-finder
+DTSTAMP:20260618T143716Z
+DTSTART:20260619T100000
+DTEND:20260619T103000
+SUMMARY:Lead: Affordable Insurance Denver (Denver CO)
+LOCATION:Denver CO
+DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 69.0  |  No-webs
+ ite confidence: 80.0%  |  Buyer signal: 58\nAffordability: Established - g
+ ood fit for Growth\nPhone: (970) 279-3841\nNiche: insurance agency  |  Cit
+ y: Denver CO\nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Follow up on lead
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sergei-auto-insurance-agency-denver-denver-co-20260618@lead-finder
+DTSTAMP:20260618T143716Z
+DTSTART:20260619T103000
+DTEND:20260619T110000
+SUMMARY:Lead: Sergei Auto Insurance Agency Denver (Denver CO)
+LOCATION:Denver CO
+DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 67.5  |  No-webs
+ ite confidence: 80.0%  |  Buyer signal: 55\nAffordability: Established - g
+ ood fit for Growth\nPhone: (206) 647-6958\nNiche: insurance agency  |  Cit
+ y: Denver CO\nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Follow up on lead
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:valentines-bookkeeping-services-orlando-fl-20260618@lead-finder
+DTSTAMP:20260618T143716Z
+DTSTART:20260619T110000
+DTEND:20260619T113000
+SUMMARY:Lead: Valentines Bookkeeping Services (Orlando FL)
+LOCATION:Orlando FL
+DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 64.0  |  No-webs
+ ite confidence: 80.0%  |  Buyer signal: 48\nAffordability: Established - g
+ ood fit for Growth\nPhone: (407) 305-7303\nNiche: bookkeeping service  |  
+ City: Orlando FL\nDashboard: https://arjunganesh2011.github.io/lead-finder
+ /
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Follow up on lead
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
