@@ -527,4 +527,60 @@ DESCRIPTION:Call this lead
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:tee-s-lawn-care-sod-sprinklers-llc-orlando-fl@lead-finder
+DTSTAMP:20260618T175853Z
+DTSTART:20260705T150000
+DTEND:20260705T153000
+SUMMARY:Call lead: TEE'S LAWN CARE SOD & SPRINKLERS LLC (Orlando FL)
+LOCATION:350 S McKinley Ave\, Orlando\, FL 32811
+DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 67.0  |  No-websit
+ e confidence: 92.0%  |  Buyer signal: 42\nAffordability: Lean / early-stag
+ e - best pitched Starter\nPhone: (321) 527-4295\nNiche: lawn care service 
+  |  City: Orlando FL\nAddress: 350 S McKinley Ave\, Orlando\, FL 32811\nDa
+ shboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:anb-window-cleaning-services-el-paso-tx@lead-finder
+DTSTAMP:20260618T175853Z
+DTSTART:20260705T180000
+DTEND:20260705T183000
+SUMMARY:Call lead: AnB window cleaning services (El Paso TX)
+LOCATION:4024 Loma Dante\, El Paso\, TX 79938
+DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 59.0  |  No-websit
+ e confidence: 80.0%  |  Buyer signal: 38\nAffordability: Lean / early-stag
+ e - best pitched Starter\nPhone: (915) 497-4746\nNiche: window cleaning  |
+   City: El Paso TX\nAddress: 4024 Loma Dante\, El Paso\, TX 79938\nDashboa
+ rd: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aang-power-washing-winston-salem-nc@lead-finder
+DTSTAMP:20260618T175853Z
+DTSTART:20260706T090000
+DTEND:20260706T093000
+SUMMARY:Call lead: AanG PoWer Washing (Winston-Salem NC)
+LOCATION:5430 Nita Dr\, Winston-Salem\, NC 27105
+DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 59.0  |  No-websit
+ e confidence: 80.0%  |  Buyer signal: 38\nAffordability: Lean / early-stag
+ e - best pitched Starter\nPhone: (336) 955-7350\nNiche: pressure washing  
+ |  City: Winston-Salem NC\nAddress: 5430 Nita Dr\, Winston-Salem\, NC 2710
+ 5\nSocials: instagram: https://www.instagram.com/aangpowerwash?igsh=bnVzdj
+ Z3cThxYm85&utm_source=qr\nDashboard: https://arjunganesh2011.github.io/lea
+ d-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
