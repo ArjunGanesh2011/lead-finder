@@ -1,0 +1,417 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//arjunganesh.com//Lead Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Website Leads
+X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
+X-PUBLISHED-TTL:PT6H
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+BEGIN:VEVENT
+UID:the-official-la-perla-barbershop-llc-tampa-fl@lead-finder
+DTSTAMP:20260618T152542Z
+DTSTART:20260619T090000
+DTEND:20260619T093000
+SUMMARY:Call lead: The Official La Perla Barbershop llc (Tampa FL)
+LOCATION:8311 N Armenia Ave\, Tampa\, FL 33604
+DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 79.0  |  No-webs
+ ite confidence: 92.0%  |  Buyer signal: 66\nAffordability: Established - g
+ ood fit for Growth\nPhone: (813) 280-2199\nNiche: barbershop  |  City: Tam
+ pa FL\nAddress: 8311 N Armenia Ave\, Tampa\, FL 33604\nDashboard: https://
+ arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:savannah-halal-gyro-savannah-ga@lead-finder
+DTSTAMP:20260618T152542Z
+DTSTART:20260619T150000
+DTEND:20260619T153000
+SUMMARY:Call lead: Savannah Halal Gyro (Savannah GA)
+LOCATION:7505 Abercorn St\, Savannah\, GA 31406
+DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 77.5  |  No-webs
+ ite confidence: 92.0%  |  Buyer signal: 63\nAffordability: Established - g
+ ood fit for Growth\nPhone: (912) 577-6111\nNiche: food truck  |  City: Sav
+ annah GA\nAddress: 7505 Abercorn St\, Savannah\, GA 31406\nSocials: instag
+ ram: https://www.instagram.com/reel/DR15j1DDqs5/ | facebook: https://www.f
+ acebook.com/groups/196104578447263/posts/1352823746108668/ | tiktok: https
+ ://www.tiktok.com/discover/savannah-georgia-halal-food\nDashboard: https:/
+ /arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mark-ford-llc-shreveport-la@lead-finder
+DTSTAMP:20260618T152542Z
+DTSTART:20260619T180000
+DTEND:20260619T183000
+SUMMARY:Call lead: Mark Ford LLC (Shreveport LA)
+LOCATION:9253 Wallace Lake Rd Ste B\, Shreveport\, LA 71106
+DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 75.0  |  No-webs
+ ite confidence: 92.0%  |  Buyer signal: 58\nAffordability: Established - g
+ ood fit for Growth\nPhone: (318) 688-7006\nNiche: accounting firm  |  City
+ : Shreveport LA\nAddress: 9253 Wallace Lake Rd Ste B\, Shreveport\, LA 711
+ 06\nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:elevated-tree-care-new-orleans-la@lead-finder
+DTSTAMP:20260618T152542Z
+DTSTART:20260620T090000
+DTEND:20260620T093000
+SUMMARY:Call lead: Elevated Tree Care (New Orleans LA)
+LOCATION:521 Atlantic Ave\, New Orleans\, LA 70114
+DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 71.5  |  No-webs
+ ite confidence: 92.0%  |  Buyer signal: 51\nAffordability: Established - g
+ ood fit for Growth\nPhone: (215) 815-9440\nNiche: tree service  |  City: N
+ ew Orleans LA\nAddress: 521 Atlantic Ave\, New Orleans\, LA 70114\nSocials
+ : facebook: https://www.facebook.com/elevatedtreecarenola/\nDashboard: htt
+ ps://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:j-star-tax-bookkeeping-service-llc-orlando-fl@lead-finder
+DTSTAMP:20260618T152542Z
+DTSTART:20260620T150000
+DTEND:20260620T153000
+SUMMARY:Call lead: J STAR TAX & BOOKKEEPING SERVICE LLC (Orlando FL)
+LOCATION:7021 Grand National Dr #104\, Orlando\, FL 32819
+DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 71.0  |  No-webs
+ ite confidence: 92.0%  |  Buyer signal: 50\nAffordability: Established - g
+ ood fit for Growth\nPhone: (407) 276-3815\nNiche: bookkeeping service  |  
+ City: Orlando FL\nAddress: 7021 Grand National Dr #104\, Orlando\, FL 3281
+ 9\nSocials: linkedin: https://www.linkedin.com/in/jillian-johnson-235b7142
+ /\nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:affordable-insurance-denver-denver-co@lead-finder
+DTSTAMP:20260618T152542Z
+DTSTART:20260620T180000
+DTEND:20260620T183000
+SUMMARY:Call lead: Affordable Insurance Denver (Denver CO)
+LOCATION:1891 S Wolff St\, Denver\, CO 80219
+DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 69.0  |  No-webs
+ ite confidence: 80.0%  |  Buyer signal: 58\nAffordability: Established - g
+ ood fit for Growth\nPhone: (970) 279-3841\nNiche: insurance agency  |  Cit
+ y: Denver CO\nAddress: 1891 S Wolff St\, Denver\, CO 80219\nDashboard: htt
+ ps://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sergei-auto-insurance-agency-denver-denver-co@lead-finder
+DTSTAMP:20260618T152542Z
+DTSTART:20260621T090000
+DTEND:20260621T093000
+SUMMARY:Call lead: Sergei Auto Insurance Agency Denver (Denver CO)
+LOCATION:1290 Broadway #1703\, Denver\, CO 80203
+DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 67.5  |  No-webs
+ ite confidence: 80.0%  |  Buyer signal: 55\nAffordability: Established - g
+ ood fit for Growth\nPhone: (206) 647-6958\nNiche: insurance agency  |  Cit
+ y: Denver CO\nAddress: 1290 Broadway #1703\, Denver\, CO 80203\nDashboard:
+  https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raw-studios-reno-reno-nv@lead-finder
+DTSTAMP:20260618T152542Z
+DTSTART:20260621T150000
+DTEND:20260621T153000
+SUMMARY:Call lead: Raw Studios Reno (Reno NV)
+LOCATION:150 Ridge St Ste 100\, Reno\, NV 89501
+DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 66.5  |  No-websit
+ e confidence: 92.0%  |  Buyer signal: 41\nAffordability: Lean / early-stag
+ e - best pitched Starter\nPhone: (775) 298-1609\nNiche: photography studio
+   |  City: Reno NV\nAddress: 150 Ridge St Ste 100\, Reno\, NV 89501\nSocia
+ ls: yelp: https://www.yelp.com/biz/raw-studios-reno-reno\nDashboard: https
+ ://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:safe-wash-pressure-soft-wash-cleaning-pittsburgh-pa@lead-finder
+DTSTAMP:20260618T152542Z
+DTSTART:20260621T180000
+DTEND:20260621T183000
+SUMMARY:Call lead: Safe Wash Pressure Soft Wash Cleaning (Pittsburgh PA)
+LOCATION:640 Deana Way\, Rochester\, PA 15074
+DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 66.0  |  No-webs
+ ite confidence: 80.0%  |  Buyer signal: 52\nAffordability: Established - g
+ ood fit for Growth\nPhone: (412) 628-3837\nNiche: pressure washing  |  Cit
+ y: Pittsburgh PA\nAddress: 640 Deana Way\, Rochester\, PA 15074\nDashboard
+ : https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:awa-accounting-with-advantages-sacramento-ca@lead-finder
+DTSTAMP:20260618T152542Z
+DTSTART:20260622T090000
+DTEND:20260622T093000
+SUMMARY:Call lead: AWA Accounting With Advantages (Sacramento CA)
+LOCATION:2440 Fulton Ave #11\, Sacramento\, CA 95825
+DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 65.5  |  No-webs
+ ite confidence: 80.0%  |  Buyer signal: 51\nAffordability: Established - g
+ ood fit for Growth\nPhone: (916) 717-7206\nNiche: accounting firm  |  City
+ : Sacramento CA\nAddress: 2440 Fulton Ave #11\, Sacramento\, CA 95825\nDas
+ hboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:teejay-s-junk-removal-tucson-az@lead-finder
+DTSTAMP:20260618T152542Z
+DTSTART:20260622T150000
+DTEND:20260622T153000
+SUMMARY:Call lead: TeeJay's Junk Removal (Tucson AZ)
+LOCATION:5750 S Houghton Rd\, Tucson\, AZ 85747
+DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 65.5  |  No-websit
+ e confidence: 92.0%  |  Buyer signal: 39\nAffordability: Lean / early-stag
+ e - best pitched Starter\nPhone: (520) 304-5500\nNiche: junk removal  |  C
+ ity: Tucson AZ\nAddress: 5750 S Houghton Rd\, Tucson\, AZ 85747\nSocials: 
+ yelp: https://www.yelp.com/biz/teejays-junk-removal-tucson | facebook: htt
+ ps://www.facebook.com/TeeJaysJunkRemoval/\nDashboard: https://arjunganesh2
+ 011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cielito-rosa-studio-mesa-az@lead-finder
+DTSTAMP:20260618T152542Z
+DTSTART:20260622T180000
+DTEND:20260622T183000
+SUMMARY:Call lead: Cielito Rosa Studio (Mesa AZ)
+LOCATION:1720 W Southern Ave Ste 2\, Mesa\, AZ 85202
+DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 64.5  |  No-websit
+ e confidence: 92.0%  |  Buyer signal: 37\nAffordability: Lean / early-stag
+ e - best pitched Starter\nPhone: (602) 835-7980\nNiche: gift shop  |  City
+ : Mesa AZ\nAddress: 1720 W Southern Ave Ste 2\, Mesa\, AZ 85202\nSocials: 
+ facebook: https://www.facebook.com/cielitorosabakery14/ | instagram: https
+ ://www.instagram.com/cielitorosa_studio14/\nDashboard: https://arjunganesh
+ 2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:valentines-bookkeeping-services-orlando-fl@lead-finder
+DTSTAMP:20260618T152542Z
+DTSTART:20260623T090000
+DTEND:20260623T093000
+SUMMARY:Call lead: Valentines Bookkeeping Services (Orlando FL)
+LOCATION:420 W Lancaster Rd\, Orlando\, FL 32809
+DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 64.0  |  No-webs
+ ite confidence: 80.0%  |  Buyer signal: 48\nAffordability: Established - g
+ ood fit for Growth\nPhone: (407) 305-7303\nNiche: bookkeeping service  |  
+ City: Orlando FL\nAddress: 420 W Lancaster Rd\, Orlando\, FL 32809\nDashbo
+ ard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:taconmadres-food-truck-springfield-mo@lead-finder
+DTSTAMP:20260618T152542Z
+DTSTART:20260623T150000
+DTEND:20260623T153000
+SUMMARY:Call lead: TACONMADRES (FOOD TRUCK) (Springfield MO)
+LOCATION:1201 S W Bypass\, Springfield\, MO 65807
+DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 63.5  |  No-websit
+ e confidence: 92.0%  |  Buyer signal: 35\nAffordability: Lean / early-stag
+ e - best pitched Starter\nPhone: (417) 470-5562\nNiche: food truck  |  Cit
+ y: Springfield MO\nAddress: 1201 S W Bypass\, Springfield\, MO 65807\nDash
+ board: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:takizimo-tacos-y-mas-food-truck-virginia-beach-va@lead-finder
+DTSTAMP:20260618T152542Z
+DTSTART:20260623T180000
+DTEND:20260623T183000
+SUMMARY:Call lead: TAKIZIMO TACOS Y MAS FOOD TRUCK (Virginia Beach VA)
+LOCATION:5785 Northampton Blvd\, Virginia Beach\, VA 23455
+DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 63.5  |  No-websit
+ e confidence: 92.0%  |  Buyer signal: 35\nAffordability: Lean / early-stag
+ e - best pitched Starter\nPhone: (757) 235-8052\nNiche: food truck  |  Cit
+ y: Virginia Beach VA\nAddress: 5785 Northampton Blvd\, Virginia Beach\, VA
+  23455\nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:memphis-paint-company-memphis-tn@lead-finder
+DTSTAMP:20260618T152542Z
+DTSTART:20260624T090000
+DTEND:20260624T093000
+SUMMARY:Call lead: Memphis Paint Company (Memphis TN)
+LOCATION:7304 Gail Dr\, Bartlett\, TN 38133
+DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 63.0  |  No-websit
+ e confidence: 80.0%  |  Buyer signal: 46\nAffordability: Lean / early-stag
+ e - best pitched Starter\nPhone: (901) 791-5256\nNiche: painting company  
+ |  City: Memphis TN\nAddress: 7304 Gail Dr\, Bartlett\, TN 38133\nDashboar
+ d: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jose-m-westside-barbershop-tampa-tampa-fl@lead-finder
+DTSTAMP:20260618T152542Z
+DTSTART:20260624T150000
+DTEND:20260624T153000
+SUMMARY:Call lead: Jose M @Westside Barbershop - Tampa (Tampa FL)
+LOCATION:2800 N Mac Dill Ave\, Tampa\, FL 33607
+DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 63.0  |  No-websit
+ e confidence: 80.0%  |  Buyer signal: 46\nAffordability: Lean / early-stag
+ e - best pitched Starter\nPhone: (813) 215-9185\nNiche: barbershop  |  Cit
+ y: Tampa FL\nAddress: 2800 N Mac Dill Ave\, Tampa\, FL 33607\nDashboard: h
+ ttps://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dan-s-pool-services-st-louis-mo@lead-finder
+DTSTAMP:20260618T152542Z
+DTSTART:20260624T180000
+DTEND:20260624T183000
+SUMMARY:Call lead: Dan's Pool Services (St Louis MO)
+LOCATION:9400 Dennison Grove Ct\, Sappington\, MO 63126
+DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-websit
+ e confidence: 92.0%  |  Buyer signal: 31\nAffordability: Lean / early-stag
+ e - best pitched Starter\nPhone: (314) 849-5699\nNiche: pool service  |  C
+ ity: St Louis MO\nAddress: 9400 Dennison Grove Ct\, Sappington\, MO 63126\
+ nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:taconmadres-mexican-food-foodtruck-springfield-mo@lead-finder
+DTSTAMP:20260618T152542Z
+DTSTART:20260625T090000
+DTEND:20260625T093000
+SUMMARY:Call lead: TACONMADRES Mexican Food-Foodtruck (Springfield MO)
+LOCATION:1201 S W Bypass\, Springfield\, MO 65807
+DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 57.5  |  No-websit
+ e confidence: 80.0%  |  Buyer signal: 35\nAffordability: Lean / early-stag
+ e - best pitched Starter\nPhone: (417) 470-5562\nNiche: food truck  |  Cit
+ y: Springfield MO\nAddress: 1201 S W Bypass\, Springfield\, MO 65807\nDash
+ board: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:block-party-300-food-truck-park-salt-lake-city-ut@lead-finder
+DTSTAMP:20260618T152542Z
+DTSTART:20260625T150000
+DTEND:20260625T153000
+SUMMARY:Call lead: Block Party 300 - Food Truck Park (Salt Lake City UT)
+LOCATION:1391 S 300 W\, Salt Lake City\, UT 84115
+DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 57.0  |  No-websit
+ e confidence: 80.0%  |  Buyer signal: 34\nAffordability: Lean / early-stag
+ e - best pitched Starter\nPhone: n/a\nNiche: food truck  |  City: Salt Lak
+ e City UT\nAddress: 1391 S 300 W\, Salt Lake City\, UT 84115\nSocials: ins
+ tagram: https://www.instagram.com/p/CyWLfMExVm_/\nDashboard: https://arjun
+ ganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-french-fry-truck-buffalo-ny@lead-finder
+DTSTAMP:20260618T152542Z
+DTSTART:20260625T180000
+DTEND:20260625T183000
+SUMMARY:Call lead: The French Fry Truck (Buffalo NY)
+LOCATION:70 Jarvis St\, Fort Erie\, ON L2A 2S3\, Canada
+DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 57.0  |  No-websit
+ e confidence: 80.0%  |  Buyer signal: 34\nAffordability: Lean / early-stag
+ e - best pitched Starter\nPhone: n/a\nNiche: food truck  |  City: Buffalo 
+ NY\nAddress: 70 Jarvis St\, Fort Erie\, ON L2A 2S3\, Canada\nDashboard: ht
+ tps://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dabiscuit-food-truck-virginia-beach-va@lead-finder
+DTSTAMP:20260618T152542Z
+DTSTART:20260626T090000
+DTEND:20260626T093000
+SUMMARY:Call lead: DaBiscuit Food Truck (Virginia Beach VA)
+LOCATION:404 20th 1/2 St\, Virginia Beach\, VA 23451
+DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 54.5  |  No-websit
+ e confidence: 92.0%  |  Buyer signal: 17\nAffordability: Lean / early-stag
+ e - best pitched Starter\nPhone: (757) 503-0195\nNiche: food truck  |  Cit
+ y: Virginia Beach VA\nAddress: 404 20th 1/2 St\, Virginia Beach\, VA 23451
+ \nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
