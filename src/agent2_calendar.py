@@ -26,6 +26,11 @@ CALL_MINUTES = 30             # length of each call block
 KEEP_PAST_DAYS = 7            # keep recently-past events visible
 MAX_EVENTS = 1000
 
+# Don't book any call before this date (Arjun is away until 2026-06-25; calls
+# start 2026-06-26). The floor self-expires once today passes it, after which
+# scheduling resumes normal "tomorrow onward" behavior. Set to None to disable.
+START_FLOOR = datetime(2026, 6, 26, SLOT_HOURS[0])
+
 
 def _esc(text):
     return (str(text or "").replace("\\", "\\\\").replace(";", "\\;")
@@ -55,9 +60,12 @@ def _load_events():
 
 
 def _first_slot(run_dt):
-    """Tomorrow at the first slot (floating local time)."""
+    """Earliest bookable slot: tomorrow's first slot, but not before START_FLOOR."""
     d = run_dt.date() + timedelta(days=1)
-    return datetime(d.year, d.month, d.day, SLOT_HOURS[0])
+    tomorrow_first = datetime(d.year, d.month, d.day, SLOT_HOURS[0])
+    if START_FLOOR and START_FLOOR > tomorrow_first:
+        return START_FLOOR
+    return tomorrow_first
 
 
 def _advance(dt):
