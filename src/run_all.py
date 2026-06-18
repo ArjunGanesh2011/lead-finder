@@ -70,13 +70,13 @@ def main():
         # Agent 3: enrich + write per-lead prompt (no Brave queries here).
         a3.write_brief(lead)
 
-    # Agent 2: calendar — only the new leads (UID dedupe keeps it idempotent).
-    if new_leads:
-        a2.build_calendar(new_leads, run_dt)
-
     # Accumulate: new leads on top, keep leftovers from prior days, cap the list.
     # (seen.json already prevents the same business reappearing.)
     all_leads = (new_leads + existing)[:LEADS_KEEP]
+
+    # Agent 2: calendar — book every active lead into the 9am/3pm/6pm slots,
+    # filling forward. schedule() dedupes by slug so booked leads keep their time.
+    a2.build_calendar(all_leads, run_dt)
 
     LEADS_FILE.write_text(json.dumps({
         "generated": run_dt.isoformat(),
