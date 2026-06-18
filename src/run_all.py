@@ -8,6 +8,7 @@ Orchestrator - runs the three agents in sequence and writes all outputs.
 
 Env: BRAVE_API_KEY (required).
 """
+import os
 import json
 from datetime import datetime, timezone
 from pathlib import Path
@@ -36,6 +37,9 @@ def _load_seen():
 def main():
     DOCS.mkdir(parents=True, exist_ok=True)
     run_dt = datetime.now(timezone.utc)
+    maps_key = os.environ.get("GOOGLE_MAPS_API_KEY")
+    if not maps_key:
+        raise RuntimeError("GOOGLE_MAPS_API_KEY is not set")
     client = BraveClient()
     print(f"Budget: {client.remaining()}/{client.budget} searches left this month")
 
@@ -43,7 +47,7 @@ def main():
     seen_set = set(seen)
 
     try:
-        leads = a1.find_leads(client, target=TARGET, seen_slugs=seen_set)
+        leads = a1.find_leads(maps_key, client, target=TARGET, seen_slugs=seen_set)
     except BudgetExceeded as e:
         print(f"Stopped early: {e}")
         leads = []

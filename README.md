@@ -2,13 +2,14 @@
 
 Three coordinated agents that run daily (free) on GitHub Actions:
 
-1. **Lead Finder** — finds US local businesses with **no website**, double-verifies
-   the absence (search + DNS/domain check), estimates affordability from public
-   buyer signals, and ranks the top 10.
+1. **Lead Finder** — pulls businesses straight from **Google Maps (Places API)**
+   for canonical name/phone/website, rejects any with a real site, double-checks
+   the rest on web search for unlinked sites, estimates affordability from Maps
+   ratings/reviews, assigns a tier (Starter/Growth/Premium), and ranks the top 10.
 2. **Calendar** — writes `docs/leads.ics`, a follow-up calendar your iPhone
    subscribes to.
 3. **Brief Generator** — writes a paste-ready Claude Code prompt per lead
-   (`docs/prompts/<slug>.md`) to build a stunning Growth-tier site.
+   (`docs/prompts/<slug>.md`) to build a stunning site at the assigned tier.
 
 Outputs land in `docs/` and publish to a GitHub Pages dashboard.
 
@@ -26,10 +27,14 @@ git remote add origin https://github.com/ArjunGanesh2011/lead-finder.git
 git push -u origin main
 ```
 
-### 2. Add your Brave API key as a secret
+### 2. Add API keys as secrets
+First enable **Places API (New)** + a billing account on your Google Cloud
+project (console.cloud.google.com → APIs & Services → enable "Places API (New)").
+At ~10 leads/day this stays within Google Maps Platform's free monthly allowance.
+
 Repo → **Settings → Secrets and variables → Actions → New repository secret**
-- Name: `BRAVE_API_KEY`
-- Value: *(your Brave Search API key)*
+- `GOOGLE_MAPS_API_KEY` = *(your Google Cloud API key, Places API enabled)*
+- `BRAVE_API_KEY` = *(your Brave Search API key — used for the web double-check)*
 
 ### 3. Turn on GitHub Pages
 Repo → **Settings → Pages** → Source: **Deploy from a branch** →

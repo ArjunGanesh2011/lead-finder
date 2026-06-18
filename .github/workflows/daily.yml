@@ -28,6 +28,7 @@ jobs:
 
       - name: Find leads
         env:
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
           BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
         run: python src/run_all.py
 

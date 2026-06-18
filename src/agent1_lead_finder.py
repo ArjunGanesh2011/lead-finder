@@ -1,28 +1,38 @@
 """
 Agent 1 - Lead Finder
 =====================
-Finds US local businesses that have NO website, verifies the absence with a
-two-step check, estimates affordability from public buyer signals, then scores
-and ranks the best leads.
+Sources businesses straight from Google Maps (Places API), which gives the
+canonical name, correct phone, and an authoritative website field. Then it
+double-checks the no-website candidates on web search (Brave) to catch sites
+that exist but aren't linked on the Maps listing.
 
-Website verification (two steps, to avoid the false negatives the user has hit
-with raw LLMs):
-  1. Search '"Business Name" City' and inspect results. A non-directory domain
-     whose page actually references the business == they HAVE a site -> reject.
-  2. Guess common domains (slug.com, slugcity.com, ...) and DNS-resolve them;
-     if one resolves to a real (non-parked) page -> they HAVE a site -> reject.
-Only businesses that fail BOTH checks are kept.
+Two gates, in order:
+  1. Google Maps (Places): if the listing has a REAL website (not a Facebook/
+     Yelp/directory link) -> they have a site -> reject. Authoritative + free
+     of the snippet-scraping errors that plagued the old approach.
+  2. Web search double-check: for the businesses Maps shows with no real site,
+     search '"Name" City'. If a real, resolving site surfaces (or a guessed
+     domain resolves) -> reject. Otherwise it's a confirmed no-website lead.
+
+A business whose only online presence is a Facebook/Instagram page is kept -
+that's exactly the prospect who needs a real site.
 """
 import re
 import html
 import socket
 import requests
 
-from util import (clean_business_name, slugify, extract_phone, domain_of,
-                  is_directory, SOCIAL_DOMAINS)
+from util import slugify, domain_of, is_directory, SOCIAL_DOMAINS
 
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
+
+PLACES_ENDPOINT = "https://places.googleapis.com/v1/places:searchText"
+PLACES_FIELDS = ",".join((
+    "places.id", "places.displayName", "places.formattedAddress",
+    "places.nationalPhoneNumber", "places.websiteUri", "places.rating",
+    "places.userRatingCount", "places.businessStatus", "places.googleMapsUri",
+))
 
 US_CITIES = [
     "Atlanta GA", "Austin TX", "Birmingham AL", "Boise ID", "Buffalo NY",
@@ -43,7 +53,7 @@ US_CITIES = [
     "Winston-Salem NC", "Worcester MA",
 ]
 
-# niche -> (default growth tier shown, baseline earning weight 0-100)
+# niche search term -> baseline earning weight (0-100) for the buyer signal
 NICHES = {
     "plumber": 70, "electrician": 70, "roofing company": 80,
     "HVAC company": 80, "landscaping company": 60, "lawn care service": 50,
@@ -63,53 +73,44 @@ NICHES = {
     "pool service": 60, "appliance repair": 55, "window cleaning": 45,
 }
 
+NATIONAL_CHAINS = (
+    "havertys", "ashley furniture", "mattress firm", "ati physical",
+    "massage envy", "great clips", "supercuts", "sport clips", "jiffy lube",
+    "midas", "meineke", "valvoline", "aspen dental", "heartland dental",
+    "western dental", "pearle vision", "planet fitness", "anytime fitness",
+    "european wax", "petsmart", "petco", "banfield", "h&r block",
+    "jackson hewitt", "merry maids", "molly maid", "servpro", "roto-rooter",
+    "terminix", "orkin", "two men and a truck", "les schwab", "discount tire",
+)
+
 PARKED_MARKERS = ("domain is for sale", "buy this domain", "parked free",
                   "this domain may be for sale", "domain for sale",
                   "godaddy.com/domainsearch", "sedoparking", "hugedomains")
 
-# Title fragments that signal a listicle / category page / forum, not a business.
-# (No bare "best "/"top " — those reject real names like "Top Notch Roofing";
-# listicles are caught by " in " and the number pattern in harvest_candidates.)
-JUNK_TERMS = ("near me", "near ", "nearby", "servicing", "service area",
-              "reviews", " in ", "directory", "list of", "vs ", "things to do",
-              "reddit", " on reddit", "wikipedia", "craigslist", "quora",
-              "tripadvisor", "groupon")
 
-# Listicle headers like "Top 10 Plumbers" / "5 Best Roofers".
-LISTICLE_RE = re.compile(r"\b(?:top|best)\s+\d+|\b\d+\s+best\b", re.I)
-
-# Obvious national chains (have sites; not local small-business prospects).
-NATIONAL_CHAINS = (
-    "havertys", "ashley furniture", "mattress firm", "ati physical",
-    "ati physicial", "massage envy", "great clips", "supercuts", "sport clips",
-    "jiffy lube", "midas", "meineke", "valvoline", "aspen dental",
-    "heartland dental", "western dental", "pearle vision", "planet fitness",
-    "anytime fitness", "european wax", "the joint", "petsmart", "petco",
-    "banfield", "h&r block", "jackson hewitt", "merry maids", "molly maid",
-    "servpro", "roto-rooter", "terminix", "orkin", "two men and a truck",
-)
-
-# Words that don't make a title distinctive (used by _is_generic_title).
-_GENERIC_STOP = {"near", "nearby", "servicing", "service", "best", "top", "the",
-                 "and", "of", "a", "in", "llc", "inc", "co", "store", "shop",
-                 "company", "center", "studio", "group", "solutions"}
-
-
-def _sing(word):
-    """Crude singularizer so 'trucks' matches 'truck'."""
-    return word[:-1] if len(word) > 3 and word.endswith("s") else word
-
-
-def _is_generic_title(name, city, niche):
-    """True if, after removing niche + city + filler words, nothing distinctive
-    (i.e. an actual business name) remains -> it's a category/SEO page title."""
-    n = re.sub(r"\s*\(@[^)]+\)", "", name).lower()
-    n = re.sub(r"[^a-z0-9 ]", " ", n)
-    words = [_sing(w) for w in n.split()]
-    stop = {_sing(w) for w in _GENERIC_STOP}
-    stop.update(_sing(w) for w in niche.lower().split())
-    stop.update(_sing(w.lower()) for w in city.split())
-    return not [w for w in words if w and w not in stop]
+# ---------------------------------------------------------------------------
+def places_text_search(api_key, query, max_results=20):
+    """Google Maps Places (New) text search. Returns a list of place dicts."""
+    try:
+        r = requests.post(
+            PLACES_ENDPOINT,
+            headers={"Content-Type": "application/json",
+                     "X-Goog-Api-Key": api_key,
+                     "X-Goog-FieldMask": PLACES_FIELDS},
+            json={"textQuery": query, "regionCode": "US", "languageCode": "en",
+                  "maxResultCount": min(max_results, 20)},
+            timeout=15,
+        )
+    except requests.RequestException as e:
+        print(f"  [places] network error: {e}")
+        return []
+    if r.status_code != 200:
+        print(f"  [places] HTTP {r.status_code}: {r.text[:200]}")
+        return []
+    try:
+        return r.json().get("places", [])
+    except ValueError:
+        return []
 
 
 # ---------------------------------------------------------------------------
@@ -123,7 +124,7 @@ def _dns_resolves(domain):
 
 
 def _page_is_real(url, business_name):
-    """Fetch a URL; True if it loads and isn't a parked/for-sale page."""
+    """True if the URL loads and isn't a parked/for-sale placeholder."""
     try:
         r = requests.get(url, headers={"User-Agent": UA}, timeout=8,
                          allow_redirects=True)
@@ -137,31 +138,26 @@ def _page_is_real(url, business_name):
     return len(body.strip()) > 200
 
 
-def verify_website(client, name, city):
-    """Two-step check.
+def verify_no_site_via_search(brave, name, city):
+    """Gate 2: search the web for a site Maps may not have linked.
 
-    Returns dict: has_site(bool), confidence(0-1 that NO site exists),
-    socials(dict), phone(str|None), description(str), site_url(str|None).
+    Returns has_site(bool), confidence(0-1 that NO site exists),
+    socials(dict), description(str).
     """
-    results = client.search(f'"{name}" {city}', count=10)
-    socials, phone, description, real_site = {}, None, "", None
+    results = brave.search(f'"{name}" {city}', count=10)
+    socials, description, real_site = {}, "", None
 
     for item in results:
         url = item.get("url", "")
         desc = item.get("description", "") or ""
         host = domain_of(url)
         if not description and desc:
-            # Strip tags and decode entities (Brave sometimes double-encodes).
             description = html.unescape(html.unescape(re.sub(r"<[^>]+>", "", desc))).strip()
-        if not phone:
-            phone = extract_phone(desc)
 
-        # Capture social links for later agents.
         for dom, key in SOCIAL_DOMAINS.items():
             if (host == dom or host.endswith("." + dom)) and key not in socials:
                 socials[key] = url
 
-        # A non-directory domain is a candidate real website.
         if url and not is_directory(url) and real_site is None:
             toks = [t for t in re.split(r"\W+", name.lower()) if len(t) > 2]
             blob = (url + " " + item.get("title", "") + " " + desc).lower()
@@ -170,63 +166,35 @@ def verify_website(client, name, city):
                     real_site = url
 
     if real_site:
-        return {"has_site": True, "confidence": 0.0, "socials": socials,
-                "phone": phone, "description": description, "site_url": real_site}
+        return {"has_site": True, "confidence": 0.0,
+                "socials": socials, "description": description}
 
-    # Step 2: guess domains.
+    # Guess a few obvious domains for the unlinked-site case.
     slug = re.sub(r"[^a-z0-9]", "", name.lower())
     city_slug = re.sub(r"[^a-z0-9]", "", city.split()[0].lower())
-    guesses = [f"{slug}.com", f"{slug}.net", f"{slug}{city_slug}.com",
-               f"the{slug}.com", f"{slug}llc.com"]
-    for dom in guesses:
-        if len(dom) < 8:
-            continue
-        if _dns_resolves(dom) and _page_is_real(f"http://{dom}", name):
-            return {"has_site": True, "confidence": 0.0, "socials": socials,
-                    "phone": phone, "description": description,
-                    "site_url": f"http://{dom}"}
+    for dom in (f"{slug}.com", f"{slug}.net", f"{slug}{city_slug}.com",
+                f"the{slug}.com"):
+        if len(dom) >= 8 and _dns_resolves(dom) and _page_is_real(f"http://{dom}", name):
+            return {"has_site": True, "confidence": 0.0,
+                    "socials": socials, "description": description}
 
-    # Failed both checks -> very likely no website.
-    confidence = 0.92 if results else 0.80
-    return {"has_site": False, "confidence": confidence, "socials": socials,
-            "phone": phone, "description": description, "site_url": None}
+    return {"has_site": False, "confidence": 0.92 if results else 0.80,
+            "socials": socials, "description": description}
 
 
 # ---------------------------------------------------------------------------
-def buyer_signal(name, description):
-    """Heuristic 0-100 'can-they-afford-and-will-they-buy' score from snippets.
-
-    This is a public-signal heuristic, NOT real financials. It rewards signs of
-    an established, active, contactable business.
-    """
-    text = (name + " " + (description or "")).lower()
-    score = 45
-    for kw, pts in (("years", 8), ("family owned", 8), ("family-owned", 8),
-                    ("since 19", 8), ("since 20", 6), ("licensed", 6),
-                    ("insured", 6), ("certified", 5), ("award", 6),
-                    ("voted", 6), ("trusted", 4), ("established", 6)):
-        if kw in text:
-            score += pts
-    for neg in ("permanently closed", "temporarily closed", "out of business"):
-        if neg in text:
-            score -= 40
-    # Review-count signal, e.g. "128 reviews".
-    m = re.search(r"(\d{1,4})\s+reviews?", text)
-    if m:
-        score += min(int(m.group(1)) // 8, 18)
-    # Star rating, e.g. "4.7 stars".
-    m = re.search(r"([0-5]\.\d)\s*(?:star|out of 5|/5|★)", text)
-    if m and float(m.group(1)) >= 4.3:
-        score += 6
-    return max(0, min(score, 100))
+def buyer_signal(place, niche):
+    """0-100 affordability/buy-readiness from Maps rating + review volume."""
+    base = NICHES.get(niche, 55)
+    count = place.get("userRatingCount") or 0
+    rating = place.get("rating") or 0
+    vol = min(count // 5, 30)                        # review volume -> up to +30
+    qual = max(0.0, rating - 4.0) * 16 if rating else 0   # 4.0-5.0 -> 0-16
+    return int(max(0, min(0.5 * base + vol + qual, 100)))
 
 
 def assign_tier(signal):
-    """Map the buyer/earnings signal to the tier the business can likely afford.
-
-    Mirrors arjunganesh.com pricing:
-      Premium $3,500 + $499/mo | Growth $1,800 + $299/mo | Starter $800 + $150/mo
-    """
+    """Map the buyer signal to the tier the business can likely afford."""
     if signal >= 72:
         return {"tier": "Premium", "build": "$3,500", "monthly": "$499/mo",
                 "fit": "High earner - comfortably fits Premium"}
@@ -238,83 +206,82 @@ def assign_tier(signal):
 
 
 # ---------------------------------------------------------------------------
-def harvest_candidates(client, niche, city, seen_slugs):
-    """One discovery search -> list of (name, city, niche) candidates."""
-    out, names = [], set()
-    for item in client.search(f"{niche} in {city}", count=20):
-        name = clean_business_name(item.get("title", ""))
-        if not (3 <= len(name) <= 60):
-            continue
-        low = name.lower()
-        # Drop listicles / category pages / forums.
-        if any(w in low for w in JUNK_TERMS) or LISTICLE_RE.search(low):
-            continue
-        # Drop national chains (they have sites and aren't local prospects).
-        if any(c in low for c in NATIONAL_CHAINS):
-            continue
-        # Drop page-title style names ending in a state code, e.g. "..., IN"
-        # (anchored to end so a street like "..., SE 14th St" is kept).
-        if re.search(r",\s*[A-Z]{2}\s*$", name):
-            continue
-        if _is_generic_title(name, city, niche):
-            continue
-        slug = slugify(f"{name}-{city}")
-        if slug in seen_slugs or slug in names:
-            continue
-        names.add(slug)
-        out.append({"name": name, "city": city, "niche": niche, "slug": slug})
-    return out
-
-
-def find_leads(client, target=10, seen_slugs=None, max_discovery=8,
-               min_remaining=6):
-    """Return up to `target` ranked leads with no website."""
+def find_leads(maps_key, brave, target=10, seen_slugs=None, max_searches=14,
+               min_brave_remaining=5):
+    """Find up to `target` ranked businesses with no real website."""
     import random
-    seen_slugs = seen_slugs or set()
-    leads, candidates, discoveries = [], [], 0
+    seen = set(seen_slugs or [])
+    leads, searches = [], 0
+    combos = [(n, c) for n in NICHES for c in US_CITIES]
+    random.shuffle(combos)
 
-    while len(leads) < target and client.remaining() > min_remaining:
-        # Top up the candidate pool with a fresh discovery search.
-        if not candidates and discoveries < max_discovery:
-            niche = random.choice(list(NICHES))
-            city = random.choice(US_CITIES)
-            print(f"[discover] {niche} in {city}")
-            candidates = harvest_candidates(client, niche, city, seen_slugs)
-            discoveries += 1
-            continue
-        if not candidates:
-            break  # discovery exhausted
-
-        cand = candidates.pop(0)
-        if client.remaining() <= min_remaining:
+    for niche, city in combos:
+        if len(leads) >= target or searches >= max_searches:
             break
-        print(f"[verify] {cand['name']} ({cand['city']})")
-        chk = verify_website(client, cand["name"], cand["city"])
-        if chk["has_site"]:
-            print(f"   -> has site ({chk['site_url']}), skip")
-            continue
+        print(f"[places] {niche} in {city}")
+        places = places_text_search(maps_key, f"{niche} in {city}")
+        searches += 1
 
-        signal = buyer_signal(cand["name"], chk["description"])
-        no_site_conf = round(chk["confidence"] * 100, 1)
-        overall = round(0.5 * no_site_conf + 0.5 * signal, 1)
-        t = assign_tier(signal)
-        leads.append({
-            "business_name": cand["name"],
-            "niche": cand["niche"],
-            "city": cand["city"],
-            "slug": cand["slug"],
-            "phone": chk["phone"],
-            "instagram": chk["socials"].get("instagram"),
-            "description": chk["description"][:300],
-            "socials": chk["socials"],
-            "no_website_confidence": no_site_conf,
-            "buyer_signal_score": signal,
-            "affordability": t["fit"],
-            "overall_score": overall,
-            "suggested_tier": t["tier"],
-            "suggested_price": f"{t['build']} build + {t['monthly']}",
-        })
-        print(f"   -> LEAD (score {overall})")
+        for p in places:
+            if len(leads) >= target:
+                break
+            name = (p.get("displayName") or {}).get("text", "").strip()
+            if not (3 <= len(name) <= 70):
+                continue
+            low = name.lower()
+            if any(ch in low for ch in NATIONAL_CHAINS):
+                continue
+            if p.get("businessStatus") not in (None, "OPERATIONAL"):
+                continue
+            slug = slugify(f"{name}-{city}")
+            if slug in seen:
+                continue
+
+            website = p.get("websiteUri")
+            # Gate 1: a real (non-social/directory) website means skip.
+            if website and not is_directory(website):
+                continue
+            # Gate 2: web double-check for an unlinked site.
+            if brave.remaining() <= min_brave_remaining:
+                break
+            chk = verify_no_site_via_search(brave, name, city)
+            if chk["has_site"]:
+                print(f"   -> {name}: site found on search, skip")
+                continue
+
+            seen.add(slug)
+            socials = dict(chk["socials"])
+            # If Maps listed a social page as the "website", keep it as a social.
+            if website and is_directory(website):
+                for dom, key in SOCIAL_DOMAINS.items():
+                    if dom in website and key not in socials:
+                        socials[key] = website
+
+            signal = buyer_signal(p, niche)
+            t = assign_tier(signal)
+            no_site_conf = round(chk["confidence"] * 100, 1)
+            overall = round(0.5 * no_site_conf + 0.5 * signal, 1)
+            leads.append({
+                "business_name": name,
+                "niche": niche,
+                "city": city,
+                "slug": slug,
+                "phone": p.get("nationalPhoneNumber"),
+                "instagram": socials.get("instagram"),
+                "address": p.get("formattedAddress"),
+                "maps_url": p.get("googleMapsUri"),
+                "rating": p.get("rating"),
+                "review_count": p.get("userRatingCount"),
+                "description": chk["description"][:300],
+                "socials": socials,
+                "no_website_confidence": no_site_conf,
+                "buyer_signal_score": signal,
+                "affordability": t["fit"],
+                "overall_score": overall,
+                "suggested_tier": t["tier"],
+                "suggested_price": f"{t['build']} build + {t['monthly']}",
+            })
+            print(f"   -> LEAD {name} (score {overall}, {t['tier']})")
 
     leads.sort(key=lambda x: x["overall_score"], reverse=True)
     return leads[:target]
