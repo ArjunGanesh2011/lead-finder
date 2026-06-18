@@ -23,7 +23,7 @@ LEADS_FILE = DOCS / "leads.json"
 SEEN_FILE = DOCS / "seen.json"
 TARGET = 10
 SEEN_KEEP = 2000
-LEADS_KEEP = 120          # rolling cap on accumulated leads shown on dashboard
+LEADS_KEEP = 300          # rolling cap on accumulated leads shown on dashboard
 
 
 def _load_seen():

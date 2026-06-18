@@ -84,7 +84,7 @@
     <div class="meta" id="meta"></div>
     <div class="bar">
       <a class="btn" id="icsBtn" href="leads.ics">📅 Subscribe in Apple Calendar</a>
-      <button class="btn ghost" id="hideBtn">Hide contacted</button>
+      <button class="btn ghost" id="hideBtn">Show removed</button>
       <a class="btn ghost" href="leads.json">leads.json</a>
     </div>
   </header>
@@ -96,18 +96,18 @@
 const esc = s => (s ?? "").toString().replace(/[&<>"]/g, c =>
   ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 
-const CK = "lf_contacted";
-const loadContacted = () => {
+const CK = "lf_done";
+const loadDone = () => {
   try { return new Set(JSON.parse(localStorage.getItem(CK) || "[]")); }
   catch { return new Set(); }
 };
-const saveContacted = set => localStorage.setItem(CK, JSON.stringify([...set]));
+const saveDone = set => localStorage.setItem(CK, JSON.stringify([...set]));
 const fmtDate = s => {
   const d = new Date(s + "T00:00");
   return isNaN(d) ? s : d.toLocaleDateString(undefined, {month:"short", day:"numeric"});
 };
 
-function card(l, contacted, today) {
+function card(l, done, today) {
   const socialOrder = ["instagram","facebook","yelp","twitter","linkedin","youtube","tiktok"];
   const sortedSocials = Object.entries(l.socials || {}).sort(([a],[b]) => {
     const ai = socialOrder.indexOf(a), bi = socialOrder.indexOf(b);
@@ -124,8 +124,11 @@ function card(l, contacted, today) {
     ? `<div class="row"><span>Address</span><span class="addr">${esc(l.address)}</span></div>` : "";
   const dateBadge = l.added ? `<div class="datebadge">${esc(fmtDate(l.added))}</div>` : "";
   const newTag = l.added === today ? `<span class="newtag">NEW</span>` : "";
-  const done = contacted.has(l.slug);
-  return `<div class="card ${done ? "contacted" : ""}">
+  const isDone = done.has(l.slug);
+  const label = isDone
+    ? "✓ Removed — uncheck to restore"
+    : "Done — remove from board";
+  return `<div class="card ${isDone ? "contacted" : ""}">
     ${dateBadge}
     <div class="score">${esc(l.overall_score)}<small>Lead score</small></div>
     <div class="name">${esc(l.business_name)}${newTag}</div>
@@ -140,46 +143,49 @@ function card(l, contacted, today) {
       ${l.prompt_file ? `<a href="${esc(l.prompt_file)}" target="_blank">📄 Website prompt</a>` : ""}
       ${mapsLink}${igBadge}${otherSocials}
     </div>
-    <div class="contactbar"><label><input type="checkbox" class="chk" data-slug="${esc(l.slug)}" ${done ? "checked" : ""}> Contacted — hide from active list</label></div>
+    <div class="contactbar"><label><input type="checkbox" class="chk" data-slug="${esc(l.slug)}" ${isDone ? "checked" : ""}> ${label}</label></div>
   </div>`;
 }
 
-let DATA = null, hideContacted = false;
+let DATA = null, showRemoved = false;
 
 function updateMeta() {
-  const contacted = loadContacted();
+  const done = loadDone();
   const leads = DATA.leads || [];
-  const remaining = leads.filter(l => !contacted.has(l.slug)).length;
+  const active = leads.filter(l => !done.has(l.slug)).length;
+  const removed = leads.length - active;
   const when = DATA.generated ? new Date(DATA.generated).toLocaleString() : "—";
   document.getElementById("meta").innerHTML =
     `<span class="pill">Last run: <b>${esc(when)}</b></span>` +
-    `<span class="pill">Not contacted: <b>${remaining}</b> of ${leads.length}</span>` +
+    `<span class="pill">Active leads: <b>${active}</b>${removed ? ` · ${removed} removed` : ""}</span>` +
     `<span class="pill">Searches this month: <b>${esc(DATA.queries_used_this_month)}/${esc(DATA.query_budget)}</b></span>`;
 }
 
 function render() {
   if (!DATA) return;
-  const contacted = loadContacted();
+  const done = loadDone();
   const today = new Date().toISOString().slice(0, 10);
-  // Uncontacted first (keep server order: newest on top), contacted sink down.
-  const leads = (DATA.leads || []).slice()
-    .sort((a, b) => (contacted.has(a.slug) ? 1 : 0) - (contacted.has(b.slug) ? 1 : 0));
-  const shown = hideContacted ? leads.filter(l => !contacted.has(l.slug)) : leads;
+  const leads = DATA.leads || [];
+  // Default board shows only active leads. "Show removed" reveals done ones
+  // (dimmed, checked) so a mistaken removal can be undone.
+  const shown = showRemoved
+    ? leads.slice().sort((a, b) => (done.has(a.slug) ? 1 : 0) - (done.has(b.slug) ? 1 : 0))
+    : leads.filter(l => !done.has(l.slug));
   const g = document.getElementById("grid");
-  g.innerHTML = shown.length ? shown.map(l => card(l, contacted, today)).join("")
-    : `<div class="empty">Nothing to show — all leads contacted. New ones arrive at 10 AM.</div>`;
+  g.innerHTML = shown.length ? shown.map(l => card(l, done, today)).join("")
+    : `<div class="empty">No active leads right now — new ones arrive at 10 AM.</div>`;
   g.querySelectorAll(".chk").forEach(cb => cb.addEventListener("change", () => {
-    const c = loadContacted();
-    cb.checked ? c.add(cb.dataset.slug) : c.delete(cb.dataset.slug);
-    saveContacted(c);
+    const d = loadDone();
+    cb.checked ? d.add(cb.dataset.slug) : d.delete(cb.dataset.slug);
+    saveDone(d);
     render();
   }));
   updateMeta();
 }
 
 document.getElementById("hideBtn").addEventListener("click", () => {
-  hideContacted = !hideContacted;
-  document.getElementById("hideBtn").textContent = hideContacted ? "Show all" : "Hide contacted";
+  showRemoved = !showRemoved;
+  document.getElementById("hideBtn").textContent = showRemoved ? "Hide removed" : "Show removed";
   render();
 });
 
