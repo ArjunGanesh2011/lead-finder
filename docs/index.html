@@ -51,10 +51,15 @@
   .tier { display:inline-block; margin-top:12px; font-size:12px; font-weight:700;
           color:#fff; background:rgba(168,85,247,.18); border:1px solid var(--accent);
           padding:4px 10px; border-radius:999px; }
+  .tier.starter { background:rgba(52,211,153,.16); border-color:var(--good); }
+  .tier.growth  { background:rgba(168,85,247,.18); border-color:var(--accent); }
+  .tier.premium { background:rgba(251,191,36,.16); border-color:var(--warn); }
   .links { display:flex; gap:8px; margin-top:14px; flex-wrap:wrap; }
   .links a { font-size:12px; text-decoration:none; color:var(--accent);
              border:1px solid var(--line); padding:6px 10px; border-radius:8px; }
   .links a:hover { border-color: var(--accent); }
+  .links a.ig { color:#fff; border:none; font-weight:600;
+                background:linear-gradient(90deg,#f58529,#dd2a7b,#8134af); }
   .empty { color: var(--muted); text-align:center; padding:60px 0; }
   footer { color: var(--muted); font-size:12px; margin-top:36px; text-align:center; }
 </style>
@@ -79,7 +84,15 @@ const esc = s => (s ?? "").toString().replace(/[&<>"]/g, c =>
   ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 
 function card(l, i) {
-  const socials = Object.entries(l.socials || {})
+  // Sort socials: instagram first, then facebook, then rest.
+  const socialOrder = ["instagram","facebook","yelp","twitter","linkedin","youtube","tiktok"];
+  const sortedSocials = Object.entries(l.socials || {}).sort(([a],[b]) => {
+    const ai = socialOrder.indexOf(a), bi = socialOrder.indexOf(b);
+    return (ai === -1 ? 99 : ai) - (bi === -1 ? 99 : bi);
+  });
+  const ig = (l.socials || {}).instagram;
+  const igBadge = ig ? `<a class="ig" href="${esc(ig)}" target="_blank" rel="noopener">📸 Instagram</a>` : "";
+  const otherSocials = sortedSocials.filter(([k]) => k !== "instagram")
     .map(([k, v]) => `<a href="${esc(v)}" target="_blank" rel="noopener">${esc(k)}</a>`).join("");
   const phone = l.phone ? `<a href="tel:${esc(l.phone.replace(/[^0-9]/g,''))}">${esc(l.phone)}</a>` : "—";
   return `<div class="card">
@@ -89,12 +102,12 @@ function card(l, i) {
     <div class="tags">${esc(l.niche)} · ${esc(l.city)}</div>
     <div class="row"><span>No-website confidence</span><span class="conf">${esc(l.no_website_confidence)}%</span></div>
     <div class="row"><span>Buyer signal</span><span>${esc(l.buyer_signal_score)}/100</span></div>
-    <div class="row"><span>Phone</span><span>${phone}</span></div>
+    <div class="row"><span>📞 Phone</span><span>${phone}</span></div>
     <div class="row"><span>Affordability</span><span>${esc(l.affordability)}</span></div>
-    <div class="tier">${esc(l.suggested_tier)} · ${esc(l.suggested_price)}</div>
+    <div class="tier ${esc((l.suggested_tier || '').toLowerCase())}">${esc(l.suggested_tier)} · ${esc(l.suggested_price)}</div>
     <div class="links">
       ${l.prompt_file ? `<a href="${esc(l.prompt_file)}" target="_blank">📄 Website prompt</a>` : ""}
-      ${socials}
+      ${igBadge}${otherSocials}
     </div>
   </div>`;
 }

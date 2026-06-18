@@ -64,9 +64,26 @@ def gather_brand(lead):
     return lead
 
 
-# Growth tier (per Arjun's pricing): 5-8 pages.
-GROWTH_PAGES = ["Home", "About", "Services", "Gallery / Work",
-                "Testimonials", "Contact"]
+# Page set per tier, mirroring arjunganesh.com.
+TIER_PAGES = {
+    "Starter": ["Home", "About", "Contact"],
+    "Growth": ["Home", "About", "Services", "Gallery / Work",
+               "Testimonials", "Contact"],
+    "Premium": ["Home", "About", "Services", "Gallery / Work",
+                "Testimonials", "Pricing", "FAQ", "Blog",
+                "Booking / Appointments", "Contact"],
+}
+
+TIER_EXTRAS = {
+    "Starter": "Keep it tight and high-impact: one strong scrolling home page "
+               "experience plus About and Contact. Every section animated.",
+    "Growth": "Full marketing site with rich service detail, a motion gallery, "
+              "and social-proof testimonials.",
+    "Premium": "Flagship build: add a blog, FAQ, pricing, and an "
+               "appointment/booking flow. Leave a clean, documented slot for a "
+               "chatbot widget and a reviews-automation embed (Premium AI Ops "
+               "add-ons) without wiring a backend.",
+}
 
 
 def build_prompt(lead):
@@ -79,12 +96,16 @@ def build_prompt(lead):
                                       "for the business")
     phone = lead.get("phone") or "(confirm with client)"
     desc = lead.get("description") or "(no public description found)"
+    tier = lead.get("suggested_tier", "Growth")
+    pages = TIER_PAGES.get(tier, TIER_PAGES["Growth"])
+    extras = TIER_EXTRAS.get(tier, TIER_EXTRAS["Growth"])
 
     return f"""# Website Build Brief - {lead['business_name']}
 
 You are building a **visually STUNNING**, conversion-focused marketing website
 for a local business. Use the **ui-ux-pro-max** and **high-end-visual-design**
-skills. This is a paid client site - it must look like a $1,800 build.
+skills. This is a paid **{tier}** client site ({lead.get('suggested_price', '')})
+- it must look the part.
 
 ## Business
 - **Name:** {lead['business_name']}
@@ -108,8 +129,10 @@ skills. This is a paid client site - it must look like a $1,800 build.
 - **shadcn/ui** for base components, **lucide-react** for icons
 - Fully responsive, light/dark aware, WCAG AA, Lighthouse 95+ on mobile
 
-## Pages (Growth tier - build all)
-{chr(10).join('- ' + p for p in GROWTH_PAGES)}
+## Pages ({tier} tier - build all)
+{chr(10).join('- ' + p for p in pages)}
+
+{extras}
 
 ## Design direction (make it stunning)
 - Bold hero with a real value prop headline, animated gradient/mesh background,

@@ -175,14 +175,20 @@ def buyer_signal(name, description):
     return max(0, min(score, 100))
 
 
-def affordability_band(signal):
-    if signal >= 75:
-        return "High - comfortably fits Premium ($3,500)"
-    if signal >= 55:
-        return "Solid - good fit for Growth ($1,800)"
-    if signal >= 35:
-        return "Moderate - Starter/Growth ($800-$1,800)"
-    return "Lean - best pitched Starter ($800)"
+def assign_tier(signal):
+    """Map the buyer/earnings signal to the tier the business can likely afford.
+
+    Mirrors arjunganesh.com pricing:
+      Premium $3,500 + $499/mo | Growth $1,800 + $299/mo | Starter $800 + $150/mo
+    """
+    if signal >= 72:
+        return {"tier": "Premium", "build": "$3,500", "monthly": "$499/mo",
+                "fit": "High earner - comfortably fits Premium"}
+    if signal >= 48:
+        return {"tier": "Growth", "build": "$1,800", "monthly": "$299/mo",
+                "fit": "Established - good fit for Growth"}
+    return {"tier": "Starter", "build": "$800", "monthly": "$150/mo",
+            "fit": "Lean / early-stage - best pitched Starter"}
 
 
 # ---------------------------------------------------------------------------
@@ -237,20 +243,22 @@ def find_leads(client, target=10, seen_slugs=None, max_discovery=8,
         signal = buyer_signal(cand["name"], chk["description"])
         no_site_conf = round(chk["confidence"] * 100, 1)
         overall = round(0.5 * no_site_conf + 0.5 * signal, 1)
+        t = assign_tier(signal)
         leads.append({
             "business_name": cand["name"],
             "niche": cand["niche"],
             "city": cand["city"],
             "slug": cand["slug"],
             "phone": chk["phone"],
+            "instagram": chk["socials"].get("instagram"),
             "description": chk["description"][:300],
             "socials": chk["socials"],
             "no_website_confidence": no_site_conf,
             "buyer_signal_score": signal,
-            "affordability": affordability_band(signal),
+            "affordability": t["fit"],
             "overall_score": overall,
-            "suggested_tier": "Growth",
-            "suggested_price": "$1,800 build + $299/mo",
+            "suggested_tier": t["tier"],
+            "suggested_price": f"{t['build']} build + {t['monthly']}",
         })
         print(f"   -> LEAD (score {overall})")
 
