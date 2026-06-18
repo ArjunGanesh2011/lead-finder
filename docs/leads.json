@@ -1,0 +1,69 @@
+{
+  "generated": "2026-06-18T12:31:47.385555+00:00",
+  "count": 3,
+  "queries_used_this_month": 125,
+  "query_budget": 950,
+  "leads": [
+    {
+      "business_name": "Omaha Junk Disposal",
+      "niche": "junk removal",
+      "city": "Omaha NE",
+      "slug": "omaha-junk-disposal-omaha-ne",
+      "phone": null,
+      "instagram": null,
+      "description": "Omaha Junk Disposal offers responsible metal scrap removal, appliance removal and hauling service in Omaha NE. So if you have some metal iron steel appliance sitting in your garage or backyard, give us a call and we will come pick it up.",
+      "socials": {},
+      "no_website_confidence": 92.0,
+      "buyer_signal_score": 45,
+      "affordability": "Lean / early-stage - best pitched Starter",
+      "overall_score": 68.5,
+      "suggested_tier": "Starter",
+      "suggested_price": "$800 build + $150/mo",
+      "logo_image": null,
+      "palette": null,
+      "prompt_file": "prompts/omaha-junk-disposal-omaha-ne.md"
+    },
+    {
+      "business_name": "Spokane Hardware Supply, 2001 E Trent Ave",
+      "niche": "hardware store",
+      "city": "Spokane WA",
+      "slug": "spokane-hardware-supply-2001-e-trent-ave-spokane-wa",
+      "phone": "(800) 888-1663",
+      "instagram": null,
+      "description": "SPOKANE HARDWARE SUPPLY, 2001 E Trent Ave, Spokane, WA 99202, 13 Photos, (800) 888-1663, Mon - 8:00 am - 5:00 pm, Tue - 8:00 am - 5:00 pm, Wed - 8:00 am - 5:00 pm, Thu - 8:00 am - 5:00 pm, Fri - 8:00 am - 5:00 pm, Sat - Closed, Sun - Closed",
+      "socials": {
+        "yelp": "https://www.yelp.com/biz/spokane-hardware-supply-spokane"
+      },
+      "no_website_confidence": 92.0,
+      "buyer_signal_score": 45,
+      "affordability": "Lean / early-stage - best pitched Starter",
+      "overall_score": 68.5,
+      "suggested_tier": "Starter",
+      "suggested_price": "$800 build + $150/mo",
+      "logo_image": null,
+      "palette": null,
+      "prompt_file": "prompts/spokane-hardware-supply-2001-e-trent-ave-spokane-wa.md"
+    },
+    {
+      "business_name": "Local Barber of Fort Worth (@localbarberfwtx)",
+      "niche": "barbershop",
+      "city": "Fort Worth TX",
+      "slug": "local-barber-of-fort-worth-localbarberfwtx-fort-worth-tx",
+      "phone": null,
+      "instagram": "https://www.instagram.com/localbarberfwtx/",
+      "description": "3,085 Followers, 436 Following, 448 Posts - Local Barber of Fort Worth (@localbarberfwtx) on Instagram: \"We are a Traditional Barbershop Specializing in Haircuts, Hot Towel Shaves and Beard Trims. Located in Sundance Square in Downtown Fort Worth.\"",
+      "socials": {
+        "instagram": "https://www.instagram.com/localbarberfwtx/"
+      },
+      "no_website_confidence": 92.0,
+      "buyer_signal_score": 45,
+      "affordability": "Lean / early-stage - best pitched Starter",
+      "overall_score": 68.5,
+      "suggested_tier": "Starter",
+      "suggested_price": "$800 build + $150/mo",
+      "logo_image": null,
+      "palette": null,
+      "prompt_file": "prompts/local-barber-of-fort-worth-localbarberfwtx-fort-worth-tx.md"
+    }
+  ]
+}
