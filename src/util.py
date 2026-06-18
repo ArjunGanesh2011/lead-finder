@@ -11,6 +11,8 @@ DIRECTORY_DOMAINS = [
     "grubhub.com", "opentable.com", "booksy.com", "vagaro.com", "wikipedia.org",
     "youtube.com", "tiktok.com", "pinterest.com", "alignable.com", "cylex.us.com",
     "yellowbook.com", "citysearch.com", "superpages.com", "merchantcircle.com",
+    "reddit.com", "ezlocal.com", "loc8nearme.com", "chamberofcommerce.com",
+    "expertise.com", "threebestrated.com", "birdeye.com", "porch.com",
 ]
 
 SOCIAL_DOMAINS = {

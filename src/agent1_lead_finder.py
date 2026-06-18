@@ -14,6 +14,7 @@ with raw LLMs):
 Only businesses that fail BOTH checks are kept.
 """
 import re
+import html
 import socket
 import requests
 
@@ -66,6 +67,50 @@ PARKED_MARKERS = ("domain is for sale", "buy this domain", "parked free",
                   "this domain may be for sale", "domain for sale",
                   "godaddy.com/domainsearch", "sedoparking", "hugedomains")
 
+# Title fragments that signal a listicle / category page / forum, not a business.
+# (No bare "best "/"top " — those reject real names like "Top Notch Roofing";
+# listicles are caught by " in " and the number pattern in harvest_candidates.)
+JUNK_TERMS = ("near me", "near ", "nearby", "servicing", "service area",
+              "reviews", " in ", "directory", "list of", "vs ", "things to do",
+              "reddit", " on reddit", "wikipedia", "craigslist", "quora",
+              "tripadvisor", "groupon")
+
+# Listicle headers like "Top 10 Plumbers" / "5 Best Roofers".
+LISTICLE_RE = re.compile(r"\b(?:top|best)\s+\d+|\b\d+\s+best\b", re.I)
+
+# Obvious national chains (have sites; not local small-business prospects).
+NATIONAL_CHAINS = (
+    "havertys", "ashley furniture", "mattress firm", "ati physical",
+    "ati physicial", "massage envy", "great clips", "supercuts", "sport clips",
+    "jiffy lube", "midas", "meineke", "valvoline", "aspen dental",
+    "heartland dental", "western dental", "pearle vision", "planet fitness",
+    "anytime fitness", "european wax", "the joint", "petsmart", "petco",
+    "banfield", "h&r block", "jackson hewitt", "merry maids", "molly maid",
+    "servpro", "roto-rooter", "terminix", "orkin", "two men and a truck",
+)
+
+# Words that don't make a title distinctive (used by _is_generic_title).
+_GENERIC_STOP = {"near", "nearby", "servicing", "service", "best", "top", "the",
+                 "and", "of", "a", "in", "llc", "inc", "co", "store", "shop",
+                 "company", "center", "studio", "group", "solutions"}
+
+
+def _sing(word):
+    """Crude singularizer so 'trucks' matches 'truck'."""
+    return word[:-1] if len(word) > 3 and word.endswith("s") else word
+
+
+def _is_generic_title(name, city, niche):
+    """True if, after removing niche + city + filler words, nothing distinctive
+    (i.e. an actual business name) remains -> it's a category/SEO page title."""
+    n = re.sub(r"\s*\(@[^)]+\)", "", name).lower()
+    n = re.sub(r"[^a-z0-9 ]", " ", n)
+    words = [_sing(w) for w in n.split()]
+    stop = {_sing(w) for w in _GENERIC_STOP}
+    stop.update(_sing(w) for w in niche.lower().split())
+    stop.update(_sing(w.lower()) for w in city.split())
+    return not [w for w in words if w and w not in stop]
+
 
 # ---------------------------------------------------------------------------
 def _dns_resolves(domain):
@@ -106,7 +151,8 @@ def verify_website(client, name, city):
         desc = item.get("description", "") or ""
         host = domain_of(url)
         if not description and desc:
-            description = re.sub(r"<[^>]+>", "", desc)
+            # Strip tags and decode entities (Brave sometimes double-encodes).
+            description = html.unescape(html.unescape(re.sub(r"<[^>]+>", "", desc))).strip()
         if not phone:
             phone = extract_phone(desc)
 
@@ -200,9 +246,17 @@ def harvest_candidates(client, niche, city, seen_slugs):
         if not (3 <= len(name) <= 60):
             continue
         low = name.lower()
-        # Drop obviously non-business / aggregator titles.
-        if any(w in low for w in ("best ", "top ", "near me", "reviews",
-                                  " in ", "directory", "list of", "vs ")):
+        # Drop listicles / category pages / forums.
+        if any(w in low for w in JUNK_TERMS) or LISTICLE_RE.search(low):
+            continue
+        # Drop national chains (they have sites and aren't local prospects).
+        if any(c in low for c in NATIONAL_CHAINS):
+            continue
+        # Drop page-title style names ending in a state code, e.g. "..., IN"
+        # (anchored to end so a street like "..., SE 14th St" is kept).
+        if re.search(r",\s*[A-Z]{2}\s*$", name):
+            continue
+        if _is_generic_title(name, city, niche):
             continue
         slug = slugify(f"{name}-{city}")
         if slug in seen_slugs or slug in names:
