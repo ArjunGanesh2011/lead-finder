@@ -20,6 +20,8 @@ that's exactly the prospect who needs a real site.
 import re
 import html
 import socket
+from itertools import zip_longest
+
 import requests
 
 from util import slugify, domain_of, is_directory, SOCIAL_DOMAINS
@@ -206,17 +208,36 @@ def assign_tier(signal):
 
 
 # ---------------------------------------------------------------------------
-def find_leads(maps_key, brave, target=10, seen_slugs=None, max_searches=14,
-               min_brave_remaining=5):
-    """Find up to `target` ranked businesses with no real website."""
+def find_leads(maps_key, brave, target=10, seen_slugs=None, max_searches=60,
+               max_checks=30, min_brave_remaining=5):
+    """Find up to `target` ranked businesses with no real website.
+
+    `max_searches` bounds (cheap) Maps calls; `max_checks` bounds (budgeted)
+    Brave double-checks so a single run can't blow the monthly search quota.
+    """
     import random
     seen = set(seen_slugs or [])
-    leads, searches = [], 0
-    combos = [(n, c) for n in NICHES for c in US_CITIES]
-    random.shuffle(combos)
+    leads, searches, checks = [], 0, 0
+
+    # Round-robin niches across earning tiers (high/mid/low base) so a run
+    # samples a spread -> more variety of Starter/Growth/Premium prospects.
+    hi = [n for n, w in NICHES.items() if w >= 70]
+    mid = [n for n, w in NICHES.items() if 50 <= w < 70]
+    lo = [n for n, w in NICHES.items() if w < 50]
+    for grp in (hi, mid, lo):
+        random.shuffle(grp)
+    niche_order = [n for trio in zip_longest(hi, mid, lo) for n in trio if n]
+    cities = US_CITIES[:]
+    random.shuffle(cities)
+    combos = [(n, cities[i % len(cities)]) for i, n in enumerate(niche_order)]
+    extra = [(n, c) for n in NICHES for c in US_CITIES]
+    random.shuffle(extra)
+    combos += extra                       # fallback pool if we need more
 
     for niche, city in combos:
         if len(leads) >= target or searches >= max_searches:
+            break
+        if checks >= max_checks or brave.remaining() <= min_brave_remaining:
             break
         print(f"[places] {niche} in {city}")
         places = places_text_search(maps_key, f"{niche} in {city}")
@@ -242,8 +263,9 @@ def find_leads(maps_key, brave, target=10, seen_slugs=None, max_searches=14,
             if website and not is_directory(website):
                 continue
             # Gate 2: web double-check for an unlinked site.
-            if brave.remaining() <= min_brave_remaining:
+            if checks >= max_checks or brave.remaining() <= min_brave_remaining:
                 break
+            checks += 1
             chk = verify_no_site_via_search(brave, name, city)
             if chk["has_site"]:
                 print(f"   -> {name}: site found on search, skip")

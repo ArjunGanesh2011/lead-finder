@@ -22,13 +22,23 @@ DOCS = Path(__file__).resolve().parent.parent / "docs"
 LEADS_FILE = DOCS / "leads.json"
 SEEN_FILE = DOCS / "seen.json"
 TARGET = 10
-SEEN_KEEP = 1000
+SEEN_KEEP = 2000
+LEADS_KEEP = 120          # rolling cap on accumulated leads shown on dashboard
 
 
 def _load_seen():
     if SEEN_FILE.exists():
         try:
             return list(json.loads(SEEN_FILE.read_text()))
+        except (ValueError, OSError):
+            pass
+    return []
+
+
+def _load_existing_leads():
+    if LEADS_FILE.exists():
+        try:
+            return list(json.loads(LEADS_FILE.read_text()).get("leads", []))
         except (ValueError, OSError):
             pass
     return []
@@ -45,36 +55,44 @@ def main():
 
     seen = _load_seen()
     seen_set = set(seen)
+    existing = _load_existing_leads()
 
     try:
-        leads = a1.find_leads(maps_key, client, target=TARGET, seen_slugs=seen_set)
+        new_leads = a1.find_leads(maps_key, client, target=TARGET,
+                                  seen_slugs=seen_set)
     except BudgetExceeded as e:
         print(f"Stopped early: {e}")
-        leads = []
+        new_leads = []
 
-    # Agent 3: enrich + write per-lead prompt (no Brave queries used here).
-    for lead in leads:
+    today = run_dt.date().isoformat()
+    for lead in new_leads:
+        lead["added"] = today
+        # Agent 3: enrich + write per-lead prompt (no Brave queries here).
         a3.write_brief(lead)
 
-    # Agent 2: calendar.
-    if leads:
-        a2.build_calendar(leads, run_dt)
+    # Agent 2: calendar — only the new leads (UID dedupe keeps it idempotent).
+    if new_leads:
+        a2.build_calendar(new_leads, run_dt)
 
-    # Dashboard data.
+    # Accumulate: new leads on top, keep leftovers from prior days, cap the list.
+    # (seen.json already prevents the same business reappearing.)
+    all_leads = (new_leads + existing)[:LEADS_KEEP]
+
     LEADS_FILE.write_text(json.dumps({
         "generated": run_dt.isoformat(),
-        "count": len(leads),
+        "count": len(all_leads),
+        "new_today": len(new_leads),
         "queries_used_this_month": client.used,
         "query_budget": client.budget,
-        "leads": leads,
+        "leads": all_leads,
     }, indent=2))
 
     # Dedupe memory.
-    seen.extend(l["slug"] for l in leads if l["slug"] not in seen_set)
+    seen.extend(l["slug"] for l in new_leads if l["slug"] not in seen_set)
     SEEN_FILE.write_text(json.dumps(seen[-SEEN_KEEP:], indent=2))
 
-    print(f"\nDone: {len(leads)} leads | {client.used}/{client.budget} "
-          f"searches used this month")
+    print(f"\nDone: +{len(new_leads)} new ({len(all_leads)} total shown) | "
+          f"{client.used}/{client.budget} searches used this month")
 
 
 if __name__ == "__main__":

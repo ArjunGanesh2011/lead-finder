@@ -62,6 +62,17 @@
   .links a.ig { color:#fff; border:none; font-weight:600;
                 background:linear-gradient(90deg,#f58529,#dd2a7b,#8134af); }
   .empty { color: var(--muted); text-align:center; padding:60px 0; }
+  button.btn { font: inherit; cursor: pointer; }
+  .datebadge { position:absolute; top:14px; right:16px; font-size:11px; color:var(--muted); }
+  .newtag { display:inline-block; font-size:10px; font-weight:800; letter-spacing:.05em;
+            color:#06281b; background:var(--good); border-radius:5px; padding:1px 6px;
+            margin-left:8px; vertical-align:middle; }
+  .card.contacted { opacity:.4; }
+  .card.contacted .name { text-decoration: line-through; }
+  .contactbar { margin-top:14px; padding-top:12px; border-top:1px solid var(--line); }
+  .contactbar label { font-size:13px; color:var(--muted); cursor:pointer;
+                      display:flex; align-items:center; gap:9px; user-select:none; }
+  .contactbar input { width:18px; height:18px; accent-color:var(--accent); cursor:pointer; }
   footer { color: var(--muted); font-size:12px; margin-top:36px; text-align:center; }
 </style>
 </head>
@@ -73,6 +84,7 @@
     <div class="meta" id="meta"></div>
     <div class="bar">
       <a class="btn" id="icsBtn" href="leads.ics">📅 Subscribe in Apple Calendar</a>
+      <button class="btn ghost" id="hideBtn">Hide contacted</button>
       <a class="btn ghost" href="leads.json">leads.json</a>
     </div>
   </header>
@@ -84,8 +96,18 @@
 const esc = s => (s ?? "").toString().replace(/[&<>"]/g, c =>
   ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 
-function card(l, i) {
-  // Sort socials: instagram first, then facebook, then rest.
+const CK = "lf_contacted";
+const loadContacted = () => {
+  try { return new Set(JSON.parse(localStorage.getItem(CK) || "[]")); }
+  catch { return new Set(); }
+};
+const saveContacted = set => localStorage.setItem(CK, JSON.stringify([...set]));
+const fmtDate = s => {
+  const d = new Date(s + "T00:00");
+  return isNaN(d) ? s : d.toLocaleDateString(undefined, {month:"short", day:"numeric"});
+};
+
+function card(l, contacted, today) {
   const socialOrder = ["instagram","facebook","yelp","twitter","linkedin","youtube","tiktok"];
   const sortedSocials = Object.entries(l.socials || {}).sort(([a],[b]) => {
     const ai = socialOrder.indexOf(a), bi = socialOrder.indexOf(b);
@@ -100,10 +122,13 @@ function card(l, i) {
   const mapsLink = l.maps_url ? `<a href="${esc(l.maps_url)}" target="_blank" rel="noopener">📍 Maps</a>` : "";
   const addr = l.address
     ? `<div class="row"><span>Address</span><span class="addr">${esc(l.address)}</span></div>` : "";
-  return `<div class="card">
-    <div class="rank">#${i + 1}</div>
+  const dateBadge = l.added ? `<div class="datebadge">${esc(fmtDate(l.added))}</div>` : "";
+  const newTag = l.added === today ? `<span class="newtag">NEW</span>` : "";
+  const done = contacted.has(l.slug);
+  return `<div class="card ${done ? "contacted" : ""}">
+    ${dateBadge}
     <div class="score">${esc(l.overall_score)}<small>Lead score</small></div>
-    <div class="name">${esc(l.business_name)}</div>
+    <div class="name">${esc(l.business_name)}${newTag}</div>
     <div class="tags">${esc(l.niche)} · ${esc(l.city)}${ratingTxt}</div>
     <div class="row"><span>No-website confidence</span><span class="conf">${esc(l.no_website_confidence)}%</span></div>
     <div class="row"><span>Buyer signal</span><span>${esc(l.buyer_signal_score)}/100</span></div>
@@ -115,19 +140,51 @@ function card(l, i) {
       ${l.prompt_file ? `<a href="${esc(l.prompt_file)}" target="_blank">📄 Website prompt</a>` : ""}
       ${mapsLink}${igBadge}${otherSocials}
     </div>
+    <div class="contactbar"><label><input type="checkbox" class="chk" data-slug="${esc(l.slug)}" ${done ? "checked" : ""}> Contacted — hide from active list</label></div>
   </div>`;
 }
 
-fetch("leads.json?_=" + Date.now()).then(r => r.json()).then(d => {
-  const g = document.getElementById("grid"), m = document.getElementById("meta");
-  const when = d.generated ? new Date(d.generated).toLocaleString() : "—";
-  m.innerHTML =
+let DATA = null, hideContacted = false;
+
+function updateMeta() {
+  const contacted = loadContacted();
+  const leads = DATA.leads || [];
+  const remaining = leads.filter(l => !contacted.has(l.slug)).length;
+  const when = DATA.generated ? new Date(DATA.generated).toLocaleString() : "—";
+  document.getElementById("meta").innerHTML =
     `<span class="pill">Last run: <b>${esc(when)}</b></span>` +
-    `<span class="pill">Leads: <b>${esc(d.count)}</b></span>` +
-    `<span class="pill">Searches this month: <b>${esc(d.queries_used_this_month)}/${esc(d.query_budget)}</b></span>`;
-  const leads = d.leads || [];
-  g.innerHTML = leads.length ? leads.map(card).join("")
-    : `<div class="empty">No leads yet — the first daily run will populate this.</div>`;
+    `<span class="pill">Not contacted: <b>${remaining}</b> of ${leads.length}</span>` +
+    `<span class="pill">Searches this month: <b>${esc(DATA.queries_used_this_month)}/${esc(DATA.query_budget)}</b></span>`;
+}
+
+function render() {
+  if (!DATA) return;
+  const contacted = loadContacted();
+  const today = new Date().toISOString().slice(0, 10);
+  // Uncontacted first (keep server order: newest on top), contacted sink down.
+  const leads = (DATA.leads || []).slice()
+    .sort((a, b) => (contacted.has(a.slug) ? 1 : 0) - (contacted.has(b.slug) ? 1 : 0));
+  const shown = hideContacted ? leads.filter(l => !contacted.has(l.slug)) : leads;
+  const g = document.getElementById("grid");
+  g.innerHTML = shown.length ? shown.map(l => card(l, contacted, today)).join("")
+    : `<div class="empty">Nothing to show — all leads contacted. New ones arrive at 10 AM.</div>`;
+  g.querySelectorAll(".chk").forEach(cb => cb.addEventListener("change", () => {
+    const c = loadContacted();
+    cb.checked ? c.add(cb.dataset.slug) : c.delete(cb.dataset.slug);
+    saveContacted(c);
+    render();
+  }));
+  updateMeta();
+}
+
+document.getElementById("hideBtn").addEventListener("click", () => {
+  hideContacted = !hideContacted;
+  document.getElementById("hideBtn").textContent = hideContacted ? "Show all" : "Hide contacted";
+  render();
+});
+
+fetch("leads.json?_=" + Date.now()).then(r => r.json()).then(d => {
+  DATA = d; render();
 }).catch(() => {
   document.getElementById("grid").innerHTML =
     `<div class="empty">No data yet. Run the workflow once (Actions → Daily Lead Finder → Run workflow).</div>`;
