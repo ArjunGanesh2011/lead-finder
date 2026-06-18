@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//arjunganesh.com//Lead Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Website Leads
+X-WR-CALDESC:Daily ranked leads - businesses with no website
+X-PUBLISHED-TTL:PT12H
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:teejay-s-junk-removal-tucson-az-20260618@lead-finder
+DTSTAMP:20260618T132310Z
+DTSTART:20260619T090000
+DTEND:20260619T093000
+SUMMARY:Lead: TeeJay's Junk Removal (Tucson AZ)
+LOCATION:Tucson AZ
+DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 65.5  |  No-websit
+ e confidence: 92.0%  |  Buyer signal: 39\nAffordability: Lean / early-stag
+ e - best pitched Starter\nPhone: (520) 304-5500\nNiche: junk removal  |  C
+ ity: Tucson AZ\nSocials: yelp: https://www.yelp.com/biz/teejays-junk-remov
+ al-tucson | facebook: https://www.facebook.com/TeeJaysJunkRemoval/\nDashbo
+ ard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Follow up on lead
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:takizimo-tacos-y-mas-food-truck-virginia-beach-va-20260618@lead-finder
+DTSTAMP:20260618T132310Z
+DTSTART:20260619T093000
+DTEND:20260619T100000
+SUMMARY:Lead: TAKIZIMO TACOS Y MAS FOOD TRUCK (Virginia Beach VA)
+LOCATION:Virginia Beach VA
+DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 63.5  |  No-websit
+ e confidence: 92.0%  |  Buyer signal: 35\nAffordability: Lean / early-stag
+ e - best pitched Starter\nPhone: (757) 235-8052\nNiche: food truck  |  Cit
+ y: Virginia Beach VA\nDashboard: https://arjunganesh2011.github.io/lead-fi
+ nder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Follow up on lead
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dabiscuit-food-truck-virginia-beach-va-20260618@lead-finder
+DTSTAMP:20260618T132310Z
+DTSTART:20260619T100000
+DTEND:20260619T103000
+SUMMARY:Lead: DaBiscuit Food Truck (Virginia Beach VA)
+LOCATION:Virginia Beach VA
+DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 54.5  |  No-websit
+ e confidence: 92.0%  |  Buyer signal: 17\nAffordability: Lean / early-stag
+ e - best pitched Starter\nPhone: (757) 503-0195\nNiche: food truck  |  Cit
+ y: Virginia Beach VA\nDashboard: https://arjunganesh2011.github.io/lead-fi
+ nder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Follow up on lead
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
