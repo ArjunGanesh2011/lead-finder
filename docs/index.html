@@ -92,16 +92,52 @@
   <footer>Auto-generated daily via GitHub Actions · arjunganesh.com</footer>
 </div>
 
-<script>
+<script type="module">
+import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
+import { getDatabase, ref, onValue, set as dbSet }
+  from "https://www.gstatic.com/firebasejs/10.12.2/firebase-database.js";
+
+// Public by design — security is enforced by the Realtime Database rules,
+// which only expose the non-sensitive "leadfinder" node.
+const firebaseConfig = {
+  apiKey: "AIzaSyDa9sWADeRNDo2kS3BVJzo_VyZVg09Ubl0",
+  authDomain: "lead-finder-87f30.firebaseapp.com",
+  databaseURL: "https://lead-finder-87f30-default-rtdb.firebaseio.com",
+  projectId: "lead-finder-87f30",
+  storageBucket: "lead-finder-87f30.firebasestorage.app",
+  messagingSenderId: "51749702690",
+  appId: "1:51749702690:web:4bf54f699d7183e5a20e7b"
+};
+
 const esc = s => (s ?? "").toString().replace(/[&<>"]/g, c =>
   ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 
+// Removed-leads state. Source of truth = Firebase (syncs across devices);
+// localStorage is an offline cache / fallback if Firebase can't load.
 const CK = "lf_done";
-const loadDone = () => {
-  try { return new Set(JSON.parse(localStorage.getItem(CK) || "[]")); }
-  catch { return new Set(); }
-};
-const saveDone = set => localStorage.setItem(CK, JSON.stringify([...set]));
+let doneSet = new Set();
+try { doneSet = new Set(JSON.parse(localStorage.getItem(CK) || "[]")); } catch {}
+
+let doneRef = null;
+try {
+  doneRef = ref(getDatabase(initializeApp(firebaseConfig)), "leadfinder/done");
+  onValue(doneRef, snap => {              // realtime: other devices' changes
+    doneSet = new Set(Object.keys(snap.val() || {}));
+    localStorage.setItem(CK, JSON.stringify([...doneSet]));
+    render();
+  });
+} catch (e) {
+  console.warn("Firebase unavailable — using this device only:", e);
+}
+
+function persistDone() {
+  localStorage.setItem(CK, JSON.stringify([...doneSet]));
+  if (doneRef) {
+    const map = {};
+    doneSet.forEach(s => { map[s] = true; });
+    dbSet(doneRef, map).catch(e => console.warn("sync write failed:", e));
+  }
+}
 const fmtDate = s => {
   const d = new Date(s + "T00:00");
   return isNaN(d) ? s : d.toLocaleDateString(undefined, {month:"short", day:"numeric"});
@@ -150,7 +186,7 @@ function card(l, done, today) {
 let DATA = null, showRemoved = false;
 
 function updateMeta() {
-  const done = loadDone();
+  const done = doneSet;
   const leads = DATA.leads || [];
   const active = leads.filter(l => !done.has(l.slug)).length;
   const removed = leads.length - active;
@@ -163,7 +199,7 @@ function updateMeta() {
 
 function render() {
   if (!DATA) return;
-  const done = loadDone();
+  const done = doneSet;
   const today = new Date().toISOString().slice(0, 10);
   const leads = DATA.leads || [];
   // Default board shows only active leads. "Show removed" reveals done ones
@@ -175,9 +211,8 @@ function render() {
   g.innerHTML = shown.length ? shown.map(l => card(l, done, today)).join("")
     : `<div class="empty">No active leads right now — new ones arrive at 10 AM.</div>`;
   g.querySelectorAll(".chk").forEach(cb => cb.addEventListener("change", () => {
-    const d = loadDone();
-    cb.checked ? d.add(cb.dataset.slug) : d.delete(cb.dataset.slug);
-    saveDone(d);
+    cb.checked ? doneSet.add(cb.dataset.slug) : doneSet.delete(cb.dataset.slug);
+    persistDone();
     render();
   }));
   updateMeta();
