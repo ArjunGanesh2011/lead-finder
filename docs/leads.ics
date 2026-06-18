@@ -1,0 +1,182 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//arjunganesh.com//Lead Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Website Leads
+X-WR-CALDESC:Daily ranked leads - businesses with no website
+X-PUBLISHED-TTL:PT12H
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:flooring-store-servicing-fort-wayne-in-fort-wayne-in-20260618@lead-finder
+DTSTAMP:20260618T115144Z
+DTSTART:20260619T090000
+DTEND:20260619T093000
+SUMMARY:Lead: Flooring Store servicing Fort Wayne\, IN (Fort Wayne IN)
+LOCATION:Fort Wayne IN
+DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 75.5  |  No-webs
+ ite confidence: 92.0%  |  Buyer signal: 59\nAffordability: Solid - good fi
+ t for Growth ($1\,800)\nPhone: n/a\nNiche: flooring company  |  City: Fort
+  Wayne IN\nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Follow up on lead
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pool-service-near-boise-id-boise-id-20260618@lead-finder
+DTSTAMP:20260618T115144Z
+DTSTART:20260619T093000
+DTEND:20260619T100000
+SUMMARY:Lead: Pool Service near Boise\, ID (Boise ID)
+LOCATION:Boise ID
+DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 68.5  |  No-webs
+ ite confidence: 92.0%  |  Buyer signal: 45\nAffordability: Moderate - Star
+ ter/Growth ($800-$1\,800)\nPhone: n/a\nNiche: pool service  |  City: Boise
+  ID\nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Follow up on lead
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:idahomeserv-llc-pool-service-boise-id-20260618@lead-finder
+DTSTAMP:20260618T115144Z
+DTSTART:20260619T100000
+DTEND:20260619T103000
+SUMMARY:Lead: IdaHomeServ LLc Pool Service (Boise ID)
+LOCATION:Boise ID
+DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 68.5  |  No-webs
+ ite confidence: 92.0%  |  Buyer signal: 45\nAffordability: Moderate - Star
+ ter/Growth ($800-$1\,800)\nPhone: n/a\nNiche: pool service  |  City: Boise
+  ID\nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Follow up on lead
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:food-trucks-des-moines-foodtrucksdsm-des-moines-ia-20260618@lead-finder
+DTSTAMP:20260618T115144Z
+DTSTART:20260619T103000
+DTEND:20260619T110000
+SUMMARY:Lead: Food Trucks Des Moines (@foodtrucksdsm) (Des Moines IA)
+LOCATION:Des Moines IA
+DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 68.5  |  No-webs
+ ite confidence: 92.0%  |  Buyer signal: 45\nAffordability: Moderate - Star
+ ter/Growth ($800-$1\,800)\nPhone: n/a\nNiche: food truck  |  City: Des Moi
+ nes IA\nSocials: facebook: https://www.facebook.com/foodtrucksdsm/\nDashbo
+ ard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Follow up on lead
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:los-olivos-food-truck-se-14th-st-des-moines-ia-20260618@lead-finder
+DTSTAMP:20260618T115144Z
+DTSTART:20260619T110000
+DTEND:20260619T113000
+SUMMARY:Lead: Los Olivos Food Truck\, SE 14th St (Des Moines IA)
+LOCATION:Des Moines IA
+DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 68.5  |  No-webs
+ ite confidence: 92.0%  |  Buyer signal: 45\nAffordability: Moderate - Star
+ ter/Growth ($800-$1\,800)\nPhone: n/a\nNiche: food truck  |  City: Des Moi
+ nes IA\nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Follow up on lead
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:havertys-furniture-store-winston-salem-nc-20260618@lead-finder
+DTSTAMP:20260618T115144Z
+DTSTART:20260619T113000
+DTEND:20260619T120000
+SUMMARY:Lead: Havertys Furniture Store (Winston-Salem NC)
+LOCATION:Winston-Salem NC
+DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 68.5  |  No-webs
+ ite confidence: 92.0%  |  Buyer signal: 45\nAffordability: Moderate - Star
+ ter/Growth ($800-$1\,800)\nPhone: n/a\nNiche: furniture store  |  City: Wi
+ nston-Salem NC\nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Follow up on lead
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ethereal-day-spa-greenwood-village-and-denver-denver-co-20260618@lead-finder
+DTSTAMP:20260618T115144Z
+DTSTART:20260619T120000
+DTEND:20260619T123000
+SUMMARY:Lead: Ethereal Day Spa Greenwood Village and Denver (Denver CO)
+LOCATION:Denver CO
+DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 68.5  |  No-webs
+ ite confidence: 92.0%  |  Buyer signal: 45\nAffordability: Moderate - Star
+ ter/Growth ($800-$1\,800)\nPhone: (720) 200-4255\nNiche: day spa  |  City:
+  Denver CO\nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Follow up on lead
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:luxury-day-spa-denver-co-denver-co-20260618@lead-finder
+DTSTAMP:20260618T115144Z
+DTSTART:20260619T123000
+DTEND:20260619T130000
+SUMMARY:Lead: Luxury Day Spa Denver CO (Denver CO)
+LOCATION:Denver CO
+DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 68.5  |  No-webs
+ ite confidence: 92.0%  |  Buyer signal: 45\nAffordability: Moderate - Star
+ ter/Growth ($800-$1\,800)\nPhone: (720) 200-4255\nNiche: day spa  |  City:
+  Denver CO\nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Follow up on lead
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:r-denver-on-reddit-denver-co-20260618@lead-finder
+DTSTAMP:20260618T115144Z
+DTSTART:20260619T130000
+DTEND:20260619T133000
+SUMMARY:Lead: r/Denver on Reddit (Denver CO)
+LOCATION:Denver CO
+DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 68.5  |  No-webs
+ ite confidence: 92.0%  |  Buyer signal: 45\nAffordability: Moderate - Star
+ ter/Growth ($800-$1\,800)\nPhone: n/a\nNiche: day spa  |  City: Denver CO\
+ nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Follow up on lead
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ati-physicial-therapy-grand-rapids-mi-20260618@lead-finder
+DTSTAMP:20260618T115144Z
+DTSTART:20260619T133000
+DTEND:20260619T140000
+SUMMARY:Lead: ATI Physicial Therapy (Grand Rapids MI)
+LOCATION:Grand Rapids MI
+DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 68.5  |  No-webs
+ ite confidence: 92.0%  |  Buyer signal: 45\nAffordability: Moderate - Star
+ ter/Growth ($800-$1\,800)\nPhone: n/a\nNiche: physical therapy clinic  |  
+ City: Grand Rapids MI\nDashboard: https://arjunganesh2011.github.io/lead-f
+ inder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Follow up on lead
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
