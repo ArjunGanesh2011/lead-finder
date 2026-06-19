@@ -82,12 +82,14 @@ def _advance(dt):
 def _make_event(lead, start, run_dt):
     socials = " | ".join(f"{k}: {v}" for k, v in lead.get("socials", {}).items())
     parts = [
+        f"Contact: {_esc(lead.get('contact_name') or 'unknown - ask on call')}",
+        f"Phone: {_esc(lead.get('phone') or 'n/a')}",
+        f"Email: {_esc(lead.get('email') or 'not found')}",
         f"Tier: {_esc(lead['suggested_tier'])} ({_esc(lead['suggested_price'])})",
         f"Score: {lead['overall_score']}  |  "
         f"No-website confidence: {lead['no_website_confidence']}%  |  "
         f"Buyer signal: {lead['buyer_signal_score']}",
         f"Affordability: {_esc(lead['affordability'])}",
-        f"Phone: {_esc(lead.get('phone') or 'n/a')}",
         f"Niche: {_esc(lead['niche'])}  |  City: {_esc(lead['city'])}",
     ]
     if lead.get("address"):
