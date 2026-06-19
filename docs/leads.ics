@@ -583,4 +583,44 @@ DESCRIPTION:Call this lead
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:beach-life-of-miami-miami-fl@lead-finder
+DTSTAMP:20260619T025358Z
+DTSTART:20260706T150000
+DTEND:20260706T153000
+SUMMARY:Call lead: Beach Life Of Miami (Miami FL)
+LOCATION:240 71st St\, Miami Beach\, FL 33141
+DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 71.5  |  No-webs
+ ite confidence: 92.0%  |  Buyer signal: 51\nAffordability: Established - g
+ ood fit for Growth\nPhone: (305) 395-0365\nNiche: gift shop  |  City: Miam
+ i FL\nAddress: 240 71st St\, Miami Beach\, FL 33141\nSocials: yelp: https:
+ //www.yelp.com/biz/beach-life-of-miami-miami-beach | facebook: https://www
+ .facebook.com/BeachLifeOfMia/ | instagram: https://www.instagram.com/beach
+ lifeofmia/?hl=en\nDashboard: https://arjunganesh2011.github.io/lead-finder
+ /
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:huli-huli-grill-food-truck-las-vegas-nv@lead-finder
+DTSTAMP:20260619T025358Z
+DTSTART:20260706T180000
+DTEND:20260706T183000
+SUMMARY:Call lead: Huli Huli Grill Food Truck (Las Vegas NV)
+LOCATION:4181 W Pioneer Ave\, Las Vegas\, NV 89102
+DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 56.5  |  No-websit
+ e confidence: 80.0%  |  Buyer signal: 33\nAffordability: Lean / early-stag
+ e - best pitched Starter\nPhone: (702) 445-3509\nNiche: food truck  |  Cit
+ y: Las Vegas NV\nAddress: 4181 W Pioneer Ave\, Las Vegas\, NV 89102\nSocia
+ ls: instagram: https://www.instagram.com/hulihuligrill?igsh=MTIxYnR2MWh6Zn
+ FiNw==\nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
