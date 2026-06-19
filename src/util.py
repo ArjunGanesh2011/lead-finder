@@ -63,6 +63,40 @@ def extract_phone(text: str):
     return f"({m.group(1)}) {m.group(2)}-{m.group(3)}"
 
 
+EMAIL_RE = re.compile(r"[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}")
+# Emails belonging to platforms / placeholders, not the business itself.
+_EMAIL_SKIP = ("example.", "sentry", "wixpress", "godaddy", "yelp.com",
+               "facebook.com", "instagram.com", "squarespace", "wordpress",
+               "schema.org", "domain.com", "yourdomain", "email.com",
+               "name@", "your@", "@2x", ".png", ".jpg", ".gif", "wix.com",
+               "googleapis", "gstatic", "cloudflare")
+
+# "owned by / founder / owner: <Capitalized Name>" — conservative to avoid
+# putting a wrong name in front of Arjun on a sales call. Keyword first letter
+# is case-flexible; the captured name stays strictly capitalized.
+OWNER_RE = re.compile(
+    r"(?:[Oo]wner|[Oo]wned by|[Ff]ounder|[Ff]ounded by|[Pp]roprietor)"
+    r"\s*(?::|-|–|is)?\s+([A-Z][a-zA-Z'.\-]+(?:\s+[A-Z][a-zA-Z'.\-]+){1,2})")
+
+
+def extract_email(text: str):
+    if not text:
+        return None
+    for m in EMAIL_RE.finditer(text):
+        e = m.group(0).lower().rstrip(".")
+        if any(b in e for b in _EMAIL_SKIP):
+            continue
+        return e
+    return None
+
+
+def extract_owner(text: str):
+    if not text:
+        return None
+    m = OWNER_RE.search(text)
+    return m.group(1).strip() if m else None
+
+
 def domain_of(url: str) -> str:
     m = re.match(r"https?://([^/]+)", url or "", re.I)
     host = (m.group(1) if m else "").lower()

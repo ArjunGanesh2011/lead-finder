@@ -154,6 +154,8 @@ function card(l, done, today) {
   const otherSocials = sortedSocials.filter(([k]) => k !== "instagram")
     .map(([k, v]) => `<a href="${esc(v)}" target="_blank" rel="noopener">${esc(k)}</a>`).join("");
   const phone = l.phone ? `<a href="tel:${esc(l.phone.replace(/[^0-9+]/g,''))}">${esc(l.phone)}</a>` : "—";
+  const email = l.email ? `<a href="mailto:${esc(l.email)}">${esc(l.email)}</a>` : "—";
+  const contact = l.contact_name ? esc(l.contact_name) : "—";
   const ratingTxt = l.rating ? ` · ★${esc(l.rating)} (${esc(l.review_count || 0)})` : "";
   const mapsLink = l.maps_url ? `<a href="${esc(l.maps_url)}" target="_blank" rel="noopener">📍 Maps</a>` : "";
   const addr = l.address
@@ -171,7 +173,9 @@ function card(l, done, today) {
     <div class="tags">${esc(l.niche)} · ${esc(l.city)}${ratingTxt}</div>
     <div class="row"><span>No-website confidence</span><span class="conf">${esc(l.no_website_confidence)}%</span></div>
     <div class="row"><span>Buyer signal</span><span>${esc(l.buyer_signal_score)}/100</span></div>
+    <div class="row"><span>👤 Contact</span><span>${contact}</span></div>
     <div class="row"><span>📞 Phone</span><span>${phone}</span></div>
+    <div class="row"><span>✉️ Email</span><span>${email}</span></div>
     ${addr}
     <div class="row"><span>Affordability</span><span>${esc(l.affordability)}</span></div>
     <div class="tier ${esc((l.suggested_tier || '').toLowerCase())}">${esc(l.suggested_tier)} · ${esc(l.suggested_price)}</div>

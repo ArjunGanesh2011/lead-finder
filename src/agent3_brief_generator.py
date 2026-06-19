@@ -17,23 +17,37 @@ from pathlib import Path
 
 import requests
 
+from util import extract_email, extract_owner
+
 DOCS = Path(__file__).resolve().parent.parent / "docs"
 PROMPTS_DIR = DOCS / "prompts"
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
 
 
-def _og_image(url):
+def _fetch(url):
     try:
-        html = requests.get(url, headers={"User-Agent": UA}, timeout=10).text
+        return requests.get(url, headers={"User-Agent": UA}, timeout=10).text
     except requests.RequestException:
-        return None
+        return ""
+
+
+def _og_image_from(html):
     for pat in (r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)',
                 r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']'):
         m = re.search(pat, html, re.I)
         if m:
             return m.group(1)
     return None
+
+
+def _email_from(html):
+    m = re.search(r'mailto:([^"\'?>]+)', html, re.I)
+    if m:
+        e = extract_email(m.group(1))
+        if e:
+            return e
+    return extract_email(html)
 
 
 def _palette(image_url):
@@ -47,20 +61,31 @@ def _palette(image_url):
 
 
 def gather_brand(lead):
-    """Best-effort logo URL + palette from the lead's social pages."""
+    """Best-effort logo/palette + email/owner from the lead's social pages
+    (free HTTP scraping — no search-API calls). Fills gaps left by Agent 1."""
     logo, palette = None, None
     for key in ("facebook", "instagram", "yelp"):
         url = lead.get("socials", {}).get(key)
         if not url:
             continue
-        img = _og_image(url)
-        if img:
-            logo = img
-            palette = _palette(img)
-            if palette:
-                break
+        html = _fetch(url)
+        if not html:
+            continue
+        if not lead.get("email"):
+            lead["email"] = _email_from(html)
+        if not lead.get("contact_name"):
+            lead["contact_name"] = extract_owner(re.sub(r"<[^>]+>", " ", html))
+        if not logo:
+            img = _og_image_from(html)
+            if img:
+                logo = img
+                palette = _palette(img)
+        if logo and palette and lead.get("email"):
+            break
     lead["logo_image"] = logo
     lead["palette"] = palette
+    lead.setdefault("email", None)
+    lead.setdefault("contact_name", None)
     return lead
 
 
@@ -95,6 +120,8 @@ def build_prompt(lead):
     logo = lead.get("logo_image") or ("none found - design a clean wordmark/logo "
                                       "for the business")
     phone = lead.get("phone") or "(confirm with client)"
+    email = lead.get("email") or "(not found - confirm with client)"
+    contact = lead.get("contact_name") or "(owner name not found)"
     desc = lead.get("description") or "(no public description found)"
     tier = lead.get("suggested_tier", "Growth")
     pages = TIER_PAGES.get(tier, TIER_PAGES["Growth"])
@@ -111,7 +138,9 @@ skills. This is a paid **{tier}** client site ({lead.get('suggested_price', '')}
 - **Name:** {lead['business_name']}
 - **Industry:** {lead['niche']}
 - **Location:** {lead['city']}
+- **Owner / contact:** {contact}
 - **Phone:** {phone}
+- **Email:** {email}
 - **Public description:** {desc}
 - **Socials (wire ALL of these as buttons/icons - no dead links):**
 {social_lines}

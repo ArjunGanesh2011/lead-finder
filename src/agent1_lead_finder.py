@@ -24,7 +24,8 @@ from itertools import zip_longest
 
 import requests
 
-from util import slugify, domain_of, is_directory, SOCIAL_DOMAINS
+from util import (slugify, domain_of, is_directory, SOCIAL_DOMAINS,
+                  extract_email, extract_owner)
 
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
@@ -148,13 +149,17 @@ def verify_no_site_via_search(brave, name, city):
     """
     results = brave.search(f'"{name}" {city}', count=10)
     socials, description, real_site = {}, "", None
+    text_parts = []
 
     for item in results:
         url = item.get("url", "")
         desc = item.get("description", "") or ""
+        title = item.get("title", "") or ""
         host = domain_of(url)
-        if not description and desc:
-            description = html.unescape(html.unescape(re.sub(r"<[^>]+>", "", desc))).strip()
+        clean = html.unescape(html.unescape(re.sub(r"<[^>]+>", "", desc))).strip()
+        if not description and clean:
+            description = clean
+        text_parts.append(f"{title} {clean}")
 
         for dom, key in SOCIAL_DOMAINS.items():
             if (host == dom or host.endswith("." + dom)) and key not in socials:
@@ -162,14 +167,19 @@ def verify_no_site_via_search(brave, name, city):
 
         if url and not is_directory(url) and real_site is None:
             toks = [t for t in re.split(r"\W+", name.lower()) if len(t) > 2]
-            blob = (url + " " + item.get("title", "") + " " + desc).lower()
+            blob = (url + " " + title + " " + desc).lower()
             if toks and sum(t in blob for t in toks) >= max(1, len(toks) // 2):
                 if _dns_resolves(host) and _page_is_real(url, name):
                     real_site = url
 
+    # Free best-effort contact extraction from the snippets we already fetched.
+    text_blob = " ".join(text_parts)
+    base = {"socials": socials, "description": description,
+            "email": extract_email(text_blob),
+            "contact_name": extract_owner(text_blob)}
+
     if real_site:
-        return {"has_site": True, "confidence": 0.0,
-                "socials": socials, "description": description}
+        return {"has_site": True, "confidence": 0.0, **base}
 
     # Guess a few obvious domains for the unlinked-site case.
     slug = re.sub(r"[^a-z0-9]", "", name.lower())
@@ -177,11 +187,9 @@ def verify_no_site_via_search(brave, name, city):
     for dom in (f"{slug}.com", f"{slug}.net", f"{slug}{city_slug}.com",
                 f"the{slug}.com"):
         if len(dom) >= 8 and _dns_resolves(dom) and _page_is_real(f"http://{dom}", name):
-            return {"has_site": True, "confidence": 0.0,
-                    "socials": socials, "description": description}
+            return {"has_site": True, "confidence": 0.0, **base}
 
-    return {"has_site": False, "confidence": 0.92 if results else 0.80,
-            "socials": socials, "description": description}
+    return {"has_site": False, "confidence": 0.92 if results else 0.80, **base}
 
 
 # ---------------------------------------------------------------------------
@@ -289,6 +297,8 @@ def find_leads(maps_key, brave, target=10, seen_slugs=None, max_searches=60,
                 "city": city,
                 "slug": slug,
                 "phone": p.get("nationalPhoneNumber"),
+                "email": chk.get("email"),
+                "contact_name": chk.get("contact_name"),
                 "instagram": socials.get("instagram"),
                 "address": p.get("formattedAddress"),
                 "maps_url": p.get("googleMapsUri"),
