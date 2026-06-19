@@ -623,4 +623,81 @@ DESCRIPTION:Call this lead
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:monster-carpet-move-out-cleaning-el-paso-tx@lead-finder
+DTSTAMP:20260619T025751Z
+DTSTART:20260707T090000
+DTEND:20260707T093000
+SUMMARY:Call lead: MONSTER CARPET & MOVE-OUT CLEANING (El Paso TX)
+LOCATION:1945 Ratner Cir\, El Paso\, TX 79936
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (915) 667-9682\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 68.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 45\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: carpet cleaning  |  City: El Paso TX\nAddr
+ ess: 1945 Ratner Cir\, El Paso\, TX 79936\nDashboard: https://arjunganesh2
+ 011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:alumni-atelier-mobile-al@lead-finder
+DTSTAMP:20260619T025751Z
+DTSTART:20260707T150000
+DTEND:20260707T153000
+SUMMARY:Call lead: Alumni Atelier (Mobile AL)
+LOCATION:6715 Old Shell Rd Ste D\, Mobile\, AL 36608
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (251) 422-7565\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 67.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: bridal shop  |  City: Mobile AL\nAddress: 
+ 6715 Old Shell Rd Ste D\, Mobile\, AL 36608\nSocials: facebook: https://ww
+ w.facebook.com/AlumniAtelier/ | instagram: https://www.instagram.com/alumn
+ iatelier/\nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wholesale-flowers-by-keystone-trading-tucson-az@lead-finder
+DTSTAMP:20260619T025751Z
+DTSTART:20260707T180000
+DTEND:20260707T183000
+SUMMARY:Call lead: Wholesale Flowers by Keystone Trading (Tucson AZ)
+LOCATION:4616 S 6th Ave\, Tucson\, AZ 85714
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (520) 869-1298\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: florist  |  City: Tucson AZ\nAddress: 4616
+  S 6th Ave\, Tucson\, AZ 85714\nDashboard: https://arjunganesh2011.github.
+ io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:light-up-the-world-flowers-tucson-az@lead-finder
+DTSTAMP:20260619T025751Z
+DTSTART:20260708T090000
+DTEND:20260708T093000
+SUMMARY:Call lead: Light Up the World (Flowers) (Tucson AZ)
+LOCATION:2334 N 6th Ave\, Tucson\, AZ 85705
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (520) 789-1669\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 28\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: florist  |  City: Tucson AZ\nAddress: 2334
+  N 6th Ave\, Tucson\, AZ 85705\nDashboard: https://arjunganesh2011.github.
+ io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
