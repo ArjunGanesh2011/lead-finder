@@ -719,4 +719,119 @@ DESCRIPTION:Call this lead
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:park-cities-gutter-and-window-cleaning-co-dallas-tx@lead-finder
+DTSTAMP:20260620T161756Z
+DTSTART:20260708T180000
+DTEND:20260708T183000
+SUMMARY:Call lead: Park Cities Gutter and Window Cleaning Co (Dallas TX)
+LOCATION:1111 W Mockingbird Ln Unit 7-3\, Dallas\, TX 75247
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (214) 696-1917\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 67.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: window cleaning  |  City: Dallas TX\nAddre
+ ss: 1111 W Mockingbird Ln Unit 7-3\, Dallas\, TX 75247\nDashboard: https:/
+ /arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:emerald-planet-catering-co-colorado-springs-co@lead-finder
+DTSTAMP:20260620T161756Z
+DTSTART:20260709T090000
+DTEND:20260709T093000
+SUMMARY:Call lead: Emerald Planet Catering Co (Colorado Springs CO)
+LOCATION:2833 E Pikes Peak Ave\, Colorado Springs\, CO 80909
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 63.0  |  No-website confidence
+ : 80.0%  |  Buyer signal: 46\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: catering company  |  City: Colorado Springs CO\nAddre
+ ss: 2833 E Pikes Peak Ave\, Colorado Springs\, CO 80909\nDashboard: https:
+ //arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b-s-appliances-llc-shreveport-la@lead-finder
+DTSTAMP:20260620T161756Z
+DTSTART:20260709T150000
+DTEND:20260709T153000
+SUMMARY:Call lead: B's Appliances LLC (Shreveport LA)
+LOCATION:5158 Interstate Dr #313\, Shreveport\, LA 71109
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (318) 550-1360\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 33\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Shreveport LA\n
+ Address: 5158 Interstate Dr #313\, Shreveport\, LA 71109\nDashboard: https
+ ://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sub-zero-repair-of-shreveport-shreveport-la@lead-finder
+DTSTAMP:20260620T161756Z
+DTSTART:20260709T180000
+DTEND:20260709T183000
+SUMMARY:Call lead: Sub Zero Repair of Shreveport (Shreveport LA)
+LOCATION:2102 Gen Jackson Pl\, Bossier City\, LA 71112
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (318) 617-4289\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 59.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 27\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Shreveport LA\n
+ Address: 2102 Gen Jackson Pl\, Bossier City\, LA 71112\nSocials: yelp: htt
+ ps://www.yelp.com/biz/sub-zero-repair-of-shreveport-bossier-3\nDashboard: 
+ https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4-star-appliance-shreveport-la@lead-finder
+DTSTAMP:20260620T161756Z
+DTSTART:20260710T090000
+DTEND:20260710T093000
+SUMMARY:Call lead: 4 Star Appliance (Shreveport LA)
+LOCATION:5773 S Lakeshore Dr\, Shreveport\, LA 71119
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (318) 734-2975\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 53.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 27\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Shreveport LA\n
+ Address: 5773 S Lakeshore Dr\, Shreveport\, LA 71119\nDashboard: https://a
+ rjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lo-buck-chucks-appliance-repair-shreveport-la@lead-finder
+DTSTAMP:20260620T161756Z
+DTSTART:20260710T150000
+DTEND:20260710T153000
+SUMMARY:Call lead: Lo Buck Chucks Appliance repair (Shreveport LA)
+LOCATION:River Rd\, Shreveport\, LA 71105
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (318) 734-2975\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 53.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 27\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Shreveport LA\n
+ Address: River Rd\, Shreveport\, LA 71105\nDashboard: https://arjunganesh2
+ 011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
