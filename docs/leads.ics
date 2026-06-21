@@ -834,4 +834,61 @@ DESCRIPTION:Call this lead
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:heating-air-conditioning-of-portland-portland-or@lead-finder
+DTSTAMP:20260621T164514Z
+DTSTART:20260710T180000
+DTEND:20260710T183000
+SUMMARY:Call lead: Heating & Air Conditioning of Portland (Portland OR)
+LOCATION:3708 SE Hawthorne Blvd\, Portland\, OR 97214
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (503) 483-2705\nEmail: n
+ ot found\nTier: Premium ($3\,500 build + $499/mo)\nScore: 83.0  |  No-webs
+ ite confidence: 80.0%  |  Buyer signal: 86\nAffordability: High earner - c
+ omfortably fits Premium\nNiche: HVAC company  |  City: Portland OR\nAddres
+ s: 3708 SE Hawthorne Blvd\, Portland\, OR 97214\nDashboard: https://arjung
+ anesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hsp-flooring-seattle-wa@lead-finder
+DTSTAMP:20260621T164514Z
+DTSTART:20260711T090000
+DTEND:20260711T093000
+SUMMARY:Call lead: HSP Flooring (Seattle WA)
+LOCATION:1718 Summit Ave Unit 203\, Seattle\, WA 98122
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (206) 537-0002\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 64.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 49\nAffordability: Established - go
+ od fit for Growth\nNiche: flooring company  |  City: Seattle WA\nAddress: 
+ 1718 Summit Ave Unit 203\, Seattle\, WA 98122\nDashboard: https://arjungan
+ esh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ascent-lawn-care-cincinnati-oh@lead-finder
+DTSTAMP:20260621T164514Z
+DTSTART:20260711T150000
+DTEND:20260711T153000
+SUMMARY:Call lead: Ascent Lawn Care (Cincinnati OH)
+LOCATION:1089 Morado Dr\, Cincinnati\, OH 45238
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (513) 787-5726\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: lawn care service  |  City: Cincinnati OH\
+ nAddress: 1089 Morado Dr\, Cincinnati\, OH 45238\nDashboard: https://arjun
+ ganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
