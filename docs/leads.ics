@@ -891,4 +891,42 @@ DESCRIPTION:Call this lead
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:the-chop-house-barber-shop-tulsa-ok@lead-finder
+DTSTAMP:20260622T184613Z
+DTSTART:20260711T180000
+DTEND:20260711T183000
+SUMMARY:Call lead: The Chop House Barber Shop (Tulsa OK)
+LOCATION:4960-H S 83rd E Ave\, Tulsa\, OK 74145
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (539) 525-0318\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 79.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 66\nAffordability: Established - go
+ od fit for Growth\nNiche: barbershop  |  City: Tulsa OK\nAddress: 4960-H S
+  83rd E Ave\, Tulsa\, OK 74145\nDashboard: https://arjunganesh2011.github.
+ io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:field-s-appliance-repair-birmingham-al@lead-finder
+DTSTAMP:20260622T184613Z
+DTSTART:20260712T090000
+DTEND:20260712T093000
+SUMMARY:Call lead: Field's Appliance Repair (Birmingham AL)
+LOCATION:1852 St Charles Ct\, Birmingham\, AL 35211
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (205) 923-8126\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 54.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 28\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Birmingham AL\n
+ Address: 1852 St Charles Ct\, Birmingham\, AL 35211\nDashboard: https://ar
+ junganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
