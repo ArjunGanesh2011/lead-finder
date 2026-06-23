@@ -929,4 +929,63 @@ DESCRIPTION:Call this lead
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:levi-s-bookkeeping-cleveland-oh@lead-finder
+DTSTAMP:20260623T171702Z
+DTSTART:20260712T150000
+DTEND:20260712T153000
+SUMMARY:Call lead: Levi's Bookkeeping (Cleveland OH)
+LOCATION:4493 Groveland Rd\, Cleveland\, OH 44118
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (513) 967-9038\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 64.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 48\nAffordability: Established - go
+ od fit for Growth\nNiche: bookkeeping service  |  City: Cleveland OH\nAddr
+ ess: 4493 Groveland Rd\, Cleveland\, OH 44118\nDashboard: https://arjungan
+ esh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:swim-pools-inc-fort-wayne-in@lead-finder
+DTSTAMP:20260623T171702Z
+DTSTART:20260712T180000
+DTEND:20260712T183000
+SUMMARY:Call lead: Swim Pools Inc (Fort Wayne IN)
+LOCATION:515 Franke Park Dr\, Fort Wayne\, IN 46808
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (260) 482-4679\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 33\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: pool service  |  City: Fort Wayne IN\nAddr
+ ess: 515 Franke Park Dr\, Fort Wayne\, IN 46808\nSocials: facebook: https:
+ //www.facebook.com/p/Swim-Pools-Inc-100064847554152/ | yelp: https://www.y
+ elp.com/biz/swim-pools-fort-wayne\nDashboard: https://arjunganesh2011.gith
+ ub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:poochini-s-dog-grooming-pittsburgh-pa-pittsburgh-pa@lead-finder
+DTSTAMP:20260623T171702Z
+DTSTART:20260713T090000
+DTEND:20260713T093000
+SUMMARY:Call lead: Poochini's Dog Grooming (Pittsburgh PA) (Pittsburgh PA)
+LOCATION:7102 Meade St\, Pittsburgh\, PA 15208
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (412) 241-6488\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 59.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: dog grooming  |  City: Pittsburgh PA\nAddr
+ ess: 7102 Meade St\, Pittsburgh\, PA 15208\nDashboard: https://arjunganesh
+ 2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
