@@ -988,4 +988,25 @@ DESCRIPTION:Call this lead
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:budget-furniture-outlet-san-diego-ca@lead-finder
+DTSTAMP:20260624T170420Z
+DTSTART:20260713T150000
+DTEND:20260713T153000
+SUMMARY:Call lead: Budget Furniture Outlet (San Diego CA)
+LOCATION:1050 Highland Ave\, National City\, CA 91950
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (619) 477-7077\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 81.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 71\nAffordability: Established - go
+ od fit for Growth\nNiche: furniture store  |  City: San Diego CA\nAddress:
+  1050 Highland Ave\, National City\, CA 91950\nSocials: yelp: https://www.
+ yelp.com/biz/budget-furniture-outlet-national-city | facebook: https://www
+ .facebook.com/budgetfo/\nDashboard: https://arjunganesh2011.github.io/lead
+ -finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR

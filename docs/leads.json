@@ -1,10 +1,39 @@
 {
-  "generated": "2026-06-23T17:17:02.260978+00:00",
-  "count": 52,
-  "new_today": 3,
-  "queries_used_this_month": 527,
+  "generated": "2026-06-24T17:04:20.654039+00:00",
+  "count": 53,
+  "new_today": 1,
+  "queries_used_this_month": 557,
   "query_budget": 950,
   "leads": [
+    {
+      "business_name": "Budget Furniture Outlet",
+      "niche": "furniture store",
+      "city": "San Diego CA",
+      "slug": "budget-furniture-outlet-san-diego-ca",
+      "phone": "(619) 477-7077",
+      "email": null,
+      "contact_name": null,
+      "instagram": null,
+      "address": "1050 Highland Ave, National City, CA 91950",
+      "maps_url": "https://maps.google.com/?cid=10680129173005244244&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.7,
+      "review_count": 233,
+      "description": "Reviews are verified to ensure authenticity and comply with our Community Guidelines ... Budget Furniture Outlet offers a variety of furniture options, including living room sets, dining tables, and mattresses at competitive prices.",
+      "socials": {
+        "yelp": "https://www.yelp.com/biz/budget-furniture-outlet-national-city",
+        "facebook": "https://www.facebook.com/budgetfo/"
+      },
+      "no_website_confidence": 92.0,
+      "buyer_signal_score": 71,
+      "affordability": "Established - good fit for Growth",
+      "overall_score": 81.5,
+      "suggested_tier": "Growth",
+      "suggested_price": "$1,800 build + $299/mo",
+      "added": "2026-06-24",
+      "logo_image": null,
+      "palette": null,
+      "prompt_file": "prompts/budget-furniture-outlet-san-diego-ca.md"
+    },
     {
       "business_name": "Levi's Bookkeeping",
       "niche": "bookkeeping service",
