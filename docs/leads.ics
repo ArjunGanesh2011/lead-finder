@@ -1009,4 +1009,85 @@ DESCRIPTION:Call this lead
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:grand-rapids-carpet-furniture-grand-rapids-mi@lead-finder
+DTSTAMP:20260625T171204Z
+DTSTART:20260713T180000
+DTEND:20260713T183000
+SUMMARY:Call lead: Grand Rapids Carpet & Furniture (Grand Rapids MI)
+LOCATION:1779 Acacia Dr NW\, Grand Rapids\, MI 49504
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 65.5  |  No-website confidence
+ : 92.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: carpet cleaning  |  City: Grand Rapids MI\nAddress: 1
+ 779 Acacia Dr NW\, Grand Rapids\, MI 49504\nSocials: yelp: https://www.yel
+ p.com/biz/grand-rapids-carpet-and-furniture-cleaners-grand-rapids\nDashboa
+ rd: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pretty-patty-paradise-detroit-mi@lead-finder
+DTSTAMP:20260625T171204Z
+DTSTART:20260714T090000
+DTEND:20260714T093000
+SUMMARY:Call lead: Pretty patty paradise (Detroit MI)
+LOCATION:3255 US-12\, Detroit\, MI 48216
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (313) 762-6868\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 65.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 38\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Detroit MI\nAddress: 
+ 3255 US-12\, Detroit\, MI 48216\nSocials: facebook: https://www.facebook.c
+ om/DieRichBuck313/posts/pretty-patty-paradise-in-detroit-got-a-whole-spong
+ ebob-themed-food-truck-and-yes/4204319773217963/ | instagram: https://www.
+ instagram.com/reel/DQcOWPQEVBK/ | tiktok: https://www.tiktok.com/@dierichb
+ uck/video/7563814334133062967\nDashboard: https://arjunganesh2011.github.i
+ o/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flavor-kingz-food-truck-detroit-mi@lead-finder
+DTSTAMP:20260625T171204Z
+DTSTART:20260714T150000
+DTEND:20260714T153000
+SUMMARY:Call lead: Flavor Kingz Food Truck (Detroit MI)
+LOCATION:7011 Gratiot Ave\, Detroit\, MI 48207
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (313) 772-0897\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 57.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 34\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Detroit MI\nAddress: 
+ 7011 Gratiot Ave\, Detroit\, MI 48207\nDashboard: https://arjunganesh2011.
+ github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:las-delicias-2-food-truck-detroit-mi@lead-finder
+DTSTAMP:20260625T171204Z
+DTSTART:20260714T180000
+DTEND:20260714T183000
+SUMMARY:Call lead: Las Delicias 2 Food Truck (Detroit MI)
+LOCATION:18900 Ford Rd\, Detroit\, MI 48228
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (313) 697-4152\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 57.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 34\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Detroit MI\nAddress: 
+ 18900 Ford Rd\, Detroit\, MI 48228\nDashboard: https://arjunganesh2011.git
+ hub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
