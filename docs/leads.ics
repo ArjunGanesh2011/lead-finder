@@ -1090,4 +1090,81 @@ DESCRIPTION:Call this lead
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:vtk-nails-formerly-best-nails-winston-salem-nc@lead-finder
+DTSTAMP:20260626T170025Z
+DTSTART:20260715T090000
+DTEND:20260715T093000
+SUMMARY:Call lead: VTK Nails formerly Best Nails (Winston-Salem NC)
+LOCATION:3890 Oxford Sta Wy\, Winston-Salem\, NC 27103
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (336) 287-5917\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 71.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 63\nAffordability: Established - go
+ od fit for Growth\nNiche: nail salon  |  City: Winston-Salem NC\nAddress: 
+ 3890 Oxford Sta Wy\, Winston-Salem\, NC 27103\nDashboard: https://arjungan
+ esh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:blessed-services-llc-fort-wayne-in@lead-finder
+DTSTAMP:20260626T170025Z
+DTSTART:20260715T150000
+DTEND:20260715T153000
+SUMMARY:Call lead: Blessed Services LLC (Fort Wayne IN)
+LOCATION:3416 Lower Huntington Rd\, Fort Wayne\, IN 46809
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (260) 704-4892\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 65.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 50\nAffordability: Established - go
+ od fit for Growth\nNiche: tree service  |  City: Fort Wayne IN\nAddress: 3
+ 416 Lower Huntington Rd\, Fort Wayne\, IN 46809\nDashboard: https://arjung
+ anesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:discount-store-hardware-houseware-philadelphia-pa@lead-finder
+DTSTAMP:20260626T170025Z
+DTSTART:20260715T180000
+DTEND:20260715T183000
+SUMMARY:Call lead: Discount Store Hardware & Houseware (Philadelphia PA)
+LOCATION:1723 Cecil B. Moore Ave\, Philadelphia\, PA 19121
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (215) 678-0726\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: hardware store  |  City: Philadelphia PA\n
+ Address: 1723 Cecil B. Moore Ave\, Philadelphia\, PA 19121\nDashboard: htt
+ ps://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:greg-s-express-carpet-cleaning-restoration-services-mobile-al@lead-finder
+DTSTAMP:20260626T170025Z
+DTSTART:20260716T090000
+DTEND:20260716T093000
+SUMMARY:Call lead: Greg's Express Carpet Cleaning @Restoration Services (Mo
+ bile AL)
+LOCATION:9351 Cottage Park Dr S\, Mobile\, AL 36695
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (251) 633-0993\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 59.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 38\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: carpet cleaning  |  City: Mobile AL\nAddre
+ ss: 9351 Cottage Park Dr S\, Mobile\, AL 36695\nDashboard: https://arjunga
+ nesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
