@@ -1167,4 +1167,101 @@ DESCRIPTION:Call this lead
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:cmcleaning-residential-commercial-philadelphia-pa@lead-finder
+DTSTAMP:20260627T160422Z
+DTSTART:20260716T150000
+DTEND:20260716T153000
+SUMMARY:Call lead: Cmcleaning Residential & Commercial (Philadelphia PA)
+LOCATION:4800 Fillmore Terrace\, Philadelphia\, PA 19124
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (267) 367-0392\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 80.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 68\nAffordability: Established - go
+ od fit for Growth\nNiche: carpet cleaning  |  City: Philadelphia PA\nAddre
+ ss: 4800 Fillmore Terrace\, Philadelphia\, PA 19124\nDashboard: https://ar
+ junganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:air-systems-llc-heating-cooling-shreveport-la@lead-finder
+DTSTAMP:20260627T160422Z
+DTSTART:20260716T180000
+DTEND:20260716T183000
+SUMMARY:Call lead: Air Systems\, LLC Heating & Cooling (Shreveport LA)
+LOCATION:9720 St Vincent Ave\, Shreveport\, LA 71106
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (318) 636-0823\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 69.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 59\nAffordability: Established - go
+ od fit for Growth\nNiche: HVAC company  |  City: Shreveport LA\nAddress: 9
+ 720 St Vincent Ave\, Shreveport\, LA 71106\nDashboard: https://arjunganesh
+ 2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:easy-lawn-care-landscaping-llc-seattle-wa@lead-finder
+DTSTAMP:20260627T160422Z
+DTSTART:20260717T090000
+DTEND:20260717T093000
+SUMMARY:Call lead: Easy Lawn Care & Landscaping LLC (Seattle WA)
+LOCATION:7920 191st St SW\, Edmonds\, WA 98026
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (206) 900-2537\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 68.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 44\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: lawn care service  |  City: Seattle WA\nAd
+ dress: 7920 191st St SW\, Edmonds\, WA 98026\nSocials: facebook: https://w
+ ww.facebook.com/EasyLawnCare.biz/\nDashboard: https://arjunganesh2011.gith
+ ub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pawz-n-clawz-grooming-oklahoma-city-ok@lead-finder
+DTSTAMP:20260627T160422Z
+DTSTART:20260717T150000
+DTEND:20260717T153000
+SUMMARY:Call lead: Pawz N’ Clawz Grooming (Oklahoma City OK)
+LOCATION:9101 S Western Ave Ste 118\, Oklahoma City\, OK 73139
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (405) 345-7299\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 66.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: dog grooming  |  City: Oklahoma City OK\nA
+ ddress: 9101 S Western Ave Ste 118\, Oklahoma City\, OK 73139\nSocials: fa
+ cebook: https://www.facebook.com/p/Pawz-N-Clawz-Grooming-61573753735975/\n
+ Dashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:all-things-possible-catering-more-winston-salem-nc@lead-finder
+DTSTAMP:20260627T160422Z
+DTSTART:20260717T180000
+DTEND:20260717T183000
+SUMMARY:Call lead: All Things Possible Catering & More (Winston-Salem NC)
+LOCATION:619 E King St B\, King\, NC 27021
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (336) 408-5584\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 47\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: catering company  |  City: Winston-Salem N
+ C\nAddress: 619 E King St B\, King\, NC 27021\nDashboard: https://arjungan
+ esh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
