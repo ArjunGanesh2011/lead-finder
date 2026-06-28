@@ -1264,4 +1264,119 @@ DESCRIPTION:Call this lead
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:the-latin-barbers-2-savannah-ga@lead-finder
+DTSTAMP:20260628T161030Z
+DTSTART:20260718T090000
+DTEND:20260718T093000
+SUMMARY:Call lead: The Latin Barbers 2 (Savannah GA)
+LOCATION:5796 Ogeechee Rd\, Savannah\, GA 31405
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (912) 272-8120\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 80.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 68\nAffordability: Established - go
+ od fit for Growth\nNiche: barbershop  |  City: Savannah GA\nAddress: 5796 
+ Ogeechee Rd\, Savannah\, GA 31405\nDashboard: https://arjunganesh2011.gith
+ ub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:garage-door-repair-of-jacksonville-florida-llc-jacksonville-fl@lead-finder
+DTSTAMP:20260628T161030Z
+DTSTART:20260718T150000
+DTEND:20260718T153000
+SUMMARY:Call lead: Garage Door Repair Of Jacksonville Florida LLC (Jacksonv
+ ille FL)
+LOCATION:8665 Baypine Rd #7741\, Jacksonville\, FL 32256
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (850) 446-2340\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 70.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 60\nAffordability: Established - go
+ od fit for Growth\nNiche: garage door company  |  City: Jacksonville FL\nA
+ ddress: 8665 Baypine Rd #7741\, Jacksonville\, FL 32256\nDashboard: https:
+ //arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:quickbooks-customer-service-cleveland-oh@lead-finder
+DTSTAMP:20260628T161030Z
+DTSTART:20260718T180000
+DTEND:20260718T183000
+SUMMARY:Call lead: QuickBooks Customer Service (Cleveland OH)
+LOCATION:3710 Payne Ave\, Cleveland\, OH 44114
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (877) 833-1082\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 70.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 48\nAffordability: Established - go
+ od fit for Growth\nNiche: bookkeeping service  |  City: Cleveland OH\nAddr
+ ess: 3710 Payne Ave\, Cleveland\, OH 44114\nDashboard: https://arjunganesh
+ 2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:state-bookkeeping-services-cleveland-oh@lead-finder
+DTSTAMP:20260628T161030Z
+DTSTART:20260719T090000
+DTEND:20260719T093000
+SUMMARY:Call lead: State Bookkeeping Services (Cleveland OH)
+LOCATION:2706 Lorain Ave\, Cleveland\, OH 44113
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (216) 631-2326\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 70.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 48\nAffordability: Established - go
+ od fit for Growth\nNiche: bookkeeping service  |  City: Cleveland OH\nAddr
+ ess: 2706 Lorain Ave\, Cleveland\, OH 44113\nDashboard: https://arjunganes
+ h2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:julia-overhead-door-jacksonville-fl@lead-finder
+DTSTAMP:20260628T161030Z
+DTSTART:20260719T150000
+DTEND:20260719T153000
+SUMMARY:Call lead: Julia Overhead & Door (Jacksonville FL)
+LOCATION:21 N Julia St\, Jacksonville\, FL 32202
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (904) 204-2933\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 64.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 48\nAffordability: Established - go
+ od fit for Growth\nNiche: garage door company  |  City: Jacksonville FL\nA
+ ddress: 21 N Julia St\, Jacksonville\, FL 32202\nDashboard: https://arjung
+ anesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:carpet-upholstery-cleaning-fresno-fresno-ca@lead-finder
+DTSTAMP:20260628T161030Z
+DTSTART:20260719T180000
+DTEND:20260719T183000
+SUMMARY:Call lead: Carpet & Upholstery Cleaning Fresno (Fresno CA)
+LOCATION:80 Two Rivers Dr\, Edgewater\, MD 21037
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (667) 254-0220\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 52.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 24\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: carpet cleaning  |  City: Fresno CA\nAddre
+ ss: 80 Two Rivers Dr\, Edgewater\, MD 21037\nDashboard: https://arjunganes
+ h2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
