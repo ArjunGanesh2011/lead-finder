@@ -1459,4 +1459,62 @@ DESCRIPTION:Call this lead
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:ave-w-catering-des-moines-ia@lead-finder
+DTSTAMP:20260630T170620Z
+DTSTART:20260721T150000
+DTEND:20260721T153000
+SUMMARY:Call lead: Ave W Catering (Des Moines IA)
+LOCATION:2004 E Hughes Ave\, Des Moines\, IA 50320
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (773) 988-1297\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 46\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: catering company  |  City: Des Moines IA\n
+ Address: 2004 E Hughes Ave\, Des Moines\, IA 50320\nSocials: facebook: htt
+ ps://www.facebook.com/AveWCatering/\nDashboard: https://arjunganesh2011.gi
+ thub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:first-class-street-food-austin-tx@lead-finder
+DTSTAMP:20260630T170620Z
+DTSTART:20260721T180000
+DTEND:20260721T183000
+SUMMARY:Call lead: First Class Street Food (Austin TX)
+LOCATION:1606 E 6th St\, Austin\, TX 78702
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (737) 294-8629\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 58.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 36\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Austin TX\nAddress: 1
+ 606 E 6th St\, Austin\, TX 78702\nDashboard: https://arjunganesh2011.githu
+ b.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:asian-halal-food-truck-austin-tx@lead-finder
+DTSTAMP:20260630T170620Z
+DTSTART:20260722T090000
+DTEND:20260722T093000
+SUMMARY:Call lead: Asian Halal Food Truck (Austin TX)
+LOCATION:312 E Rundberg Ln\, Austin\, TX 78753
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 57.5  |  No-website confidence
+ : 80.0%  |  Buyer signal: 35\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: food truck  |  City: Austin TX\nAddress: 312 E Rundbe
+ rg Ln\, Austin\, TX 78753\nDashboard: https://arjunganesh2011.github.io/le
+ ad-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
