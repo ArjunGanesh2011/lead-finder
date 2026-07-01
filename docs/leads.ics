@@ -1517,4 +1517,44 @@ DESCRIPTION:Call this lead
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:greensboro-squeegee-window-cleaning-greensboro-nc@lead-finder
+DTSTAMP:20260701T171315Z
+DTSTART:20260722T150000
+DTEND:20260722T153000
+SUMMARY:Call lead: Greensboro Squeegee Window Cleaning (Greensboro NC)
+LOCATION:12 Dunlevy Way\, Greensboro\, NC 27455
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (336) 508-8995\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 66.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: window cleaning  |  City: Greensboro NC\nA
+ ddress: 12 Dunlevy Way\, Greensboro\, NC 27455\nDashboard: https://arjunga
+ nesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:massages-by-traci-fort-wayne-in@lead-finder
+DTSTAMP:20260701T171315Z
+DTSTART:20260722T180000
+DTEND:20260722T183000
+SUMMARY:Call lead: Massages by Traci (Fort Wayne IN)
+LOCATION:Kenwood Ave\, Fort Wayne\, IN 46805
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (260) 305-0147\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 65.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: massage therapist  |  City: Fort Wayne IN\
+ nAddress: Kenwood Ave\, Fort Wayne\, IN 46805\nSocials: yelp: https://www.
+ yelp.com/biz/massages-by-traci-fort-wayne-2 | facebook: https://www.facebo
+ ok.com/p/Massages-by-Traci-61567032810079/\nDashboard: https://arjunganesh
+ 2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
