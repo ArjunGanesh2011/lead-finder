@@ -1557,4 +1557,103 @@ DESCRIPTION:Call this lead
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:hardware-piramide-el-paso-tx@lead-finder
+DTSTAMP:20260702T164842Z
+DTSTART:20260723T090000
+DTEND:20260723T093000
+SUMMARY:Call lead: Hardware Piramide (El Paso TX)
+LOCATION:4929 Dyer St\, El Paso\, TX 79930
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (915) 358-2787\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 77.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 62\nAffordability: Established - go
+ od fit for Growth\nNiche: hardware store  |  City: El Paso TX\nAddress: 49
+ 29 Dyer St\, El Paso\, TX 79930\nSocials: facebook: https://www.facebook.c
+ om/p/Hardware-Piramide-100063469624111/\nDashboard: https://arjunganesh201
+ 1.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:royal-nails-beauty-spa-best-nails-spa-texas-tech-terrace-lubbock-tx@lead-finder
+DTSTAMP:20260702T164842Z
+DTSTART:20260723T150000
+DTEND:20260723T153000
+SUMMARY:Call lead: Royal Nails Beauty Spa - ( BEST NAILS SPA TEXAS TECH TER
+ RACE) (Lubbock TX)
+LOCATION:1910 Quaker Ave #105\, Lubbock\, TX 79407
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (806) 701-3757\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 73.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 66\nAffordability: Established - go
+ od fit for Growth\nNiche: nail salon  |  City: Lubbock TX\nAddress: 1910 Q
+ uaker Ave #105\, Lubbock\, TX 79407\nSocials: facebook: https://www.facebo
+ ok.com/profile.php?id=61562610982229&mibextid=LQQJ4d\nDashboard: https://a
+ rjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bookkeeping-by-jane-boise-id@lead-finder
+DTSTAMP:20260702T164842Z
+DTSTART:20260723T180000
+DTEND:20260723T183000
+SUMMARY:Call lead: Bookkeeping by Jane (Boise ID)
+LOCATION:3589 N Lena Ave\, Boise\, ID 83713
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (208) 807-3917\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 70.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 48\nAffordability: Established - go
+ od fit for Growth\nNiche: bookkeeping service  |  City: Boise ID\nAddress:
+  3589 N Lena Ave\, Boise\, ID 83713\nDashboard: https://arjunganesh2011.gi
+ thub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ala-carte-bookkeeping-business-solutions-llc-boise-id@lead-finder
+DTSTAMP:20260702T164842Z
+DTSTART:20260724T090000
+DTEND:20260724T093000
+SUMMARY:Call lead: Ala Carte Bookkeeping & Business Solutions LLC. (Boise I
+ D)
+LOCATION:10400 W Overland Rd #233\, Boise\, ID 83709
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (208) 602-8164\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 70.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 48\nAffordability: Established - go
+ od fit for Growth\nNiche: bookkeeping service  |  City: Boise ID\nAddress:
+  10400 W Overland Rd #233\, Boise\, ID 83709\nDashboard: https://arjungane
+ sh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-grooming-lounge-at-wigglebutt-hut-cincinnati-oh@lead-finder
+DTSTAMP:20260702T164842Z
+DTSTART:20260724T150000
+DTEND:20260724T153000
+SUMMARY:Call lead: The Grooming Lounge At WiggleButt Hut (Cincinnati OH)
+LOCATION:2709 Observatory Ave\, Cincinnati\, OH 45208
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (513) 906-1483\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 65.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 38\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: dog grooming  |  City: Cincinnati OH\nAddr
+ ess: 2709 Observatory Ave\, Cincinnati\, OH 45208\nDashboard: https://arju
+ nganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
