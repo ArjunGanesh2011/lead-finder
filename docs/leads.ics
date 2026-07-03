@@ -8,45 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:the-official-la-perla-barbershop-llc-tampa-fl@lead-finder
-DTSTAMP:20260618T153502Z
-DTSTART:20260626T090000
-DTEND:20260626T093000
-SUMMARY:Call lead: The Official La Perla Barbershop llc (Tampa FL)
-LOCATION:8311 N Armenia Ave\, Tampa\, FL 33604
-DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 79.0  |  No-webs
- ite confidence: 92.0%  |  Buyer signal: 66\nAffordability: Established - g
- ood fit for Growth\nPhone: (813) 280-2199\nNiche: barbershop  |  City: Tam
- pa FL\nAddress: 8311 N Armenia Ave\, Tampa\, FL 33604\nDashboard: https://
- arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:savannah-halal-gyro-savannah-ga@lead-finder
-DTSTAMP:20260618T153502Z
-DTSTART:20260626T150000
-DTEND:20260626T153000
-SUMMARY:Call lead: Savannah Halal Gyro (Savannah GA)
-LOCATION:7505 Abercorn St\, Savannah\, GA 31406
-DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 77.5  |  No-webs
- ite confidence: 92.0%  |  Buyer signal: 63\nAffordability: Established - g
- ood fit for Growth\nPhone: (912) 577-6111\nNiche: food truck  |  City: Sav
- annah GA\nAddress: 7505 Abercorn St\, Savannah\, GA 31406\nSocials: instag
- ram: https://www.instagram.com/reel/DR15j1DDqs5/ | facebook: https://www.f
- acebook.com/groups/196104578447263/posts/1352823746108668/ | tiktok: https
- ://www.tiktok.com/discover/savannah-georgia-halal-food\nDashboard: https:/
- /arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:mark-ford-llc-shreveport-la@lead-finder
 DTSTAMP:20260618T153502Z
 DTSTART:20260626T180000
@@ -1650,6 +1611,44 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (513) 906-1483\nEmail: n
   - best pitched Starter\nNiche: dog grooming  |  City: Cincinnati OH\nAddr
  ess: 2709 Observatory Ave\, Cincinnati\, OH 45208\nDashboard: https://arju
  nganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:n-nails-reno-nv@lead-finder
+DTSTAMP:20260703T162348Z
+DTSTART:20260724T180000
+DTEND:20260724T183000
+SUMMARY:Call lead: Nü Nails (Reno NV)
+LOCATION:137 Vassar St\, Reno\, NV 89502
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (775) 313-7623\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: nail salon  |  City: Reno NV\nAddress: 137
+  Vassar St\, Reno\, NV 89502\nDashboard: https://arjunganesh2011.github.io
+ /lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pinkstack-food-truck-pittsburgh-pa@lead-finder
+DTSTAMP:20260703T162348Z
+DTSTART:20260725T090000
+DTEND:20260725T093000
+SUMMARY:Call lead: PinkStack Food Truck (Pittsburgh PA)
+LOCATION:2218 Homestead Duquesne Rd\, West Mifflin\, PA 15122
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (412) 652-2769\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 57.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 34\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Pittsburgh PA\nAddres
+ s: 2218 Homestead Duquesne Rd\, West Mifflin\, PA 15122\nDashboard: https:
+ //arjunganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
