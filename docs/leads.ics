@@ -8,61 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:mark-ford-llc-shreveport-la@lead-finder
-DTSTAMP:20260618T153502Z
-DTSTART:20260626T180000
-DTEND:20260626T183000
-SUMMARY:Call lead: Mark Ford LLC (Shreveport LA)
-LOCATION:9253 Wallace Lake Rd Ste B\, Shreveport\, LA 71106
-DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 75.0  |  No-webs
- ite confidence: 92.0%  |  Buyer signal: 58\nAffordability: Established - g
- ood fit for Growth\nPhone: (318) 688-7006\nNiche: accounting firm  |  City
- : Shreveport LA\nAddress: 9253 Wallace Lake Rd Ste B\, Shreveport\, LA 711
- 06\nDashboard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:cincinnati-best-electricians-cincinnati-oh@lead-finder
-DTSTAMP:20260618T153502Z
-DTSTART:20260627T090000
-DTEND:20260627T093000
-SUMMARY:Call lead: Cincinnati Best Electricians (Cincinnati OH)
-LOCATION:851 Chamber Dr #2110\, Milford\, OH 45150
-DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 73.0  |  No-webs
- ite confidence: 80.0%  |  Buyer signal: 66\nAffordability: Established - g
- ood fit for Growth\nPhone: (513) 540-2288\nNiche: electrician  |  City: Ci
- ncinnati OH\nAddress: 851 Chamber Dr #2110\, Milford\, OH 45150\nDashboard
- : https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:elevated-tree-care-new-orleans-la@lead-finder
-DTSTAMP:20260618T153502Z
-DTSTART:20260627T150000
-DTEND:20260627T153000
-SUMMARY:Call lead: Elevated Tree Care (New Orleans LA)
-LOCATION:521 Atlantic Ave\, New Orleans\, LA 70114
-DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 71.5  |  No-webs
- ite confidence: 92.0%  |  Buyer signal: 51\nAffordability: Established - g
- ood fit for Growth\nPhone: (215) 815-9440\nNiche: tree service  |  City: N
- ew Orleans LA\nAddress: 521 Atlantic Ave\, New Orleans\, LA 70114\nSocials
- : facebook: https://www.facebook.com/elevatedtreecarenola/\nDashboard: htt
- ps://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:j-star-tax-bookkeeping-service-llc-orlando-fl@lead-finder
 DTSTAMP:20260618T153502Z
 DTSTART:20260627T180000
@@ -1649,6 +1594,143 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (412) 652-2769\nEmail: n
   - best pitched Starter\nNiche: food truck  |  City: Pittsburgh PA\nAddres
  s: 2218 Homestead Duquesne Rd\, West Mifflin\, PA 15122\nDashboard: https:
  //arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:harrison-s-food-truck-halal-columbus-oh@lead-finder
+DTSTAMP:20260704T160119Z
+DTSTART:20260725T150000
+DTEND:20260725T153000
+SUMMARY:Call lead: Harrison's Food Truck - Halal (Columbus OH)
+LOCATION:350 W 3rd Ave\, Columbus\, OH 43201
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (614) 588-3773\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 76.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 61\nAffordability: Established - go
+ od fit for Growth\nNiche: food truck  |  City: Columbus OH\nAddress: 350 W
+  3rd Ave\, Columbus\, OH 43201\nSocials: instagram: https://www.instagram.
+ com/harrisonsfoodtruckhalal/?hl=en\nDashboard: https://arjunganesh2011.git
+ hub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:heavenly-sunlight-window-cleaning-llc-toledo-oh@lead-finder
+DTSTAMP:20260704T160119Z
+DTSTART:20260725T180000
+DTEND:20260725T183000
+SUMMARY:Call lead: Heavenly Sunlight Window Cleaning LLC (Toledo OH)
+LOCATION:6455 Monroe St\, Sylvania\, OH 43560
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (216) 376-8167\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 74.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 68\nAffordability: Established - go
+ od fit for Growth\nNiche: window cleaning  |  City: Toledo OH\nAddress: 64
+ 55 Monroe St\, Sylvania\, OH 43560\nDashboard: https://arjunganesh2011.git
+ hub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d-d-reno-nv@lead-finder
+DTSTAMP:20260704T160119Z
+DTSTART:20260726T090000
+DTEND:20260726T093000
+SUMMARY:Call lead: D & D (Reno NV)
+LOCATION:3024 Kietzke Ln\, Reno\, NV 89502
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (775) 825-1582\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 71.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 51\nAffordability: Established - go
+ od fit for Growth\nNiche: barbershop  |  City: Reno NV\nAddress: 3024 Kiet
+ zke Ln\, Reno\, NV 89502\nSocials: yelp: https://www.yelp.com/biz/d-and-d-
+ overhead-door-reno | facebook: https://www.facebook.com/DandDBarbers/\nDas
+ hboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shakers-public-house-food-truck-columbus-oh@lead-finder
+DTSTAMP:20260704T160119Z
+DTSTART:20260726T150000
+DTEND:20260726T153000
+SUMMARY:Call lead: Shakers Public House Food Truck (Columbus OH)
+LOCATION:4321 W Broad St\, Columbus\, OH 43228
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (614) 378-8803\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 33\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Columbus OH\nAddress:
+  4321 W Broad St\, Columbus\, OH 43228\nSocials: facebook: https://www.fac
+ ebook.com/groups/chickenwingconnoisseurs/posts/1365081207944741/\nDashboar
+ d: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:king-of-gyrooh-food-truck-columbus-oh@lead-finder
+DTSTAMP:20260704T160119Z
+DTSTART:20260726T180000
+DTEND:20260726T183000
+SUMMARY:Call lead: King of Gyrooh- Food truck (Columbus OH)
+LOCATION:1897 Northwest Blvd\, Columbus\, OH 43212
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (614) 900-5100\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Columbus OH\nAddress:
+  1897 Northwest Blvd\, Columbus\, OH 43212\nSocials: instagram: https://ww
+ w.instagram.com/kingofgyrooh?igsh=aWpkODZ4NXF6OTN1&utm_source=qr\nDashboar
+ d: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oklahoma-history-center-gift-shop-oklahoma-city-ok@lead-finder
+DTSTAMP:20260704T160119Z
+DTSTART:20260727T090000
+DTEND:20260727T093000
+SUMMARY:Call lead: Oklahoma History Center Gift Shop (Oklahoma City OK)
+LOCATION:800 Nazih Zuhdi Dr\, Oklahoma City\, OK 73105
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 58.0  |  No-website confidence
+ : 80.0%  |  Buyer signal: 36\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: gift shop  |  City: Oklahoma City OK\nAddress: 800 Na
+ zih Zuhdi Dr\, Oklahoma City\, OK 73105\nDashboard: https://arjunganesh201
+ 1.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:squeegee-clean-window-services-toledo-oh@lead-finder
+DTSTAMP:20260704T160119Z
+DTSTART:20260727T150000
+DTEND:20260727T153000
+SUMMARY:Call lead: Squeegee Clean Window Services (Toledo OH)
+LOCATION:252 E Oakland St\, Toledo\, OH 43608
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (419) 409-2907\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 51.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 22\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: window cleaning  |  City: Toledo OH\nAddre
+ ss: 252 E Oakland St\, Toledo\, OH 43608\nDashboard: https://arjunganesh20
+ 11.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
