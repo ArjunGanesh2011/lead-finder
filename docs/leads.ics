@@ -8,62 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:j-star-tax-bookkeeping-service-llc-orlando-fl@lead-finder
-DTSTAMP:20260618T153502Z
-DTSTART:20260627T180000
-DTEND:20260627T183000
-SUMMARY:Call lead: J STAR TAX & BOOKKEEPING SERVICE LLC (Orlando FL)
-LOCATION:7021 Grand National Dr #104\, Orlando\, FL 32819
-DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 71.0  |  No-webs
- ite confidence: 92.0%  |  Buyer signal: 50\nAffordability: Established - g
- ood fit for Growth\nPhone: (407) 276-3815\nNiche: bookkeeping service  |  
- City: Orlando FL\nAddress: 7021 Grand National Dr #104\, Orlando\, FL 3281
- 9\nSocials: linkedin: https://www.linkedin.com/in/jillian-johnson-235b7142
- /\nDashboard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:shearin-bookkeeping-tax-services-chattanooga-tn@lead-finder
-DTSTAMP:20260618T153502Z
-DTSTART:20260628T090000
-DTEND:20260628T093000
-SUMMARY:Call lead: Shearin Bookkeeping & Tax Services (Chattanooga TN)
-LOCATION:240 Forest Ave #502\, Chattanooga\, TN 37405
-DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 70.0  |  No-webs
- ite confidence: 92.0%  |  Buyer signal: 48\nAffordability: Established - g
- ood fit for Growth\nPhone: (423) 877-3226\nNiche: bookkeeping service  |  
- City: Chattanooga TN\nAddress: 240 Forest Ave #502\, Chattanooga\, TN 3740
- 5\nDashboard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:shampooches-pet-grooming-greensboro-nc@lead-finder
-DTSTAMP:20260618T153502Z
-DTSTART:20260628T150000
-DTEND:20260628T153000
-SUMMARY:Call lead: Shampooches Pet Grooming (Greensboro NC)
-LOCATION:608 Gray-Wilson Rd\, Colfax\, NC 27235
-DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 69.5  |  No-websit
- e confidence: 92.0%  |  Buyer signal: 47\nAffordability: Lean / early-stag
- e - best pitched Starter\nPhone: (336) 904-0673\nNiche: dog grooming  |  C
- ity: Greensboro NC\nAddress: 608 Gray-Wilson Rd\, Colfax\, NC 27235\nSocia
- ls: facebook: https://www.facebook.com/Shampoochesgr8/\nDashboard: https:/
- /arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:affordable-insurance-denver-denver-co@lead-finder
 DTSTAMP:20260618T153502Z
 DTSTART:20260628T180000
@@ -1731,6 +1675,121 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (419) 409-2907\nEmail: n
   - best pitched Starter\nNiche: window cleaning  |  City: Toledo OH\nAddre
  ss: 252 E Oakland St\, Toledo\, OH 43608\nDashboard: https://arjunganesh20
  11.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:omaha-emergency-neighborhood-plumbers-omaha-ne@lead-finder
+DTSTAMP:20260705T160840Z
+DTSTART:20260727T180000
+DTEND:20260727T183000
+SUMMARY:Call lead: Omaha Emergency Neighborhood Plumbers (Omaha NE)
+LOCATION:2411 S 156th Cir #46E\, Omaha\, NE 68130
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (402) 256-6236\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 79.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 66\nAffordability: Established - go
+ od fit for Growth\nNiche: plumber  |  City: Omaha NE\nAddress: 2411 S 156t
+ h Cir #46E\, Omaha\, NE 68130\nDashboard: https://arjunganesh2011.github.i
+ o/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:brothers-new-and-used-tires-auto-mechanics-and-mobile-services-greensboro-nc@lead-finder
+DTSTAMP:20260705T160840Z
+DTSTART:20260728T090000
+DTEND:20260728T093000
+SUMMARY:Call lead: Brothers New and Used Tires Auto mechanics and mobile se
+ rvices (Greensboro NC)
+LOCATION:4626 W Gate City Blvd\, Greensboro\, NC 27407
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (240) 672-4162\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 74.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 69\nAffordability: Established - go
+ od fit for Growth\nNiche: auto repair shop  |  City: Greensboro NC\nAddres
+ s: 4626 W Gate City Blvd\, Greensboro\, NC 27407\nDashboard: https://arjun
+ ganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:vargas-brothers-roofing-co-colorado-springs-co@lead-finder
+DTSTAMP:20260705T160840Z
+DTSTART:20260728T150000
+DTEND:20260728T153000
+SUMMARY:Call lead: Vargas Brothers Roofing Co (Colorado Springs CO)
+LOCATION:6221 Anders Ridge Ln\, Colorado Springs\, CO 80927
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (719) 212-2100\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 70.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 61\nAffordability: Established - go
+ od fit for Growth\nNiche: roofing company  |  City: Colorado Springs CO\nA
+ ddress: 6221 Anders Ridge Ln\, Colorado Springs\, CO 80927\nDashboard: htt
+ ps://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:novara-skin-studio-knoxville-tn@lead-finder
+DTSTAMP:20260705T160840Z
+DTSTART:20260728T180000
+DTEND:20260728T183000
+SUMMARY:Call lead: Novara Skin Studio (Knoxville TN)
+LOCATION:5750 Western Ave\, Knoxville\, TN 37921
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 59.0  |  No-website confidence
+ : 80.0%  |  Buyer signal: 38\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: tattoo shop  |  City: Knoxville TN\nAddress: 5750 Wes
+ tern Ave\, Knoxville\, TN 37921\nDashboard: https://arjunganesh2011.github
+ .io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gift-shop-jungle-island-miami-fl@lead-finder
+DTSTAMP:20260705T160840Z
+DTSTART:20260729T090000
+DTEND:20260729T093000
+SUMMARY:Call lead: Gift Shop Jungle Island (Miami FL)
+LOCATION:1111 Parrot Jungle Trail\, Miami\, FL 33132
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 58.0  |  No-website confidence
+ : 80.0%  |  Buyer signal: 36\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: gift shop  |  City: Miami FL\nAddress: 1111 Parrot Ju
+ ngle Trail\, Miami\, FL 33132\nDashboard: https://arjunganesh2011.github.i
+ o/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:luggage-gift-store-miami-fl@lead-finder
+DTSTAMP:20260705T160840Z
+DTSTART:20260729T150000
+DTEND:20260729T153000
+SUMMARY:Call lead: Luggage & Gift Store (Miami FL)
+LOCATION:2801 Collins Ave\, Miami\, FL 33140
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (305) 695-3911\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 57.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 22\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: gift shop  |  City: Miami FL\nAddress: 280
+ 1 Collins Ave\, Miami\, FL 33140\nDashboard: https://arjunganesh2011.githu
+ b.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
