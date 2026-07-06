@@ -8,63 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:affordable-insurance-denver-denver-co@lead-finder
-DTSTAMP:20260618T153502Z
-DTSTART:20260628T180000
-DTEND:20260628T183000
-SUMMARY:Call lead: Affordable Insurance Denver (Denver CO)
-LOCATION:1891 S Wolff St\, Denver\, CO 80219
-DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 69.0  |  No-webs
- ite confidence: 80.0%  |  Buyer signal: 58\nAffordability: Established - g
- ood fit for Growth\nPhone: (970) 279-3841\nNiche: insurance agency  |  Cit
- y: Denver CO\nAddress: 1891 S Wolff St\, Denver\, CO 80219\nDashboard: htt
- ps://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:ace-of-babes-vintage-worcester-ma@lead-finder
-DTSTAMP:20260618T153502Z
-DTSTART:20260629T090000
-DTEND:20260629T093000
-SUMMARY:Call lead: Ace of Babes Vintage (Worcester MA)
-LOCATION:14 Portland St\, Worcester\, MA 01608
-DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 68.5  |  No-websit
- e confidence: 92.0%  |  Buyer signal: 45\nAffordability: Lean / early-stag
- e - best pitched Starter\nPhone: n/a\nNiche: boutique  |  City: Worcester 
- MA\nAddress: 14 Portland St\, Worcester\, MA 01608\nSocials: facebook: htt
- ps://www.facebook.com/p/Ace-of-Babes-Vintage-61584258425760/ | tiktok: htt
- ps://www.tiktok.com/@outshoppingty/video/7607116653121359118 | instagram: 
- https://www.instagram.com/aceofbabesvintage/\nDashboard: https://arjungane
- sh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:sergei-auto-insurance-agency-denver-denver-co@lead-finder
-DTSTAMP:20260618T153502Z
-DTSTART:20260629T150000
-DTEND:20260629T153000
-SUMMARY:Call lead: Sergei Auto Insurance Agency Denver (Denver CO)
-LOCATION:1290 Broadway #1703\, Denver\, CO 80203
-DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 67.5  |  No-webs
- ite confidence: 80.0%  |  Buyer signal: 55\nAffordability: Established - g
- ood fit for Growth\nPhone: (206) 647-6958\nNiche: insurance agency  |  Cit
- y: Denver CO\nAddress: 1290 Broadway #1703\, Denver\, CO 80203\nDashboard:
-  https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raw-studios-reno-reno-nv@lead-finder
 DTSTAMP:20260618T153502Z
 DTSTART:20260629T180000
@@ -1790,6 +1733,67 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (305) 695-3911\nEmail: n
   - best pitched Starter\nNiche: gift shop  |  City: Miami FL\nAddress: 280
  1 Collins Ave\, Miami\, FL 33140\nDashboard: https://arjunganesh2011.githu
  b.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:love-expression-s-flower-shop-kansas-city-mo@lead-finder
+DTSTAMP:20260706T174257Z
+DTSTART:20260729T180000
+DTEND:20260729T183000
+SUMMARY:Call lead: Love Expression's Flower Shop (Kansas City MO)
+LOCATION:3511 Independence Ave\, Kansas City\, MO 64124
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (816) 813-0781\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 65.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: florist  |  City: Kansas City MO\nAddress:
+  3511 Independence Ave\, Kansas City\, MO 64124\nDashboard: https://arjung
+ anesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lighthouse-tattoo-llc-springfield-mo@lead-finder
+DTSTAMP:20260706T174257Z
+DTSTART:20260730T090000
+DTEND:20260730T093000
+SUMMARY:Call lead: Lighthouse Tattoo\, LLC (Springfield MO)
+LOCATION:734 W Kearney St\, Springfield\, MO 65803
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (417) 371-3525\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 65.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: tattoo shop  |  City: Springfield MO\nAddr
+ ess: 734 W Kearney St\, Springfield\, MO 65803\nSocials: instagram: https:
+ //www.instagram.com/explore/locations/101261495919171/lighthouse-tattoo-ll
+ c/ | facebook: https://www.facebook.com/profile.php?id=61574109157023\nDas
+ hboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gift-gallery-slc-salt-lake-city-ut@lead-finder
+DTSTAMP:20260706T174257Z
+DTSTART:20260730T150000
+DTEND:20260730T153000
+SUMMARY:Call lead: Gift Gallery SLC (Salt Lake City UT)
+LOCATION:Ivy Place Shopping Village\, 4700 S 900 E #34\, Salt Lake City\, U
+ T 84117
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (801) 810-5650\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 57.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 35\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: gift shop  |  City: Salt Lake City UT\nAdd
+ ress: Ivy Place Shopping Village\, 4700 S 900 E #34\, Salt Lake City\, UT 
+ 84117\nSocials: facebook: https://www.facebook.com/GiftGallerySLC/\nDashbo
+ ard: https://arjunganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
