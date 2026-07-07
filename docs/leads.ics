@@ -8,61 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:raw-studios-reno-reno-nv@lead-finder
-DTSTAMP:20260618T153502Z
-DTSTART:20260629T180000
-DTEND:20260629T183000
-SUMMARY:Call lead: Raw Studios Reno (Reno NV)
-LOCATION:150 Ridge St Ste 100\, Reno\, NV 89501
-DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 66.5  |  No-websit
- e confidence: 92.0%  |  Buyer signal: 41\nAffordability: Lean / early-stag
- e - best pitched Starter\nPhone: (775) 298-1609\nNiche: photography studio
-   |  City: Reno NV\nAddress: 150 Ridge St Ste 100\, Reno\, NV 89501\nSocia
- ls: yelp: https://www.yelp.com/biz/raw-studios-reno-reno\nDashboard: https
- ://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:safe-wash-pressure-soft-wash-cleaning-pittsburgh-pa@lead-finder
-DTSTAMP:20260618T153502Z
-DTSTART:20260630T090000
-DTEND:20260630T093000
-SUMMARY:Call lead: Safe Wash Pressure Soft Wash Cleaning (Pittsburgh PA)
-LOCATION:640 Deana Way\, Rochester\, PA 15074
-DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 66.0  |  No-webs
- ite confidence: 80.0%  |  Buyer signal: 52\nAffordability: Established - g
- ood fit for Growth\nPhone: (412) 628-3837\nNiche: pressure washing  |  Cit
- y: Pittsburgh PA\nAddress: 640 Deana Way\, Rochester\, PA 15074\nDashboard
- : https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:awa-accounting-with-advantages-sacramento-ca@lead-finder
-DTSTAMP:20260618T153502Z
-DTSTART:20260630T150000
-DTEND:20260630T153000
-SUMMARY:Call lead: AWA Accounting With Advantages (Sacramento CA)
-LOCATION:2440 Fulton Ave #11\, Sacramento\, CA 95825
-DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 65.5  |  No-webs
- ite confidence: 80.0%  |  Buyer signal: 51\nAffordability: Established - g
- ood fit for Growth\nPhone: (916) 717-7206\nNiche: accounting firm  |  City
- : Sacramento CA\nAddress: 2440 Fulton Ave #11\, Sacramento\, CA 95825\nDas
- hboard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:teejay-s-junk-removal-tucson-az@lead-finder
 DTSTAMP:20260618T153502Z
 DTSTART:20260630T180000
@@ -1794,6 +1739,47 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (801) 810-5650\nEmail: n
  ress: Ivy Place Shopping Village\, 4700 S 900 E #34\, Salt Lake City\, UT 
  84117\nSocials: facebook: https://www.facebook.com/GiftGallerySLC/\nDashbo
  ard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:minneapolis-heating-air-conditioning-masters-minneapolis-mn@lead-finder
+DTSTAMP:20260707T171324Z
+DTSTART:20260730T180000
+DTEND:20260730T183000
+SUMMARY:Call lead: Minneapolis Heating & Air Conditioning Masters (Minneapo
+ lis MN)
+LOCATION:140 W 61st St\, Minneapolis\, MN 55419
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (651) 390-9378\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 70.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 61\nAffordability: Established - go
+ od fit for Growth\nNiche: HVAC company  |  City: Minneapolis MN\nAddress: 
+ 140 W 61st St\, Minneapolis\, MN 55419\nDashboard: https://arjunganesh2011
+ .github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:furniture-for-less-st-louis-mo@lead-finder
+DTSTAMP:20260707T171324Z
+DTSTART:20260731T090000
+DTEND:20260731T093000
+SUMMARY:Call lead: Furniture For Less (St Louis MO)
+LOCATION:9020 W Florissant Ave\, St. Louis\, MO 63136
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (314) 868-8199\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 67.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: furniture store  |  City: St Louis MO\nAdd
+ ress: 9020 W Florissant Ave\, St. Louis\, MO 63136\nSocials: facebook: htt
+ ps://www.facebook.com/FurnitureForLessMO/ | yelp: https://www.yelp.com/biz
+ /furniture-for-less-saint-louis-4\nDashboard: https://arjunganesh2011.gith
+ ub.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
