@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:teejay-s-junk-removal-tucson-az@lead-finder
-DTSTAMP:20260618T153502Z
-DTSTART:20260630T180000
-DTEND:20260630T183000
-SUMMARY:Call lead: TeeJay's Junk Removal (Tucson AZ)
-LOCATION:5750 S Houghton Rd\, Tucson\, AZ 85747
-DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 65.5  |  No-websit
- e confidence: 92.0%  |  Buyer signal: 39\nAffordability: Lean / early-stag
- e - best pitched Starter\nPhone: (520) 304-5500\nNiche: junk removal  |  C
- ity: Tucson AZ\nAddress: 5750 S Houghton Rd\, Tucson\, AZ 85747\nSocials: 
- yelp: https://www.yelp.com/biz/teejays-junk-removal-tucson | facebook: htt
- ps://www.facebook.com/TeeJaysJunkRemoval/\nDashboard: https://arjunganesh2
- 011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:cielito-rosa-studio-mesa-az@lead-finder
-DTSTAMP:20260618T153502Z
-DTSTART:20260701T090000
-DTEND:20260701T093000
-SUMMARY:Call lead: Cielito Rosa Studio (Mesa AZ)
-LOCATION:1720 W Southern Ave Ste 2\, Mesa\, AZ 85202
-DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 64.5  |  No-websit
- e confidence: 92.0%  |  Buyer signal: 37\nAffordability: Lean / early-stag
- e - best pitched Starter\nPhone: (602) 835-7980\nNiche: gift shop  |  City
- : Mesa AZ\nAddress: 1720 W Southern Ave Ste 2\, Mesa\, AZ 85202\nSocials: 
- facebook: https://www.facebook.com/cielitorosabakery14/ | instagram: https
- ://www.instagram.com/cielitorosa_studio14/\nDashboard: https://arjunganesh
- 2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:valentines-bookkeeping-services-orlando-fl@lead-finder
-DTSTAMP:20260618T153502Z
-DTSTART:20260701T150000
-DTEND:20260701T153000
-SUMMARY:Call lead: Valentines Bookkeeping Services (Orlando FL)
-LOCATION:420 W Lancaster Rd\, Orlando\, FL 32809
-DESCRIPTION:Tier: Growth ($1\,800 build + $299/mo)\nScore: 64.0  |  No-webs
- ite confidence: 80.0%  |  Buyer signal: 48\nAffordability: Established - g
- ood fit for Growth\nPhone: (407) 305-7303\nNiche: bookkeeping service  |  
- City: Orlando FL\nAddress: 420 W Lancaster Rd\, Orlando\, FL 32809\nDashbo
- ard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:taconmadres-food-truck-springfield-mo@lead-finder
 DTSTAMP:20260618T153502Z
 DTSTART:20260701T180000
@@ -1780,6 +1722,46 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (314) 868-8199\nEmail: n
  ps://www.facebook.com/FurnitureForLessMO/ | yelp: https://www.yelp.com/biz
  /furniture-for-less-saint-louis-4\nDashboard: https://arjunganesh2011.gith
  ub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jdog-junk-removal-and-hauling-shreveport-shreveport-la@lead-finder
+DTSTAMP:20260708T163820Z
+DTSTART:20260731T150000
+DTEND:20260731T153000
+SUMMARY:Call lead: JDog Junk Removal and Hauling Shreveport (Shreveport LA)
+LOCATION:111 Horton St\, Minden\, LA 71055
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (318) 268-1468\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: junk removal  |  City: Shreveport LA\nAddr
+ ess: 111 Horton St\, Minden\, LA 71055\nSocials: facebook: https://www.fac
+ ebook.com/jdogshreveport\nDashboard: https://arjunganesh2011.github.io/lea
+ d-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tyler-s-services-shreveport-la@lead-finder
+DTSTAMP:20260708T163820Z
+DTSTART:20260731T180000
+DTEND:20260731T183000
+SUMMARY:Call lead: Tyler's services (Shreveport LA)
+LOCATION:8119 N Lakeshore Dr\, Shreveport\, LA 71107
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (318) 286-7610\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: junk removal  |  City: Shreveport LA\nAddr
+ ess: 8119 N Lakeshore Dr\, Shreveport\, LA 71107\nSocials: facebook: https
+ ://www.facebook.com/Tylers-services-101182235289288/\nDashboard: https://a
+ rjunganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
