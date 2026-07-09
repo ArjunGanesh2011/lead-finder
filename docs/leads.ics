@@ -8,60 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:taconmadres-food-truck-springfield-mo@lead-finder
-DTSTAMP:20260618T153502Z
-DTSTART:20260701T180000
-DTEND:20260701T183000
-SUMMARY:Call lead: TACONMADRES (FOOD TRUCK) (Springfield MO)
-LOCATION:1201 S W Bypass\, Springfield\, MO 65807
-DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 63.5  |  No-websit
- e confidence: 92.0%  |  Buyer signal: 35\nAffordability: Lean / early-stag
- e - best pitched Starter\nPhone: (417) 470-5562\nNiche: food truck  |  Cit
- y: Springfield MO\nAddress: 1201 S W Bypass\, Springfield\, MO 65807\nDash
- board: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:takizimo-tacos-y-mas-food-truck-virginia-beach-va@lead-finder
-DTSTAMP:20260618T153502Z
-DTSTART:20260702T090000
-DTEND:20260702T093000
-SUMMARY:Call lead: TAKIZIMO TACOS Y MAS FOOD TRUCK (Virginia Beach VA)
-LOCATION:5785 Northampton Blvd\, Virginia Beach\, VA 23455
-DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 63.5  |  No-websit
- e confidence: 92.0%  |  Buyer signal: 35\nAffordability: Lean / early-stag
- e - best pitched Starter\nPhone: (757) 235-8052\nNiche: food truck  |  Cit
- y: Virginia Beach VA\nAddress: 5785 Northampton Blvd\, Virginia Beach\, VA
-  23455\nDashboard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:memphis-paint-company-memphis-tn@lead-finder
-DTSTAMP:20260618T153502Z
-DTSTART:20260702T150000
-DTEND:20260702T153000
-SUMMARY:Call lead: Memphis Paint Company (Memphis TN)
-LOCATION:7304 Gail Dr\, Bartlett\, TN 38133
-DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 63.0  |  No-websit
- e confidence: 80.0%  |  Buyer signal: 46\nAffordability: Lean / early-stag
- e - best pitched Starter\nPhone: (901) 791-5256\nNiche: painting company  
- |  City: Memphis TN\nAddress: 7304 Gail Dr\, Bartlett\, TN 38133\nDashboar
- d: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:jose-m-westside-barbershop-tampa-tampa-fl@lead-finder
 DTSTAMP:20260618T153502Z
 DTSTART:20260702T180000
@@ -1762,6 +1708,141 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (318) 286-7610\nEmail: n
  ess: 8119 N Lakeshore Dr\, Shreveport\, LA 71107\nSocials: facebook: https
  ://www.facebook.com/Tylers-services-101182235289288/\nDashboard: https://a
  rjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:keetons-electrical-solution-indianapolis-in@lead-finder
+DTSTAMP:20260709T172219Z
+DTSTART:20260801T090000
+DTEND:20260801T093000
+SUMMARY:Call lead: Keetons Electrical Solution (Indianapolis IN)
+LOCATION:1401 Ingomar St\, Indianapolis\, IN 46241
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (765) 543-8862\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 74.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: electrician  |  City: Indianapolis IN\nAddress: 
+ 1401 Ingomar St\, Indianapolis\, IN 46241\nDashboard: https://arjunganesh2
+ 011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tyler-s-overhead-doors-wichita-ks@lead-finder
+DTSTAMP:20260709T172219Z
+DTSTART:20260801T150000
+DTEND:20260801T153000
+SUMMARY:Call lead: Tyler's overhead doors (Wichita KS)
+LOCATION:2801 S St Paul St\, Wichita\, KS 67217
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (316) 932-2330\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 70.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 48\nAffordability: Established - go
+ od fit for Growth\nNiche: garage door company  |  City: Wichita KS\nAddres
+ s: 2801 S St Paul St\, Wichita\, KS 67217\nSocials: yelp: https://www.yelp
+ .com/biz/tylers-overhead-doors-wichita\nDashboard: https://arjunganesh2011
+ .github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:atlanta-discount-furniture-warehouse-atlanta-ga@lead-finder
+DTSTAMP:20260709T172219Z
+DTSTART:20260801T180000
+DTEND:20260801T183000
+SUMMARY:Call lead: Atlanta discount furniture warehouse (Atlanta GA)
+LOCATION:5390 E Ponce de Leon Ave E\, Stone Mountain\, GA 30083
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (470) 406-1088\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 66.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 53\nAffordability: Established - go
+ od fit for Growth\nNiche: furniture store  |  City: Atlanta GA\nAddress: 5
+ 390 E Ponce de Leon Ave E\, Stone Mountain\, GA 30083\nDashboard: https://
+ arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:drymasters-of-dayton-dayton-oh@lead-finder
+DTSTAMP:20260709T172219Z
+DTSTART:20260802T090000
+DTEND:20260802T093000
+SUMMARY:Call lead: drymasters of dayton (Dayton OH)
+LOCATION:2366 S Patterson Blvd\, Kettering\, OH 45409
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (937) 471-1208\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 65.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 38\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: carpet cleaning  |  City: Dayton OH\nAddre
+ ss: 2366 S Patterson Blvd\, Kettering\, OH 45409\nSocials: yelp: https://w
+ ww.yelp.com/biz/drymasters-of-dayton-dayton-3\nDashboard: https://arjungan
+ esh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:divison-oil-spa-spokane-wa@lead-finder
+DTSTAMP:20260709T172219Z
+DTSTART:20260802T150000
+DTEND:20260802T153000
+SUMMARY:Call lead: Divison oil spa (Spokane WA)
+LOCATION:6011 N Division St\, Spokane\, WA 99208
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (509) 616-2258\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 46\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: day spa  |  City: Spokane WA\nAddress: 601
+ 1 N Division St\, Spokane\, WA 99208\nDashboard: https://arjunganesh2011.g
+ ithub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:everyday-massage-spa-salt-lake-city-ut@lead-finder
+DTSTAMP:20260709T172219Z
+DTSTART:20260802T180000
+DTEND:20260802T183000
+SUMMARY:Call lead: Everyday Massage & Spa (Salt Lake City UT)
+LOCATION:Harvey Milk Blvd\, Salt Lake City\, UT 84111
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (810) 355-2785\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 59.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 38\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: massage therapist  |  City: Salt Lake City
+  UT\nAddress: Harvey Milk Blvd\, Salt Lake City\, UT 84111\nDashboard: htt
+ ps://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3-wolves-overhead-door-co-wichita-ks@lead-finder
+DTSTAMP:20260709T172219Z
+DTSTART:20260803T090000
+DTEND:20260803T093000
+SUMMARY:Call lead: 3 Wolves Overhead Door Co. (Wichita KS)
+LOCATION:11700 E Waterman St Lot 415\, Wichita\, KS 67207
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (316) 990-0662\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 56.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 32\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: garage door company  |  City: Wichita KS\n
+ Address: 11700 E Waterman St Lot 415\, Wichita\, KS 67207\nDashboard: http
+ s://arjunganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
