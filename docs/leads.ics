@@ -8,61 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:jose-m-westside-barbershop-tampa-tampa-fl@lead-finder
-DTSTAMP:20260618T153502Z
-DTSTART:20260702T180000
-DTEND:20260702T183000
-SUMMARY:Call lead: Jose M @Westside Barbershop - Tampa (Tampa FL)
-LOCATION:2800 N Mac Dill Ave\, Tampa\, FL 33607
-DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 63.0  |  No-websit
- e confidence: 80.0%  |  Buyer signal: 46\nAffordability: Lean / early-stag
- e - best pitched Starter\nPhone: (813) 215-9185\nNiche: barbershop  |  Cit
- y: Tampa FL\nAddress: 2800 N Mac Dill Ave\, Tampa\, FL 33607\nDashboard: h
- ttps://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:dan-s-pool-services-st-louis-mo@lead-finder
-DTSTAMP:20260618T153502Z
-DTSTART:20260703T090000
-DTEND:20260703T093000
-SUMMARY:Call lead: Dan's Pool Services (St Louis MO)
-LOCATION:9400 Dennison Grove Ct\, Sappington\, MO 63126
-DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-websit
- e confidence: 92.0%  |  Buyer signal: 31\nAffordability: Lean / early-stag
- e - best pitched Starter\nPhone: (314) 849-5699\nNiche: pool service  |  C
- ity: St Louis MO\nAddress: 9400 Dennison Grove Ct\, Sappington\, MO 63126\
- nDashboard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:complete-bookkeeping-and-professional-services-chattanooga-tn@lead-finder
-DTSTAMP:20260618T153502Z
-DTSTART:20260703T150000
-DTEND:20260703T153000
-SUMMARY:Call lead: Complete Bookkeeping and Professional Services (Chattano
- oga TN)
-LOCATION:9721 Dayton Pike Ste d\, Soddy-Daisy\, TN 37379
-DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 60.5  |  No-websit
- e confidence: 80.0%  |  Buyer signal: 41\nAffordability: Lean / early-stag
- e - best pitched Starter\nPhone: (423) 842-4204\nNiche: bookkeeping servic
- e  |  City: Chattanooga TN\nAddress: 9721 Dayton Pike Ste d\, Soddy-Daisy\
- , TN 37379\nDashboard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:caramelo-flowers-richmond-va@lead-finder
 DTSTAMP:20260618T153502Z
 DTSTART:20260703T180000
@@ -1843,6 +1788,83 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (316) 990-0662\nEmail: n
   - best pitched Starter\nNiche: garage door company  |  City: Wichita KS\n
  Address: 11700 E Waterman St Lot 415\, Wichita\, KS 67207\nDashboard: http
  s://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:luna-de-plata-jewelery-el-paso-tx@lead-finder
+DTSTAMP:20260710T165557Z
+DTSTART:20260803T150000
+DTEND:20260803T153000
+SUMMARY:Call lead: Luna De Plata Jewelery (El Paso TX)
+LOCATION:4942 Hondo Pass Dr\, El Paso\, TX 79924
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (915) 755-2838\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 75.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 71\nAffordability: Established - go
+ od fit for Growth\nNiche: jewelry store  |  City: El Paso TX\nAddress: 494
+ 2 Hondo Pass Dr\, El Paso\, TX 79924\nDashboard: https://arjunganesh2011.g
+ ithub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lady-d-gallery-bridal-wichita-ks@lead-finder
+DTSTAMP:20260710T165557Z
+DTSTART:20260803T180000
+DTEND:20260803T183000
+SUMMARY:Call lead: lady D gallery bridal (Wichita KS)
+LOCATION:102e E 21st St N\, Wichita\, KS 67214
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (316) 883-8936\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 66.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: bridal shop  |  City: Wichita KS\nAddress:
+  102e E 21st St N\, Wichita\, KS 67214\nSocials: facebook: https://www.fac
+ ebook.com/DioceladyD/ | instagram: https://www.instagram.com/ladydgalleryb
+ ridal/\nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:snacktopus-food-truck-kansas-city-mo@lead-finder
+DTSTAMP:20260710T165557Z
+DTSTART:20260804T090000
+DTEND:20260804T093000
+SUMMARY:Call lead: SNACKTOPUS FOOD TRUCK (Kansas City MO)
+LOCATION:6816 N Church Rd\, Pleasant Valley\, MO 64068
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (816) 945-1414\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 57.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 34\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Kansas City MO\nAddre
+ ss: 6816 N Church Rd\, Pleasant Valley\, MO 64068\nDashboard: https://arju
+ nganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lc-s-hamburger-food-truck-kansas-city-mo@lead-finder
+DTSTAMP:20260710T165557Z
+DTSTART:20260804T150000
+DTEND:20260804T153000
+SUMMARY:Call lead: LC's Hamburger Food Truck (Kansas City MO)
+LOCATION:10805 N Marsh Ave\, Kansas City\, MO 64157
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (816) 896-5715\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 56.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 33\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Kansas City MO\nAddre
+ ss: 10805 N Marsh Ave\, Kansas City\, MO 64157\nDashboard: https://arjunga
+ nesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
