@@ -1,10 +1,38 @@
 {
-  "generated": "2026-07-10T16:55:57.468626+00:00",
-  "count": 119,
-  "new_today": 4,
-  "queries_used_this_month": 300,
+  "generated": "2026-07-11T15:55:41.500043+00:00",
+  "count": 120,
+  "new_today": 1,
+  "queries_used_this_month": 330,
   "query_budget": 950,
   "leads": [
+    {
+      "business_name": "My Shop Auto Repair, Tires",
+      "niche": "auto repair shop",
+      "city": "New Orleans LA",
+      "slug": "my-shop-auto-repair-tires-new-orleans-la",
+      "phone": "(504) 947-3600",
+      "email": null,
+      "contact_name": null,
+      "instagram": null,
+      "address": "1811 Law St, New Orleans, LA 70119",
+      "maps_url": "https://maps.google.com/?cid=3563615852467614033&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.6,
+      "review_count": 55,
+      "description": "",
+      "socials": {
+        "facebook": "https://www.facebook.com/myshopnola/"
+      },
+      "no_website_confidence": 80.0,
+      "buyer_signal_score": 53,
+      "affordability": "Established - good fit for Growth",
+      "overall_score": 66.5,
+      "suggested_tier": "Growth",
+      "suggested_price": "$1,800 build + $299/mo",
+      "added": "2026-07-11",
+      "logo_image": null,
+      "palette": null,
+      "prompt_file": "prompts/my-shop-auto-repair-tires-new-orleans-la.md"
+    },
     {
       "business_name": "Luna De Plata Jewelery",
       "niche": "jewelry store",

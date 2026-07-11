@@ -8,61 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:caramelo-flowers-richmond-va@lead-finder
-DTSTAMP:20260618T153502Z
-DTSTART:20260703T180000
-DTEND:20260703T183000
-SUMMARY:Call lead: Caramelo Flowers (Richmond VA)
-LOCATION:S Sheppard St\, Richmond\, VA 23221
-DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 59.0  |  No-websit
- e confidence: 80.0%  |  Buyer signal: 38\nAffordability: Lean / early-stag
- e - best pitched Starter\nPhone: (804) 292-2817\nNiche: florist  |  City: 
- Richmond VA\nAddress: S Sheppard St\, Richmond\, VA 23221\nDashboard: http
- s://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:taconmadres-mexican-food-foodtruck-springfield-mo@lead-finder
-DTSTAMP:20260618T153502Z
-DTSTART:20260704T090000
-DTEND:20260704T093000
-SUMMARY:Call lead: TACONMADRES Mexican Food-Foodtruck (Springfield MO)
-LOCATION:1201 S W Bypass\, Springfield\, MO 65807
-DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 57.5  |  No-websit
- e confidence: 80.0%  |  Buyer signal: 35\nAffordability: Lean / early-stag
- e - best pitched Starter\nPhone: (417) 470-5562\nNiche: food truck  |  Cit
- y: Springfield MO\nAddress: 1201 S W Bypass\, Springfield\, MO 65807\nDash
- board: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:block-party-300-food-truck-park-salt-lake-city-ut@lead-finder
-DTSTAMP:20260618T153502Z
-DTSTART:20260704T150000
-DTEND:20260704T153000
-SUMMARY:Call lead: Block Party 300 - Food Truck Park (Salt Lake City UT)
-LOCATION:1391 S 300 W\, Salt Lake City\, UT 84115
-DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 57.0  |  No-websit
- e confidence: 80.0%  |  Buyer signal: 34\nAffordability: Lean / early-stag
- e - best pitched Starter\nPhone: n/a\nNiche: food truck  |  City: Salt Lak
- e City UT\nAddress: 1391 S 300 W\, Salt Lake City\, UT 84115\nSocials: ins
- tagram: https://www.instagram.com/p/CyWLfMExVm_/\nDashboard: https://arjun
- ganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:the-french-fry-truck-buffalo-ny@lead-finder
 DTSTAMP:20260618T153502Z
 DTSTART:20260704T180000
@@ -1865,6 +1810,26 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (816) 896-5715\nEmail: n
   - best pitched Starter\nNiche: food truck  |  City: Kansas City MO\nAddre
  ss: 10805 N Marsh Ave\, Kansas City\, MO 64157\nDashboard: https://arjunga
  nesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:my-shop-auto-repair-tires-new-orleans-la@lead-finder
+DTSTAMP:20260711T155541Z
+DTSTART:20260804T180000
+DTEND:20260804T183000
+SUMMARY:Call lead: My Shop Auto Repair\, Tires (New Orleans LA)
+LOCATION:1811 Law St\, New Orleans\, LA 70119
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (504) 947-3600\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 66.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 53\nAffordability: Established - go
+ od fit for Growth\nNiche: auto repair shop  |  City: New Orleans LA\nAddre
+ ss: 1811 Law St\, New Orleans\, LA 70119\nSocials: facebook: https://www.f
+ acebook.com/myshopnola/\nDashboard: https://arjunganesh2011.github.io/lead
+ -finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
