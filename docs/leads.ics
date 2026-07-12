@@ -8,60 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:the-french-fry-truck-buffalo-ny@lead-finder
-DTSTAMP:20260618T153502Z
-DTSTART:20260704T180000
-DTEND:20260704T183000
-SUMMARY:Call lead: The French Fry Truck (Buffalo NY)
-LOCATION:70 Jarvis St\, Fort Erie\, ON L2A 2S3\, Canada
-DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 57.0  |  No-websit
- e confidence: 80.0%  |  Buyer signal: 34\nAffordability: Lean / early-stag
- e - best pitched Starter\nPhone: n/a\nNiche: food truck  |  City: Buffalo 
- NY\nAddress: 70 Jarvis St\, Fort Erie\, ON L2A 2S3\, Canada\nDashboard: ht
- tps://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:dabiscuit-food-truck-virginia-beach-va@lead-finder
-DTSTAMP:20260618T153502Z
-DTSTART:20260705T090000
-DTEND:20260705T093000
-SUMMARY:Call lead: DaBiscuit Food Truck (Virginia Beach VA)
-LOCATION:404 20th 1/2 St\, Virginia Beach\, VA 23451
-DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 54.5  |  No-websit
- e confidence: 92.0%  |  Buyer signal: 17\nAffordability: Lean / early-stag
- e - best pitched Starter\nPhone: (757) 503-0195\nNiche: food truck  |  Cit
- y: Virginia Beach VA\nAddress: 404 20th 1/2 St\, Virginia Beach\, VA 23451
- \nDashboard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:tee-s-lawn-care-sod-sprinklers-llc-orlando-fl@lead-finder
-DTSTAMP:20260618T175853Z
-DTSTART:20260705T150000
-DTEND:20260705T153000
-SUMMARY:Call lead: TEE'S LAWN CARE SOD & SPRINKLERS LLC (Orlando FL)
-LOCATION:350 S McKinley Ave\, Orlando\, FL 32811
-DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 67.0  |  No-websit
- e confidence: 92.0%  |  Buyer signal: 42\nAffordability: Lean / early-stag
- e - best pitched Starter\nPhone: (321) 527-4295\nNiche: lawn care service 
-  |  City: Orlando FL\nAddress: 350 S McKinley Ave\, Orlando\, FL 32811\nDa
- shboard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:anb-window-cleaning-services-el-paso-tx@lead-finder
 DTSTAMP:20260618T175853Z
 DTSTART:20260705T180000
@@ -1830,6 +1776,103 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (504) 947-3600\nEmail: n
  ss: 1811 Law St\, New Orleans\, LA 70119\nSocials: facebook: https://www.f
  acebook.com/myshopnola/\nDashboard: https://arjunganesh2011.github.io/lead
  -finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mt-pleasant-floral-greenhouses-pittsburgh-pa@lead-finder
+DTSTAMP:20260712T155923Z
+DTSTART:20260805T090000
+DTEND:20260805T093000
+SUMMARY:Call lead: Mt Pleasant Floral & Greenhouses (Pittsburgh PA)
+LOCATION:208 Flower Wy\, Mt Pleasant\, PA 15666
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (724) 547-2679\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 73.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 55\nAffordability: Established - go
+ od fit for Growth\nNiche: florist  |  City: Pittsburgh PA\nAddress: 208 Fl
+ ower Wy\, Mt Pleasant\, PA 15666\nSocials: yelp: https://www.yelp.com/biz/
+ mt-pleasant-floral-and-greenhouses-mount-pleasant\nDashboard: https://arju
+ nganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-dog-wash-spa-wichita-ks@lead-finder
+DTSTAMP:20260712T155923Z
+DTSTART:20260805T150000
+DTEND:20260805T153000
+SUMMARY:Call lead: The Dog Wash Spa (Wichita KS)
+LOCATION:3142 KS-15\, Wichita\, KS 67216
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Growth ($1\,800 build + $299/mo)\nScore: 66.0  |  No-website confiden
+ ce: 80.0%  |  Buyer signal: 52\nAffordability: Established - good fit for 
+ Growth\nNiche: dog grooming  |  City: Wichita KS\nAddress: 3142 KS-15\, Wi
+ chita\, KS 67216\nDashboard: https://arjunganesh2011.github.io/lead-finder
+ /
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:relax-and-rebalance-massage-spokane-wa@lead-finder
+DTSTAMP:20260712T155923Z
+DTSTART:20260805T180000
+DTEND:20260805T183000
+SUMMARY:Call lead: Relax and Rebalance Massage (Spokane WA)
+LOCATION:915 W Broadway Ave\, Spokane\, WA 99201
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (509) 850-8976\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 65.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: massage therapist  |  City: Spokane WA\nAd
+ dress: 915 W Broadway Ave\, Spokane\, WA 99201\nSocials: instagram: https:
+ //www.instagram.com/relaxandrebalancemassage/\nDashboard: https://arjungan
+ esh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:massage-therapy-by-taylor-j-spokane-spokane-wa@lead-finder
+DTSTAMP:20260712T155923Z
+DTSTART:20260806T090000
+DTEND:20260806T093000
+SUMMARY:Call lead: Massage Therapy by Taylor J\, Spokane (Spokane WA)
+LOCATION:1106 N Washington St Ste d\, Spokane\, WA 99201
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (509) 944-6455\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 46\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: massage therapist  |  City: Spokane WA\nAd
+ dress: 1106 N Washington St Ste d\, Spokane\, WA 99201\nDashboard: https:/
+ /arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:air-conditioning-hvac-toledo-oh@lead-finder
+DTSTAMP:20260712T155923Z
+DTSTART:20260806T150000
+DTEND:20260806T153000
+SUMMARY:Call lead: Air Conditioning HVAC (Toledo OH)
+LOCATION:1003 N Westwood Ave\, Toledo\, OH 43607
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (419) 216-4196\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 42\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: electrician  |  City: Toledo OH\nAddress: 
+ 1003 N Westwood Ave\, Toledo\, OH 43607\nDashboard: https://arjunganesh201
+ 1.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
