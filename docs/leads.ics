@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:huli-huli-grill-food-truck-las-vegas-nv@lead-finder
-DTSTAMP:20260619T025358Z
-DTSTART:20260706T180000
-DTEND:20260706T183000
-SUMMARY:Call lead: Huli Huli Grill Food Truck (Las Vegas NV)
-LOCATION:4181 W Pioneer Ave\, Las Vegas\, NV 89102
-DESCRIPTION:Tier: Starter ($800 build + $150/mo)\nScore: 56.5  |  No-websit
- e confidence: 80.0%  |  Buyer signal: 33\nAffordability: Lean / early-stag
- e - best pitched Starter\nPhone: (702) 445-3509\nNiche: food truck  |  Cit
- y: Las Vegas NV\nAddress: 4181 W Pioneer Ave\, Las Vegas\, NV 89102\nSocia
- ls: instagram: https://www.instagram.com/hulihuligrill?igsh=MTIxYnR2MWh6Zn
- FiNw==\nDashboard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:monster-carpet-move-out-cleaning-el-paso-tx@lead-finder
-DTSTAMP:20260619T025751Z
-DTSTART:20260707T090000
-DTEND:20260707T093000
-SUMMARY:Call lead: MONSTER CARPET & MOVE-OUT CLEANING (El Paso TX)
-LOCATION:1945 Ratner Cir\, El Paso\, TX 79936
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (915) 667-9682\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 68.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 45\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: carpet cleaning  |  City: El Paso TX\nAddr
- ess: 1945 Ratner Cir\, El Paso\, TX 79936\nDashboard: https://arjunganesh2
- 011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:alumni-atelier-mobile-al@lead-finder
-DTSTAMP:20260619T025751Z
-DTSTART:20260707T150000
-DTEND:20260707T153000
-SUMMARY:Call lead: Alumni Atelier (Mobile AL)
-LOCATION:6715 Old Shell Rd Ste D\, Mobile\, AL 36608
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (251) 422-7565\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 67.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: bridal shop  |  City: Mobile AL\nAddress: 
- 6715 Old Shell Rd Ste D\, Mobile\, AL 36608\nSocials: facebook: https://ww
- w.facebook.com/AlumniAtelier/ | instagram: https://www.instagram.com/alumn
- iatelier/\nDashboard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:wholesale-flowers-by-keystone-trading-tucson-az@lead-finder
 DTSTAMP:20260619T025751Z
 DTSTART:20260707T180000
@@ -1913,6 +1855,25 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (515) 346-0104\nEmail: n
  book.com/p/Tortas-La-Silla-Food-Truck-61553402785567/ | instagram: https:/
  /www.instagram.com/p/DDPtpI0y1CS/\nDashboard: https://arjunganesh2011.gith
  ub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fox-creek-gifts-stuff-a-plush-spokane-wa@lead-finder
+DTSTAMP:20260714T161415Z
+DTSTART:20260808T150000
+DTEND:20260808T153000
+SUMMARY:Call lead: Fox Creek Gifts - Stuff a Plush (Spokane WA)
+LOCATION:4750 N Division St\, Spokane\, WA 99207
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (208) 999-0777\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 30\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: gift shop  |  City: Spokane WA\nAddress: 4
+ 750 N Division St\, Spokane\, WA 99207\nDashboard: https://arjunganesh2011
+ .github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
