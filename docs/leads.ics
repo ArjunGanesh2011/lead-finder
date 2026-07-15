@@ -8,63 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:wholesale-flowers-by-keystone-trading-tucson-az@lead-finder
-DTSTAMP:20260619T025751Z
-DTSTART:20260707T180000
-DTEND:20260707T183000
-SUMMARY:Call lead: Wholesale Flowers by Keystone Trading (Tucson AZ)
-LOCATION:4616 S 6th Ave\, Tucson\, AZ 85714
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (520) 869-1298\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: florist  |  City: Tucson AZ\nAddress: 4616
-  S 6th Ave\, Tucson\, AZ 85714\nDashboard: https://arjunganesh2011.github.
- io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:light-up-the-world-flowers-tucson-az@lead-finder
-DTSTAMP:20260619T025751Z
-DTSTART:20260708T090000
-DTEND:20260708T093000
-SUMMARY:Call lead: Light Up the World (Flowers) (Tucson AZ)
-LOCATION:2334 N 6th Ave\, Tucson\, AZ 85705
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (520) 789-1669\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 28\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: florist  |  City: Tucson AZ\nAddress: 2334
-  N 6th Ave\, Tucson\, AZ 85705\nDashboard: https://arjunganesh2011.github.
- io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:urban-pest-control-services-seattle-wa@lead-finder
-DTSTAMP:20260619T171941Z
-DTSTART:20260708T150000
-DTEND:20260708T153000
-SUMMARY:Call lead: Urban Pest Control Services (Seattle WA)
-LOCATION:2221 13th Ave E\, Seattle\, WA 98102
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (425) 970-8494\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 65.5  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 51\nAffordability: Established - go
- od fit for Growth\nNiche: pest control  |  City: Seattle WA\nAddress: 2221
-  13th Ave E\, Seattle\, WA 98102\nDashboard: https://arjunganesh2011.githu
- b.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:park-cities-gutter-and-window-cleaning-co-dallas-tx@lead-finder
 DTSTAMP:20260620T161756Z
 DTSTART:20260708T180000
