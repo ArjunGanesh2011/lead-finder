@@ -8,63 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:park-cities-gutter-and-window-cleaning-co-dallas-tx@lead-finder
-DTSTAMP:20260620T161756Z
-DTSTART:20260708T180000
-DTEND:20260708T183000
-SUMMARY:Call lead: Park Cities Gutter and Window Cleaning Co (Dallas TX)
-LOCATION:1111 W Mockingbird Ln Unit 7-3\, Dallas\, TX 75247
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (214) 696-1917\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 67.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: window cleaning  |  City: Dallas TX\nAddre
- ss: 1111 W Mockingbird Ln Unit 7-3\, Dallas\, TX 75247\nDashboard: https:/
- /arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:emerald-planet-catering-co-colorado-springs-co@lead-finder
-DTSTAMP:20260620T161756Z
-DTSTART:20260709T090000
-DTEND:20260709T093000
-SUMMARY:Call lead: Emerald Planet Catering Co (Colorado Springs CO)
-LOCATION:2833 E Pikes Peak Ave\, Colorado Springs\, CO 80909
-DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
- ier: Starter ($800 build + $150/mo)\nScore: 63.0  |  No-website confidence
- : 80.0%  |  Buyer signal: 46\nAffordability: Lean / early-stage - best pit
- ched Starter\nNiche: catering company  |  City: Colorado Springs CO\nAddre
- ss: 2833 E Pikes Peak Ave\, Colorado Springs\, CO 80909\nDashboard: https:
- //arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:b-s-appliances-llc-shreveport-la@lead-finder
-DTSTAMP:20260620T161756Z
-DTSTART:20260709T150000
-DTEND:20260709T153000
-SUMMARY:Call lead: B's Appliances LLC (Shreveport LA)
-LOCATION:5158 Interstate Dr #313\, Shreveport\, LA 71109
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (318) 550-1360\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 33\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: appliance repair  |  City: Shreveport LA\n
- Address: 5158 Interstate Dr #313\, Shreveport\, LA 71109\nDashboard: https
- ://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:sub-zero-repair-of-shreveport-shreveport-la@lead-finder
 DTSTAMP:20260620T161756Z
 DTSTART:20260709T180000
@@ -1817,6 +1760,83 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (208) 999-0777\nEmail: n
   - best pitched Starter\nNiche: gift shop  |  City: Spokane WA\nAddress: 4
  750 N Division St\, Spokane\, WA 99207\nDashboard: https://arjunganesh2011
  .github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:stormers-hardware-knoxville-tn@lead-finder
+DTSTAMP:20260716T161702Z
+DTSTART:20260808T180000
+DTEND:20260808T183000
+SUMMARY:Call lead: Stormers Hardware (Knoxville TN)
+LOCATION:8618 Asheville Hwy\, Knoxville\, TN 37924
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (865) 933-4867\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 74.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: hardware store  |  City: Knoxville TN\nAddress: 
+ 8618 Asheville Hwy\, Knoxville\, TN 37924\nSocials: instagram: https://www
+ .instagram.com/p/DG26i1zTjqN/ | facebook: https://www.facebook.com/stormer
+ shardware/\nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:quickbooks-customer-service-support-louisville-ky@lead-finder
+DTSTAMP:20260716T161702Z
+DTSTART:20260809T090000
+DTEND:20260809T093000
+SUMMARY:Call lead: QuickBooks Customer Service & Support (Louisville KY)
+LOCATION:13401 Shelbyville Rd #121\, Louisville\, KY 40223
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (888) 448-3146\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 56.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 32\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: bookkeeping service  |  City: Louisville K
+ Y\nAddress: 13401 Shelbyville Rd #121\, Louisville\, KY 40223\nDashboard: 
+ https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:food-truck-bh-salvadorean-seattle-wa@lead-finder
+DTSTAMP:20260716T161702Z
+DTSTART:20260809T150000
+DTEND:20260809T153000
+SUMMARY:Call lead: food truck -BH SALVADOREAN (Seattle WA)
+LOCATION:630 Elliott Ave W\, Seattle\, WA 98119
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (206) 795-2303\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 51.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 22\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Seattle WA\nAddress: 
+ 630 Elliott Ave W\, Seattle\, WA 98119\nDashboard: https://arjunganesh2011
+ .github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:clean-view-pressure-washing-utah-salt-lake-city-ut@lead-finder
+DTSTAMP:20260716T161702Z
+DTSTART:20260809T180000
+DTEND:20260809T183000
+SUMMARY:Call lead: Clean View Pressure Washing Utah (Salt Lake City UT)
+LOCATION:50 D St E\, Salt Lake City\, UT 84103
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (435) 554-9675\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 51.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 22\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: pressure washing  |  City: Salt Lake City 
+ UT\nAddress: 50 D St E\, Salt Lake City\, UT 84103\nDashboard: https://arj
+ unganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
