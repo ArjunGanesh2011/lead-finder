@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:sub-zero-repair-of-shreveport-shreveport-la@lead-finder
-DTSTAMP:20260620T161756Z
-DTSTART:20260709T180000
-DTEND:20260709T183000
-SUMMARY:Call lead: Sub Zero Repair of Shreveport (Shreveport LA)
-LOCATION:2102 Gen Jackson Pl\, Bossier City\, LA 71112
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (318) 617-4289\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 59.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 27\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: appliance repair  |  City: Shreveport LA\n
- Address: 2102 Gen Jackson Pl\, Bossier City\, LA 71112\nSocials: yelp: htt
- ps://www.yelp.com/biz/sub-zero-repair-of-shreveport-bossier-3\nDashboard: 
- https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:4-star-appliance-shreveport-la@lead-finder
-DTSTAMP:20260620T161756Z
-DTSTART:20260710T090000
-DTEND:20260710T093000
-SUMMARY:Call lead: 4 Star Appliance (Shreveport LA)
-LOCATION:5773 S Lakeshore Dr\, Shreveport\, LA 71119
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (318) 734-2975\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 53.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 27\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: appliance repair  |  City: Shreveport LA\n
- Address: 5773 S Lakeshore Dr\, Shreveport\, LA 71119\nDashboard: https://a
- rjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:lo-buck-chucks-appliance-repair-shreveport-la@lead-finder
-DTSTAMP:20260620T161756Z
-DTSTART:20260710T150000
-DTEND:20260710T153000
-SUMMARY:Call lead: Lo Buck Chucks Appliance repair (Shreveport LA)
-LOCATION:River Rd\, Shreveport\, LA 71105
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (318) 734-2975\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 53.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 27\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: appliance repair  |  City: Shreveport LA\n
- Address: River Rd\, Shreveport\, LA 71105\nDashboard: https://arjunganesh2
- 011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:heating-air-conditioning-of-portland-portland-or@lead-finder
 DTSTAMP:20260621T164514Z
 DTSTART:20260710T180000
@@ -1837,6 +1779,26 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (435) 554-9675\nEmail: n
   - best pitched Starter\nNiche: pressure washing  |  City: Salt Lake City 
  UT\nAddress: 50 D St E\, Salt Lake City\, UT 84103\nDashboard: https://arj
  unganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oh-so-chic-fashion-lounge-cleveland-oh@lead-finder
+DTSTAMP:20260717T161455Z
+DTSTART:20260810T090000
+DTEND:20260810T093000
+SUMMARY:Call lead: Oh So Chic Fashion Lounge (Cleveland OH)
+LOCATION:1008 E 152nd St\, Cleveland\, OH 44110
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (440) 742-4508\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 67.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 42\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: boutique  |  City: Cleveland OH\nAddress: 
+ 1008 E 152nd St\, Cleveland\, OH 44110\nSocials: facebook: https://www.fac
+ ebook.com/nijaevansohsochic/\nDashboard: https://arjunganesh2011.github.io
+ /lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead

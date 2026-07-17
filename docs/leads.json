@@ -1,10 +1,38 @@
 {
-  "generated": "2026-07-16T16:17:02.406995+00:00",
-  "count": 135,
-  "new_today": 4,
-  "queries_used_this_month": 480,
+  "generated": "2026-07-17T16:14:55.132239+00:00",
+  "count": 136,
+  "new_today": 1,
+  "queries_used_this_month": 510,
   "query_budget": 950,
   "leads": [
+    {
+      "business_name": "Oh So Chic Fashion Lounge",
+      "niche": "boutique",
+      "city": "Cleveland OH",
+      "slug": "oh-so-chic-fashion-lounge-cleveland-oh",
+      "phone": "(440) 742-4508",
+      "email": null,
+      "contact_name": null,
+      "instagram": null,
+      "address": "1008 E 152nd St, Cleveland, OH 44110",
+      "maps_url": "https://maps.google.com/?cid=6679688050352077294&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.9,
+      "review_count": 16,
+      "description": "Oh So Chic Fashion Lounge, Cleveland, Ohio. 298 likes \u00b7 231 were here. Oh So Chic Fashion Lounge is a Online Women's Clothing Boutique. Offering effortless styles for casua",
+      "socials": {
+        "facebook": "https://www.facebook.com/nijaevansohsochic/"
+      },
+      "no_website_confidence": 92.0,
+      "buyer_signal_score": 42,
+      "affordability": "Lean / early-stage - best pitched Starter",
+      "overall_score": 67.0,
+      "suggested_tier": "Starter",
+      "suggested_price": "$800 build + $150/mo",
+      "added": "2026-07-17",
+      "logo_image": null,
+      "palette": null,
+      "prompt_file": "prompts/oh-so-chic-fashion-lounge-cleveland-oh.md"
+    },
     {
       "business_name": "Stormers Hardware",
       "niche": "hardware store",
