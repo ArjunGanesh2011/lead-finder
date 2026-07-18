@@ -8,63 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:heating-air-conditioning-of-portland-portland-or@lead-finder
-DTSTAMP:20260621T164514Z
-DTSTART:20260710T180000
-DTEND:20260710T183000
-SUMMARY:Call lead: Heating & Air Conditioning of Portland (Portland OR)
-LOCATION:3708 SE Hawthorne Blvd\, Portland\, OR 97214
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (503) 483-2705\nEmail: n
- ot found\nTier: Premium ($3\,500 build + $499/mo)\nScore: 83.0  |  No-webs
- ite confidence: 80.0%  |  Buyer signal: 86\nAffordability: High earner - c
- omfortably fits Premium\nNiche: HVAC company  |  City: Portland OR\nAddres
- s: 3708 SE Hawthorne Blvd\, Portland\, OR 97214\nDashboard: https://arjung
- anesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:hsp-flooring-seattle-wa@lead-finder
-DTSTAMP:20260621T164514Z
-DTSTART:20260711T090000
-DTEND:20260711T093000
-SUMMARY:Call lead: HSP Flooring (Seattle WA)
-LOCATION:1718 Summit Ave Unit 203\, Seattle\, WA 98122
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (206) 537-0002\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 64.5  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 49\nAffordability: Established - go
- od fit for Growth\nNiche: flooring company  |  City: Seattle WA\nAddress: 
- 1718 Summit Ave Unit 203\, Seattle\, WA 98122\nDashboard: https://arjungan
- esh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:ascent-lawn-care-cincinnati-oh@lead-finder
-DTSTAMP:20260621T164514Z
-DTSTART:20260711T150000
-DTEND:20260711T153000
-SUMMARY:Call lead: Ascent Lawn Care (Cincinnati OH)
-LOCATION:1089 Morado Dr\, Cincinnati\, OH 45238
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (513) 787-5726\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: lawn care service  |  City: Cincinnati OH\
- nAddress: 1089 Morado Dr\, Cincinnati\, OH 45238\nDashboard: https://arjun
- ganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:the-chop-house-barber-shop-tulsa-ok@lead-finder
 DTSTAMP:20260622T184613Z
 DTSTART:20260711T180000
@@ -1799,6 +1742,83 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (440) 742-4508\nEmail: n
  1008 E 152nd St\, Cleveland\, OH 44110\nSocials: facebook: https://www.fac
  ebook.com/nijaevansohsochic/\nDashboard: https://arjunganesh2011.github.io
  /lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:low-cost-car-insurance-team-portland-or@lead-finder
+DTSTAMP:20260718T155627Z
+DTSTART:20260810T150000
+DTEND:20260810T153000
+SUMMARY:Call lead: Low Cost Car Insurance Team (Portland OR)
+LOCATION:657 NE Oregon St\, Portland\, OR 97232
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (629) 302-4962\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Portland OR\nAddress:
+  657 NE Oregon St\, Portland\, OR 97232\nDashboard: https://arjunganesh201
+ 1.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:low-cost-auto-insurance-source-portland-or@lead-finder
+DTSTAMP:20260718T155627Z
+DTSTART:20260810T180000
+DTEND:20260810T183000
+SUMMARY:Call lead: Low Cost Auto Insurance Source (Portland OR)
+LOCATION:1050 SW 6th Ave #1335\, Portland\, OR 97204
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (559) 540-9515\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: insurance agency  |  City: Portland OR\nAd
+ dress: 1050 SW 6th Ave #1335\, Portland\, OR 97204\nDashboard: https://arj
+ unganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ackron-appliance-services-repair-omaha-ne@lead-finder
+DTSTAMP:20260718T155627Z
+DTSTART:20260811T090000
+DTEND:20260811T093000
+SUMMARY:Call lead: Ackron Appliance Services & Repair (Omaha NE)
+LOCATION:12905 Dewey Ave\, Omaha\, NE 68154
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (402) 681-3865\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 59.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 27\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Omaha NE\nAddre
+ ss: 12905 Dewey Ave\, Omaha\, NE 68154\nDashboard: https://arjunganesh2011
+ .github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mi-linda-oaxaca-2-des-moines-ia@lead-finder
+DTSTAMP:20260718T155627Z
+DTSTART:20260811T150000
+DTEND:20260811T153000
+SUMMARY:Call lead: Mi Linda Oaxaca # 2 (Des Moines IA)
+LOCATION:3810 E 14th St\, Des Moines\, IA 50313
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (402) 617-7022\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 57.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 34\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Des Moines IA\nAddres
+ s: 3810 E 14th St\, Des Moines\, IA 50313\nSocials: facebook: https://m.fa
+ cebook.com/milindapuebla/\nDashboard: https://arjunganesh2011.github.io/le
+ ad-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
