@@ -8,63 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:the-chop-house-barber-shop-tulsa-ok@lead-finder
-DTSTAMP:20260622T184613Z
-DTSTART:20260711T180000
-DTEND:20260711T183000
-SUMMARY:Call lead: The Chop House Barber Shop (Tulsa OK)
-LOCATION:4960-H S 83rd E Ave\, Tulsa\, OK 74145
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (539) 525-0318\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 79.0  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 66\nAffordability: Established - go
- od fit for Growth\nNiche: barbershop  |  City: Tulsa OK\nAddress: 4960-H S
-  83rd E Ave\, Tulsa\, OK 74145\nDashboard: https://arjunganesh2011.github.
- io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:field-s-appliance-repair-birmingham-al@lead-finder
-DTSTAMP:20260622T184613Z
-DTSTART:20260712T090000
-DTEND:20260712T093000
-SUMMARY:Call lead: Field's Appliance Repair (Birmingham AL)
-LOCATION:1852 St Charles Ct\, Birmingham\, AL 35211
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (205) 923-8126\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 54.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 28\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: appliance repair  |  City: Birmingham AL\n
- Address: 1852 St Charles Ct\, Birmingham\, AL 35211\nDashboard: https://ar
- junganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:levi-s-bookkeeping-cleveland-oh@lead-finder
-DTSTAMP:20260623T171702Z
-DTSTART:20260712T150000
-DTEND:20260712T153000
-SUMMARY:Call lead: Levi's Bookkeeping (Cleveland OH)
-LOCATION:4493 Groveland Rd\, Cleveland\, OH 44118
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (513) 967-9038\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 64.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 48\nAffordability: Established - go
- od fit for Growth\nNiche: bookkeeping service  |  City: Cleveland OH\nAddr
- ess: 4493 Groveland Rd\, Cleveland\, OH 44118\nDashboard: https://arjungan
- esh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:swim-pools-inc-fort-wayne-in@lead-finder
 DTSTAMP:20260623T171702Z
 DTSTART:20260712T180000
@@ -1819,6 +1762,83 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (402) 617-7022\nEmail: n
  s: 3810 E 14th St\, Des Moines\, IA 50313\nSocials: facebook: https://m.fa
  cebook.com/milindapuebla/\nDashboard: https://arjunganesh2011.github.io/le
  ad-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sunshine-auto-insurance-team-springfield-mo@lead-finder
+DTSTAMP:20260719T155723Z
+DTSTART:20260811T180000
+DTEND:20260811T183000
+SUMMARY:Call lead: Sunshine Auto Insurance Team (Springfield MO)
+LOCATION:901 E St Louis St #1100\, Springfield\, MO 65806
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (669) 629-2230\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 57\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Springfield MO\nAddre
+ ss: 901 E St Louis St #1100\, Springfield\, MO 65806\nDashboard: https://a
+ rjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bandidos-tacos-and-burritos-virginia-beach-va@lead-finder
+DTSTAMP:20260719T155723Z
+DTSTART:20260812T090000
+DTEND:20260812T093000
+SUMMARY:Call lead: Bandidos tacos and burritos (Virginia Beach VA)
+LOCATION:661 Sandbridge Rd\, Virginia Beach\, VA 23456
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (757) 751-3680\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 67.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 55\nAffordability: Established - go
+ od fit for Growth\nNiche: food truck  |  City: Virginia Beach VA\nAddress:
+  661 Sandbridge Rd\, Virginia Beach\, VA 23456\nSocials: instagram: https:
+ //instagram.com/bandidos757?igshid=8gjlqy8llows\nDashboard: https://arjung
+ anesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:thuong-s-barbershop-worcester-ma@lead-finder
+DTSTAMP:20260719T155723Z
+DTSTART:20260812T150000
+DTEND:20260812T153000
+SUMMARY:Call lead: THUONG'S BARBERSHOP (Worcester MA)
+LOCATION:860 Main St\, Worcester\, MA 01610
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (508) 615-9385\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 59.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: barbershop  |  City: Worcester MA\nAddress
+ : 860 Main St\, Worcester\, MA 01610\nDashboard: https://arjunganesh2011.g
+ ithub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:los-brothers-barbershop-beauty-supply-worcester-ma@lead-finder
+DTSTAMP:20260719T155723Z
+DTSTART:20260812T180000
+DTEND:20260812T183000
+SUMMARY:Call lead: Los Brothers Barbershop & Beauty Supply (Worcester MA)
+LOCATION:1141 Main St Suite # 2\, Worcester\, MA 01603
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (774) 441-4525\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 59.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 38\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: barbershop  |  City: Worcester MA\nAddress
+ : 1141 Main St Suite # 2\, Worcester\, MA 01603\nDashboard: https://arjung
+ anesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
