@@ -8,67 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:swim-pools-inc-fort-wayne-in@lead-finder
-DTSTAMP:20260623T171702Z
-DTSTART:20260712T180000
-DTEND:20260712T183000
-SUMMARY:Call lead: Swim Pools Inc (Fort Wayne IN)
-LOCATION:515 Franke Park Dr\, Fort Wayne\, IN 46808
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (260) 482-4679\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 33\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: pool service  |  City: Fort Wayne IN\nAddr
- ess: 515 Franke Park Dr\, Fort Wayne\, IN 46808\nSocials: facebook: https:
- //www.facebook.com/p/Swim-Pools-Inc-100064847554152/ | yelp: https://www.y
- elp.com/biz/swim-pools-fort-wayne\nDashboard: https://arjunganesh2011.gith
- ub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:poochini-s-dog-grooming-pittsburgh-pa-pittsburgh-pa@lead-finder
-DTSTAMP:20260623T171702Z
-DTSTART:20260713T090000
-DTEND:20260713T093000
-SUMMARY:Call lead: Poochini's Dog Grooming (Pittsburgh PA) (Pittsburgh PA)
-LOCATION:7102 Meade St\, Pittsburgh\, PA 15208
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (412) 241-6488\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 59.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: dog grooming  |  City: Pittsburgh PA\nAddr
- ess: 7102 Meade St\, Pittsburgh\, PA 15208\nDashboard: https://arjunganesh
- 2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:budget-furniture-outlet-san-diego-ca@lead-finder
-DTSTAMP:20260624T170420Z
-DTSTART:20260713T150000
-DTEND:20260713T153000
-SUMMARY:Call lead: Budget Furniture Outlet (San Diego CA)
-LOCATION:1050 Highland Ave\, National City\, CA 91950
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (619) 477-7077\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 81.5  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 71\nAffordability: Established - go
- od fit for Growth\nNiche: furniture store  |  City: San Diego CA\nAddress:
-  1050 Highland Ave\, National City\, CA 91950\nSocials: yelp: https://www.
- yelp.com/biz/budget-furniture-outlet-national-city | facebook: https://www
- .facebook.com/budgetfo/\nDashboard: https://arjunganesh2011.github.io/lead
- -finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:grand-rapids-carpet-furniture-grand-rapids-mi@lead-finder
 DTSTAMP:20260625T171204Z
 DTSTART:20260713T180000
@@ -1839,6 +1778,70 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (774) 441-4525\nEmail: n
   - best pitched Starter\nNiche: barbershop  |  City: Worcester MA\nAddress
  : 1141 Main St Suite # 2\, Worcester\, MA 01603\nDashboard: https://arjung
  anesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cover-up-tattoos-jacksonville-fl@lead-finder
+DTSTAMP:20260720T162338Z
+DTSTART:20260813T090000
+DTEND:20260813T093000
+SUMMARY:Call lead: Cover Up Tattoos (Jacksonville FL)
+LOCATION:8518 103rd St\, Jacksonville\, FL 32210
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (904) 250-5295\nEmail: c
+ overuptattoos103rd@gmail.com\nTier: Growth ($1\,800 build + $299/mo)\nScor
+ e: 78.5  |  No-website confidence: 92.0%  |  Buyer signal: 65\nAffordabili
+ ty: Established - good fit for Growth\nNiche: tattoo shop  |  City: Jackso
+ nville FL\nAddress: 8518 103rd St\, Jacksonville\, FL 32210\nSocials: face
+ book: https://www.facebook.com/p/Cover-Up-Tattoos-100063522674669/ | yelp:
+  https://www.yelp.com/biz/cover-up-tattoos-jacksonville | tiktok: https://
+ www.tiktok.com/discover/cover-up-tattoos-jacksonville-fl | instagram: http
+ s://www.instagram.com/explore/locations/757018289/cover-up-tattoos/\nDashb
+ oard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bloom-auto-detailing-fresno-ca@lead-finder
+DTSTAMP:20260720T162338Z
+DTSTART:20260813T150000
+DTEND:20260813T153000
+SUMMARY:Call lead: Bloom Auto Detailing (Fresno CA)
+LOCATION:5348 N Antioch Ave\, Fresno\, CA 93722
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (559) 767-8404\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 67.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: auto detailing  |  City: Fresno CA\nAddres
+ s: 5348 N Antioch Ave\, Fresno\, CA 93722\nSocials: instagram: https://www
+ .instagram.com/Bloomautodetailing/ | tiktok: https://www.tiktok.com/discov
+ er/bloom-auto-detailing\nDashboard: https://arjunganesh2011.github.io/lead
+ -finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:convenience-store-souvenir-shop-indianapolis-in@lead-finder
+DTSTAMP:20260720T162338Z
+DTSTART:20260813T180000
+DTEND:20260813T183000
+SUMMARY:Call lead: Convenience store - souvenir shop (Indianapolis IN)
+LOCATION:Embassy Suites\, 110 W Washington St 3rd floor\, Indianapolis\, IN
+  46204
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (317) 972-8585\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 51.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 22\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: gift shop  |  City: Indianapolis IN\nAddre
+ ss: Embassy Suites\, 110 W Washington St 3rd floor\, Indianapolis\, IN 462
+ 04\nDashboard: https://arjunganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
