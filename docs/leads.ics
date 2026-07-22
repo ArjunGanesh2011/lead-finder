@@ -8,63 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:las-delicias-2-food-truck-detroit-mi@lead-finder
-DTSTAMP:20260625T171204Z
-DTSTART:20260714T180000
-DTEND:20260714T183000
-SUMMARY:Call lead: Las Delicias 2 Food Truck (Detroit MI)
-LOCATION:18900 Ford Rd\, Detroit\, MI 48228
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (313) 697-4152\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 57.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 34\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: Detroit MI\nAddress: 
- 18900 Ford Rd\, Detroit\, MI 48228\nDashboard: https://arjunganesh2011.git
- hub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:vtk-nails-formerly-best-nails-winston-salem-nc@lead-finder
-DTSTAMP:20260626T170025Z
-DTSTART:20260715T090000
-DTEND:20260715T093000
-SUMMARY:Call lead: VTK Nails formerly Best Nails (Winston-Salem NC)
-LOCATION:3890 Oxford Sta Wy\, Winston-Salem\, NC 27103
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (336) 287-5917\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 71.5  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 63\nAffordability: Established - go
- od fit for Growth\nNiche: nail salon  |  City: Winston-Salem NC\nAddress: 
- 3890 Oxford Sta Wy\, Winston-Salem\, NC 27103\nDashboard: https://arjungan
- esh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:blessed-services-llc-fort-wayne-in@lead-finder
-DTSTAMP:20260626T170025Z
-DTSTART:20260715T150000
-DTEND:20260715T153000
-SUMMARY:Call lead: Blessed Services LLC (Fort Wayne IN)
-LOCATION:3416 Lower Huntington Rd\, Fort Wayne\, IN 46809
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (260) 704-4892\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 65.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 50\nAffordability: Established - go
- od fit for Growth\nNiche: tree service  |  City: Fort Wayne IN\nAddress: 3
- 416 Lower Huntington Rd\, Fort Wayne\, IN 46809\nDashboard: https://arjung
- anesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:discount-store-hardware-houseware-philadelphia-pa@lead-finder
 DTSTAMP:20260626T170025Z
 DTSTART:20260715T180000
@@ -1938,6 +1881,25 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (346) 604-2076\nEmail: n
  7507 Fallbrook Dr\, Houston\, TX 77086\nSocials: facebook: https://www.fac
  ebook.com/share/17qZe4LpCB/?mibextid=wwXIfr\nDashboard: https://arjunganes
  h2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noela-nicole-homegrown-flowers-spokane-wa@lead-finder
+DTSTAMP:20260722T161929Z
+DTSTART:20260816T180000
+DTEND:20260816T183000
+SUMMARY:Call lead: Noela Nicole Homegrown Flowers (Spokane WA)
+LOCATION:7101 E Rutter Ave\, Spokane Valley\, WA 99212
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 65.5  |  No-website confidence
+ : 92.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: florist  |  City: Spokane WA\nAddress: 7101 E Rutter 
+ Ave\, Spokane Valley\, WA 99212\nDashboard: https://arjunganesh2011.github
+ .io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
