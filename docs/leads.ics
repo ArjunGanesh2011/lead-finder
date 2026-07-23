@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:discount-store-hardware-houseware-philadelphia-pa@lead-finder
-DTSTAMP:20260626T170025Z
-DTSTART:20260715T180000
-DTEND:20260715T183000
-SUMMARY:Call lead: Discount Store Hardware & Houseware (Philadelphia PA)
-LOCATION:1723 Cecil B. Moore Ave\, Philadelphia\, PA 19121
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (215) 678-0726\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: hardware store  |  City: Philadelphia PA\n
- Address: 1723 Cecil B. Moore Ave\, Philadelphia\, PA 19121\nDashboard: htt
- ps://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:greg-s-express-carpet-cleaning-restoration-services-mobile-al@lead-finder
-DTSTAMP:20260626T170025Z
-DTSTART:20260716T090000
-DTEND:20260716T093000
-SUMMARY:Call lead: Greg's Express Carpet Cleaning @Restoration Services (Mo
- bile AL)
-LOCATION:9351 Cottage Park Dr S\, Mobile\, AL 36695
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (251) 633-0993\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 59.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 38\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: carpet cleaning  |  City: Mobile AL\nAddre
- ss: 9351 Cottage Park Dr S\, Mobile\, AL 36695\nDashboard: https://arjunga
- nesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:cmcleaning-residential-commercial-philadelphia-pa@lead-finder
-DTSTAMP:20260627T160422Z
-DTSTART:20260716T150000
-DTEND:20260716T153000
-SUMMARY:Call lead: Cmcleaning Residential & Commercial (Philadelphia PA)
-LOCATION:4800 Fillmore Terrace\, Philadelphia\, PA 19124
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (267) 367-0392\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 80.0  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 68\nAffordability: Established - go
- od fit for Growth\nNiche: carpet cleaning  |  City: Philadelphia PA\nAddre
- ss: 4800 Fillmore Terrace\, Philadelphia\, PA 19124\nDashboard: https://ar
- junganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:air-systems-llc-heating-cooling-shreveport-la@lead-finder
 DTSTAMP:20260627T160422Z
 DTSTART:20260716T180000
@@ -1900,6 +1842,45 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
  ched Starter\nNiche: florist  |  City: Spokane WA\nAddress: 7101 E Rutter 
  Ave\, Spokane Valley\, WA 99212\nDashboard: https://arjunganesh2011.github
  .io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shine-harbor-window-cleaning-denver-co@lead-finder
+DTSTAMP:20260723T162541Z
+DTSTART:20260817T090000
+DTEND:20260817T093000
+SUMMARY:Call lead: Shine Harbor Window Cleaning (Denver CO)
+LOCATION:14829 E Evans Ave\, Aurora\, CO 80014
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (720) 507-6426\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 64.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 49\nAffordability: Established - go
+ od fit for Growth\nNiche: window cleaning  |  City: Denver CO\nAddress: 14
+ 829 E Evans Ave\, Aurora\, CO 80014\nDashboard: https://arjunganesh2011.gi
+ thub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:done-rite-moving-delivering-llc-springfield-mo@lead-finder
+DTSTAMP:20260723T162541Z
+DTSTART:20260817T150000
+DTEND:20260817T153000
+SUMMARY:Call lead: Done Rite Moving&Delivering LLC (Springfield MO)
+LOCATION:2322 N Fort Ave\, Springfield\, MO 65803
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (417) 414-0874\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 32\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: moving company  |  City: Springfield MO\nA
+ ddress: 2322 N Fort Ave\, Springfield\, MO 65803\nSocials: facebook: https
+ ://www.facebook.com/doneritemovinganddelivering/\nDashboard: https://arjun
+ ganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
