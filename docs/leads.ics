@@ -8,65 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:air-systems-llc-heating-cooling-shreveport-la@lead-finder
-DTSTAMP:20260627T160422Z
-DTSTART:20260716T180000
-DTEND:20260716T183000
-SUMMARY:Call lead: Air Systems\, LLC Heating & Cooling (Shreveport LA)
-LOCATION:9720 St Vincent Ave\, Shreveport\, LA 71106
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (318) 636-0823\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 69.5  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 59\nAffordability: Established - go
- od fit for Growth\nNiche: HVAC company  |  City: Shreveport LA\nAddress: 9
- 720 St Vincent Ave\, Shreveport\, LA 71106\nDashboard: https://arjunganesh
- 2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:easy-lawn-care-landscaping-llc-seattle-wa@lead-finder
-DTSTAMP:20260627T160422Z
-DTSTART:20260717T090000
-DTEND:20260717T093000
-SUMMARY:Call lead: Easy Lawn Care & Landscaping LLC (Seattle WA)
-LOCATION:7920 191st St SW\, Edmonds\, WA 98026
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (206) 900-2537\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 68.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 44\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: lawn care service  |  City: Seattle WA\nAd
- dress: 7920 191st St SW\, Edmonds\, WA 98026\nSocials: facebook: https://w
- ww.facebook.com/EasyLawnCare.biz/\nDashboard: https://arjunganesh2011.gith
- ub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pawz-n-clawz-grooming-oklahoma-city-ok@lead-finder
-DTSTAMP:20260627T160422Z
-DTSTART:20260717T150000
-DTEND:20260717T153000
-SUMMARY:Call lead: Pawz N’ Clawz Grooming (Oklahoma City OK)
-LOCATION:9101 S Western Ave Ste 118\, Oklahoma City\, OK 73139
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (405) 345-7299\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 66.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: dog grooming  |  City: Oklahoma City OK\nA
- ddress: 9101 S Western Ave Ste 118\, Oklahoma City\, OK 73139\nSocials: fa
- cebook: https://www.facebook.com/p/Pawz-N-Clawz-Grooming-61573753735975/\n
- Dashboard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:all-things-possible-catering-more-winston-salem-nc@lead-finder
 DTSTAMP:20260627T160422Z
 DTSTART:20260717T180000
@@ -1881,6 +1822,141 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (417) 414-0874\nEmail: n
  ddress: 2322 N Fort Ave\, Springfield\, MO 65803\nSocials: facebook: https
  ://www.facebook.com/doneritemovinganddelivering/\nDashboard: https://arjun
  ganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:black-inc-tattoos-las-vegas-las-vegas-nv@lead-finder
+DTSTAMP:20260724T164118Z
+DTSTART:20260817T180000
+DTEND:20260817T183000
+SUMMARY:Call lead: Black Inc Tattoos Las Vegas (Las Vegas NV)
+LOCATION:5280 S Eastern Ave\, Las Vegas\, NV 89119
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (205) 409-1062\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 73.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 66\nAffordability: Established - go
+ od fit for Growth\nNiche: tattoo shop  |  City: Las Vegas NV\nAddress: 528
+ 0 S Eastern Ave\, Las Vegas\, NV 89119\nDashboard: https://arjunganesh2011
+ .github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eden-affordable-auto-insurance-agency-llc-new-orleans-la@lead-finder
+DTSTAMP:20260724T164118Z
+DTSTART:20260818T090000
+DTEND:20260818T093000
+SUMMARY:Call lead: Eden Affordable Auto Insurance Agency LLC (New Orleans L
+ A)
+LOCATION:4035 Washington Ave Office #38A\, New Orleans\, LA 70125
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (209) 207-7398\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: New Orleans LA\nAddre
+ ss: 4035 Washington Ave Office #38A\, New Orleans\, LA 70125\nDashboard: h
+ ttps://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nct-auto-mobile-detailing-lexington-ky@lead-finder
+DTSTAMP:20260724T164118Z
+DTSTART:20260818T150000
+DTEND:20260818T153000
+SUMMARY:Call lead: NCT Auto Mobile Detailing (Lexington KY)
+LOCATION:1145 Appian Crossing Way\, Lexington\, KY 40517
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (859) 317-3863\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 66.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 53\nAffordability: Established - go
+ od fit for Growth\nNiche: auto detailing  |  City: Lexington KY\nAddress: 
+ 1145 Appian Crossing Way\, Lexington\, KY 40517\nDashboard: https://arjung
+ anesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lexington-detailing-llc-lexington-ky@lead-finder
+DTSTAMP:20260724T164118Z
+DTSTART:20260818T180000
+DTEND:20260818T183000
+SUMMARY:Call lead: Lexington detailing LLC (Lexington KY)
+LOCATION:1006 N Limestone\, Lexington\, KY 40505
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (859) 310-0021\nEmail: g
+ abrieldetailguyhernandez23@gmail.com\nTier: Starter ($800 build + $150/mo)
+ \nScore: 65.5  |  No-website confidence: 92.0%  |  Buyer signal: 39\nAffor
+ dability: Lean / early-stage - best pitched Starter\nNiche: auto detailing
+   |  City: Lexington KY\nAddress: 1006 N Limestone\, Lexington\, KY 40505\
+ nSocials: facebook: https://www.facebook.com/p/Lexington-Detailing-LLC-100
+ 071107808588/\nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:quickbooks-customer-service-support-oklahoma-city-ok@lead-finder
+DTSTAMP:20260724T164118Z
+DTSTART:20260819T090000
+DTEND:20260819T093000
+SUMMARY:Call lead: QuickBooks Customer Service & Support (Oklahoma City OK)
+LOCATION:1725 S Morgan Rd\, Yukon\, OK 73099
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (888) 379-9764\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 64.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 48\nAffordability: Established - go
+ od fit for Growth\nNiche: bookkeeping service  |  City: Oklahoma City OK\n
+ Address: 1725 S Morgan Rd\, Yukon\, OK 73099\nDashboard: https://arjungane
+ sh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cheap-auto-insurance-new-orleans-new-orleans-la@lead-finder
+DTSTAMP:20260724T164118Z
+DTSTART:20260819T150000
+DTEND:20260819T153000
+SUMMARY:Call lead: Cheap Auto Insurance New Orleans (New Orleans LA)
+LOCATION:320 N Carrollton Ave #204\, New Orleans\, LA 70119
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (346) 693-8872\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 47\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: insurance agency  |  City: New Orleans LA\
+ nAddress: 320 N Carrollton Ave #204\, New Orleans\, LA 70119\nDashboard: h
+ ttps://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:black-dynasty-tattoo-las-vegas-las-vegas-nv@lead-finder
+DTSTAMP:20260724T164118Z
+DTSTART:20260819T180000
+DTEND:20260819T183000
+SUMMARY:Call lead: Black Dynasty Tattoo las vegas (Las Vegas NV)
+LOCATION:1200 Stewart Ave\, Las Vegas\, NV 89101
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (725) 236-5874\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 44\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: tattoo shop  |  City: Las Vegas NV\nAddres
+ s: 1200 Stewart Ave\, Las Vegas\, NV 89101\nDashboard: https://arjunganesh
+ 2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
