@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:all-things-possible-catering-more-winston-salem-nc@lead-finder
-DTSTAMP:20260627T160422Z
-DTSTART:20260717T180000
-DTEND:20260717T183000
-SUMMARY:Call lead: All Things Possible Catering & More (Winston-Salem NC)
-LOCATION:619 E King St B\, King\, NC 27021
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (336) 408-5584\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 47\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: catering company  |  City: Winston-Salem N
- C\nAddress: 619 E King St B\, King\, NC 27021\nDashboard: https://arjungan
- esh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:the-latin-barbers-2-savannah-ga@lead-finder
-DTSTAMP:20260628T161030Z
-DTSTART:20260718T090000
-DTEND:20260718T093000
-SUMMARY:Call lead: The Latin Barbers 2 (Savannah GA)
-LOCATION:5796 Ogeechee Rd\, Savannah\, GA 31405
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (912) 272-8120\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 80.0  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 68\nAffordability: Established - go
- od fit for Growth\nNiche: barbershop  |  City: Savannah GA\nAddress: 5796 
- Ogeechee Rd\, Savannah\, GA 31405\nDashboard: https://arjunganesh2011.gith
- ub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:garage-door-repair-of-jacksonville-florida-llc-jacksonville-fl@lead-finder
-DTSTAMP:20260628T161030Z
-DTSTART:20260718T150000
-DTEND:20260718T153000
-SUMMARY:Call lead: Garage Door Repair Of Jacksonville Florida LLC (Jacksonv
- ille FL)
-LOCATION:8665 Baypine Rd #7741\, Jacksonville\, FL 32256
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (850) 446-2340\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 70.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 60\nAffordability: Established - go
- od fit for Growth\nNiche: garage door company  |  City: Jacksonville FL\nA
- ddress: 8665 Baypine Rd #7741\, Jacksonville\, FL 32256\nDashboard: https:
- //arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:quickbooks-customer-service-cleveland-oh@lead-finder
 DTSTAMP:20260628T161030Z
 DTSTART:20260718T180000
@@ -1957,6 +1899,199 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (725) 236-5874\nEmail: n
   - best pitched Starter\nNiche: tattoo shop  |  City: Las Vegas NV\nAddres
  s: 1200 Stewart Ave\, Las Vegas\, NV 89101\nDashboard: https://arjunganesh
  2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s-c-remodeling-of-general-contractors-tulsa-tulsa-ok@lead-finder
+DTSTAMP:20260725T160340Z
+DTSTART:20260820T090000
+DTEND:20260820T093000
+SUMMARY:Call lead: S & C Remodeling of General Contractors Tulsa (Tulsa OK)
+LOCATION:13696 S 267th E Ave\, Coweta\, OK 74429
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (918) 378-3746\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 79.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 66\nAffordability: Established - go
+ od fit for Growth\nNiche: general contractor  |  City: Tulsa OK\nAddress: 
+ 13696 S 267th E Ave\, Coweta\, OK 74429\nDashboard: https://arjunganesh201
+ 1.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:xclusive-barber-lounge-memphis-tn@lead-finder
+DTSTAMP:20260725T160340Z
+DTSTART:20260820T150000
+DTEND:20260820T153000
+SUMMARY:Call lead: Xclusive Barber Lounge (Memphis TN)
+LOCATION:1835 Union Ave Ste 101 Room 10&11\, Memphis\, TN 38104
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (901) 490-3749\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 67.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: barbershop  |  City: Memphis TN\nAddress: 
+ 1835 Union Ave Ste 101 Room 10&11\, Memphis\, TN 38104\nSocials: facebook:
+  https://www.facebook.com/XclusiveHouseOfKutz/ | instagram: https://www.in
+ stagram.com/explore/locations/864502266994882/xclusive-house-of-kutz/\nDas
+ hboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fadez-n-bladez-memphis-tn@lead-finder
+DTSTAMP:20260725T160340Z
+DTSTART:20260820T180000
+DTEND:20260820T183000
+SUMMARY:Call lead: Fadez-N-Bladez (Memphis TN)
+LOCATION:4664 Horn Lake Rd\, Memphis\, TN 38109
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (901) 240-9017\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: barbershop  |  City: Memphis TN\nAddress: 
+ 4664 Horn Lake Rd\, Memphis\, TN 38109\nDashboard: https://arjunganesh2011
+ .github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:grandview-appliance-repair-professionals-des-moines-ia@lead-finder
+DTSTAMP:20260725T160340Z
+DTSTART:20260821T090000
+DTEND:20260821T093000
+SUMMARY:Call lead: Grandview Appliance Repair Professionals (Des Moines IA)
+LOCATION:2912 E University Ave\, Des Moines\, IA 50317
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (515) 400-1481\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Des Moines IA\n
+ Address: 2912 E University Ave\, Des Moines\, IA 50317\nDashboard: https:/
+ /arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pioneer-appliance-repair-experts-des-moines-ia@lead-finder
+DTSTAMP:20260725T160340Z
+DTSTART:20260821T150000
+DTEND:20260821T153000
+SUMMARY:Call lead: Pioneer Appliance Repair Experts (Des Moines IA)
+LOCATION:1725 Hull Ave\, Des Moines\, IA 50313
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (515) 400-0894\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Des Moines IA\n
+ Address: 1725 Hull Ave\, Des Moines\, IA 50313\nDashboard: https://arjunga
+ nesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:woodridge-appliance-repair-solutions-des-moines-ia@lead-finder
+DTSTAMP:20260725T160340Z
+DTSTART:20260821T180000
+DTEND:20260821T183000
+SUMMARY:Call lead: Woodridge Appliance Repair Solutions (Des Moines IA)
+LOCATION:3703 SE 14th St\, Des Moines\, IA 50320
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (515) 400-1524\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Des Moines IA\n
+ Address: 3703 SE 14th St\, Des Moines\, IA 50320\nDashboard: https://arjun
+ ganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nolan-appliance-repair-solutions-des-moines-ia@lead-finder
+DTSTAMP:20260725T160340Z
+DTSTART:20260822T090000
+DTEND:20260822T093000
+SUMMARY:Call lead: Nolan Appliance Repair Solutions (Des Moines IA)
+LOCATION:2104 E 14th St\, Des Moines\, IA 50316
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (515) 400-1498\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Des Moines IA\n
+ Address: 2104 E 14th St\, Des Moines\, IA 50316\nDashboard: https://arjung
+ anesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:rapidresponse-appliance-repair-professionals-des-moines-ia@lead-finder
+DTSTAMP:20260725T160340Z
+DTSTART:20260822T150000
+DTEND:20260822T153000
+SUMMARY:Call lead: RapidResponse Appliance Repair Professionals (Des Moines
+  IA)
+LOCATION:833 1/2 E University Ave\, Des Moines\, IA 50316
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (515) 400-0889\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Des Moines IA\n
+ Address: 833 1/2 E University Ave\, Des Moines\, IA 50316\nDashboard: http
+ s://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:everett-appliance-repair-services-des-moines-ia@lead-finder
+DTSTAMP:20260725T160340Z
+DTSTART:20260822T180000
+DTEND:20260822T183000
+SUMMARY:Call lead: Everett Appliance Repair Services (Des Moines IA)
+LOCATION:1400 Maple St\, Des Moines\, IA 50316
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (515) 400-0885\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Des Moines IA\n
+ Address: 1400 Maple St\, Des Moines\, IA 50316\nDashboard: https://arjunga
+ nesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wycliffe-appliance-repair-professionals-des-moines-ia@lead-finder
+DTSTAMP:20260725T160340Z
+DTSTART:20260823T090000
+DTEND:20260823T093000
+SUMMARY:Call lead: Wycliffe Appliance Repair Professionals (Des Moines IA)
+LOCATION:4230 Fleur Dr #1\, Des Moines\, IA 50321
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website confidence
+ : 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: appliance repair  |  City: Des Moines IA\nAddress: 42
+ 30 Fleur Dr #1\, Des Moines\, IA 50321\nDashboard: https://arjunganesh2011
+ .github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
