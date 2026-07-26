@@ -8,63 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:quickbooks-customer-service-cleveland-oh@lead-finder
-DTSTAMP:20260628T161030Z
-DTSTART:20260718T180000
-DTEND:20260718T183000
-SUMMARY:Call lead: QuickBooks Customer Service (Cleveland OH)
-LOCATION:3710 Payne Ave\, Cleveland\, OH 44114
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (877) 833-1082\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 70.0  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 48\nAffordability: Established - go
- od fit for Growth\nNiche: bookkeeping service  |  City: Cleveland OH\nAddr
- ess: 3710 Payne Ave\, Cleveland\, OH 44114\nDashboard: https://arjunganesh
- 2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:state-bookkeeping-services-cleveland-oh@lead-finder
-DTSTAMP:20260628T161030Z
-DTSTART:20260719T090000
-DTEND:20260719T093000
-SUMMARY:Call lead: State Bookkeeping Services (Cleveland OH)
-LOCATION:2706 Lorain Ave\, Cleveland\, OH 44113
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (216) 631-2326\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 70.0  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 48\nAffordability: Established - go
- od fit for Growth\nNiche: bookkeeping service  |  City: Cleveland OH\nAddr
- ess: 2706 Lorain Ave\, Cleveland\, OH 44113\nDashboard: https://arjunganes
- h2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:julia-overhead-door-jacksonville-fl@lead-finder
-DTSTAMP:20260628T161030Z
-DTSTART:20260719T150000
-DTEND:20260719T153000
-SUMMARY:Call lead: Julia Overhead & Door (Jacksonville FL)
-LOCATION:21 N Julia St\, Jacksonville\, FL 32202
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (904) 204-2933\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 64.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 48\nAffordability: Established - go
- od fit for Growth\nNiche: garage door company  |  City: Jacksonville FL\nA
- ddress: 21 N Julia St\, Jacksonville\, FL 32202\nDashboard: https://arjung
- anesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:carpet-upholstery-cleaning-fresno-fresno-ca@lead-finder
 DTSTAMP:20260628T161030Z
 DTSTART:20260719T180000
@@ -2092,6 +2035,182 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
  ched Starter\nNiche: appliance repair  |  City: Des Moines IA\nAddress: 42
  30 Fleur Dr #1\, Des Moines\, IA 50321\nDashboard: https://arjunganesh2011
  .github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:willow-affordable-auto-insurance-raleigh-raleigh-nc@lead-finder
+DTSTAMP:20260726T160025Z
+DTSTART:20260823T150000
+DTEND:20260823T153000
+SUMMARY:Call lead: Willow Affordable Auto Insurance Raleigh (Raleigh NC)
+LOCATION:1033 Wade Ave #170\, Raleigh\, NC 27605
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (252) 278-0379\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 74.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 57\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Raleigh NC\nAddress: 
+ 1033 Wade Ave #170\, Raleigh\, NC 27605\nDashboard: https://arjunganesh201
+ 1.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wagner-carpet-cleaning-buffalo-ny@lead-finder
+DTSTAMP:20260726T160025Z
+DTSTART:20260823T180000
+DTEND:20260823T183000
+SUMMARY:Call lead: Wagner Carpet Cleaning (Buffalo NY)
+LOCATION:10360 Main St\, Clarence\, NY 14031
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (716) 440-4905\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 73.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 55\nAffordability: Established - go
+ od fit for Growth\nNiche: carpet cleaning  |  City: Buffalo NY\nAddress: 1
+ 0360 Main St\, Clarence\, NY 14031\nSocials: facebook: https://www.faceboo
+ k.com/wagnercarpetcleaning/ | yelp: https://www.yelp.com/biz/wagner-carpet
+ -cleaning-lockport-2 | instagram: https://www.instagram.com/wagnercarpetcl
+ eaning/\nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:buffalo-carpet-and-commercial-cleaning-buffalo-ny@lead-finder
+DTSTAMP:20260726T160025Z
+DTSTART:20260824T090000
+DTEND:20260824T093000
+SUMMARY:Call lead: Buffalo Carpet and Commercial Cleaning (Buffalo NY)
+LOCATION:156 Royal Ave\, Buffalo\, NY 14207
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 65.0  |  No-website confidence
+ : 92.0%  |  Buyer signal: 38\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: carpet cleaning  |  City: Buffalo NY\nAddress: 156 Ro
+ yal Ave\, Buffalo\, NY 14207\nDashboard: https://arjunganesh2011.github.io
+ /lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:la-vaquerita-food-truck-fort-worth-tx@lead-finder
+DTSTAMP:20260726T160025Z
+DTSTART:20260824T150000
+DTEND:20260824T153000
+SUMMARY:Call lead: La Vaquerita Food Truck (Fort Worth TX)
+LOCATION:2504 NE 28th St\, Fort Worth\, TX 76106
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 62.5  |  No-website confidence
+ : 92.0%  |  Buyer signal: 33\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: food truck  |  City: Fort Worth TX\nAddress: 2504 NE 
+ 28th St\, Fort Worth\, TX 76106\nSocials: facebook: https://www.facebook.c
+ om/taquizas.lavaquerita.7/ | tiktok: https://www.tiktok.com/discover/la-va
+ quera-food-truck-in-strasburg-vo\nDashboard: https://arjunganesh2011.githu
+ b.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:el-pescador-food-truck-fort-worth-tx@lead-finder
+DTSTAMP:20260726T160025Z
+DTSTART:20260824T180000
+DTEND:20260824T183000
+SUMMARY:Call lead: El Pescador Food Truck (Fort Worth TX)
+LOCATION:950 N University Dr\, Fort Worth\, TX 76114
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (817) 298-4770\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 33\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Fort Worth TX\nAddres
+ s: 950 N University Dr\, Fort Worth\, TX 76114\nSocials: facebook: https:/
+ /www.facebook.com/p/El-Pescador-Food-Truck-61550688299758/\nDashboard: htt
+ ps://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wheely-good-foods-truck-fort-worth-tx@lead-finder
+DTSTAMP:20260726T160025Z
+DTSTART:20260825T090000
+DTEND:20260825T093000
+SUMMARY:Call lead: Wheely Good Foods truck (Fort Worth TX)
+LOCATION:604 S Jennings St\, Fort Worth\, TX 76104
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website confidence
+ : 92.0%  |  Buyer signal: 31\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: food truck  |  City: Fort Worth TX\nAddress: 604 S Je
+ nnings St\, Fort Worth\, TX 76104\nDashboard: https://arjunganesh2011.gith
+ ub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:vision-affordable-auto-insurance-raleigh-nc@lead-finder
+DTSTAMP:20260726T160025Z
+DTSTART:20260825T150000
+DTEND:20260825T153000
+SUMMARY:Call lead: Vision Affordable Auto Insurance (Raleigh NC)
+LOCATION:127 W Hargett St #635\, Raleigh\, NC 27601
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (229) 358-8295\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: insurance agency  |  City: Raleigh NC\nAdd
+ ress: 127 W Hargett St #635\, Raleigh\, NC 27601\nDashboard: https://arjun
+ ganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:clark-auto-insurance-raleigh-nc@lead-finder
+DTSTAMP:20260726T160025Z
+DTSTART:20260825T180000
+DTEND:20260825T183000
+SUMMARY:Call lead: Clark Auto Insurance (Raleigh NC)
+LOCATION:112 Cox Ave Ste. 228\, Raleigh\, NC 27605
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (252) 415-7851\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: insurance agency  |  City: Raleigh NC\nAdd
+ ress: 112 Cox Ave Ste. 228\, Raleigh\, NC 27605\nDashboard: https://arjung
+ anesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:quickbooks-support-help-toledo-oh@lead-finder
+DTSTAMP:20260726T160025Z
+DTSTART:20260826T090000
+DTEND:20260826T093000
+SUMMARY:Call lead: QuickBooks Support & Help (Toledo OH)
+LOCATION:2516 W Sylvania Ave\, Toledo\, OH 43613
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (888) 512-0361\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 56.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 32\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: bookkeeping service  |  City: Toledo OH\nA
+ ddress: 2516 W Sylvania Ave\, Toledo\, OH 43613\nDashboard: https://arjung
+ anesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
