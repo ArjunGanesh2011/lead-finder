@@ -8,66 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:s-r-tree-service-llc-greensboro-nc@lead-finder
-DTSTAMP:20260629T173625Z
-DTSTART:20260720T180000
-DTEND:20260720T183000
-SUMMARY:Call lead: S&R tree service LLC (Greensboro NC)
-LOCATION:Calumet Pl\, Greensboro\, NC 27405
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (336) 848-2733\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 46\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: tree service  |  City: Greensboro NC\nAddr
- ess: Calumet Pl\, Greensboro\, NC 27405\nSocials: linkedin: https://www.li
- nkedin.com/in/S&Rtreeservise\nDashboard: https://arjunganesh2011.github.io
- /lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:exceptional-quality-bookkeeping-services-omaha-ne@lead-finder
-DTSTAMP:20260629T173625Z
-DTSTART:20260721T090000
-DTEND:20260721T093000
-SUMMARY:Call lead: Exceptional Quality Bookkeeping Services (Omaha NE)
-LOCATION:11420 Bauman Cir\, Omaha\, NE 68164
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (402) 995-1954\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 32\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: bookkeeping service  |  City: Omaha NE\nAd
- dress: 11420 Bauman Cir\, Omaha\, NE 68164\nSocials: yelp: https://www.yel
- p.com/biz/exceptional-quality-bookkeeping-services-omaha\nDashboard: https
- ://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:ave-w-catering-des-moines-ia@lead-finder
-DTSTAMP:20260630T170620Z
-DTSTART:20260721T150000
-DTEND:20260721T153000
-SUMMARY:Call lead: Ave W Catering (Des Moines IA)
-LOCATION:2004 E Hughes Ave\, Des Moines\, IA 50320
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (773) 988-1297\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 46\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: catering company  |  City: Des Moines IA\n
- Address: 2004 E Hughes Ave\, Des Moines\, IA 50320\nSocials: facebook: htt
- ps://www.facebook.com/AveWCatering/\nDashboard: https://arjunganesh2011.gi
- thub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:first-class-street-food-austin-tx@lead-finder
 DTSTAMP:20260630T170620Z
 DTSTART:20260721T180000
@@ -2269,6 +2209,44 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
  th St\, Minneapolis\, MN 55401\nSocials: facebook: https://www.facebook.co
  m/p/Sandwings-61576300403410/\nDashboard: https://arjunganesh2011.github.i
  o/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cutthroat-collective-barbershop-nashville-tn@lead-finder
+DTSTAMP:20260728T164013Z
+DTSTART:20260828T150000
+DTEND:20260828T153000
+SUMMARY:Call lead: Cutthroat Collective Barbershop (Nashville TN)
+LOCATION:210 25th Ave N Ste 72\, Nashville\, TN 37203
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 68.0  |  No-website confidence
+ : 92.0%  |  Buyer signal: 44\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: barbershop  |  City: Nashville TN\nAddress: 210 25th 
+ Ave N Ste 72\, Nashville\, TN 37203\nDashboard: https://arjunganesh2011.gi
+ thub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pikes-peak-gift-shop-colorado-springs-co@lead-finder
+DTSTAMP:20260728T164013Z
+DTSTART:20260828T180000
+DTEND:20260828T183000
+SUMMARY:Call lead: Pikes Peak Gift Shop (Colorado Springs CO)
+LOCATION:101 El Paso Blvd\, Manitou Springs\, CO 80829
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 58.0  |  No-website confidence
+ : 92.0%  |  Buyer signal: 24\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: gift shop  |  City: Colorado Springs CO\nAddress: 101
+  El Paso Blvd\, Manitou Springs\, CO 80829\nDashboard: https://arjunganesh
+ 2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
