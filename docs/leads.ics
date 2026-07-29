@@ -8,63 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:first-class-street-food-austin-tx@lead-finder
-DTSTAMP:20260630T170620Z
-DTSTART:20260721T180000
-DTEND:20260721T183000
-SUMMARY:Call lead: First Class Street Food (Austin TX)
-LOCATION:1606 E 6th St\, Austin\, TX 78702
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (737) 294-8629\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 58.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 36\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: Austin TX\nAddress: 1
- 606 E 6th St\, Austin\, TX 78702\nDashboard: https://arjunganesh2011.githu
- b.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:asian-halal-food-truck-austin-tx@lead-finder
-DTSTAMP:20260630T170620Z
-DTSTART:20260722T090000
-DTEND:20260722T093000
-SUMMARY:Call lead: Asian Halal Food Truck (Austin TX)
-LOCATION:312 E Rundberg Ln\, Austin\, TX 78753
-DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
- ier: Starter ($800 build + $150/mo)\nScore: 57.5  |  No-website confidence
- : 80.0%  |  Buyer signal: 35\nAffordability: Lean / early-stage - best pit
- ched Starter\nNiche: food truck  |  City: Austin TX\nAddress: 312 E Rundbe
- rg Ln\, Austin\, TX 78753\nDashboard: https://arjunganesh2011.github.io/le
- ad-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:greensboro-squeegee-window-cleaning-greensboro-nc@lead-finder
-DTSTAMP:20260701T171315Z
-DTSTART:20260722T150000
-DTEND:20260722T153000
-SUMMARY:Call lead: Greensboro Squeegee Window Cleaning (Greensboro NC)
-LOCATION:12 Dunlevy Way\, Greensboro\, NC 27455
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (336) 508-8995\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 66.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: window cleaning  |  City: Greensboro NC\nA
- ddress: 12 Dunlevy Way\, Greensboro\, NC 27455\nDashboard: https://arjunga
- nesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:massages-by-traci-fort-wayne-in@lead-finder
 DTSTAMP:20260701T171315Z
 DTSTART:20260722T180000
@@ -2247,6 +2190,160 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
  ched Starter\nNiche: gift shop  |  City: Colorado Springs CO\nAddress: 101
   El Paso Blvd\, Manitou Springs\, CO 80829\nDashboard: https://arjunganesh
  2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sacred-heart-tattoo-studio-el-paso-tx@lead-finder
+DTSTAMP:20260729T162106Z
+DTSTART:20260829T090000
+DTEND:20260829T093000
+SUMMARY:Call lead: Sacred Heart Tattoo Studio (El Paso TX)
+LOCATION:3012 Mountain Pass Blvd Bldg B-2\, Anthony\, TX 79821
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (575) 621-1058\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 80.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 68\nAffordability: Established - go
+ od fit for Growth\nNiche: tattoo shop  |  City: El Paso TX\nAddress: 3012 
+ Mountain Pass Blvd Bldg B-2\, Anthony\, TX 79821\nSocials: instagram: http
+ s://instagram.com/SacredHeartTattoosElPaso\nDashboard: https://arjunganesh
+ 2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sergei-affordable-auto-insurance-agency-denver-denver-co@lead-finder
+DTSTAMP:20260729T162106Z
+DTSTART:20260829T150000
+DTEND:20260829T153000
+SUMMARY:Call lead: Sergei Affordable Auto Insurance Agency Denver (Denver C
+ O)
+LOCATION:1290 Broadway #1703\, Denver\, CO 80203
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (206) 647-6958\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Denver CO\nAddress: 1
+ 290 Broadway #1703\, Denver\, CO 80203\nDashboard: https://arjunganesh2011
+ .github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:socal-plumber-san-diego-san-diego-ca@lead-finder
+DTSTAMP:20260729T162106Z
+DTSTART:20260829T180000
+DTEND:20260829T183000
+SUMMARY:Call lead: SoCal Plumber San Diego (San Diego CA)
+LOCATION:320 W Ash St\, San Diego\, CA 92101
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (619) 486-5672\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: plumber  |  City: San Diego CA\nAddress: 320 W A
+ sh St\, San Diego\, CA 92101\nDashboard: https://arjunganesh2011.github.io
+ /lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mobile-wood-floor-co-mobile-al@lead-finder
+DTSTAMP:20260729T162106Z
+DTSTART:20260830T090000
+DTEND:20260830T093000
+SUMMARY:Call lead: Mobile Wood Floor Co (Mobile AL)
+LOCATION:1216 E Interstate 65 Service Rd S\, Mobile\, AL 36609
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (251) 333-2422\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 64.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 49\nAffordability: Established - go
+ od fit for Growth\nNiche: flooring company  |  City: Mobile AL\nAddress: 1
+ 216 E Interstate 65 Service Rd S\, Mobile\, AL 36609\nDashboard: https://a
+ rjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gift-baskets-balloons-shop-birmingham-al@lead-finder
+DTSTAMP:20260729T162106Z
+DTSTART:20260830T150000
+DTEND:20260830T153000
+SUMMARY:Call lead: Gift baskets & Balloons shop (Birmingham AL)
+LOCATION:3040 Ensley Ave\, Birmingham\, AL 35208
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (205) 427-2065\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 34\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: gift shop  |  City: Birmingham AL\nAddress
+ : 3040 Ensley Ave\, Birmingham\, AL 35208\nDashboard: https://arjunganesh2
+ 011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:queen-on-wheels-food-truck-and-catering-new-orleans-la@lead-finder
+DTSTAMP:20260729T162106Z
+DTSTART:20260830T180000
+DTEND:20260830T183000
+SUMMARY:Call lead: Queen on Wheels Food Truck and Catering (New Orleans LA)
+LOCATION:1021 Convention Center Blvd\, New Orleans\, LA 70130
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (504) 931-8576\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 34\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: New Orleans LA\nAddre
+ ss: 1021 Convention Center Blvd\, New Orleans\, LA 70130\nDashboard: https
+ ://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-studio-on-pine-tulsa-ok@lead-finder
+DTSTAMP:20260729T162106Z
+DTSTART:20260831T090000
+DTEND:20260831T093000
+SUMMARY:Call lead: The Studio on Pine (Tulsa OK)
+LOCATION:750 S Cherokee St Ste p\, Catoosa\, OK 74015
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (918) 510-0725\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 42\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: photography studio  |  City: Tulsa OK\nAdd
+ ress: 750 S Cherokee St Ste p\, Catoosa\, OK 74015\nDashboard: https://arj
+ unganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ryan-s-fair-food-s-new-orleans-la@lead-finder
+DTSTAMP:20260729T162106Z
+DTSTART:20260831T150000
+DTEND:20260831T153000
+SUMMARY:Call lead: Ryan's Fair Food's (New Orleans LA)
+LOCATION:2845 S Claiborne Ave\, New Orleans\, LA 70125
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (989) 387-2349\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 48.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 17\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: New Orleans LA\nAddre
+ ss: 2845 S Claiborne Ave\, New Orleans\, LA 70125\nDashboard: https://arju
+ nganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
