@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:bookkeeping-by-jane-boise-id@lead-finder
-DTSTAMP:20260702T164842Z
-DTSTART:20260723T180000
-DTEND:20260723T183000
-SUMMARY:Call lead: Bookkeeping by Jane (Boise ID)
-LOCATION:3589 N Lena Ave\, Boise\, ID 83713
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (208) 807-3917\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 70.0  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 48\nAffordability: Established - go
- od fit for Growth\nNiche: bookkeeping service  |  City: Boise ID\nAddress:
-  3589 N Lena Ave\, Boise\, ID 83713\nDashboard: https://arjunganesh2011.gi
- thub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:ala-carte-bookkeeping-business-solutions-llc-boise-id@lead-finder
-DTSTAMP:20260702T164842Z
-DTSTART:20260724T090000
-DTEND:20260724T093000
-SUMMARY:Call lead: Ala Carte Bookkeeping & Business Solutions LLC. (Boise I
- D)
-LOCATION:10400 W Overland Rd #233\, Boise\, ID 83709
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (208) 602-8164\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 70.0  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 48\nAffordability: Established - go
- od fit for Growth\nNiche: bookkeeping service  |  City: Boise ID\nAddress:
-  10400 W Overland Rd #233\, Boise\, ID 83709\nDashboard: https://arjungane
- sh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:the-grooming-lounge-at-wigglebutt-hut-cincinnati-oh@lead-finder
-DTSTAMP:20260702T164842Z
-DTSTART:20260724T150000
-DTEND:20260724T153000
-SUMMARY:Call lead: The Grooming Lounge At WiggleButt Hut (Cincinnati OH)
-LOCATION:2709 Observatory Ave\, Cincinnati\, OH 45208
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (513) 906-1483\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 65.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 38\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: dog grooming  |  City: Cincinnati OH\nAddr
- ess: 2709 Observatory Ave\, Cincinnati\, OH 45208\nDashboard: https://arju
- nganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:n-nails-reno-nv@lead-finder
 DTSTAMP:20260703T162348Z
 DTSTART:20260724T180000
@@ -2423,6 +2365,45 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (316) 519-6617\nEmail: n
   111 N Mosley St Lower Level 100\, Wichita\, KS 67202\nSocials: instagram:
   https://www.instagram.com/abzolute_tattoosupply?igshid=ODA1NTc5OTg5Nw==\n
  Dashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chris-s-tree-service-winston-salem-nc@lead-finder
+DTSTAMP:20260731T164528Z
+DTSTART:20260903T090000
+DTEND:20260903T093000
+SUMMARY:Call lead: Chris's Tree Service (Winston-Salem NC)
+LOCATION:6883 NC-109\, Winston-Salem\, NC 27107
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (336) 847-1961\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 69.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 47\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: tree service  |  City: Winston-Salem NC\nA
+ ddress: 6883 NC-109\, Winston-Salem\, NC 27107\nDashboard: https://arjunga
+ nesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:father-and-son-carpet-care-sacramento-ca@lead-finder
+DTSTAMP:20260731T164528Z
+DTSTART:20260903T150000
+DTEND:20260903T153000
+SUMMARY:Call lead: Father And Son Carpet Care (Sacramento CA)
+LOCATION:1781 Heritage Ln\, Sacramento\, CA 95815
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (916) 541-1738\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 67.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: carpet cleaning  |  City: Sacramento CA\nA
+ ddress: 1781 Heritage Ln\, Sacramento\, CA 95815\nSocials: yelp: https://w
+ ww.yelp.com/biz/father-and-son-carpet-care-los-angeles\nDashboard: https:/
+ /arjunganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
