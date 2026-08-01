@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:n-nails-reno-nv@lead-finder
-DTSTAMP:20260703T162348Z
-DTSTART:20260724T180000
-DTEND:20260724T183000
-SUMMARY:Call lead: Nü Nails (Reno NV)
-LOCATION:137 Vassar St\, Reno\, NV 89502
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (775) 313-7623\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: nail salon  |  City: Reno NV\nAddress: 137
-  Vassar St\, Reno\, NV 89502\nDashboard: https://arjunganesh2011.github.io
- /lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pinkstack-food-truck-pittsburgh-pa@lead-finder
-DTSTAMP:20260703T162348Z
-DTSTART:20260725T090000
-DTEND:20260725T093000
-SUMMARY:Call lead: PinkStack Food Truck (Pittsburgh PA)
-LOCATION:2218 Homestead Duquesne Rd\, West Mifflin\, PA 15122
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (412) 652-2769\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 57.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 34\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: Pittsburgh PA\nAddres
- s: 2218 Homestead Duquesne Rd\, West Mifflin\, PA 15122\nDashboard: https:
- //arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:harrison-s-food-truck-halal-columbus-oh@lead-finder
-DTSTAMP:20260704T160119Z
-DTSTART:20260725T150000
-DTEND:20260725T153000
-SUMMARY:Call lead: Harrison's Food Truck - Halal (Columbus OH)
-LOCATION:350 W 3rd Ave\, Columbus\, OH 43201
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (614) 588-3773\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 76.5  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 61\nAffordability: Established - go
- od fit for Growth\nNiche: food truck  |  City: Columbus OH\nAddress: 350 W
-  3rd Ave\, Columbus\, OH 43201\nSocials: instagram: https://www.instagram.
- com/harrisonsfoodtruckhalal/?hl=en\nDashboard: https://arjunganesh2011.git
- hub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:heavenly-sunlight-window-cleaning-llc-toledo-oh@lead-finder
 DTSTAMP:20260704T160119Z
 DTSTART:20260725T180000
@@ -2404,6 +2346,44 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (916) 541-1738\nEmail: n
  ddress: 1781 Heritage Ln\, Sacramento\, CA 95815\nSocials: yelp: https://w
  ww.yelp.com/biz/father-and-son-carpet-care-los-angeles\nDashboard: https:/
  /arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s-s-accounting-services-inc-miami-fl@lead-finder
+DTSTAMP:20260801T155947Z
+DTSTART:20260903T180000
+DTEND:20260903T183000
+SUMMARY:Call lead: S & S Accounting Services\, INC. (Miami FL)
+LOCATION:3383 NW 7th St\, Miami\, FL 33125
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (305) 476-1833\nEmail: n
+ ot found\nTier: Premium ($3\,500 build + $499/mo)\nScore: 78.5  |  No-webs
+ ite confidence: 80.0%  |  Buyer signal: 77\nAffordability: High earner - c
+ omfortably fits Premium\nNiche: accounting firm  |  City: Miami FL\nAddres
+ s: 3383 NW 7th St\, Miami\, FL 33125\nDashboard: https://arjunganesh2011.g
+ ithub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ethical-accounting-llc-miami-fl@lead-finder
+DTSTAMP:20260801T155947Z
+DTSTART:20260904T090000
+DTEND:20260904T093000
+SUMMARY:Call lead: Ethical Accounting LLC (Miami FL)
+LOCATION:4550 NW 9th St #501\, Miami\, FL 33126
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (786) 817-1626\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: accounting firm  |  City: Miami FL\nAddress: 455
+ 0 NW 9th St #501\, Miami\, FL 33126\nDashboard: https://arjunganesh2011.gi
+ thub.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
