@@ -8,65 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:heavenly-sunlight-window-cleaning-llc-toledo-oh@lead-finder
-DTSTAMP:20260704T160119Z
-DTSTART:20260725T180000
-DTEND:20260725T183000
-SUMMARY:Call lead: Heavenly Sunlight Window Cleaning LLC (Toledo OH)
-LOCATION:6455 Monroe St\, Sylvania\, OH 43560
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (216) 376-8167\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 74.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 68\nAffordability: Established - go
- od fit for Growth\nNiche: window cleaning  |  City: Toledo OH\nAddress: 64
- 55 Monroe St\, Sylvania\, OH 43560\nDashboard: https://arjunganesh2011.git
- hub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:d-d-reno-nv@lead-finder
-DTSTAMP:20260704T160119Z
-DTSTART:20260726T090000
-DTEND:20260726T093000
-SUMMARY:Call lead: D & D (Reno NV)
-LOCATION:3024 Kietzke Ln\, Reno\, NV 89502
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (775) 825-1582\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 71.5  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 51\nAffordability: Established - go
- od fit for Growth\nNiche: barbershop  |  City: Reno NV\nAddress: 3024 Kiet
- zke Ln\, Reno\, NV 89502\nSocials: yelp: https://www.yelp.com/biz/d-and-d-
- overhead-door-reno | facebook: https://www.facebook.com/DandDBarbers/\nDas
- hboard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:shakers-public-house-food-truck-columbus-oh@lead-finder
-DTSTAMP:20260704T160119Z
-DTSTART:20260726T150000
-DTEND:20260726T153000
-SUMMARY:Call lead: Shakers Public House Food Truck (Columbus OH)
-LOCATION:4321 W Broad St\, Columbus\, OH 43228
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (614) 378-8803\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 33\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: Columbus OH\nAddress:
-  4321 W Broad St\, Columbus\, OH 43228\nSocials: facebook: https://www.fac
- ebook.com/groups/chickenwingconnoisseurs/posts/1365081207944741/\nDashboar
- d: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:king-of-gyrooh-food-truck-columbus-oh@lead-finder
 DTSTAMP:20260704T160119Z
 DTSTART:20260726T180000
@@ -2384,6 +2325,124 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (786) 817-1626\nEmail: n
  od fit for Growth\nNiche: accounting firm  |  City: Miami FL\nAddress: 455
  0 NW 9th St #501\, Miami\, FL 33126\nDashboard: https://arjunganesh2011.gi
  thub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:juan-carlos-auto-repair-llc-emmanuel-charlotte-nc@lead-finder
+DTSTAMP:20260802T155954Z
+DTSTART:20260904T150000
+DTEND:20260904T153000
+SUMMARY:Call lead: Juan Carlos Auto repair LLC Emmanuel (Charlotte NC)
+LOCATION:3520 N Tryon St\, Charlotte\, NC 28206
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (980) 531-2447\nEmail: n
+ ot found\nTier: Premium ($3\,500 build + $499/mo)\nScore: 78.0  |  No-webs
+ ite confidence: 80.0%  |  Buyer signal: 76\nAffordability: High earner - c
+ omfortably fits Premium\nNiche: auto repair shop  |  City: Charlotte NC\nA
+ ddress: 3520 N Tryon St\, Charlotte\, NC 28206\nDashboard: https://arjunga
+ nesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:brigman-s-construction-services-and-framing-contractor-springfield-mo@lead-finder
+DTSTAMP:20260802T155954Z
+DTSTART:20260904T180000
+DTEND:20260904T183000
+SUMMARY:Call lead: Brigman's Construction Services and Framing Contractor (
+ Springfield MO)
+LOCATION:2301 N National Ave\, Springfield\, MO 65803
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (417) 860-9751\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 74.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: general contractor  |  City: Springfield MO\nAdd
+ ress: 2301 N National Ave\, Springfield\, MO 65803\nDashboard: https://arj
+ unganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:alpha-omega-general-contracting-springfield-mo@lead-finder
+DTSTAMP:20260802T155954Z
+DTSTART:20260905T090000
+DTEND:20260905T093000
+SUMMARY:Call lead: Alpha & Omega General Contracting (Springfield MO)
+LOCATION:1722 N Sherman Ave\, Springfield\, MO 65803
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (417) 409-9326\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 74.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: general contractor  |  City: Springfield MO\nAdd
+ ress: 1722 N Sherman Ave\, Springfield\, MO 65803\nSocials: facebook: http
+ s://www.facebook.com/p/Alpha-Omega-General-Contracting-100064148377948/\nD
+ ashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tania-s-flower-creations-tucson-az@lead-finder
+DTSTAMP:20260802T155954Z
+DTSTART:20260905T150000
+DTEND:20260905T153000
+SUMMARY:Call lead: Tania's Flower Creations (Tucson AZ)
+LOCATION:650 W Calle Castile\, Tucson\, AZ 85756
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (520) 440-4715\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 67.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: florist  |  City: Tucson AZ\nAddress: 650 
+ W Calle Castile\, Tucson\, AZ 85756\nSocials: facebook: https://www.facebo
+ ok.com/p/Tanias-Flower-Creations-100090175316102/ | instagram: https://www
+ .instagram.com/reel/DXtFvOFDCQR/\nDashboard: https://arjunganesh2011.githu
+ b.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:longo-mobile-mechanic-charlotte-nc@lead-finder
+DTSTAMP:20260802T155954Z
+DTSTART:20260905T180000
+DTEND:20260905T183000
+SUMMARY:Call lead: Longo Mobile Mechanic (Charlotte NC)
+LOCATION:1418 Briar Creek Rd\, Charlotte\, NC 28205
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (704) 798-7937\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 67.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 54\nAffordability: Established - go
+ od fit for Growth\nNiche: auto repair shop  |  City: Charlotte NC\nAddress
+ : 1418 Briar Creek Rd\, Charlotte\, NC 28205\nDashboard: https://arjungane
+ sh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kreative-ink-tattoos-piercings-raleigh-nc@lead-finder
+DTSTAMP:20260802T155954Z
+DTSTART:20260906T090000
+DTEND:20260906T093000
+SUMMARY:Call lead: Kreative Ink Tattoos & Piercings (Raleigh NC)
+LOCATION:7520 Ramble Way\, Raleigh\, NC 27616
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (919) 348-1926\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 58.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 37\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: tattoo shop  |  City: Raleigh NC\nAddress:
+  7520 Ramble Way\, Raleigh\, NC 27616\nDashboard: https://arjunganesh2011.
+ github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
