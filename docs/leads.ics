@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:king-of-gyrooh-food-truck-columbus-oh@lead-finder
-DTSTAMP:20260704T160119Z
-DTSTART:20260726T180000
-DTEND:20260726T183000
-SUMMARY:Call lead: King of Gyrooh- Food truck (Columbus OH)
-LOCATION:1897 Northwest Blvd\, Columbus\, OH 43212
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (614) 900-5100\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: Columbus OH\nAddress:
-  1897 Northwest Blvd\, Columbus\, OH 43212\nSocials: instagram: https://ww
- w.instagram.com/kingofgyrooh?igsh=aWpkODZ4NXF6OTN1&utm_source=qr\nDashboar
- d: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:oklahoma-history-center-gift-shop-oklahoma-city-ok@lead-finder
-DTSTAMP:20260704T160119Z
-DTSTART:20260727T090000
-DTEND:20260727T093000
-SUMMARY:Call lead: Oklahoma History Center Gift Shop (Oklahoma City OK)
-LOCATION:800 Nazih Zuhdi Dr\, Oklahoma City\, OK 73105
-DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
- ier: Starter ($800 build + $150/mo)\nScore: 58.0  |  No-website confidence
- : 80.0%  |  Buyer signal: 36\nAffordability: Lean / early-stage - best pit
- ched Starter\nNiche: gift shop  |  City: Oklahoma City OK\nAddress: 800 Na
- zih Zuhdi Dr\, Oklahoma City\, OK 73105\nDashboard: https://arjunganesh201
- 1.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:squeegee-clean-window-services-toledo-oh@lead-finder
-DTSTAMP:20260704T160119Z
-DTSTART:20260727T150000
-DTEND:20260727T153000
-SUMMARY:Call lead: Squeegee Clean Window Services (Toledo OH)
-LOCATION:252 E Oakland St\, Toledo\, OH 43608
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (419) 409-2907\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 51.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 22\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: window cleaning  |  City: Toledo OH\nAddre
- ss: 252 E Oakland St\, Toledo\, OH 43608\nDashboard: https://arjunganesh20
- 11.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:omaha-emergency-neighborhood-plumbers-omaha-ne@lead-finder
 DTSTAMP:20260705T160840Z
 DTSTART:20260727T180000
@@ -2443,6 +2385,103 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (919) 348-1926\nEmail: n
   - best pitched Starter\nNiche: tattoo shop  |  City: Raleigh NC\nAddress:
   7520 Ramble Way\, Raleigh\, NC 27616\nDashboard: https://arjunganesh2011.
  github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mares-custom-jewelry-designs-worcester-ma@lead-finder
+DTSTAMP:20260803T170828Z
+DTSTART:20260906T150000
+DTEND:20260906T153000
+SUMMARY:Call lead: Mares Custom Jewelry Designs (Worcester MA)
+LOCATION:11 Foster St Ste 213\, Worcester\, MA 01608
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (774) 823-2079\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 72.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 53\nAffordability: Established - go
+ od fit for Growth\nNiche: jewelry store  |  City: Worcester MA\nAddress: 1
+ 1 Foster St Ste 213\, Worcester\, MA 01608\nSocials: facebook: https://www
+ .facebook.com/MaresCustomJewelryDesigns/ | instagram: https://www.instagra
+ m.com/marescustomjewelrydesigns/?hl=en\nDashboard: https://arjunganesh2011
+ .github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:affordable-auto-insurance-professionals-pittsburgh-pa@lead-finder
+DTSTAMP:20260803T170828Z
+DTSTART:20260906T180000
+DTEND:20260906T183000
+SUMMARY:Call lead: Affordable Auto Insurance Professionals (Pittsburgh PA)
+LOCATION:5001 Baum Blvd Ste 552\, Pittsburgh\, PA 15213
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (231) 977-8941\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Pittsburgh PA\nAddres
+ s: 5001 Baum Blvd Ste 552\, Pittsburgh\, PA 15213\nDashboard: https://arju
+ nganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:we-got-flavourz-tulsa-ok@lead-finder
+DTSTAMP:20260803T170828Z
+DTSTART:20260907T090000
+DTEND:20260907T093000
+SUMMARY:Call lead: We Got Flavourz (Tulsa OK)
+LOCATION:504 E 11th St\, Tulsa\, OK 74104
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (918) 541-3136\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 35\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Tulsa OK\nAddress: 50
+ 4 E 11th St\, Tulsa\, OK 74104\nDashboard: https://arjunganesh2011.github.
+ io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:local-edge-appliance-repair-boise-id@lead-finder
+DTSTAMP:20260803T170828Z
+DTSTART:20260907T150000
+DTEND:20260907T153000
+SUMMARY:Call lead: Local Edge Appliance Repair (Boise ID)
+LOCATION:617 N Orchard St\, Boise\, ID 83706
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (208) 675-7345\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Boise ID\nAddre
+ ss: 617 N Orchard St\, Boise\, ID 83706\nDashboard: https://arjunganesh201
+ 1.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:brothers-first-appliance-repair-boise-id@lead-finder
+DTSTAMP:20260803T170828Z
+DTSTART:20260907T180000
+DTEND:20260907T183000
+SUMMARY:Call lead: Brothers First Appliance Repair (Boise ID)
+LOCATION:414 N 1st St\, Boise\, ID 83712
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (208) 675-7377\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Boise ID\nAddre
+ ss: 414 N 1st St\, Boise\, ID 83712\nDashboard: https://arjunganesh2011.gi
+ thub.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
