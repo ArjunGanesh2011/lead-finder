@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:omaha-emergency-neighborhood-plumbers-omaha-ne@lead-finder
-DTSTAMP:20260705T160840Z
-DTSTART:20260727T180000
-DTEND:20260727T183000
-SUMMARY:Call lead: Omaha Emergency Neighborhood Plumbers (Omaha NE)
-LOCATION:2411 S 156th Cir #46E\, Omaha\, NE 68130
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (402) 256-6236\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 79.0  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 66\nAffordability: Established - go
- od fit for Growth\nNiche: plumber  |  City: Omaha NE\nAddress: 2411 S 156t
- h Cir #46E\, Omaha\, NE 68130\nDashboard: https://arjunganesh2011.github.i
- o/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:brothers-new-and-used-tires-auto-mechanics-and-mobile-services-greensboro-nc@lead-finder
-DTSTAMP:20260705T160840Z
-DTSTART:20260728T090000
-DTEND:20260728T093000
-SUMMARY:Call lead: Brothers New and Used Tires Auto mechanics and mobile se
- rvices (Greensboro NC)
-LOCATION:4626 W Gate City Blvd\, Greensboro\, NC 27407
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (240) 672-4162\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 74.5  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 69\nAffordability: Established - go
- od fit for Growth\nNiche: auto repair shop  |  City: Greensboro NC\nAddres
- s: 4626 W Gate City Blvd\, Greensboro\, NC 27407\nDashboard: https://arjun
- ganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:vargas-brothers-roofing-co-colorado-springs-co@lead-finder
-DTSTAMP:20260705T160840Z
-DTSTART:20260728T150000
-DTEND:20260728T153000
-SUMMARY:Call lead: Vargas Brothers Roofing Co (Colorado Springs CO)
-LOCATION:6221 Anders Ridge Ln\, Colorado Springs\, CO 80927
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (719) 212-2100\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 70.5  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 61\nAffordability: Established - go
- od fit for Growth\nNiche: roofing company  |  City: Colorado Springs CO\nA
- ddress: 6221 Anders Ridge Ln\, Colorado Springs\, CO 80927\nDashboard: htt
- ps://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:novara-skin-studio-knoxville-tn@lead-finder
 DTSTAMP:20260705T160840Z
 DTSTART:20260728T180000
@@ -2482,6 +2424,83 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (208) 675-7377\nEmail: n
   - best pitched Starter\nNiche: appliance repair  |  City: Boise ID\nAddre
  ss: 414 N 1st St\, Boise\, ID 83712\nDashboard: https://arjunganesh2011.gi
  thub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:orlando-hvac-air-conditioning-orlando-fl@lead-finder
+DTSTAMP:20260804T165035Z
+DTSTART:20260908T090000
+DTEND:20260908T093000
+SUMMARY:Call lead: Orlando HVAC Air Conditioning (Orlando FL)
+LOCATION:6000 N Orange Blossom Trl\, Orlando\, FL 32808
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (689) 698-5010\nEmail: n
+ ot found\nTier: Premium ($3\,500 build + $499/mo)\nScore: 82.0  |  No-webs
+ ite confidence: 80.0%  |  Buyer signal: 84\nAffordability: High earner - c
+ omfortably fits Premium\nNiche: HVAC company  |  City: Orlando FL\nAddress
+ : 6000 N Orange Blossom Trl\, Orlando\, FL 32808\nDashboard: https://arjun
+ ganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lonestar-automotive-el-paso-tx@lead-finder
+DTSTAMP:20260804T165035Z
+DTSTART:20260908T150000
+DTEND:20260908T153000
+SUMMARY:Call lead: LoneStar Automotive (El Paso TX)
+LOCATION:900 Hawkins A #1\, El Paso\, TX 79915
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (915) 234-7989\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 76.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 60\nAffordability: Established - go
+ od fit for Growth\nNiche: auto repair shop  |  City: El Paso TX\nAddress: 
+ 900 Hawkins A #1\, El Paso\, TX 79915\nSocials: yelp: https://www.yelp.com
+ /biz/lonestar-automotive-dallas\nDashboard: https://arjunganesh2011.github
+ .io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sacred-heart-studio-cleveland-cleveland-oh@lead-finder
+DTSTAMP:20260804T165035Z
+DTSTART:20260908T180000
+DTEND:20260908T183000
+SUMMARY:Call lead: Sacred Heart Studio - Cleveland (Cleveland OH)
+LOCATION:2376 Professor Ave\, Cleveland\, OH 44113
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (216) 407-1561\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 44\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: tattoo shop  |  City: Cleveland OH\nAddres
+ s: 2376 Professor Ave\, Cleveland\, OH 44113\nDashboard: https://arjungane
+ sh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:velvet-bliss-massage-spa-nashville-tn@lead-finder
+DTSTAMP:20260804T165035Z
+DTSTART:20260909T090000
+DTEND:20260909T093000
+SUMMARY:Call lead: Velvet bliss massage & spa (Nashville TN)
+LOCATION:1212 Stainback Ave\, Nashville\, TN 37207
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (216) 307-0499\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 59.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 38\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: massage therapist  |  City: Nashville TN\n
+ Address: 1212 Stainback Ave\, Nashville\, TN 37207\nDashboard: https://arj
+ unganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
