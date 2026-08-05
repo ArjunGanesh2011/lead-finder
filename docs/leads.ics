@@ -8,63 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:novara-skin-studio-knoxville-tn@lead-finder
-DTSTAMP:20260705T160840Z
-DTSTART:20260728T180000
-DTEND:20260728T183000
-SUMMARY:Call lead: Novara Skin Studio (Knoxville TN)
-LOCATION:5750 Western Ave\, Knoxville\, TN 37921
-DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
- ier: Starter ($800 build + $150/mo)\nScore: 59.0  |  No-website confidence
- : 80.0%  |  Buyer signal: 38\nAffordability: Lean / early-stage - best pit
- ched Starter\nNiche: tattoo shop  |  City: Knoxville TN\nAddress: 5750 Wes
- tern Ave\, Knoxville\, TN 37921\nDashboard: https://arjunganesh2011.github
- .io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:gift-shop-jungle-island-miami-fl@lead-finder
-DTSTAMP:20260705T160840Z
-DTSTART:20260729T090000
-DTEND:20260729T093000
-SUMMARY:Call lead: Gift Shop Jungle Island (Miami FL)
-LOCATION:1111 Parrot Jungle Trail\, Miami\, FL 33132
-DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
- ier: Starter ($800 build + $150/mo)\nScore: 58.0  |  No-website confidence
- : 80.0%  |  Buyer signal: 36\nAffordability: Lean / early-stage - best pit
- ched Starter\nNiche: gift shop  |  City: Miami FL\nAddress: 1111 Parrot Ju
- ngle Trail\, Miami\, FL 33132\nDashboard: https://arjunganesh2011.github.i
- o/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:luggage-gift-store-miami-fl@lead-finder
-DTSTAMP:20260705T160840Z
-DTSTART:20260729T150000
-DTEND:20260729T153000
-SUMMARY:Call lead: Luggage & Gift Store (Miami FL)
-LOCATION:2801 Collins Ave\, Miami\, FL 33140
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (305) 695-3911\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 57.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 22\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: gift shop  |  City: Miami FL\nAddress: 280
- 1 Collins Ave\, Miami\, FL 33140\nDashboard: https://arjunganesh2011.githu
- b.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:love-expression-s-flower-shop-kansas-city-mo@lead-finder
 DTSTAMP:20260706T174257Z
 DTSTART:20260729T180000
@@ -2501,6 +2444,66 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (216) 307-0499\nEmail: n
   - best pitched Starter\nNiche: massage therapist  |  City: Nashville TN\n
  Address: 1212 Stainback Ave\, Nashville\, TN 37207\nDashboard: https://arj
  unganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bright-nails-spa-mesa-az@lead-finder
+DTSTAMP:20260805T164145Z
+DTSTART:20260909T150000
+DTEND:20260909T153000
+SUMMARY:Call lead: Bright Nails & Spa (Mesa AZ)
+LOCATION:310 N Dobson Rd #2\, Mesa\, AZ 85201
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (480) 621-8912\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 71.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 51\nAffordability: Established - go
+ od fit for Growth\nNiche: nail salon  |  City: Mesa AZ\nAddress: 310 N Dob
+ son Rd #2\, Mesa\, AZ 85201\nSocials: yelp: https://www.yelp.com/biz/brigh
+ t-nails-and-spa-mesa\nDashboard: https://arjunganesh2011.github.io/lead-fi
+ nder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dog-grooming-spa-birmingham-al@lead-finder
+DTSTAMP:20260805T164145Z
+DTSTART:20260909T180000
+DTEND:20260909T183000
+SUMMARY:Call lead: DOG GROOMING SPA (Birmingham AL)
+LOCATION:3150 Overton Rd\, Birmingham\, AL 35223
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (205) 382-0486\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 65.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: dog grooming  |  City: Birmingham AL\nAddr
+ ess: 3150 Overton Rd\, Birmingham\, AL 35223\nSocials: facebook: https://w
+ ww.facebook.com/p/Dog-Grooming-Spa-61571462635721/\nDashboard: https://arj
+ unganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:matt-tortas-greensboro-nc@lead-finder
+DTSTAMP:20260805T164145Z
+DTSTART:20260910T090000
+DTEND:20260910T093000
+SUMMARY:Call lead: Matt tortas (Greensboro NC)
+LOCATION:2915 S Elm-Eugene St\, Greensboro\, NC 27406
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (336) 253-7054\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 64.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 36\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Greensboro NC\nAddres
+ s: 2915 S Elm-Eugene St\, Greensboro\, NC 27406\nSocials: tiktok: https://
+ www.tiktok.com/discover/matt-tortas-grensboro\nDashboard: https://arjungan
+ esh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
