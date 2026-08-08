@@ -8,65 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:tyler-s-services-shreveport-la@lead-finder
-DTSTAMP:20260708T163820Z
-DTSTART:20260731T180000
-DTEND:20260731T183000
-SUMMARY:Call lead: Tyler's services (Shreveport LA)
-LOCATION:8119 N Lakeshore Dr\, Shreveport\, LA 71107
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (318) 286-7610\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: junk removal  |  City: Shreveport LA\nAddr
- ess: 8119 N Lakeshore Dr\, Shreveport\, LA 71107\nSocials: facebook: https
- ://www.facebook.com/Tylers-services-101182235289288/\nDashboard: https://a
- rjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:keetons-electrical-solution-indianapolis-in@lead-finder
-DTSTAMP:20260709T172219Z
-DTSTART:20260801T090000
-DTEND:20260801T093000
-SUMMARY:Call lead: Keetons Electrical Solution (Indianapolis IN)
-LOCATION:1401 Ingomar St\, Indianapolis\, IN 46241
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (765) 543-8862\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 74.0  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 56\nAffordability: Established - go
- od fit for Growth\nNiche: electrician  |  City: Indianapolis IN\nAddress: 
- 1401 Ingomar St\, Indianapolis\, IN 46241\nDashboard: https://arjunganesh2
- 011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:tyler-s-overhead-doors-wichita-ks@lead-finder
-DTSTAMP:20260709T172219Z
-DTSTART:20260801T150000
-DTEND:20260801T153000
-SUMMARY:Call lead: Tyler's overhead doors (Wichita KS)
-LOCATION:2801 S St Paul St\, Wichita\, KS 67217
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (316) 932-2330\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 70.0  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 48\nAffordability: Established - go
- od fit for Growth\nNiche: garage door company  |  City: Wichita KS\nAddres
- s: 2801 S St Paul St\, Wichita\, KS 67217\nSocials: yelp: https://www.yelp
- .com/biz/tylers-overhead-doors-wichita\nDashboard: https://arjunganesh2011
- .github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:atlanta-discount-furniture-warehouse-atlanta-ga@lead-finder
 DTSTAMP:20260709T172219Z
 DTSTART:20260801T180000
@@ -2479,6 +2420,83 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (251) 471-4191\nEmail: n
   - best pitched Starter\nNiche: dog grooming  |  City: Mobile AL\nAddress:
   2501 Dauphin Island Pkwy\, Mobile\, AL 36605\nDashboard: https://arjungan
  esh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:palina-insurance-detroit-detroit-mi@lead-finder
+DTSTAMP:20260808T152831Z
+DTSTART:20260912T090000
+DTEND:20260912T093000
+SUMMARY:Call lead: Palina Insurance Detroit (Detroit MI)
+LOCATION:333 E Jefferson Ave #263\, Detroit\, MI 48226
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (313) 484-8465\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 57\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Detroit MI\nAddress: 
+ 333 E Jefferson Ave #263\, Detroit\, MI 48226\nDashboard: https://arjungan
+ esh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:twin-cities-elite-car-detailing-minneapolis-mn@lead-finder
+DTSTAMP:20260808T152831Z
+DTSTART:20260912T150000
+DTEND:20260912T153000
+SUMMARY:Call lead: Twin Cities Elite Car Detailing (Minneapolis MN)
+LOCATION:2333 NE Jackson St\, Minneapolis\, MN 55418
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (763) 292-3060\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: auto detailing  |  City: Minneapolis MN\nA
+ ddress: 2333 NE Jackson St\, Minneapolis\, MN 55418\nDashboard: https://ar
+ junganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:driveguard-affordable-auto-insurance-detroit-mi-detroit-mi@lead-finder
+DTSTAMP:20260808T152831Z
+DTSTART:20260912T180000
+DTEND:20260912T183000
+SUMMARY:Call lead: DriveGuard Affordable Auto Insurance - Detroit MI (Detro
+ it MI)
+LOCATION:400 Monroe St Ste 270\, Detroit\, MI 48226
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (231) 417-0601\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: insurance agency  |  City: Detroit MI\nAdd
+ ress: 400 Monroe St Ste 270\, Detroit\, MI 48226\nDashboard: https://arjun
+ ganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:vegas-signature-window-cleaning-las-vegas-nv@lead-finder
+DTSTAMP:20260808T152831Z
+DTSTART:20260913T090000
+DTEND:20260913T093000
+SUMMARY:Call lead: Vegas Signature Window Cleaning (Las Vegas NV)
+LOCATION:4005 N Kindhearted Ct\, North Las Vegas\, NV 89032
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (725) 216-7524\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 59.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: window cleaning  |  City: Las Vegas NV\nAd
+ dress: 4005 N Kindhearted Ct\, North Las Vegas\, NV 89032\nDashboard: http
+ s://arjunganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
