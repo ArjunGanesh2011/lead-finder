@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:atlanta-discount-furniture-warehouse-atlanta-ga@lead-finder
-DTSTAMP:20260709T172219Z
-DTSTART:20260801T180000
-DTEND:20260801T183000
-SUMMARY:Call lead: Atlanta discount furniture warehouse (Atlanta GA)
-LOCATION:5390 E Ponce de Leon Ave E\, Stone Mountain\, GA 30083
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (470) 406-1088\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 66.5  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 53\nAffordability: Established - go
- od fit for Growth\nNiche: furniture store  |  City: Atlanta GA\nAddress: 5
- 390 E Ponce de Leon Ave E\, Stone Mountain\, GA 30083\nDashboard: https://
- arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:drymasters-of-dayton-dayton-oh@lead-finder
-DTSTAMP:20260709T172219Z
-DTSTART:20260802T090000
-DTEND:20260802T093000
-SUMMARY:Call lead: drymasters of dayton (Dayton OH)
-LOCATION:2366 S Patterson Blvd\, Kettering\, OH 45409
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (937) 471-1208\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 65.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 38\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: carpet cleaning  |  City: Dayton OH\nAddre
- ss: 2366 S Patterson Blvd\, Kettering\, OH 45409\nSocials: yelp: https://w
- ww.yelp.com/biz/drymasters-of-dayton-dayton-3\nDashboard: https://arjungan
- esh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:divison-oil-spa-spokane-wa@lead-finder
-DTSTAMP:20260709T172219Z
-DTSTART:20260802T150000
-DTEND:20260802T153000
-SUMMARY:Call lead: Divison oil spa (Spokane WA)
-LOCATION:6011 N Division St\, Spokane\, WA 99208
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (509) 616-2258\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 46\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: day spa  |  City: Spokane WA\nAddress: 601
- 1 N Division St\, Spokane\, WA 99208\nDashboard: https://arjunganesh2011.g
- ithub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:everyday-massage-spa-salt-lake-city-ut@lead-finder
 DTSTAMP:20260709T172219Z
 DTSTART:20260802T180000
@@ -2497,6 +2439,85 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (725) 216-7524\nEmail: n
   - best pitched Starter\nNiche: window cleaning  |  City: Las Vegas NV\nAd
  dress: 4005 N Kindhearted Ct\, North Las Vegas\, NV 89032\nDashboard: http
  s://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lawn-care-philadelphia-philadelphia-pa@lead-finder
+DTSTAMP:20260809T153030Z
+DTSTART:20260913T150000
+DTEND:20260913T153000
+SUMMARY:Call lead: Lawn Care Philadelphia (Philadelphia PA)
+LOCATION:1224 Pine St\, Philadelphia\, PA 19107
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (844) 213-9501\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 66.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: lawn care service  |  City: Philadelphia P
+ A\nAddress: 1224 Pine St\, Philadelphia\, PA 19107\nDashboard: https://arj
+ unganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:round-of-a-pawz-grooming-fort-wayne-in@lead-finder
+DTSTAMP:20260809T153030Z
+DTSTART:20260913T180000
+DTEND:20260913T183000
+SUMMARY:Call lead: Round of a Pawz Grooming (Fort Wayne IN)
+LOCATION:6516 Winnebago Dr\, Fort Wayne\, IN 46815
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (260) 440-0798\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 66.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: dog grooming  |  City: Fort Wayne IN\nAddr
+ ess: 6516 Winnebago Dr\, Fort Wayne\, IN 46815\nSocials: facebook: https:/
+ /www.facebook.com/roundofapawzgrooming/ | instagram: https://www.instagram
+ .com/roundofapawz_grooming/\nDashboard: https://arjunganesh2011.github.io/
+ lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sunshine-window-cleaning-company-louisville-ky@lead-finder
+DTSTAMP:20260809T153030Z
+DTSTART:20260914T090000
+DTEND:20260914T093000
+SUMMARY:Call lead: Sunshine Window Cleaning Company (Louisville KY)
+LOCATION:3600 Chamberlain Ln #316\, Louisville\, KY 40241
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (502) 895-7982\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 64.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 37\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: window cleaning  |  City: Louisville KY\nA
+ ddress: 3600 Chamberlain Ln #316\, Louisville\, KY 40241\nSocials: faceboo
+ k: https://www.facebook.com/SunshineWindowCleaningCompany/\nDashboard: htt
+ ps://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wildflowers-bloom-bar-boise-id@lead-finder
+DTSTAMP:20260809T153030Z
+DTSTART:20260914T150000
+DTEND:20260914T153000
+SUMMARY:Call lead: Wildflowers Bloom Bar (Boise ID)
+LOCATION:218 Randall St\, Boise\, ID 83705
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (208) 695-6740\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 51.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 22\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: florist  |  City: Boise ID\nAddress: 218 R
+ andall St\, Boise\, ID 83705\nDashboard: https://arjunganesh2011.github.io
+ /lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
