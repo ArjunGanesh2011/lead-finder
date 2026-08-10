@@ -8,63 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:everyday-massage-spa-salt-lake-city-ut@lead-finder
-DTSTAMP:20260709T172219Z
-DTSTART:20260802T180000
-DTEND:20260802T183000
-SUMMARY:Call lead: Everyday Massage & Spa (Salt Lake City UT)
-LOCATION:Harvey Milk Blvd\, Salt Lake City\, UT 84111
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (810) 355-2785\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 59.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 38\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: massage therapist  |  City: Salt Lake City
-  UT\nAddress: Harvey Milk Blvd\, Salt Lake City\, UT 84111\nDashboard: htt
- ps://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:3-wolves-overhead-door-co-wichita-ks@lead-finder
-DTSTAMP:20260709T172219Z
-DTSTART:20260803T090000
-DTEND:20260803T093000
-SUMMARY:Call lead: 3 Wolves Overhead Door Co. (Wichita KS)
-LOCATION:11700 E Waterman St Lot 415\, Wichita\, KS 67207
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (316) 990-0662\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 56.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 32\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: garage door company  |  City: Wichita KS\n
- Address: 11700 E Waterman St Lot 415\, Wichita\, KS 67207\nDashboard: http
- s://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:luna-de-plata-jewelery-el-paso-tx@lead-finder
-DTSTAMP:20260710T165557Z
-DTSTART:20260803T150000
-DTEND:20260803T153000
-SUMMARY:Call lead: Luna De Plata Jewelery (El Paso TX)
-LOCATION:4942 Hondo Pass Dr\, El Paso\, TX 79924
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (915) 755-2838\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 75.5  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 71\nAffordability: Established - go
- od fit for Growth\nNiche: jewelry store  |  City: El Paso TX\nAddress: 494
- 2 Hondo Pass Dr\, El Paso\, TX 79924\nDashboard: https://arjunganesh2011.g
- ithub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:lady-d-gallery-bridal-wichita-ks@lead-finder
 DTSTAMP:20260710T165557Z
 DTSTART:20260803T180000
@@ -2518,6 +2461,67 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (208) 695-6740\nEmail: n
   - best pitched Starter\nNiche: florist  |  City: Boise ID\nAddress: 218 R
  andall St\, Boise\, ID 83705\nDashboard: https://arjunganesh2011.github.io
  /lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:atlanta-bookkeeping-services-quickbooks-myob-consulting-atlanta-ga@lead-finder
+DTSTAMP:20260810T155845Z
+DTSTART:20260914T180000
+DTEND:20260914T183000
+SUMMARY:Call lead: Atlanta Bookkeeping Services | QuickBooks & MYOB Consult
+ ing (Atlanta GA)
+LOCATION:170 Boulevard SE\, Atlanta\, GA 30312
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (404) 902-2089\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 66.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: bookkeeping service  |  City: Atlanta GA\n
+ Address: 170 Boulevard SE\, Atlanta\, GA 30312\nDashboard: https://arjunga
+ nesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:home-goods-warehouse-usa-toledo-oh@lead-finder
+DTSTAMP:20260810T155845Z
+DTSTART:20260915T090000
+DTEND:20260915T093000
+SUMMARY:Call lead: Home Goods Warehouse USA (Toledo OH)
+LOCATION:3901 Hill Ave Unit B\, Toledo\, OH 43607
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (419) 973-4355\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 65.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 38\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: furniture store  |  City: Toledo OH\nAddre
+ ss: 3901 Hill Ave Unit B\, Toledo\, OH 43607\nSocials: facebook: https://w
+ ww.facebook.com/LiquidationBidsToledo/ | yelp: https://www.yelp.com/biz/ho
+ me-goods-warehouse-usa-northwood\nDashboard: https://arjunganesh2011.githu
+ b.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:april-dailey-tattoos-mobile-al@lead-finder
+DTSTAMP:20260810T155845Z
+DTSTART:20260915T150000
+DTEND:20260915T153000
+SUMMARY:Call lead: April Dailey Tattoos (Mobile AL)
+LOCATION:762 Downtowner Loop W\, Mobile\, AL 36609
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website confidence
+ : 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: tattoo shop  |  City: Mobile AL\nAddress: 762 Downtow
+ ner Loop W\, Mobile\, AL 36609\nSocials: instagram: https://www.instagram.
+ com/april.tattoos?igsh=ODdzYW9vd2l0aGlk\nDashboard: https://arjunganesh201
+ 1.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
