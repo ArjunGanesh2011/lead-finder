@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:lady-d-gallery-bridal-wichita-ks@lead-finder
-DTSTAMP:20260710T165557Z
-DTSTART:20260803T180000
-DTEND:20260803T183000
-SUMMARY:Call lead: lady D gallery bridal (Wichita KS)
-LOCATION:102e E 21st St N\, Wichita\, KS 67214
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (316) 883-8936\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 66.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: bridal shop  |  City: Wichita KS\nAddress:
-  102e E 21st St N\, Wichita\, KS 67214\nSocials: facebook: https://www.fac
- ebook.com/DioceladyD/ | instagram: https://www.instagram.com/ladydgalleryb
- ridal/\nDashboard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:snacktopus-food-truck-kansas-city-mo@lead-finder
-DTSTAMP:20260710T165557Z
-DTSTART:20260804T090000
-DTEND:20260804T093000
-SUMMARY:Call lead: SNACKTOPUS FOOD TRUCK (Kansas City MO)
-LOCATION:6816 N Church Rd\, Pleasant Valley\, MO 64068
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (816) 945-1414\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 57.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 34\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: Kansas City MO\nAddre
- ss: 6816 N Church Rd\, Pleasant Valley\, MO 64068\nDashboard: https://arju
- nganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:lc-s-hamburger-food-truck-kansas-city-mo@lead-finder
-DTSTAMP:20260710T165557Z
-DTSTART:20260804T150000
-DTEND:20260804T153000
-SUMMARY:Call lead: LC's Hamburger Food Truck (Kansas City MO)
-LOCATION:10805 N Marsh Ave\, Kansas City\, MO 64157
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (816) 896-5715\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 56.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 33\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: Kansas City MO\nAddre
- ss: 10805 N Marsh Ave\, Kansas City\, MO 64157\nDashboard: https://arjunga
- nesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:my-shop-auto-repair-tires-new-orleans-la@lead-finder
 DTSTAMP:20260711T155541Z
 DTSTART:20260804T180000
@@ -2522,6 +2464,47 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
  ner Loop W\, Mobile\, AL 36609\nSocials: instagram: https://www.instagram.
  com/april.tattoos?igsh=ODdzYW9vd2l0aGlk\nDashboard: https://arjunganesh201
  1.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:anna-s-nails-and-spa-shreveport-la@lead-finder
+DTSTAMP:20260811T160013Z
+DTSTART:20260915T180000
+DTEND:20260915T183000
+SUMMARY:Call lead: Anna's Nails and Spa (Shreveport LA)
+LOCATION:4424 Youree Dr\, Shreveport\, LA 71105
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (318) 562-3909\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 67.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 42\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: nail salon  |  City: Shreveport LA\nAddres
+ s: 4424 Youree Dr\, Shreveport\, LA 71105\nSocials: facebook: https://www.
+ facebook.com/p/Annas-Nails-and-Spa-100063768484708/\nDashboard: https://ar
+ junganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hello-atlanta-atlanta-ga@lead-finder
+DTSTAMP:20260811T160013Z
+DTSTART:20260916T090000
+DTEND:20260916T093000
+SUMMARY:Call lead: Hello Atlanta (Atlanta GA)
+LOCATION:250 Park Ave W NW Unit 101\, Atlanta\, GA 30313
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (404) 223-0411\nEmail: m
+ arketing@avenuesgifts.com\nTier: Starter ($800 build + $150/mo)\nScore: 64
+ .0  |  No-website confidence: 92.0%  |  Buyer signal: 36\nAffordability: L
+ ean / early-stage - best pitched Starter\nNiche: gift shop  |  City: Atlan
+ ta GA\nAddress: 250 Park Ave W NW Unit 101\, Atlanta\, GA 30313\nSocials: 
+ facebook: https://www.facebook.com/p/Hello-Atlanta-100085146792199/ | yelp
+ : https://www.yelp.com/biz/hello-atlanta-atlanta\nDashboard: https://arjun
+ ganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
