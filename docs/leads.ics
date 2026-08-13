@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:relax-and-rebalance-massage-spokane-wa@lead-finder
-DTSTAMP:20260712T155923Z
-DTSTART:20260805T180000
-DTEND:20260805T183000
-SUMMARY:Call lead: Relax and Rebalance Massage (Spokane WA)
-LOCATION:915 W Broadway Ave\, Spokane\, WA 99201
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (509) 850-8976\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 65.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: massage therapist  |  City: Spokane WA\nAd
- dress: 915 W Broadway Ave\, Spokane\, WA 99201\nSocials: instagram: https:
- //www.instagram.com/relaxandrebalancemassage/\nDashboard: https://arjungan
- esh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:massage-therapy-by-taylor-j-spokane-spokane-wa@lead-finder
-DTSTAMP:20260712T155923Z
-DTSTART:20260806T090000
-DTEND:20260806T093000
-SUMMARY:Call lead: Massage Therapy by Taylor J\, Spokane (Spokane WA)
-LOCATION:1106 N Washington St Ste d\, Spokane\, WA 99201
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (509) 944-6455\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 46\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: massage therapist  |  City: Spokane WA\nAd
- dress: 1106 N Washington St Ste d\, Spokane\, WA 99201\nDashboard: https:/
- /arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:air-conditioning-hvac-toledo-oh@lead-finder
-DTSTAMP:20260712T155923Z
-DTSTART:20260806T150000
-DTEND:20260806T153000
-SUMMARY:Call lead: Air Conditioning HVAC (Toledo OH)
-LOCATION:1003 N Westwood Ave\, Toledo\, OH 43607
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (419) 216-4196\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 42\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: electrician  |  City: Toledo OH\nAddress: 
- 1003 N Westwood Ave\, Toledo\, OH 43607\nDashboard: https://arjunganesh201
- 1.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:shreveport-s-roofing-pros-shreveport-la@lead-finder
 DTSTAMP:20260713T171214Z
 DTSTART:20260806T180000
@@ -2544,6 +2486,85 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (317) 341-3580\nEmail: n
   - best pitched Starter\nNiche: bookkeeping service  |  City: Indianapolis
   IN\nAddress: 10693 Newgate Ln\, Indianapolis\, IN 46231\nDashboard: https
  ://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:envy-nail-llc-phoenix-az@lead-finder
+DTSTAMP:20260813T155816Z
+DTSTART:20260918T090000
+DTEND:20260918T093000
+SUMMARY:Call lead: Envy Nail LLC (Phoenix AZ)
+LOCATION:3425 W Thunderbird Rd\, Phoenix\, AZ 85053
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (563) 742-0223\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 80.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 68\nAffordability: Established - go
+ od fit for Growth\nNiche: nail salon  |  City: Phoenix AZ\nAddress: 3425 W
+  Thunderbird Rd\, Phoenix\, AZ 85053\nSocials: instagram: https://www.inst
+ agram.com/popular/envy-nail-llc/\nDashboard: https://arjunganesh2011.githu
+ b.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:idolco-electric-inc-winston-salem-nc@lead-finder
+DTSTAMP:20260813T155816Z
+DTSTART:20260918T150000
+DTEND:20260918T153000
+SUMMARY:Call lead: IdolCo Electric Inc (Winston-Salem NC)
+LOCATION:1465 Plaza S Dr b\, Kernersville\, NC 27284
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (336) 423-4504\nEmail: i
+ dolcoelectric@gmail.com\nTier: Growth ($1\,800 build + $299/mo)\nScore: 77
+ .0  |  No-website confidence: 92.0%  |  Buyer signal: 62\nAffordability: E
+ stablished - good fit for Growth\nNiche: electrician  |  City: Winston-Sal
+ em NC\nAddress: 1465 Plaza S Dr b\, Kernersville\, NC 27284\nSocials: face
+ book: https://www.facebook.com/IdolCoElectric/\nDashboard: https://arjunga
+ nesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:on-the-spot-carpet-upholstery-chattanooga-tn@lead-finder
+DTSTAMP:20260813T155816Z
+DTSTART:20260918T180000
+DTEND:20260918T183000
+SUMMARY:Call lead: On The Spot Carpet & Upholstery (Chattanooga TN)
+LOCATION:1603 Keeble St\, Chattanooga\, TN 37412
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (423) 394-1311\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 65.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 38\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: carpet cleaning  |  City: Chattanooga TN\n
+ Address: 1603 Keeble St\, Chattanooga\, TN 37412\nSocials: yelp: https://w
+ ww.yelp.com/biz/on-the-spot-carpet-and-upholstery-cleaning-east-ridge\nDas
+ hboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:schmig-bookkeeping-services-spokane-wa@lead-finder
+DTSTAMP:20260813T155816Z
+DTSTART:20260919T090000
+DTEND:20260919T093000
+SUMMARY:Call lead: Schmig Bookkeeping Services (Spokane WA)
+LOCATION:1412 N Post St C3\, Spokane\, WA 99201
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (509) 793-8211\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 64.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 48\nAffordability: Established - go
+ od fit for Growth\nNiche: bookkeeping service  |  City: Spokane WA\nAddres
+ s: 1412 N Post St C3\, Spokane\, WA 99201\nDashboard: https://arjunganesh2
+ 011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
