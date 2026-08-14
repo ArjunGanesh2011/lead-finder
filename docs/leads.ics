@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:shreveport-s-roofing-pros-shreveport-la@lead-finder
-DTSTAMP:20260713T171214Z
-DTSTART:20260806T180000
-DTEND:20260806T183000
-SUMMARY:Call lead: Shreveport's Roofing Pros (Shreveport LA)
-LOCATION:702 Elmwood St\, Shreveport\, LA 71104
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (318) 225-8125\nEmail: n
- ot found\nTier: Premium ($3\,500 build + $499/mo)\nScore: 80.5  |  No-webs
- ite confidence: 80.0%  |  Buyer signal: 81\nAffordability: High earner - c
- omfortably fits Premium\nNiche: roofing company  |  City: Shreveport LA\nA
- ddress: 702 Elmwood St\, Shreveport\, LA 71104\nDashboard: https://arjunga
- nesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:virginia-sr22-insurance-agency-richmond-va@lead-finder
-DTSTAMP:20260713T171214Z
-DTSTART:20260807T090000
-DTEND:20260807T093000
-SUMMARY:Call lead: Virginia SR22 Insurance Agency (Richmond VA)
-LOCATION:1111 E Main St #902\, Richmond\, VA 23219
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (239) 448-2357\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.5  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 57\nAffordability: Established - go
- od fit for Growth\nNiche: insurance agency  |  City: Richmond VA\nAddress:
-  1111 E Main St #902\, Richmond\, VA 23219\nDashboard: https://arjunganesh
- 2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:j-c-s-termite-pest-control-services-worcester-ma-worcester-ma@lead-finder
-DTSTAMP:20260713T171214Z
-DTSTART:20260807T150000
-DTEND:20260807T153000
-SUMMARY:Call lead: J.C.S Termite Pest Control Services Worcester\, MA (Worc
- ester MA)
-LOCATION:70 Whitmarsh Ave\, Worcester\, MA 01606
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (351) 224-9573\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 68.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 45\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: pest control  |  City: Worcester MA\nAddre
- ss: 70 Whitmarsh Ave\, Worcester\, MA 01606\nDashboard: https://arjunganes
- h2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:flower-boulevard-no-location-call-text-dallas-tx@lead-finder
 DTSTAMP:20260713T171214Z
 DTSTART:20260807T180000
@@ -2565,6 +2507,82 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (509) 793-8211\nEmail: n
  od fit for Growth\nNiche: bookkeeping service  |  City: Spokane WA\nAddres
  s: 1412 N Post St C3\, Spokane\, WA 99201\nDashboard: https://arjunganesh2
  011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:taquer-a-rosita-s-mexican-food-truck-tucson-az@lead-finder
+DTSTAMP:20260814T155040Z
+DTSTART:20260919T150000
+DTEND:20260919T153000
+SUMMARY:Call lead: Taquería Rosita's | Mexican Food Truck (Tucson AZ)
+LOCATION:2733-2801 E Valencia Rd\, Tucson\, AZ 85706
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (520) 909-5800\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 70.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 60\nAffordability: Established - go
+ od fit for Growth\nNiche: food truck  |  City: Tucson AZ\nAddress: 2733-28
+ 01 E Valencia Rd\, Tucson\, AZ 85706\nDashboard: https://arjunganesh2011.g
+ ithub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:davison-appliance-services-springfield-mo@lead-finder
+DTSTAMP:20260814T155040Z
+DTSTART:20260919T180000
+DTEND:20260919T183000
+SUMMARY:Call lead: Davison Appliance Services (Springfield MO)
+LOCATION:3313 W Seminole St\, Springfield\, MO 65807
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (417) 379-2445\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 67.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Springfield MO\
+ nAddress: 3313 W Seminole St\, Springfield\, MO 65807\nDashboard: https://
+ arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:appliance-repair-tech-springfield-springfield-mo@lead-finder
+DTSTAMP:20260814T155040Z
+DTSTART:20260920T090000
+DTEND:20260920T093000
+SUMMARY:Call lead: Appliance Repair Tech Springfield (Springfield MO)
+LOCATION:415 S Robberson Ave\, Springfield\, MO 65806
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (417) 605-6667\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Springfield MO\
+ nAddress: 415 S Robberson Ave\, Springfield\, MO 65806\nDashboard: https:/
+ /arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bright-appliance-repair-masters-springfield-mo@lead-finder
+DTSTAMP:20260814T155040Z
+DTSTART:20260920T150000
+DTEND:20260920T153000
+SUMMARY:Call lead: Bright Appliance Repair Masters (Springfield MO)
+LOCATION:927 Glenstone Ave\, Springfield\, MO 65802
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (417) 458-9438\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Springfield MO\
+ nAddress: 927 Glenstone Ave\, Springfield\, MO 65802\nDashboard: https://a
+ rjunganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
