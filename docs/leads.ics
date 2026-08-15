@@ -8,66 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:flower-boulevard-no-location-call-text-dallas-tx@lead-finder
-DTSTAMP:20260713T171214Z
-DTSTART:20260807T180000
-DTEND:20260807T183000
-SUMMARY:Call lead: Flower Boulevard (no location-call/text) (Dallas TX)
-LOCATION:1955 Market Center Blvd\, Dallas\, TX 75207
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (267) 414-3355\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 66.5  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 53\nAffordability: Established - go
- od fit for Growth\nNiche: florist  |  City: Dallas TX\nAddress: 1955 Marke
- t Center Blvd\, Dallas\, TX 75207\nSocials: instagram: https://www.instagr
- am.com/flower_boulevard13?igsh=MXI4aTJubjl5NDAwaA%3D%3D&utm_source=qr\nDas
- hboard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:tortas-la-silla-food-truck-des-moines-ia@lead-finder
-DTSTAMP:20260713T171214Z
-DTSTART:20260808T090000
-DTEND:20260808T093000
-SUMMARY:Call lead: Tortas La Silla Food Truck (Des Moines IA)
-LOCATION:1925 NW 86th St\, Clive\, IA 50325
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (515) 346-0104\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 35\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: Des Moines IA\nAddres
- s: 1925 NW 86th St\, Clive\, IA 50325\nSocials: facebook: https://www.face
- book.com/p/Tortas-La-Silla-Food-Truck-61553402785567/ | instagram: https:/
- /www.instagram.com/p/DDPtpI0y1CS/\nDashboard: https://arjunganesh2011.gith
- ub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:fox-creek-gifts-stuff-a-plush-spokane-wa@lead-finder
-DTSTAMP:20260714T161415Z
-DTSTART:20260808T150000
-DTEND:20260808T153000
-SUMMARY:Call lead: Fox Creek Gifts - Stuff a Plush (Spokane WA)
-LOCATION:4750 N Division St\, Spokane\, WA 99207
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (208) 999-0777\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 30\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: gift shop  |  City: Spokane WA\nAddress: 4
- 750 N Division St\, Spokane\, WA 99207\nDashboard: https://arjunganesh2011
- .github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:stormers-hardware-knoxville-tn@lead-finder
 DTSTAMP:20260716T161702Z
 DTSTART:20260808T180000
@@ -2583,6 +2523,103 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (417) 458-9438\nEmail: n
   - best pitched Starter\nNiche: appliance repair  |  City: Springfield MO\
  nAddress: 927 Glenstone Ave\, Springfield\, MO 65802\nDashboard: https://a
  rjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fresno-catering-service-fresno-ca@lead-finder
+DTSTAMP:20260815T151859Z
+DTSTART:20260920T180000
+DTEND:20260920T183000
+SUMMARY:Call lead: Fresno Catering Service (Fresno CA)
+LOCATION:103 N Broadway St\, Fresno\, CA 93701
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (559) 441-7134\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 70.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 48\nAffordability: Established - go
+ od fit for Growth\nNiche: catering company  |  City: Fresno CA\nAddress: 1
+ 03 N Broadway St\, Fresno\, CA 93701\nSocials: yelp: https://www.yelp.com/
+ biz/fresno-catering-service-fresno\nDashboard: https://arjunganesh2011.git
+ hub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:low-cost-auto-insurance-premier-sacramento-ca@lead-finder
+DTSTAMP:20260815T151859Z
+DTSTART:20260921T090000
+DTEND:20260921T093000
+SUMMARY:Call lead: Low Cost Auto Insurance Premier (Sacramento CA)
+LOCATION:4600 47th Ave Ste 135\, Sacramento\, CA 95824
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (771) 243-1550\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Sacramento CA\nAddres
+ s: 4600 47th Ave Ste 135\, Sacramento\, CA 95824\nDashboard: https://arjun
+ ganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:brightwell-sr22-insurance-agency-california-sacramento-ca@lead-finder
+DTSTAMP:20260815T151859Z
+DTSTART:20260921T150000
+DTEND:20260921T153000
+SUMMARY:Call lead: Brightwell SR22 Insurance Agency California (Sacramento 
+ CA)
+LOCATION:3311 Northgate Blvd\, Sacramento\, CA 95834
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (209) 224-9775\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Sacramento CA\nAddres
+ s: 3311 Northgate Blvd\, Sacramento\, CA 95834\nDashboard: https://arjunga
+ nesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:advisory-affordable-auto-insurance-corp-sacramento-ca@lead-finder
+DTSTAMP:20260815T151859Z
+DTSTART:20260921T180000
+DTEND:20260921T183000
+SUMMARY:Call lead: Advisory Affordable Auto Insurance Corp (Sacramento CA)
+LOCATION:3400 Broadway #150\, Sacramento\, CA 95817
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (464) 266-2974\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 66.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 53\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Sacramento CA\nAddres
+ s: 3400 Broadway #150\, Sacramento\, CA 95817\nDashboard: https://arjungan
+ esh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:insurance-agency-unit-sacramento-sacramento-ca@lead-finder
+DTSTAMP:20260815T151859Z
+DTSTART:20260922T090000
+DTEND:20260922T093000
+SUMMARY:Call lead: Insurance Agency Unit Sacramento (Sacramento CA)
+LOCATION:524 10th St\, Sacramento\, CA 95814
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (279) 237-1087\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: insurance agency  |  City: Sacramento CA\n
+ Address: 524 10th St\, Sacramento\, CA 95814\nDashboard: https://arjungane
+ sh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
