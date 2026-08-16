@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:stormers-hardware-knoxville-tn@lead-finder
-DTSTAMP:20260716T161702Z
-DTSTART:20260808T180000
-DTEND:20260808T183000
-SUMMARY:Call lead: Stormers Hardware (Knoxville TN)
-LOCATION:8618 Asheville Hwy\, Knoxville\, TN 37924
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (865) 933-4867\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 74.0  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 56\nAffordability: Established - go
- od fit for Growth\nNiche: hardware store  |  City: Knoxville TN\nAddress: 
- 8618 Asheville Hwy\, Knoxville\, TN 37924\nSocials: instagram: https://www
- .instagram.com/p/DG26i1zTjqN/ | facebook: https://www.facebook.com/stormer
- shardware/\nDashboard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:quickbooks-customer-service-support-louisville-ky@lead-finder
-DTSTAMP:20260716T161702Z
-DTSTART:20260809T090000
-DTEND:20260809T093000
-SUMMARY:Call lead: QuickBooks Customer Service & Support (Louisville KY)
-LOCATION:13401 Shelbyville Rd #121\, Louisville\, KY 40223
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (888) 448-3146\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 56.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 32\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: bookkeeping service  |  City: Louisville K
- Y\nAddress: 13401 Shelbyville Rd #121\, Louisville\, KY 40223\nDashboard: 
- https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:food-truck-bh-salvadorean-seattle-wa@lead-finder
-DTSTAMP:20260716T161702Z
-DTSTART:20260809T150000
-DTEND:20260809T153000
-SUMMARY:Call lead: food truck -BH SALVADOREAN (Seattle WA)
-LOCATION:630 Elliott Ave W\, Seattle\, WA 98119
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (206) 795-2303\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 51.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 22\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: Seattle WA\nAddress: 
- 630 Elliott Ave W\, Seattle\, WA 98119\nDashboard: https://arjunganesh2011
- .github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:clean-view-pressure-washing-utah-salt-lake-city-ut@lead-finder
 DTSTAMP:20260716T161702Z
 DTSTART:20260809T180000
@@ -2620,6 +2562,67 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (279) 237-1087\nEmail: n
   - best pitched Starter\nNiche: insurance agency  |  City: Sacramento CA\n
  Address: 524 10th St\, Sacramento\, CA 95814\nDashboard: https://arjungane
  sh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:honesty-mobile-mechanic-cincinnati-oh@lead-finder
+DTSTAMP:20260816T152033Z
+DTSTART:20260922T150000
+DTEND:20260922T153000
+SUMMARY:Call lead: Honesty Mobile Mechanic (Cincinnati OH)
+LOCATION:1599 Thompson Heights Ave\, Cincinnati\, OH 45223
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (330) 819-4410\nEmail: n
+ ot found\nTier: Premium ($3\,500 build + $499/mo)\nScore: 84.0  |  No-webs
+ ite confidence: 92.0%  |  Buyer signal: 76\nAffordability: High earner - c
+ omfortably fits Premium\nNiche: auto repair shop  |  City: Cincinnati OH\n
+ Address: 1599 Thompson Heights Ave\, Cincinnati\, OH 45223\nSocials: faceb
+ ook: https://www.facebook.com/p/Honesty-Mobile-Mechanic-61553420470870/ | 
+ instagram: https://www.instagram.com/popular/honesty-mobile-mechanic-cinci
+ nnati/\nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fort-worth-ink-fort-worth-tx@lead-finder
+DTSTAMP:20260816T152033Z
+DTSTART:20260922T180000
+DTEND:20260922T183000
+SUMMARY:Call lead: Fort Worth Ink (Fort Worth TX)
+LOCATION:3300 Western Center Blvd Ste 106\, Fort Worth\, TX 76137
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (817) 454-9110\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 76.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 61\nAffordability: Established - go
+ od fit for Growth\nNiche: tattoo shop  |  City: Fort Worth TX\nAddress: 33
+ 00 Western Center Blvd Ste 106\, Fort Worth\, TX 76137\nSocials: facebook:
+  https://www.facebook.com/fineartstattoo/ | instagram: https://www.instagr
+ am.com/ftw.ink.tx/?hl=en\nDashboard: https://arjunganesh2011.github.io/lea
+ d-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:los-rollin-bros-food-truck-catering-mobile-al@lead-finder
+DTSTAMP:20260816T152033Z
+DTSTART:20260923T090000
+DTEND:20260923T093000
+SUMMARY:Call lead: Los Rollin’ Bros food truck & catering (Mobile AL)
+LOCATION:6302 Aaron Dr S\, Mobile\, AL 36608
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (251) 391-3510\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 52.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 24\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Mobile AL\nAddress: 6
+ 302 Aaron Dr S\, Mobile\, AL 36608\nDashboard: https://arjunganesh2011.git
+ hub.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
