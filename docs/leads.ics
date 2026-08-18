@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:low-cost-auto-insurance-source-portland-or@lead-finder
-DTSTAMP:20260718T155627Z
-DTSTART:20260810T180000
-DTEND:20260810T183000
-SUMMARY:Call lead: Low Cost Auto Insurance Source (Portland OR)
-LOCATION:1050 SW 6th Ave #1335\, Portland\, OR 97204
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (559) 540-9515\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: insurance agency  |  City: Portland OR\nAd
- dress: 1050 SW 6th Ave #1335\, Portland\, OR 97204\nDashboard: https://arj
- unganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:ackron-appliance-services-repair-omaha-ne@lead-finder
-DTSTAMP:20260718T155627Z
-DTSTART:20260811T090000
-DTEND:20260811T093000
-SUMMARY:Call lead: Ackron Appliance Services & Repair (Omaha NE)
-LOCATION:12905 Dewey Ave\, Omaha\, NE 68154
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (402) 681-3865\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 59.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 27\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: appliance repair  |  City: Omaha NE\nAddre
- ss: 12905 Dewey Ave\, Omaha\, NE 68154\nDashboard: https://arjunganesh2011
- .github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mi-linda-oaxaca-2-des-moines-ia@lead-finder
-DTSTAMP:20260718T155627Z
-DTSTART:20260811T150000
-DTEND:20260811T153000
-SUMMARY:Call lead: Mi Linda Oaxaca # 2 (Des Moines IA)
-LOCATION:3810 E 14th St\, Des Moines\, IA 50313
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (402) 617-7022\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 57.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 34\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: Des Moines IA\nAddres
- s: 3810 E 14th St\, Des Moines\, IA 50313\nSocials: facebook: https://m.fa
- cebook.com/milindapuebla/\nDashboard: https://arjunganesh2011.github.io/le
- ad-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:sunshine-auto-insurance-team-springfield-mo@lead-finder
 DTSTAMP:20260719T155723Z
 DTSTART:20260811T180000
@@ -2661,6 +2603,163 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (919) 236-5332\nEmail: n
   - best pitched Starter\nNiche: food truck  |  City: Raleigh NC\nAddress: 
  Raleigh\, NC 27610\nDashboard: https://arjunganesh2011.github.io/lead-find
  er/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mobile-bay-dental-the-shoppes-at-bel-air-mobile-al@lead-finder
+DTSTAMP:20260818T153035Z
+DTSTART:20260925T090000
+DTEND:20260925T093000
+SUMMARY:Call lead: Mobile Bay Dental - The Shoppes at Bel Air (Mobile AL)
+LOCATION:3281 Joe Treadwell Dr Ste G18A\, Mobile\, AL 36606
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (251) 301-6555\nEmail: n
+ ot found\nTier: Premium ($3\,500 build + $499/mo)\nScore: 86.0  |  No-webs
+ ite confidence: 92.0%  |  Buyer signal: 80\nAffordability: High earner - c
+ omfortably fits Premium\nNiche: dental office  |  City: Mobile AL\nAddress
+ : 3281 Joe Treadwell Dr Ste G18A\, Mobile\, AL 36606\nDashboard: https://a
+ rjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-taco-spot-worcester-ma@lead-finder
+DTSTAMP:20260818T153035Z
+DTSTART:20260925T150000
+DTEND:20260925T153000
+SUMMARY:Call lead: The Taco Spot (Worcester MA)
+LOCATION:6 Hartford Tpke\, Shrewsbury\, MA 01545
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (774) 502-8149\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 76.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 60\nAffordability: Established - go
+ od fit for Growth\nNiche: food truck  |  City: Worcester MA\nAddress: 6 Ha
+ rtford Tpke\, Shrewsbury\, MA 01545\nSocials: facebook: https://www.facebo
+ ok.com/thetacospotworcester/ | yelp: https://www.yelp.com/biz/the-taco-spo
+ t-worcester | instagram: https://www.instagram.com/thetacospot/?hl=en\nDas
+ hboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nisha-s-sarees-bridal-non-bridal-store-sacramento-ca@lead-finder
+DTSTAMP:20260818T153035Z
+DTSTART:20260925T180000
+DTEND:20260925T183000
+SUMMARY:Call lead: Nisha's Sarees - Bridal / Non Bridal Store (Sacramento C
+ A)
+LOCATION:849 Jefferson Blvd #104\, West Sacramento\, CA 95691
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (916) 761-1273\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 75.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 70\nAffordability: Established - go
+ od fit for Growth\nNiche: bridal shop  |  City: Sacramento CA\nAddress: 84
+ 9 Jefferson Blvd #104\, West Sacramento\, CA 95691\nDashboard: https://arj
+ unganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:firstclass-des-moines-electrical-services-des-moines-ia@lead-finder
+DTSTAMP:20260818T153035Z
+DTSTART:20260926T090000
+DTEND:20260926T093000
+SUMMARY:Call lead: FirstClass Des Moines Electrical Services (Des Moines IA
+ )
+LOCATION:4910 Urbandale Ave\, Des Moines\, IA 50310
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (515) 416-4209\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 66.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 52\nAffordability: Established - go
+ od fit for Growth\nNiche: electrician  |  City: Des Moines IA\nAddress: 49
+ 10 Urbandale Ave\, Des Moines\, IA 50310\nDashboard: https://arjunganesh20
+ 11.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boutique-collective-the-willow-kansas-city-mo@lead-finder
+DTSTAMP:20260818T153035Z
+DTSTART:20260926T150000
+DTEND:20260926T153000
+SUMMARY:Call lead: Boutique Collective The Willow (Kansas City MO)
+LOCATION:7420 NW 87th St\, Kansas City\, MO 64153
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (816) 344-9333\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 32\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: boutique  |  City: Kansas City MO\nAddress
+ : 7420 NW 87th St\, Kansas City\, MO 64153\nSocials: facebook: https://www
+ .facebook.com/61590874522160/\nDashboard: https://arjunganesh2011.github.i
+ o/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:affordable-heating-cooling-repair-richmond-va@lead-finder
+DTSTAMP:20260818T153035Z
+DTSTART:20260926T180000
+DTEND:20260926T183000
+SUMMARY:Call lead: Affordable Heating & Cooling Repair (Richmond VA)
+LOCATION:5601 Sandstone Ridge Rd\, Midlothian\, VA 23112
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (804) 739-5330\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Richmond VA\nAd
+ dress: 5601 Sandstone Ridge Rd\, Midlothian\, VA 23112\nDashboard: https:/
+ /arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boutique-collective-the-blossom-kansas-city-mo@lead-finder
+DTSTAMP:20260818T153035Z
+DTSTART:20260927T090000
+DTEND:20260927T093000
+SUMMARY:Call lead: Boutique Collective - The Blossom (Kansas City MO)
+LOCATION:7101 NW 86th Terrace\, Kansas City\, MO 64153
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (913) 263-6381\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: boutique  |  City: Kansas City MO\nAddress
+ : 7101 NW 86th Terrace\, Kansas City\, MO 64153\nDashboard: https://arjung
+ anesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:residential-appliance-specialists-l-l-c-richmond-va@lead-finder
+DTSTAMP:20260818T153035Z
+DTSTART:20260927T150000
+DTEND:20260927T153000
+SUMMARY:Call lead: Residential Appliance Specialists\, L.L.C. (Richmond VA)
+LOCATION:1260 Keswick Ln\, Richmond\, VA 23225
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (804) 276-1914\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Richmond VA\nAd
+ dress: 1260 Keswick Ln\, Richmond\, VA 23225\nDashboard: https://arjungane
+ sh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
