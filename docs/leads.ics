@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:sunshine-auto-insurance-team-springfield-mo@lead-finder
-DTSTAMP:20260719T155723Z
-DTSTART:20260811T180000
-DTEND:20260811T183000
-SUMMARY:Call lead: Sunshine Auto Insurance Team (Springfield MO)
-LOCATION:901 E St Louis St #1100\, Springfield\, MO 65806
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (669) 629-2230\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.5  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 57\nAffordability: Established - go
- od fit for Growth\nNiche: insurance agency  |  City: Springfield MO\nAddre
- ss: 901 E St Louis St #1100\, Springfield\, MO 65806\nDashboard: https://a
- rjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:bandidos-tacos-and-burritos-virginia-beach-va@lead-finder
-DTSTAMP:20260719T155723Z
-DTSTART:20260812T090000
-DTEND:20260812T093000
-SUMMARY:Call lead: Bandidos tacos and burritos (Virginia Beach VA)
-LOCATION:661 Sandbridge Rd\, Virginia Beach\, VA 23456
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (757) 751-3680\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 67.5  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 55\nAffordability: Established - go
- od fit for Growth\nNiche: food truck  |  City: Virginia Beach VA\nAddress:
-  661 Sandbridge Rd\, Virginia Beach\, VA 23456\nSocials: instagram: https:
- //instagram.com/bandidos757?igshid=8gjlqy8llows\nDashboard: https://arjung
- anesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:thuong-s-barbershop-worcester-ma@lead-finder
-DTSTAMP:20260719T155723Z
-DTSTART:20260812T150000
-DTEND:20260812T153000
-SUMMARY:Call lead: THUONG'S BARBERSHOP (Worcester MA)
-LOCATION:860 Main St\, Worcester\, MA 01610
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (508) 615-9385\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 59.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: barbershop  |  City: Worcester MA\nAddress
- : 860 Main St\, Worcester\, MA 01610\nDashboard: https://arjunganesh2011.g
- ithub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:los-brothers-barbershop-beauty-supply-worcester-ma@lead-finder
 DTSTAMP:20260719T155723Z
 DTSTART:20260812T180000
@@ -2760,6 +2702,84 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (804) 276-1914\nEmail: n
   - best pitched Starter\nNiche: appliance repair  |  City: Richmond VA\nAd
  dress: 1260 Keswick Ln\, Richmond\, VA 23225\nDashboard: https://arjungane
  sh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:insurance-of-south-florida-miami-fl@lead-finder
+DTSTAMP:20260819T152944Z
+DTSTART:20260927T180000
+DTEND:20260927T183000
+SUMMARY:Call lead: Insurance of South Florida (Miami FL)
+LOCATION:11836 NW 10th Ave\, Miami\, FL 33168
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (305) 477-1717\nEmail: n
+ ot found\nTier: Premium ($3\,500 build + $499/mo)\nScore: 83.0  |  No-webs
+ ite confidence: 80.0%  |  Buyer signal: 86\nAffordability: High earner - c
+ omfortably fits Premium\nNiche: insurance agency  |  City: Miami FL\nAddre
+ ss: 11836 NW 10th Ave\, Miami\, FL 33168\nDashboard: https://arjunganesh20
+ 11.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:venus-nail-spa-dayton-dayton-oh@lead-finder
+DTSTAMP:20260819T152944Z
+DTSTART:20260928T090000
+DTEND:20260928T093000
+SUMMARY:Call lead: Venus Nail Spa Dayton (Dayton OH)
+LOCATION:1070 Patterson Rd\, Dayton\, OH 45420
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (937) 256-2605\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 70.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 60\nAffordability: Established - go
+ od fit for Growth\nNiche: nail salon  |  City: Dayton OH\nAddress: 1070 Pa
+ tterson Rd\, Dayton\, OH 45420\nSocials: facebook: https://www.facebook.co
+ m/venusnails45420\nDashboard: https://arjunganesh2011.github.io/lead-finde
+ r/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:monarca-lawn-service-houston-tx@lead-finder
+DTSTAMP:20260819T152944Z
+DTSTART:20260928T150000
+DTEND:20260928T153000
+SUMMARY:Call lead: Monarca Lawn service (Houston TX)
+LOCATION:13203 Vista Oro Dr\, Houston\, TX 77041
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (832) 207-2789\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 69.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 46\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: lawn care service  |  City: Houston TX\nAd
+ dress: 13203 Vista Oro Dr\, Houston\, TX 77041\nSocials: instagram: https:
+ //www.instagram.com/monarcalawnservices/\nDashboard: https://arjunganesh20
+ 11.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tacon-mdres-columbus-oh@lead-finder
+DTSTAMP:20260819T152944Z
+DTSTART:20260928T180000
+DTEND:20260928T183000
+SUMMARY:Call lead: Tacon Mdres (Columbus OH)
+LOCATION:1877 E 17th Ave\, Columbus\, OH 43219
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (614) 288-5731\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 35\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Columbus OH\nAddress:
+  1877 E 17th Ave\, Columbus\, OH 43219\nDashboard: https://arjunganesh2011
+ .github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
