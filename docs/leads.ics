@@ -8,69 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:los-brothers-barbershop-beauty-supply-worcester-ma@lead-finder
-DTSTAMP:20260719T155723Z
-DTSTART:20260812T180000
-DTEND:20260812T183000
-SUMMARY:Call lead: Los Brothers Barbershop & Beauty Supply (Worcester MA)
-LOCATION:1141 Main St Suite # 2\, Worcester\, MA 01603
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (774) 441-4525\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 59.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 38\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: barbershop  |  City: Worcester MA\nAddress
- : 1141 Main St Suite # 2\, Worcester\, MA 01603\nDashboard: https://arjung
- anesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:cover-up-tattoos-jacksonville-fl@lead-finder
-DTSTAMP:20260720T162338Z
-DTSTART:20260813T090000
-DTEND:20260813T093000
-SUMMARY:Call lead: Cover Up Tattoos (Jacksonville FL)
-LOCATION:8518 103rd St\, Jacksonville\, FL 32210
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (904) 250-5295\nEmail: c
- overuptattoos103rd@gmail.com\nTier: Growth ($1\,800 build + $299/mo)\nScor
- e: 78.5  |  No-website confidence: 92.0%  |  Buyer signal: 65\nAffordabili
- ty: Established - good fit for Growth\nNiche: tattoo shop  |  City: Jackso
- nville FL\nAddress: 8518 103rd St\, Jacksonville\, FL 32210\nSocials: face
- book: https://www.facebook.com/p/Cover-Up-Tattoos-100063522674669/ | yelp:
-  https://www.yelp.com/biz/cover-up-tattoos-jacksonville | tiktok: https://
- www.tiktok.com/discover/cover-up-tattoos-jacksonville-fl | instagram: http
- s://www.instagram.com/explore/locations/757018289/cover-up-tattoos/\nDashb
- oard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:bloom-auto-detailing-fresno-ca@lead-finder
-DTSTAMP:20260720T162338Z
-DTSTART:20260813T150000
-DTEND:20260813T153000
-SUMMARY:Call lead: Bloom Auto Detailing (Fresno CA)
-LOCATION:5348 N Antioch Ave\, Fresno\, CA 93722
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (559) 767-8404\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 67.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: auto detailing  |  City: Fresno CA\nAddres
- s: 5348 N Antioch Ave\, Fresno\, CA 93722\nSocials: instagram: https://www
- .instagram.com/Bloomautodetailing/ | tiktok: https://www.tiktok.com/discov
- er/bloom-auto-detailing\nDashboard: https://arjunganesh2011.github.io/lead
- -finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:convenience-store-souvenir-shop-indianapolis-in@lead-finder
 DTSTAMP:20260720T162338Z
 DTSTART:20260813T180000
@@ -2780,6 +2717,128 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (614) 288-5731\nEmail: n
   - best pitched Starter\nNiche: food truck  |  City: Columbus OH\nAddress:
   1877 E 17th Ave\, Columbus\, OH 43219\nDashboard: https://arjunganesh2011
  .github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:new-york-stylez-barbershop-razor-shave-latino-nyc-raleigh-nc@lead-finder
+DTSTAMP:20260820T153214Z
+DTSTART:20260929T090000
+DTEND:20260929T093000
+SUMMARY:Call lead: NEW YORK STYLEZ | BARBERSHOP | RAZOR SHAVE | LATINO | NY
+ C (Raleigh NC)
+LOCATION:4904 Atlantic Ave #104\, Raleigh\, NC 27616
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (917) 554-1852\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 77.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 63\nAffordability: Established - go
+ od fit for Growth\nNiche: barbershop  |  City: Raleigh NC\nAddress: 4904 A
+ tlantic Ave #104\, Raleigh\, NC 27616\nSocials: yelp: https://www.yelp.com
+ /biz/new-york-stylez-raleigh | facebook: https://www.facebook.com/nystylez
+ barbershop/ | instagram: https://www.instagram.com/explore/locations/15524
+ 58251449951/ny-stylez/\nDashboard: https://arjunganesh2011.github.io/lead-
+ finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:teresa-s-pool-and-spa-care-portland-or@lead-finder
+DTSTAMP:20260820T153214Z
+DTSTART:20260929T150000
+DTEND:20260929T153000
+SUMMARY:Call lead: Teresa's Pool and Spa Care (Portland OR)
+LOCATION:5954 Duniway Ave\, Gladstone\, OR 97207
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (971) 837-5632\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 75.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 58\nAffordability: Established - go
+ od fit for Growth\nNiche: pool service  |  City: Portland OR\nAddress: 595
+ 4 Duniway Ave\, Gladstone\, OR 97207\nDashboard: https://arjunganesh2011.g
+ ithub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:natural-nails-spa-cincinnati-oh@lead-finder
+DTSTAMP:20260820T153214Z
+DTSTART:20260929T180000
+DTEND:20260929T183000
+SUMMARY:Call lead: Natural Nails & Spa (Cincinnati OH)
+LOCATION:5367 Ridge Ave\, Cincinnati\, OH 45213
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (513) 731-7600\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 74.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 57\nAffordability: Established - go
+ od fit for Growth\nNiche: nail salon  |  City: Cincinnati OH\nAddress: 536
+ 7 Ridge Ave\, Cincinnati\, OH 45213\nSocials: facebook: https://www.facebo
+ ok.com/p/Natural-Nails-Spa-100063639726858/ | yelp: https://www.yelp.com/b
+ iz/natural-nails-and-spa-cincinnati\nDashboard: https://arjunganesh2011.gi
+ thub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shyne-cleaning-services-birmingham-al@lead-finder
+DTSTAMP:20260820T153214Z
+DTSTART:20260930T090000
+DTEND:20260930T093000
+SUMMARY:Call lead: Shyne Cleaning Services (Birmingham AL)
+LOCATION:3201 Berkeley Ln\, Birmingham\, AL 35242
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 66.0  |  No-website confidence
+ : 92.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: window cleaning  |  City: Birmingham AL\nAddress: 320
+ 1 Berkeley Ln\, Birmingham\, AL 35242\nSocials: facebook: https://www.face
+ book.com/p/Shyne-Cleaning-Services-100093262503971/ | linkedin: https://ww
+ w.linkedin.com/company/shyne-cleaning-services-llc\nDashboard: https://arj
+ unganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:danys-appliance-repair-llc-denver-co@lead-finder
+DTSTAMP:20260820T153214Z
+DTSTART:20260930T150000
+DTEND:20260930T153000
+SUMMARY:Call lead: Danys Appliance Repair LLC (Denver CO)
+LOCATION:1200 Galapago St\, Denver\, CO 80204
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (303) 669-7217\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 45\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Denver CO\nAddr
+ ess: 1200 Galapago St\, Denver\, CO 80204\nDashboard: https://arjunganesh2
+ 011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pure-ink-tattoo-piercing-atlanta-ga@lead-finder
+DTSTAMP:20260820T153214Z
+DTSTART:20260930T180000
+DTEND:20260930T183000
+SUMMARY:Call lead: PURE INK TATTOO & PIERCING (Atlanta GA)
+LOCATION:26 Peachtree Cir NE\, Atlanta\, GA 30309
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (817) 310-9629\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 51.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 22\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: tattoo shop  |  City: Atlanta GA\nAddress:
+  26 Peachtree Cir NE\, Atlanta\, GA 30309\nDashboard: https://arjunganesh2
+ 011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
