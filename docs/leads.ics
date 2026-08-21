@@ -8,65 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:convenience-store-souvenir-shop-indianapolis-in@lead-finder
-DTSTAMP:20260720T162338Z
-DTSTART:20260813T180000
-DTEND:20260813T183000
-SUMMARY:Call lead: Convenience store - souvenir shop (Indianapolis IN)
-LOCATION:Embassy Suites\, 110 W Washington St 3rd floor\, Indianapolis\, IN
-  46204
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (317) 972-8585\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 51.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 22\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: gift shop  |  City: Indianapolis IN\nAddre
- ss: Embassy Suites\, 110 W Washington St 3rd floor\, Indianapolis\, IN 462
- 04\nDashboard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:my-best-friend-pet-grooming-utah-salt-lake-city-ut@lead-finder
-DTSTAMP:20260721T162238Z
-DTSTART:20260814T090000
-DTEND:20260814T093000
-SUMMARY:Call lead: My Best Friend Pet Grooming Utah (Salt Lake City UT)
-LOCATION:3245 S 540 E\, Salt Lake City\, UT 84106
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (801) 598-1814\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 74.0  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 56\nAffordability: Established - go
- od fit for Growth\nNiche: dog grooming  |  City: Salt Lake City UT\nAddres
- s: 3245 S 540 E\, Salt Lake City\, UT 84106\nDashboard: https://arjunganes
- h2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:des-moines-car-detail-des-moines-ia@lead-finder
-DTSTAMP:20260721T162238Z
-DTSTART:20260814T150000
-DTEND:20260814T153000
-SUMMARY:Call lead: Des Moines Car Detail (Des Moines IA)
-LOCATION:699 Walnut St\, Des Moines\, IA 50309
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (515) 207-0309\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 69.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 46\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: auto detailing  |  City: Des Moines IA\nAd
- dress: 699 Walnut St\, Des Moines\, IA 50309\nSocials: yelp: https://www.y
- elp.com/biz/des-moines-car-detail-des-moines\nDashboard: https://arjungane
- sh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:a1-mobile-power-washing-worcester-ma@lead-finder
 DTSTAMP:20260721T162238Z
 DTSTART:20260814T180000
@@ -2839,6 +2780,104 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (817) 310-9629\nEmail: n
   - best pitched Starter\nNiche: tattoo shop  |  City: Atlanta GA\nAddress:
   26 Peachtree Cir NE\, Atlanta\, GA 30309\nDashboard: https://arjunganesh2
  011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:el-flacko-locksmith-el-paso-tx@lead-finder
+DTSTAMP:20260821T153145Z
+DTSTART:20261001T090000
+DTEND:20261001T093000
+SUMMARY:Call lead: El Flacko Locksmith (El Paso TX)
+LOCATION:6420 Cheyenne Trail\, El Paso\, TX 79925
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (915) 226-1505\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 67.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 42\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: locksmith  |  City: El Paso TX\nAddress: 6
+ 420 Cheyenne Trail\, El Paso\, TX 79925\nSocials: facebook: https://www.fa
+ cebook.com/elflackolocksmith/\nDashboard: https://arjunganesh2011.github.i
+ o/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:village-pet-grooming-winston-salem-nc@lead-finder
+DTSTAMP:20260821T153145Z
+DTSTART:20261001T150000
+DTEND:20261001T153000
+SUMMARY:Call lead: Village pet grooming (Winston-Salem NC)
+LOCATION:2555 Old Glory Rd\, Clemmons\, NC 27012
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (336) 766-8100\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 65.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: dog grooming  |  City: Winston-Salem NC\nA
+ ddress: 2555 Old Glory Rd\, Clemmons\, NC 27012\nSocials: yelp: https://ww
+ w.yelp.com/search?cflt=groomer&find_loc=Winston-Salem\,+NC+27103 | faceboo
+ k: https://www.facebook.com/share/17mNckgybp/?mibextid=wwXIfr\nDashboard: 
+ https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:harvest-blessing-food-truck-denver-co@lead-finder
+DTSTAMP:20260821T153145Z
+DTSTART:20261001T180000
+DTEND:20261001T183000
+SUMMARY:Call lead: Harvest blessing food truck (Denver CO)
+LOCATION:2260 S Xanadu Way\, Aurora\, CO 80014
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (720) 727-3810\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 58.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 36\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Denver CO\nAddress: 2
+ 260 S Xanadu Way\, Aurora\, CO 80014\nDashboard: https://arjunganesh2011.g
+ ithub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:garden-state-slider-co-food-truck-denver-co@lead-finder
+DTSTAMP:20260821T153145Z
+DTSTART:20261002T090000
+DTEND:20261002T093000
+SUMMARY:Call lead: Garden State Slider Co. Food Truck (Denver CO)
+LOCATION:500 S Santa Fe Dr\, Denver\, CO 80223
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 56.5  |  No-website confidence
+ : 80.0%  |  Buyer signal: 33\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: food truck  |  City: Denver CO\nAddress: 500 S Santa 
+ Fe Dr\, Denver\, CO 80223\nDashboard: https://arjunganesh2011.github.io/le
+ ad-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:magnolia-paws-grooming-winston-salem-nc@lead-finder
+DTSTAMP:20260821T153145Z
+DTSTART:20261002T150000
+DTEND:20261002T153000
+SUMMARY:Call lead: Magnolia Paws Grooming (Winston-Salem NC)
+LOCATION:10714 Old U.S. Hwy 52\, Winston-Salem\, NC 27107
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 51.0  |  No-website confidence
+ : 80.0%  |  Buyer signal: 22\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: dog grooming  |  City: Winston-Salem NC\nAddress: 107
+ 14 Old U.S. Hwy 52\, Winston-Salem\, NC 27107\nDashboard: https://arjungan
+ esh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
