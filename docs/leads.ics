@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:peraza-food-truck-houston-tx@lead-finder
-DTSTAMP:20260721T162238Z
-DTSTART:20260815T180000
-DTEND:20260815T183000
-SUMMARY:Call lead: Peraza food truck (Houston TX)
-LOCATION:7213 Airline Dr\, Houston\, TX 77076
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (714) 732-3688\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 59.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: Houston TX\nAddress: 
- 7213 Airline Dr\, Houston\, TX 77076\nDashboard: https://arjunganesh2011.g
- ithub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mastro-s-powerwashing-services-worcester-ma@lead-finder
-DTSTAMP:20260721T162238Z
-DTSTART:20260816T090000
-DTEND:20260816T093000
-SUMMARY:Call lead: Mastro's Powerwashing Services (Worcester MA)
-LOCATION:110 W Mountain St\, Worcester\, MA 01606
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (508) 757-9453\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 58.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 24\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: pressure washing  |  City: Worcester MA\nA
- ddress: 110 W Mountain St\, Worcester\, MA 01606\nDashboard: https://arjun
- ganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:betty-food-food-truck-houston-tx@lead-finder
-DTSTAMP:20260721T162238Z
-DTSTART:20260816T150000
-DTEND:20260816T153000
-SUMMARY:Call lead: Betty Food (Food Truck) (Houston TX)
-LOCATION:7507 Fallbrook Dr\, Houston\, TX 77086
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (346) 604-2076\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 57.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 34\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: Houston TX\nAddress: 
- 7507 Fallbrook Dr\, Houston\, TX 77086\nSocials: facebook: https://www.fac
- ebook.com/share/17qZe4LpCB/?mibextid=wwXIfr\nDashboard: https://arjunganes
- h2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:noela-nicole-homegrown-flowers-spokane-wa@lead-finder
 DTSTAMP:20260722T161929Z
 DTSTART:20260816T180000
@@ -2950,6 +2892,102 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (480) 509-9328\nEmail: n
   - best pitched Starter\nNiche: tattoo shop  |  City: Phoenix AZ\nAddress:
   624 W Watkins St\, Phoenix\, AZ 85007\nDashboard: https://arjunganesh2011
  .github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:safety-insurance-co-tucson-az@lead-finder
+DTSTAMP:20260823T152033Z
+DTSTART:20261005T090000
+DTEND:20261005T093000
+SUMMARY:Call lead: Safety Insurance Co (Tucson AZ)
+LOCATION:6818 N Oracle Rd\, Tucson\, AZ 85704
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (520) 645-3774\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Tucson AZ\nAddress: 6
+ 818 N Oracle Rd\, Tucson\, AZ 85704\nDashboard: https://arjunganesh2011.gi
+ thub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:central-auto-insurance-tucson-tucson-az@lead-finder
+DTSTAMP:20260823T152033Z
+DTSTART:20261005T150000
+DTEND:20261005T153000
+SUMMARY:Call lead: Central Auto Insurance Tucson (Tucson AZ)
+LOCATION:267 W Flavia Pl\, Tucson\, AZ 85705
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (520) 844-8709\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Tucson AZ\nAddress: 2
+ 67 W Flavia Pl\, Tucson\, AZ 85705\nDashboard: https://arjunganesh2011.git
+ hub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:taqueria-los-boxitos-springfield-mo@lead-finder
+DTSTAMP:20260823T152033Z
+DTSTART:20261005T180000
+DTEND:20261005T183000
+SUMMARY:Call lead: Taqueria Los Boxitos (Springfield MO)
+LOCATION:3250 W Chestnut Expy\, Springfield\, MO 65802
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (417) 812-4402\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 65.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Springfield MO\nAddre
+ ss: 3250 W Chestnut Expy\, Springfield\, MO 65802\nSocials: facebook: http
+ s://www.facebook.com/p/Taqueria-Los-Boxitos-61556673103528/\nDashboard: ht
+ tps://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:appliance-repair-technologies-buffalo-buffalo-ny@lead-finder
+DTSTAMP:20260823T152033Z
+DTSTART:20261006T090000
+DTEND:20261006T093000
+SUMMARY:Call lead: Appliance Repair Technologies Buffalo (Buffalo NY)
+LOCATION:495 Main St\, Buffalo\, NY 14203
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (716) 426-1020\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Buffalo NY\nAdd
+ ress: 495 Main St\, Buffalo\, NY 14203\nDashboard: https://arjunganesh2011
+ .github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:taconmadres-mexican-food-food-truck-springfield-mo@lead-finder
+DTSTAMP:20260823T152033Z
+DTSTART:20261006T150000
+DTEND:20261006T153000
+SUMMARY:Call lead: TACONMADRES Mexican Food - Food Truck (Springfield MO)
+LOCATION:1201 S W Bypass\, Springfield\, MO 65807
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (417) 470-5562\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 57.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 34\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Springfield MO\nAddre
+ ss: 1201 S W Bypass\, Springfield\, MO 65807\nDashboard: https://arjungane
+ sh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
