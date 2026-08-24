@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:noela-nicole-homegrown-flowers-spokane-wa@lead-finder
-DTSTAMP:20260722T161929Z
-DTSTART:20260816T180000
-DTEND:20260816T183000
-SUMMARY:Call lead: Noela Nicole Homegrown Flowers (Spokane WA)
-LOCATION:7101 E Rutter Ave\, Spokane Valley\, WA 99212
-DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
- ier: Starter ($800 build + $150/mo)\nScore: 65.5  |  No-website confidence
- : 92.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage - best pit
- ched Starter\nNiche: florist  |  City: Spokane WA\nAddress: 7101 E Rutter 
- Ave\, Spokane Valley\, WA 99212\nDashboard: https://arjunganesh2011.github
- .io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:shine-harbor-window-cleaning-denver-co@lead-finder
-DTSTAMP:20260723T162541Z
-DTSTART:20260817T090000
-DTEND:20260817T093000
-SUMMARY:Call lead: Shine Harbor Window Cleaning (Denver CO)
-LOCATION:14829 E Evans Ave\, Aurora\, CO 80014
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (720) 507-6426\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 64.5  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 49\nAffordability: Established - go
- od fit for Growth\nNiche: window cleaning  |  City: Denver CO\nAddress: 14
- 829 E Evans Ave\, Aurora\, CO 80014\nDashboard: https://arjunganesh2011.gi
- thub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:done-rite-moving-delivering-llc-springfield-mo@lead-finder
-DTSTAMP:20260723T162541Z
-DTSTART:20260817T150000
-DTEND:20260817T153000
-SUMMARY:Call lead: Done Rite Moving&Delivering LLC (Springfield MO)
-LOCATION:2322 N Fort Ave\, Springfield\, MO 65803
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (417) 414-0874\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 32\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: moving company  |  City: Springfield MO\nA
- ddress: 2322 N Fort Ave\, Springfield\, MO 65803\nSocials: facebook: https
- ://www.facebook.com/doneritemovinganddelivering/\nDashboard: https://arjun
- ganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:black-inc-tattoos-las-vegas-las-vegas-nv@lead-finder
 DTSTAMP:20260724T164118Z
 DTSTART:20260817T180000
@@ -2988,6 +2930,102 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (417) 470-5562\nEmail: n
   - best pitched Starter\nNiche: food truck  |  City: Springfield MO\nAddre
  ss: 1201 S W Bypass\, Springfield\, MO 65807\nDashboard: https://arjungane
  sh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:family-discount-furniture-south-tampa-tampa-fl@lead-finder
+DTSTAMP:20260824T153806Z
+DTSTART:20261006T180000
+DTEND:20261006T183000
+SUMMARY:Call lead: Family Discount Furniture South Tampa (Tampa FL)
+LOCATION:3916 S Dale Mabry Hwy\, Tampa\, FL 33611
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (813) 499-0981\nEmail: n
+ ot found\nTier: Premium ($3\,500 build + $499/mo)\nScore: 76.0  |  No-webs
+ ite confidence: 80.0%  |  Buyer signal: 72\nAffordability: High earner - c
+ omfortably fits Premium\nNiche: furniture store  |  City: Tampa FL\nAddres
+ s: 3916 S Dale Mabry Hwy\, Tampa\, FL 33611\nDashboard: https://arjunganes
+ h2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:david-c-hinton-cpa-pa-winston-salem-nc@lead-finder
+DTSTAMP:20260824T153806Z
+DTSTART:20261007T090000
+DTEND:20261007T093000
+SUMMARY:Call lead: David C Hinton\, CPA PA (Winston-Salem NC)
+LOCATION:123 Fayette St NW\, Winston-Salem\, NC 27101
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (336) 724-4261\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 74.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 57\nAffordability: Established - go
+ od fit for Growth\nNiche: accounting firm  |  City: Winston-Salem NC\nAddr
+ ess: 123 Fayette St NW\, Winston-Salem\, NC 27101\nDashboard: https://arju
+ nganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:integrity-painting-llc-lexington-ky@lead-finder
+DTSTAMP:20260824T153806Z
+DTSTART:20261007T150000
+DTEND:20261007T153000
+SUMMARY:Call lead: Integrity Painting LLC (Lexington KY)
+LOCATION:508 W Maple St\, Nicholasville\, KY 40356
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (859) 953-8571\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 67.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 55\nAffordability: Established - go
+ od fit for Growth\nNiche: painting company  |  City: Lexington KY\nAddress
+ : 508 W Maple St\, Nicholasville\, KY 40356\nSocials: facebook: https://ww
+ w.facebook.com/profile.php?id=100091585840924\nDashboard: https://arjungan
+ esh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aletacos-food-truck-san-diego-ca@lead-finder
+DTSTAMP:20260824T153806Z
+DTSTART:20261007T180000
+DTEND:20261007T183000
+SUMMARY:Call lead: Aletacos food truck (San Diego CA)
+LOCATION:8455 Commerce Ave\, San Diego\, CA 92121
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (619) 735-6291\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 57.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 34\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: San Diego CA\nAddress
+ : 8455 Commerce Ave\, San Diego\, CA 92121\nDashboard: https://arjunganesh
+ 2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:foodtruck-loncheria-aletacos-san-diego-ca@lead-finder
+DTSTAMP:20260824T153806Z
+DTSTART:20261008T090000
+DTEND:20261008T093000
+SUMMARY:Call lead: Foodtruck | Loncheria Aletacos (San Diego CA)
+LOCATION:5300 Kearny Villa Way\, San Diego\, CA 92123
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (619) 560-2469\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 57.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 34\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: San Diego CA\nAddress
+ : 5300 Kearny Villa Way\, San Diego\, CA 92123\nDashboard: https://arjunga
+ nesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
