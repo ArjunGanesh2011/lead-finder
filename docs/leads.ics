@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:black-inc-tattoos-las-vegas-las-vegas-nv@lead-finder
-DTSTAMP:20260724T164118Z
-DTSTART:20260817T180000
-DTEND:20260817T183000
-SUMMARY:Call lead: Black Inc Tattoos Las Vegas (Las Vegas NV)
-LOCATION:5280 S Eastern Ave\, Las Vegas\, NV 89119
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (205) 409-1062\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 73.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 66\nAffordability: Established - go
- od fit for Growth\nNiche: tattoo shop  |  City: Las Vegas NV\nAddress: 528
- 0 S Eastern Ave\, Las Vegas\, NV 89119\nDashboard: https://arjunganesh2011
- .github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:eden-affordable-auto-insurance-agency-llc-new-orleans-la@lead-finder
-DTSTAMP:20260724T164118Z
-DTSTART:20260818T090000
-DTEND:20260818T093000
-SUMMARY:Call lead: Eden Affordable Auto Insurance Agency LLC (New Orleans L
- A)
-LOCATION:4035 Washington Ave Office #38A\, New Orleans\, LA 70125
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (209) 207-7398\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
- od fit for Growth\nNiche: insurance agency  |  City: New Orleans LA\nAddre
- ss: 4035 Washington Ave Office #38A\, New Orleans\, LA 70125\nDashboard: h
- ttps://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:nct-auto-mobile-detailing-lexington-ky@lead-finder
-DTSTAMP:20260724T164118Z
-DTSTART:20260818T150000
-DTEND:20260818T153000
-SUMMARY:Call lead: NCT Auto Mobile Detailing (Lexington KY)
-LOCATION:1145 Appian Crossing Way\, Lexington\, KY 40517
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (859) 317-3863\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 66.5  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 53\nAffordability: Established - go
- od fit for Growth\nNiche: auto detailing  |  City: Lexington KY\nAddress: 
- 1145 Appian Crossing Way\, Lexington\, KY 40517\nDashboard: https://arjung
- anesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:lexington-detailing-llc-lexington-ky@lead-finder
 DTSTAMP:20260724T164118Z
 DTSTART:20260818T180000
@@ -3026,6 +2968,103 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (619) 560-2469\nEmail: n
   - best pitched Starter\nNiche: food truck  |  City: San Diego CA\nAddress
  : 5300 Kearny Villa Way\, San Diego\, CA 92123\nDashboard: https://arjunga
  nesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mark-aut-o-insu-rance-broom-new-orleans-la@lead-finder
+DTSTAMP:20260825T154038Z
+DTSTART:20261008T150000
+DTEND:20261008T153000
+SUMMARY:Call lead: Mark & Aut-o Insu-rance Broom (New Orleans LA)
+LOCATION:3161 Gentilly Blvd\, New Orleans\, LA 70122
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (504) 238-3288\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 57\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: New Orleans LA\nAddre
+ ss: 3161 Gentilly Blvd\, New Orleans\, LA 70122\nDashboard: https://arjung
+ anesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:infinity-rosas-fort-worth-tx@lead-finder
+DTSTAMP:20260825T154038Z
+DTSTART:20261008T180000
+DTEND:20261008T183000
+SUMMARY:Call lead: Infinity Rosas (Fort Worth TX)
+LOCATION:2620 NW 22nd St suite100\, Fort Worth\, TX 76106
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (817) 448-7035\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 66.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: florist  |  City: Fort Worth TX\nAddress: 
+ 2620 NW 22nd St suite100\, Fort Worth\, TX 76106\nSocials: facebook: https
+ ://www.facebook.com/565144660025831 | instagram: https://www.instagram.com
+ /infinityrosassindy/reel/DNtkurC0mfd/\nDashboard: https://arjunganesh2011.
+ github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dynamic-express-carpet-cleaning-service-detroit-mi@lead-finder
+DTSTAMP:20260825T154038Z
+DTSTART:20261009T090000
+DTEND:20261009T093000
+SUMMARY:Call lead: Dynamic Express Carpet Cleaning Service (Detroit MI)
+LOCATION:15094 Hubbell Ave\, Detroit\, MI 48227
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (586) 404-2325\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 35\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: carpet cleaning  |  City: Detroit MI\nAddr
+ ess: 15094 Hubbell Ave\, Detroit\, MI 48227\nDashboard: https://arjunganes
+ h2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-man-cometh-greensboro-nc@lead-finder
+DTSTAMP:20260825T154038Z
+DTSTART:20261009T150000
+DTEND:20261009T153000
+SUMMARY:Call lead: The Man Cometh (Greensboro NC)
+LOCATION:2726 McConnell Rd Unit d\, Greensboro\, NC 27401
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (984) 244-1180\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 59.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 38\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: window cleaning  |  City: Greensboro NC\nA
+ ddress: 2726 McConnell Rd Unit d\, Greensboro\, NC 27401\nDashboard: https
+ ://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:elevated-styles-ink-sacramento-ca@lead-finder
+DTSTAMP:20260825T154038Z
+DTSTART:20261009T180000
+DTEND:20261009T183000
+SUMMARY:Call lead: Elevated styles Ink (Sacramento CA)
+LOCATION:1810 Del Paso Blvd Ste b\, Sacramento\, CA 95815
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (916) 203-1546\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 51.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 22\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: tattoo shop  |  City: Sacramento CA\nAddre
+ ss: 1810 Del Paso Blvd Ste b\, Sacramento\, CA 95815\nDashboard: https://a
+ rjunganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
