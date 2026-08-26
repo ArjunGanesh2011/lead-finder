@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:lexington-detailing-llc-lexington-ky@lead-finder
-DTSTAMP:20260724T164118Z
-DTSTART:20260818T180000
-DTEND:20260818T183000
-SUMMARY:Call lead: Lexington detailing LLC (Lexington KY)
-LOCATION:1006 N Limestone\, Lexington\, KY 40505
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (859) 310-0021\nEmail: g
- abrieldetailguyhernandez23@gmail.com\nTier: Starter ($800 build + $150/mo)
- \nScore: 65.5  |  No-website confidence: 92.0%  |  Buyer signal: 39\nAffor
- dability: Lean / early-stage - best pitched Starter\nNiche: auto detailing
-   |  City: Lexington KY\nAddress: 1006 N Limestone\, Lexington\, KY 40505\
- nSocials: facebook: https://www.facebook.com/p/Lexington-Detailing-LLC-100
- 071107808588/\nDashboard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:quickbooks-customer-service-support-oklahoma-city-ok@lead-finder
-DTSTAMP:20260724T164118Z
-DTSTART:20260819T090000
-DTEND:20260819T093000
-SUMMARY:Call lead: QuickBooks Customer Service & Support (Oklahoma City OK)
-LOCATION:1725 S Morgan Rd\, Yukon\, OK 73099
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (888) 379-9764\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 64.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 48\nAffordability: Established - go
- od fit for Growth\nNiche: bookkeeping service  |  City: Oklahoma City OK\n
- Address: 1725 S Morgan Rd\, Yukon\, OK 73099\nDashboard: https://arjungane
- sh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:cheap-auto-insurance-new-orleans-new-orleans-la@lead-finder
-DTSTAMP:20260724T164118Z
-DTSTART:20260819T150000
-DTEND:20260819T153000
-SUMMARY:Call lead: Cheap Auto Insurance New Orleans (New Orleans LA)
-LOCATION:320 N Carrollton Ave #204\, New Orleans\, LA 70119
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (346) 693-8872\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 47\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: insurance agency  |  City: New Orleans LA\
- nAddress: 320 N Carrollton Ave #204\, New Orleans\, LA 70119\nDashboard: h
- ttps://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:black-dynasty-tattoo-las-vegas-las-vegas-nv@lead-finder
 DTSTAMP:20260724T164118Z
 DTSTART:20260819T180000
@@ -3065,6 +3007,85 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (916) 203-1546\nEmail: n
   - best pitched Starter\nNiche: tattoo shop  |  City: Sacramento CA\nAddre
  ss: 1810 Del Paso Blvd Ste b\, Sacramento\, CA 95815\nDashboard: https://a
  rjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:de-la-guaira-food-truck-orlando-fl@lead-finder
+DTSTAMP:20260826T161649Z
+DTSTART:20261010T090000
+DTEND:20261010T093000
+SUMMARY:Call lead: De la Guaira Food Truck (Orlando FL)
+LOCATION:10473 Moss Park Rd\, Orlando\, FL 32832
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (954) 380-0513\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 34\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Orlando FL\nAddress: 
+ 10473 Moss Park Rd\, Orlando\, FL 32832\nSocials: facebook: https://www.fa
+ cebook.com/61580571196220/ | instagram: https://www.instagram.com/delaguai
+ rafoodtruck/ | tiktok: https://www.tiktok.com/@delaguairafoodtruck\nDashbo
+ ard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sealections-virginia-beach-va@lead-finder
+DTSTAMP:20260826T161649Z
+DTSTART:20261010T150000
+DTEND:20261010T153000
+SUMMARY:Call lead: SeaLections (Virginia Beach VA)
+LOCATION:2545 Sandpiper Rd\, Virginia Beach\, VA 23456
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (757) 426-0625\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 30\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: gift shop  |  City: Virginia Beach VA\nAdd
+ ress: 2545 Sandpiper Rd\, Virginia Beach\, VA 23456\nSocials: facebook: ht
+ tps://www.facebook.com/sealections/\nDashboard: https://arjunganesh2011.gi
+ thub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:franco-food-truck-orlando-fl@lead-finder
+DTSTAMP:20260826T161649Z
+DTSTART:20261010T180000
+DTEND:20261010T183000
+SUMMARY:Call lead: FRANCO FOOD TRUCK (Orlando FL)
+LOCATION:601 W Taft Vineland Rd\, Orlando\, FL 32824
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (904) 994-7253\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Orlando FL\nAddress: 
+ 601 W Taft Vineland Rd\, Orlando\, FL 32824\nDashboard: https://arjunganes
+ h2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hda-window-cleaning-el-paso-tx-el-paso-tx@lead-finder
+DTSTAMP:20260826T161649Z
+DTSTART:20261011T090000
+DTEND:20261011T093000
+SUMMARY:Call lead: HDA Window cleaning El Paso tx (El Paso TX)
+LOCATION:4017 Tierra Eva Pl\, El Paso\, TX 79938
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (915) 282-5705\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 51.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 22\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: window cleaning  |  City: El Paso TX\nAddr
+ ess: 4017 Tierra Eva Pl\, El Paso\, TX 79938\nDashboard: https://arjungane
+ sh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
