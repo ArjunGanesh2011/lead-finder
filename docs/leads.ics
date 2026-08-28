@@ -8,84 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:black-dynasty-tattoo-las-vegas-las-vegas-nv@lead-finder
-DTSTAMP:20260724T164118Z
-DTSTART:20260819T180000
-DTEND:20260819T183000
-SUMMARY:Call lead: Black Dynasty Tattoo las vegas (Las Vegas NV)
-LOCATION:1200 Stewart Ave\, Las Vegas\, NV 89101
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (725) 236-5874\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 44\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: tattoo shop  |  City: Las Vegas NV\nAddres
- s: 1200 Stewart Ave\, Las Vegas\, NV 89101\nDashboard: https://arjunganesh
- 2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:s-c-remodeling-of-general-contractors-tulsa-tulsa-ok@lead-finder
-DTSTAMP:20260725T160340Z
-DTSTART:20260820T090000
-DTEND:20260820T093000
-SUMMARY:Call lead: S & C Remodeling of General Contractors Tulsa (Tulsa OK)
-LOCATION:13696 S 267th E Ave\, Coweta\, OK 74429
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (918) 378-3746\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 79.0  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 66\nAffordability: Established - go
- od fit for Growth\nNiche: general contractor  |  City: Tulsa OK\nAddress: 
- 13696 S 267th E Ave\, Coweta\, OK 74429\nDashboard: https://arjunganesh201
- 1.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:xclusive-barber-lounge-memphis-tn@lead-finder
-DTSTAMP:20260725T160340Z
-DTSTART:20260820T150000
-DTEND:20260820T153000
-SUMMARY:Call lead: Xclusive Barber Lounge (Memphis TN)
-LOCATION:1835 Union Ave Ste 101 Room 10&11\, Memphis\, TN 38104
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (901) 490-3749\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 67.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: barbershop  |  City: Memphis TN\nAddress: 
- 1835 Union Ave Ste 101 Room 10&11\, Memphis\, TN 38104\nSocials: facebook:
-  https://www.facebook.com/XclusiveHouseOfKutz/ | instagram: https://www.in
- stagram.com/explore/locations/864502266994882/xclusive-house-of-kutz/\nDas
- hboard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:fadez-n-bladez-memphis-tn@lead-finder
-DTSTAMP:20260725T160340Z
-DTSTART:20260820T180000
-DTEND:20260820T183000
-SUMMARY:Call lead: Fadez-N-Bladez (Memphis TN)
-LOCATION:4664 Horn Lake Rd\, Memphis\, TN 38109
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (901) 240-9017\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: barbershop  |  City: Memphis TN\nAddress: 
- 4664 Horn Lake Rd\, Memphis\, TN 38109\nDashboard: https://arjunganesh2011
- .github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:grandview-appliance-repair-professionals-des-moines-ia@lead-finder
 DTSTAMP:20260725T160340Z
 DTSTART:20260821T090000
@@ -3086,6 +3008,126 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (915) 282-5705\nEmail: n
   - best pitched Starter\nNiche: window cleaning  |  City: El Paso TX\nAddr
  ess: 4017 Tierra Eva Pl\, El Paso\, TX 79938\nDashboard: https://arjungane
  sh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:juan-elegant-barbershop-tampa-fl@lead-finder
+DTSTAMP:20260828T001441Z
+DTSTART:20261011T150000
+DTEND:20261011T153000
+SUMMARY:Call lead: Juan Elegant Barbershop (Tampa FL)
+LOCATION:1201 W Hillsborough Ave\, Tampa\, FL 33603
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (813) 875-7077\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 74.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 68\nAffordability: Established - go
+ od fit for Growth\nNiche: barbershop  |  City: Tampa FL\nAddress: 1201 W H
+ illsborough Ave\, Tampa\, FL 33603\nDashboard: https://arjunganesh2011.git
+ hub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sonic-power-washing-minneapolis-mn@lead-finder
+DTSTAMP:20260828T001441Z
+DTSTART:20261011T180000
+DTEND:20261011T183000
+SUMMARY:Call lead: Sonic Power Washing (Minneapolis MN)
+LOCATION:6460 Oxford St\, St Louis Park\, MN 55426
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (612) 324-5819\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 71.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 51\nAffordability: Established - go
+ od fit for Growth\nNiche: pressure washing  |  City: Minneapolis MN\nAddre
+ ss: 6460 Oxford St\, St Louis Park\, MN 55426\nSocials: yelp: https://www.
+ yelp.com/biz/sonic-power-washing-saint-louis-park\nDashboard: https://arju
+ nganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pereira-flooring-llc-flooring-installation-in-new-orleans-la-new-orleans-la@lead-finder
+DTSTAMP:20260828T001441Z
+DTSTART:20261012T090000
+DTEND:20261012T093000
+SUMMARY:Call lead: Pereira Flooring llc flooring installation in New Orlean
+ s la (New Orleans LA)
+LOCATION:3507 Meadow Park Ln\, New Orleans\, LA 70131
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (504) 201-9025\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 66.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 52\nAffordability: Established - go
+ od fit for Growth\nNiche: flooring company  |  City: New Orleans LA\nAddre
+ ss: 3507 Meadow Park Ln\, New Orleans\, LA 70131\nSocials: instagram: http
+ s://www.instagram.com/pereiraflooring?igsh=MWVsOWw1ZnczMWcyeg%3D%3D&utm_so
+ urce=qr\nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:el-taconazo-food-truck-winston-salem-nc@lead-finder
+DTSTAMP:20260828T001441Z
+DTSTART:20261012T150000
+DTEND:20261012T153000
+SUMMARY:Call lead: El Taconazo Food Truck (Winston-Salem NC)
+LOCATION:6116 University Pkwy\, Winston-Salem\, NC 27105
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (336) 582-8956\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 64.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 36\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Winston-Salem NC\nAdd
+ ress: 6116 University Pkwy\, Winston-Salem\, NC 27105\nSocials: instagram:
+  https://www.instagram.com/explore/locations/834649583411647/tacos-el-taco
+ nazo-food-truck/ | facebook: https://www.facebook.com/p/Tacos-el-Taconazo-
+ Food-Truck-100057652561747/\nDashboard: https://arjunganesh2011.github.io/
+ lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tacos-ponchis-food-truck-winston-salem-nc@lead-finder
+DTSTAMP:20260828T001441Z
+DTSTART:20261012T180000
+DTEND:20261012T183000
+SUMMARY:Call lead: TACOS PONCHIS FOOD TRUCK (Winston-Salem NC)
+LOCATION:By-Lo Citgo\, 4000 Country Club Rd\, Winston-Salem\, NC 27104
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (336) 775-9784\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 29\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Winston-Salem NC\nAdd
+ ress: By-Lo Citgo\, 4000 Country Club Rd\, Winston-Salem\, NC 27104\nDashb
+ oard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:la-chingada-taqueria-foodtruck-winston-salem-nc@lead-finder
+DTSTAMP:20260828T001441Z
+DTSTART:20261013T090000
+DTEND:20261013T093000
+SUMMARY:Call lead: LA CHINGADA TAQUERIA FOODTRUCK (Winston-Salem NC)
+LOCATION:1450 Lumber Ln\, Winston-Salem\, NC 27127
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (336) 934-0152\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 56.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 33\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Winston-Salem NC\nAdd
+ ress: 1450 Lumber Ln\, Winston-Salem\, NC 27127\nDashboard: https://arjung
+ anesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
