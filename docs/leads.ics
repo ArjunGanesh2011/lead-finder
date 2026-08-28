@@ -8,63 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:grandview-appliance-repair-professionals-des-moines-ia@lead-finder
-DTSTAMP:20260725T160340Z
-DTSTART:20260821T090000
-DTEND:20260821T093000
-SUMMARY:Call lead: Grandview Appliance Repair Professionals (Des Moines IA)
-LOCATION:2912 E University Ave\, Des Moines\, IA 50317
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (515) 400-1481\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: appliance repair  |  City: Des Moines IA\n
- Address: 2912 E University Ave\, Des Moines\, IA 50317\nDashboard: https:/
- /arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pioneer-appliance-repair-experts-des-moines-ia@lead-finder
-DTSTAMP:20260725T160340Z
-DTSTART:20260821T150000
-DTEND:20260821T153000
-SUMMARY:Call lead: Pioneer Appliance Repair Experts (Des Moines IA)
-LOCATION:1725 Hull Ave\, Des Moines\, IA 50313
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (515) 400-0894\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: appliance repair  |  City: Des Moines IA\n
- Address: 1725 Hull Ave\, Des Moines\, IA 50313\nDashboard: https://arjunga
- nesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:woodridge-appliance-repair-solutions-des-moines-ia@lead-finder
-DTSTAMP:20260725T160340Z
-DTSTART:20260821T180000
-DTEND:20260821T183000
-SUMMARY:Call lead: Woodridge Appliance Repair Solutions (Des Moines IA)
-LOCATION:3703 SE 14th St\, Des Moines\, IA 50320
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (515) 400-1524\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: appliance repair  |  City: Des Moines IA\n
- Address: 3703 SE 14th St\, Des Moines\, IA 50320\nDashboard: https://arjun
- ganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:nolan-appliance-repair-solutions-des-moines-ia@lead-finder
 DTSTAMP:20260725T160340Z
 DTSTART:20260822T090000
@@ -3128,6 +3071,161 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (336) 934-0152\nEmail: n
   - best pitched Starter\nNiche: food truck  |  City: Winston-Salem NC\nAdd
  ress: 1450 Lumber Ln\, Winston-Salem\, NC 27127\nDashboard: https://arjung
  anesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-art-of-men-s-grooming-toledo-oh@lead-finder
+DTSTAMP:20260828T235227Z
+DTSTART:20261013T150000
+DTEND:20261013T153000
+SUMMARY:Call lead: The Art of Men's Grooming (Toledo OH)
+LOCATION:6725 Central Ave Suite KK\, Toledo\, OH 43617
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (419) 405-5775\nEmail: t
+ heartofmensgrooming@outlook.com\nTier: Growth ($1\,800 build + $299/mo)\nS
+ core: 76.0  |  No-website confidence: 92.0%  |  Buyer signal: 60\nAffordab
+ ility: Established - good fit for Growth\nNiche: barbershop  |  City: Tole
+ do OH\nAddress: 6725 Central Ave Suite KK\, Toledo\, OH 43617\nSocials: fa
+ cebook: https://www.facebook.com/TheArtOfMensGrooming/ | yelp: https://www
+ .yelp.com/biz/the-art-of-mens-grooming-toledo\nDashboard: https://arjungan
+ esh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:best-insurance-grand-rapids-grand-rapids-mi@lead-finder
+DTSTAMP:20260828T235227Z
+DTSTART:20261013T180000
+DTEND:20261013T183000
+SUMMARY:Call lead: Best Insurance Grand Rapids (Grand Rapids MI)
+LOCATION:1361 Emerald Ave NE\, Grand Rapids\, MI 49505
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (616) 319-2624\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Grand Rapids MI\nAddr
+ ess: 1361 Emerald Ave NE\, Grand Rapids\, MI 49505\nDashboard: https://arj
+ unganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:philly-blendz-toledo-line-up-and-beard-specialist-toledo-oh@lead-finder
+DTSTAMP:20260828T235227Z
+DTSTART:20261014T090000
+DTEND:20261014T093000
+SUMMARY:Call lead: Philly Blendz | Toledo Line Up And Beard Specialist (Tol
+ edo OH)
+LOCATION:3501 Upton Ave\, Toledo\, OH 43613
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (419) 913-9504\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 67.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 42\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: barbershop  |  City: Toledo OH\nAddress: 3
+ 501 Upton Ave\, Toledo\, OH 43613\nDashboard: https://arjunganesh2011.gith
+ ub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:grand-rapids-health-insurance-agency-grand-rapids-mi@lead-finder
+DTSTAMP:20260828T235227Z
+DTSTART:20261014T150000
+DTEND:20261014T153000
+SUMMARY:Call lead: Grand Rapids Health Insurance Agency (Grand Rapids MI)
+LOCATION:630 3 Mile Rd NW\, Grand Rapids\, MI 49544
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (616) 274-0435\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 66.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 53\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Grand Rapids MI\nAddr
+ ess: 630 3 Mile Rd NW\, Grand Rapids\, MI 49544\nDashboard: https://arjung
+ anesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:king-rio-kuts-llc-toledo-oh@lead-finder
+DTSTAMP:20260828T235227Z
+DTSTART:20261014T180000
+DTEND:20261014T183000
+SUMMARY:Call lead: king Rio Kuts LLC (Toledo OH)
+LOCATION:1119 W Bancroft St\, Toledo\, OH 43606
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (419) 609-8874\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 66.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: barbershop  |  City: Toledo OH\nAddress: 1
+ 119 W Bancroft St\, Toledo\, OH 43606\nDashboard: https://arjunganesh2011.
+ github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:artist-unlimited-tattoo-gallery-llc-milwaukee-wi@lead-finder
+DTSTAMP:20260828T235227Z
+DTSTART:20261015T090000
+DTEND:20261015T093000
+SUMMARY:Call lead: Artist Unlimited Tattoo Gallery LLC (Milwaukee WI)
+LOCATION:306 E Wisconsin Ave\, Milwaukee\, WI 53202
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (414) 249-5908\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 46\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: tattoo shop  |  City: Milwaukee WI\nAddres
+ s: 306 E Wisconsin Ave\, Milwaukee\, WI 53202\nDashboard: https://arjungan
+ esh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:glass-city-barbershop-toledo-oh@lead-finder
+DTSTAMP:20260828T235227Z
+DTSTART:20261015T150000
+DTEND:20261015T153000
+SUMMARY:Call lead: Glass city barbershop (Toledo OH)
+LOCATION:3558 Stickney Ave\, Toledo\, OH 43608
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (419) 261-2229\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: barbershop  |  City: Toledo OH\nAddress: 3
+ 558 Stickney Ave\, Toledo\, OH 43608\nDashboard: https://arjunganesh2011.g
+ ithub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:limited-barbershop-toledo-oh@lead-finder
+DTSTAMP:20260828T235227Z
+DTSTART:20261015T180000
+DTEND:20261015T183000
+SUMMARY:Call lead: Limited barbershop (Toledo OH)
+LOCATION:5333 Secor Rd\, Toledo\, OH 43623
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 59.0  |  No-website confidence
+ : 80.0%  |  Buyer signal: 38\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: barbershop  |  City: Toledo OH\nAddress: 5333 Secor R
+ d\, Toledo\, OH 43623\nDashboard: https://arjunganesh2011.github.io/lead-f
+ inder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
