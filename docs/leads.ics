@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:nolan-appliance-repair-solutions-des-moines-ia@lead-finder
-DTSTAMP:20260725T160340Z
-DTSTART:20260822T090000
-DTEND:20260822T093000
-SUMMARY:Call lead: Nolan Appliance Repair Solutions (Des Moines IA)
-LOCATION:2104 E 14th St\, Des Moines\, IA 50316
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (515) 400-1498\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: appliance repair  |  City: Des Moines IA\n
- Address: 2104 E 14th St\, Des Moines\, IA 50316\nDashboard: https://arjung
- anesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:rapidresponse-appliance-repair-professionals-des-moines-ia@lead-finder
-DTSTAMP:20260725T160340Z
-DTSTART:20260822T150000
-DTEND:20260822T153000
-SUMMARY:Call lead: RapidResponse Appliance Repair Professionals (Des Moines
-  IA)
-LOCATION:833 1/2 E University Ave\, Des Moines\, IA 50316
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (515) 400-0889\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: appliance repair  |  City: Des Moines IA\n
- Address: 833 1/2 E University Ave\, Des Moines\, IA 50316\nDashboard: http
- s://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:everett-appliance-repair-services-des-moines-ia@lead-finder
-DTSTAMP:20260725T160340Z
-DTSTART:20260822T180000
-DTEND:20260822T183000
-SUMMARY:Call lead: Everett Appliance Repair Services (Des Moines IA)
-LOCATION:1400 Maple St\, Des Moines\, IA 50316
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (515) 400-0885\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: appliance repair  |  City: Des Moines IA\n
- Address: 1400 Maple St\, Des Moines\, IA 50316\nDashboard: https://arjunga
- nesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:wycliffe-appliance-repair-professionals-des-moines-ia@lead-finder
 DTSTAMP:20260725T160340Z
 DTSTART:20260823T090000
@@ -3226,6 +3168,85 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
  ched Starter\nNiche: barbershop  |  City: Toledo OH\nAddress: 5333 Secor R
  d\, Toledo\, OH 43623\nDashboard: https://arjunganesh2011.github.io/lead-f
  inder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tous-les-jours-virginia-beach-va-virginia-beach-va@lead-finder
+DTSTAMP:20260829T181104Z
+DTSTART:20261016T090000
+DTEND:20261016T093000
+SUMMARY:Call lead: Tous Les Jours - Virginia Beach\, VA (Virginia Beach VA)
+LOCATION:Behind the Wendy's\, 550 First Colonial Rd #400\, Virginia Beach\,
+  VA 23451
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (757) 904-0924\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 77.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 63\nAffordability: Established - go
+ od fit for Growth\nNiche: cafe  |  City: Virginia Beach VA\nAddress: Behin
+ d the Wendy's\, 550 First Colonial Rd #400\, Virginia Beach\, VA 23451\nSo
+ cials: facebook: https://www.facebook.com/p/Tous-Les-Jours-Virginia-Beach-
+ VA-61583649705386/ | yelp: https://www.yelp.com/biz/tous-les-jours-virgini
+ a-beach-2\nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:leena-coffee-virginia-beach-va@lead-finder
+DTSTAMP:20260829T181104Z
+DTSTART:20261016T150000
+DTEND:20261016T153000
+SUMMARY:Call lead: Leena coffee (Virginia Beach VA)
+LOCATION:3845 Bonney Rd #101\, Virginia Beach\, VA 23452
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (757) 528-7781\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 71.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 51\nAffordability: Established - go
+ od fit for Growth\nNiche: cafe  |  City: Virginia Beach VA\nAddress: 3845 
+ Bonney Rd #101\, Virginia Beach\, VA 23452\nDashboard: https://arjunganesh
+ 2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:el-paso-heating-and-air-conditioning-el-paso-tx@lead-finder
+DTSTAMP:20260829T181104Z
+DTSTART:20261016T180000
+DTEND:20261016T183000
+SUMMARY:Call lead: El Paso Heating and Air Conditioning (El Paso TX)
+LOCATION:503 N Mesa St\, El Paso\, TX 79902
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (915) 339-8021\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 69.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 59\nAffordability: Established - go
+ od fit for Growth\nNiche: HVAC company  |  City: El Paso TX\nAddress: 503 
+ N Mesa St\, El Paso\, TX 79902\nDashboard: https://arjunganesh2011.github.
+ io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-crooked-sideburn-barbershop-lubbock-tx@lead-finder
+DTSTAMP:20260829T181104Z
+DTSTART:20261017T090000
+DTEND:20261017T093000
+SUMMARY:Call lead: The Crooked Sideburn Barbershop (Lubbock TX)
+LOCATION:2811 74th St Ste B\, Lubbock\, TX 79423
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (806) 777-2741\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 68.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 44\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: barbershop  |  City: Lubbock TX\nAddress: 
+ 2811 74th St Ste B\, Lubbock\, TX 79423\nDashboard: https://arjunganesh201
+ 1.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
