@@ -8,65 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:wycliffe-appliance-repair-professionals-des-moines-ia@lead-finder
-DTSTAMP:20260725T160340Z
-DTSTART:20260823T090000
-DTEND:20260823T093000
-SUMMARY:Call lead: Wycliffe Appliance Repair Professionals (Des Moines IA)
-LOCATION:4230 Fleur Dr #1\, Des Moines\, IA 50321
-DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
- ier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website confidence
- : 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage - best pit
- ched Starter\nNiche: appliance repair  |  City: Des Moines IA\nAddress: 42
- 30 Fleur Dr #1\, Des Moines\, IA 50321\nDashboard: https://arjunganesh2011
- .github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:willow-affordable-auto-insurance-raleigh-raleigh-nc@lead-finder
-DTSTAMP:20260726T160025Z
-DTSTART:20260823T150000
-DTEND:20260823T153000
-SUMMARY:Call lead: Willow Affordable Auto Insurance Raleigh (Raleigh NC)
-LOCATION:1033 Wade Ave #170\, Raleigh\, NC 27605
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (252) 278-0379\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 74.5  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 57\nAffordability: Established - go
- od fit for Growth\nNiche: insurance agency  |  City: Raleigh NC\nAddress: 
- 1033 Wade Ave #170\, Raleigh\, NC 27605\nDashboard: https://arjunganesh201
- 1.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:wagner-carpet-cleaning-buffalo-ny@lead-finder
-DTSTAMP:20260726T160025Z
-DTSTART:20260823T180000
-DTEND:20260823T183000
-SUMMARY:Call lead: Wagner Carpet Cleaning (Buffalo NY)
-LOCATION:10360 Main St\, Clarence\, NY 14031
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (716) 440-4905\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 73.5  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 55\nAffordability: Established - go
- od fit for Growth\nNiche: carpet cleaning  |  City: Buffalo NY\nAddress: 1
- 0360 Main St\, Clarence\, NY 14031\nSocials: facebook: https://www.faceboo
- k.com/wagnercarpetcleaning/ | yelp: https://www.yelp.com/biz/wagner-carpet
- -cleaning-lockport-2 | instagram: https://www.instagram.com/wagnercarpetcl
- eaning/\nDashboard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:buffalo-carpet-and-commercial-cleaning-buffalo-ny@lead-finder
 DTSTAMP:20260726T160025Z
 DTSTART:20260824T090000
@@ -3247,6 +3188,83 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (806) 777-2741\nEmail: n
   - best pitched Starter\nNiche: barbershop  |  City: Lubbock TX\nAddress: 
  2811 74th St Ste B\, Lubbock\, TX 79423\nDashboard: https://arjunganesh201
  1.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:t-r-worcester-ma@lead-finder
+DTSTAMP:20260830T182536Z
+DTSTART:20261017T150000
+DTEND:20261017T153000
+SUMMARY:Call lead: T&R (Worcester MA)
+LOCATION:57 W Boylston St\, Worcester\, MA 01606
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (508) 852-7933\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 72.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 52\nAffordability: Established - go
+ od fit for Growth\nNiche: auto repair shop  |  City: Worcester MA\nAddress
+ : 57 W Boylston St\, Worcester\, MA 01606\nDashboard: https://arjunganesh2
+ 011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:william-affordable-auto-insurance-agency-mesa-az@lead-finder
+DTSTAMP:20260830T182536Z
+DTSTART:20261017T180000
+DTEND:20261017T183000
+SUMMARY:Call lead: William Affordable Auto Insurance Agency (Mesa AZ)
+LOCATION:1910 S Stapley Dr #110\, Mesa\, AZ 85204
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (209) 758-7435\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Mesa AZ\nAddress: 191
+ 0 S Stapley Dr #110\, Mesa\, AZ 85204\nDashboard: https://arjunganesh2011.
+ github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jackson-sr22-insurance-arizona-mesa-az@lead-finder
+DTSTAMP:20260830T182536Z
+DTSTART:20261018T090000
+DTEND:20261018T093000
+SUMMARY:Call lead: Jackson SR22 Insurance Arizona (Mesa AZ)
+LOCATION:40 N Center St Ste 203\, Mesa\, AZ 85201
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (332) 895-1271\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Mesa AZ\nAddress: 40 
+ N Center St Ste 203\, Mesa\, AZ 85201\nDashboard: https://arjunganesh2011.
+ github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:low-cost-auto-insurance-agency-experts-mesa-az-mesa-az@lead-finder
+DTSTAMP:20260830T182536Z
+DTSTART:20261018T150000
+DTEND:20261018T153000
+SUMMARY:Call lead: Low Cost Auto Insurance Agency Experts Mesa- AZ (Mesa AZ
+ )
+LOCATION:123 N Centennial Way Ste 150\, Mesa\, AZ 85201
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (480) 863-1090\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Mesa AZ\nAddress: 123
+  N Centennial Way Ste 150\, Mesa\, AZ 85201\nDashboard: https://arjunganes
+ h2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
