@@ -8,66 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:buffalo-carpet-and-commercial-cleaning-buffalo-ny@lead-finder
-DTSTAMP:20260726T160025Z
-DTSTART:20260824T090000
-DTEND:20260824T093000
-SUMMARY:Call lead: Buffalo Carpet and Commercial Cleaning (Buffalo NY)
-LOCATION:156 Royal Ave\, Buffalo\, NY 14207
-DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
- ier: Starter ($800 build + $150/mo)\nScore: 65.0  |  No-website confidence
- : 92.0%  |  Buyer signal: 38\nAffordability: Lean / early-stage - best pit
- ched Starter\nNiche: carpet cleaning  |  City: Buffalo NY\nAddress: 156 Ro
- yal Ave\, Buffalo\, NY 14207\nDashboard: https://arjunganesh2011.github.io
- /lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:la-vaquerita-food-truck-fort-worth-tx@lead-finder
-DTSTAMP:20260726T160025Z
-DTSTART:20260824T150000
-DTEND:20260824T153000
-SUMMARY:Call lead: La Vaquerita Food Truck (Fort Worth TX)
-LOCATION:2504 NE 28th St\, Fort Worth\, TX 76106
-DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
- ier: Starter ($800 build + $150/mo)\nScore: 62.5  |  No-website confidence
- : 92.0%  |  Buyer signal: 33\nAffordability: Lean / early-stage - best pit
- ched Starter\nNiche: food truck  |  City: Fort Worth TX\nAddress: 2504 NE 
- 28th St\, Fort Worth\, TX 76106\nSocials: facebook: https://www.facebook.c
- om/taquizas.lavaquerita.7/ | tiktok: https://www.tiktok.com/discover/la-va
- quera-food-truck-in-strasburg-vo\nDashboard: https://arjunganesh2011.githu
- b.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:el-pescador-food-truck-fort-worth-tx@lead-finder
-DTSTAMP:20260726T160025Z
-DTSTART:20260824T180000
-DTEND:20260824T183000
-SUMMARY:Call lead: El Pescador Food Truck (Fort Worth TX)
-LOCATION:950 N University Dr\, Fort Worth\, TX 76114
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (817) 298-4770\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 33\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: Fort Worth TX\nAddres
- s: 950 N University Dr\, Fort Worth\, TX 76114\nSocials: facebook: https:/
- /www.facebook.com/p/El-Pescador-Food-Truck-61550688299758/\nDashboard: htt
- ps://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:wheely-good-foods-truck-fort-worth-tx@lead-finder
 DTSTAMP:20260726T160025Z
 DTSTART:20260825T090000
@@ -3265,6 +3205,63 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (480) 863-1090\nEmail: n
  od fit for Growth\nNiche: insurance agency  |  City: Mesa AZ\nAddress: 123
   N Centennial Way Ste 150\, Mesa\, AZ 85201\nDashboard: https://arjunganes
  h2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:security-plus-locksmith-services-milwaukee-wi@lead-finder
+DTSTAMP:20260831T204003Z
+DTSTART:20261018T180000
+DTEND:20261018T183000
+SUMMARY:Call lead: Security-Plus Locksmith Services (Milwaukee WI)
+LOCATION:4145 W Loomis Rd\, Greenfield\, WI 53221
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (414) 282-7778\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 75.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 59\nAffordability: Established - go
+ od fit for Growth\nNiche: locksmith  |  City: Milwaukee WI\nAddress: 4145 
+ W Loomis Rd\, Greenfield\, WI 53221\nDashboard: https://arjunganesh2011.gi
+ thub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-m-fluence-tucson-az@lead-finder
+DTSTAMP:20260831T204003Z
+DTSTART:20261019T090000
+DTEND:20261019T093000
+SUMMARY:Call lead: The M Fluence (Tucson AZ)
+LOCATION:5803 E 18th St\, Tucson\, AZ 85711
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (415) 724-9365\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 44\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: pet boarding  |  City: Tucson AZ\nAddress:
+  5803 E 18th St\, Tucson\, AZ 85711\nDashboard: https://arjunganesh2011.gi
+ thub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calmare-massage-miami-miami-fl@lead-finder
+DTSTAMP:20260831T204003Z
+DTSTART:20261019T150000
+DTEND:20261019T153000
+SUMMARY:Call lead: CALMARE Massage Miami (Miami FL)
+LOCATION:245 NE 14th St Ste 103\, Miami\, FL 33132
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (305) 481-7507\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 42\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: massage therapist  |  City: Miami FL\nAddr
+ ess: 245 NE 14th St Ste 103\, Miami\, FL 33132\nDashboard: https://arjunga
+ nesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
