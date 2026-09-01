@@ -8,63 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:wheely-good-foods-truck-fort-worth-tx@lead-finder
-DTSTAMP:20260726T160025Z
-DTSTART:20260825T090000
-DTEND:20260825T093000
-SUMMARY:Call lead: Wheely Good Foods truck (Fort Worth TX)
-LOCATION:604 S Jennings St\, Fort Worth\, TX 76104
-DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
- ier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website confidence
- : 92.0%  |  Buyer signal: 31\nAffordability: Lean / early-stage - best pit
- ched Starter\nNiche: food truck  |  City: Fort Worth TX\nAddress: 604 S Je
- nnings St\, Fort Worth\, TX 76104\nDashboard: https://arjunganesh2011.gith
- ub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:vision-affordable-auto-insurance-raleigh-nc@lead-finder
-DTSTAMP:20260726T160025Z
-DTSTART:20260825T150000
-DTEND:20260825T153000
-SUMMARY:Call lead: Vision Affordable Auto Insurance (Raleigh NC)
-LOCATION:127 W Hargett St #635\, Raleigh\, NC 27601
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (229) 358-8295\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: insurance agency  |  City: Raleigh NC\nAdd
- ress: 127 W Hargett St #635\, Raleigh\, NC 27601\nDashboard: https://arjun
- ganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:clark-auto-insurance-raleigh-nc@lead-finder
-DTSTAMP:20260726T160025Z
-DTSTART:20260825T180000
-DTEND:20260825T183000
-SUMMARY:Call lead: Clark Auto Insurance (Raleigh NC)
-LOCATION:112 Cox Ave Ste. 228\, Raleigh\, NC 27605
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (252) 415-7851\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: insurance agency  |  City: Raleigh NC\nAdd
- ress: 112 Cox Ave Ste. 228\, Raleigh\, NC 27605\nDashboard: https://arjung
- anesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:quickbooks-support-help-toledo-oh@lead-finder
 DTSTAMP:20260726T160025Z
 DTSTART:20260826T090000
@@ -3262,6 +3205,84 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (305) 481-7507\nEmail: n
   - best pitched Starter\nNiche: massage therapist  |  City: Miami FL\nAddr
  ess: 245 NE 14th St Ste 103\, Miami\, FL 33132\nDashboard: https://arjunga
  nesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:faded-the-barbershop-beauty-studio-detroit-mi@lead-finder
+DTSTAMP:20260901T181011Z
+DTSTART:20261019T180000
+DTEND:20261019T183000
+SUMMARY:Call lead: FADED The Barbershop & Beauty Studio (Detroit MI)
+LOCATION:13741 Eight Mile W\, Detroit\, MI 48235
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (248) 310-7430\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 71.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 50\nAffordability: Established - go
+ od fit for Growth\nNiche: barbershop  |  City: Detroit MI\nAddress: 13741 
+ Eight Mile W\, Detroit\, MI 48235\nSocials: instagram: https://www.instagr
+ am.com/fadedtb/\nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:vip-nail-spa-under-new-owner-raleigh-nc@lead-finder
+DTSTAMP:20260901T181011Z
+DTSTART:20261020T090000
+DTEND:20261020T093000
+SUMMARY:Call lead: VIP NAIL SPA (Under New Owner) (Raleigh NC)
+LOCATION:4501 New Bern Ave #140\, Raleigh\, NC 27610
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (919) 231-0551\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 69.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 59\nAffordability: Established - go
+ od fit for Growth\nNiche: nail salon  |  City: Raleigh NC\nAddress: 4501 N
+ ew Bern Ave #140\, Raleigh\, NC 27610\nSocials: facebook: https://www.face
+ book.com/VIPNailSpaRaleighNC\nDashboard: https://arjunganesh2011.github.io
+ /lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:thistle-moon-louisville-ky@lead-finder
+DTSTAMP:20260901T181011Z
+DTSTART:20261020T150000
+DTEND:20261020T153000
+SUMMARY:Call lead: Thistle & Moon (Louisville KY)
+LOCATION:641 W Main St\, Louisville\, KY 40202
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 65.0  |  No-website confidence
+ : 92.0%  |  Buyer signal: 38\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: gift shop  |  City: Louisville KY\nAddress: 641 W Mai
+ n St\, Louisville\, KY 40202\nSocials: instagram: https://www.instagram.co
+ m/thistleandmoonlou/?hl=en\nDashboard: https://arjunganesh2011.github.io/l
+ ead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bridal-by-victoria-richmond-va@lead-finder
+DTSTAMP:20260901T181011Z
+DTSTART:20261020T180000
+DTEND:20261020T183000
+SUMMARY:Call lead: Bridal By Victoria (Richmond VA)
+LOCATION:23223\, 0 E 4th St Ste 15\, Richmond\, VA 23224
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (804) 909-1238\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: bridal shop  |  City: Richmond VA\nAddress
+ : 23223\, 0 E 4th St Ste 15\, Richmond\, VA 23224\nDashboard: https://arju
+ nganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
