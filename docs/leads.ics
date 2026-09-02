@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:quickbooks-support-help-toledo-oh@lead-finder
-DTSTAMP:20260726T160025Z
-DTSTART:20260826T090000
-DTEND:20260826T093000
-SUMMARY:Call lead: QuickBooks Support & Help (Toledo OH)
-LOCATION:2516 W Sylvania Ave\, Toledo\, OH 43613
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (888) 512-0361\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 56.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 32\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: bookkeeping service  |  City: Toledo OH\nA
- ddress: 2516 W Sylvania Ave\, Toledo\, OH 43613\nDashboard: https://arjung
- anesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:window-wizards-llc-indianapolis-in@lead-finder
-DTSTAMP:20260727T165640Z
-DTSTART:20260826T150000
-DTEND:20260826T153000
-SUMMARY:Call lead: Window Wizards\, LLC (Indianapolis IN)
-LOCATION:1501 Stafford Rd\, Plainfield\, IN 46168
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (317) 341-5514\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 75.5  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 59\nAffordability: Established - go
- od fit for Growth\nNiche: window cleaning  |  City: Indianapolis IN\nAddre
- ss: 1501 Stafford Rd\, Plainfield\, IN 46168\nSocials: facebook: https://w
- ww.facebook.com/WindowWizardsIndy/\nDashboard: https://arjunganesh2011.git
- hub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:james-a-o-malley-cpa-worcester-ma@lead-finder
-DTSTAMP:20260727T165640Z
-DTSTART:20260826T180000
-DTEND:20260826T183000
-SUMMARY:Call lead: James A. O'Malley CPA (Worcester MA)
-LOCATION:70 Holden St\, Worcester\, MA 01605
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (508) 856-0300\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 73.0  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 54\nAffordability: Established - go
- od fit for Growth\nNiche: accounting firm  |  City: Worcester MA\nAddress:
-  70 Holden St\, Worcester\, MA 01605\nDashboard: https://arjunganesh2011.g
- ithub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:kz-tattoo-orlando-tattoo-studio-orlando-fl@lead-finder
 DTSTAMP:20260727T165640Z
 DTSTART:20260827T090000
@@ -3283,6 +3225,83 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (804) 909-1238\nEmail: n
   - best pitched Starter\nNiche: bridal shop  |  City: Richmond VA\nAddress
  : 23223\, 0 E 4th St Ste 15\, Richmond\, VA 23224\nDashboard: https://arju
  nganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hair-shop-underground-hair-extensions-sacramento-sacramento-ca@lead-finder
+DTSTAMP:20260902T182613Z
+DTSTART:20261021T090000
+DTEND:20261021T093000
+SUMMARY:Call lead: Hair Shop Underground | Hair Extensions Sacramento (Sacr
+ amento CA)
+LOCATION:106 L St #7\, Sacramento\, CA 95814
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (831) 585-6564\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 65.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 51\nAffordability: Established - go
+ od fit for Growth\nNiche: hair salon  |  City: Sacramento CA\nAddress: 106
+  L St #7\, Sacramento\, CA 95814\nDashboard: https://arjunganesh2011.githu
+ b.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barry-s-pool-service-of-miami-miami-fl@lead-finder
+DTSTAMP:20260902T182613Z
+DTSTART:20261021T150000
+DTEND:20261021T153000
+SUMMARY:Call lead: Barry's Pool Service of Miami (Miami FL)
+LOCATION:1750 N Bayshore Dr Apt A\, Miami\, FL 33132
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (305) 614-5034\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 46\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: pool service  |  City: Miami FL\nAddress: 
+ 1750 N Bayshore Dr Apt A\, Miami\, FL 33132\nDashboard: https://arjunganes
+ h2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:signature-blends-barbershop-dayton-oh@lead-finder
+DTSTAMP:20260902T182613Z
+DTSTART:20261021T180000
+DTEND:20261021T183000
+SUMMARY:Call lead: Signature Blends Barbershop (Dayton OH)
+LOCATION:3081 Valley Pike\, Dayton\, OH 45404
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (937) 361-3151\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: barbershop  |  City: Dayton OH\nAddress: 3
+ 081 Valley Pike\, Dayton\, OH 45404\nDashboard: https://arjunganesh2011.gi
+ thub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nayda-col-n-boutique-salon-orlando-fl@lead-finder
+DTSTAMP:20260902T182613Z
+DTSTART:20261022T090000
+DTEND:20261022T093000
+SUMMARY:Call lead: Nayda Colón Boutique Salon (Orlando FL)
+LOCATION:1792 N Chickasaw Trail\, Orlando\, FL 32825
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (407) 757-2211\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 59.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: boutique  |  City: Orlando FL\nAddress: 17
+ 92 N Chickasaw Trail\, Orlando\, FL 32825\nDashboard: https://arjunganesh2
+ 011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
