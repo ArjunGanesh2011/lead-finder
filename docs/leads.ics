@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:kz-tattoo-orlando-tattoo-studio-orlando-fl@lead-finder
-DTSTAMP:20260727T165640Z
-DTSTART:20260827T090000
-DTEND:20260827T093000
-SUMMARY:Call lead: KZ Tattoo - Orlando Tattoo Studio (Orlando FL)
-LOCATION:5609 International Dr\, Orlando\, FL 32819
-DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
- ier: Growth ($1\,800 build + $299/mo)\nScore: 64.0  |  No-website confiden
- ce: 80.0%  |  Buyer signal: 48\nAffordability: Established - good fit for 
- Growth\nNiche: tattoo shop  |  City: Orlando FL\nAddress: 5609 Internation
- al Dr\, Orlando\, FL 32819\nSocials: instagram: https://www.instagram.com/
- kheisy_tattoo?igsh=MTR5MGQ0b2tocjh3&utm_source=qr\nDashboard: https://arju
- nganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:taquer-a-el-primo-food-truck-minneapolis-mn@lead-finder
-DTSTAMP:20260727T165640Z
-DTSTART:20260827T150000
-DTEND:20260827T153000
-SUMMARY:Call lead: Taquería el Primo Food Truck (Minneapolis MN)
-LOCATION:1624 N Washington Ave\, Minneapolis\, MN 55411
-DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
- ier: Starter ($800 build + $150/mo)\nScore: 64.0  |  No-website confidence
- : 92.0%  |  Buyer signal: 36\nAffordability: Lean / early-stage - best pit
- ched Starter\nNiche: food truck  |  City: Minneapolis MN\nAddress: 1624 N 
- Washington Ave\, Minneapolis\, MN 55411\nDashboard: https://arjunganesh201
- 1.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:oklahoma-tourist-center-and-gift-shop-oklahoma-city-ok@lead-finder
-DTSTAMP:20260727T165640Z
-DTSTART:20260827T180000
-DTEND:20260827T183000
-SUMMARY:Call lead: Oklahoma Tourist Center and Gift Shop (Oklahoma City OK)
-LOCATION:12229 N I- 35 Service Rd\, Oklahoma City\, OK 73131
-DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
- ier: Starter ($800 build + $150/mo)\nScore: 62.5  |  No-website confidence
- : 92.0%  |  Buyer signal: 33\nAffordability: Lean / early-stage - best pit
- ched Starter\nNiche: gift shop  |  City: Oklahoma City OK\nAddress: 12229 
- N I- 35 Service Rd\, Oklahoma City\, OK 73131\nDashboard: https://arjungan
- esh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:sandwings-food-truck-minneapolis-mn@lead-finder
 DTSTAMP:20260727T165640Z
 DTSTART:20260828T090000
@@ -3302,6 +3244,47 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (407) 757-2211\nEmail: n
   - best pitched Starter\nNiche: boutique  |  City: Orlando FL\nAddress: 17
  92 N Chickasaw Trail\, Orlando\, FL 32825\nDashboard: https://arjunganesh2
  011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:stewarts-tree-service-est-1980-indianapolis-in@lead-finder
+DTSTAMP:20260903T182129Z
+DTSTART:20261022T150000
+DTEND:20261022T153000
+SUMMARY:Call lead: Stewarts Tree Service: Est 1980 (Indianapolis IN)
+LOCATION:1917 S Franklin Rd\, Indianapolis\, IN 46239
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (317) 322-8367\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 78.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 65\nAffordability: Established - go
+ od fit for Growth\nNiche: tree service  |  City: Indianapolis IN\nAddress:
+  1917 S Franklin Rd\, Indianapolis\, IN 46239\nSocials: facebook: https://
+ www.facebook.com/stewartstreeservice1917/about\nDashboard: https://arjunga
+ nesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:q-nology-nail-studio-richmond-va@lead-finder
+DTSTAMP:20260903T182129Z
+DTSTART:20261022T180000
+DTEND:20261022T183000
+SUMMARY:Call lead: Q-NOLOGY Nail Studio (Richmond VA)
+LOCATION:2606 W Cary St Ste 1\, Richmond\, VA 23220
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (804) 928-0928\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 68.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 44\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: nail salon  |  City: Richmond VA\nAddress:
+  2606 W Cary St Ste 1\, Richmond\, VA 23220\nSocials: instagram: https://w
+ ww.instagram.com/q.nology/ | facebook: https://www.facebook.com/p/Q-Nology
+ -Nail-Studio-61585325378028/\nDashboard: https://arjunganesh2011.github.io
+ /lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
