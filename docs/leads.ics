@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:sandwings-food-truck-minneapolis-mn@lead-finder
-DTSTAMP:20260727T165640Z
-DTSTART:20260828T090000
-DTEND:20260828T093000
-SUMMARY:Call lead: Sandwings Food Truck (Minneapolis MN)
-LOCATION:601 N 5th St\, Minneapolis\, MN 55401
-DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
- ier: Starter ($800 build + $150/mo)\nScore: 62.5  |  No-website confidence
- : 92.0%  |  Buyer signal: 33\nAffordability: Lean / early-stage - best pit
- ched Starter\nNiche: food truck  |  City: Minneapolis MN\nAddress: 601 N 5
- th St\, Minneapolis\, MN 55401\nSocials: facebook: https://www.facebook.co
- m/p/Sandwings-61576300403410/\nDashboard: https://arjunganesh2011.github.i
- o/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:cutthroat-collective-barbershop-nashville-tn@lead-finder
-DTSTAMP:20260728T164013Z
-DTSTART:20260828T150000
-DTEND:20260828T153000
-SUMMARY:Call lead: Cutthroat Collective Barbershop (Nashville TN)
-LOCATION:210 25th Ave N Ste 72\, Nashville\, TN 37203
-DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
- ier: Starter ($800 build + $150/mo)\nScore: 68.0  |  No-website confidence
- : 92.0%  |  Buyer signal: 44\nAffordability: Lean / early-stage - best pit
- ched Starter\nNiche: barbershop  |  City: Nashville TN\nAddress: 210 25th 
- Ave N Ste 72\, Nashville\, TN 37203\nDashboard: https://arjunganesh2011.gi
- thub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pikes-peak-gift-shop-colorado-springs-co@lead-finder
-DTSTAMP:20260728T164013Z
-DTSTART:20260828T180000
-DTEND:20260828T183000
-SUMMARY:Call lead: Pikes Peak Gift Shop (Colorado Springs CO)
-LOCATION:101 El Paso Blvd\, Manitou Springs\, CO 80829
-DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
- ier: Starter ($800 build + $150/mo)\nScore: 58.0  |  No-website confidence
- : 92.0%  |  Buyer signal: 24\nAffordability: Lean / early-stage - best pit
- ched Starter\nNiche: gift shop  |  City: Colorado Springs CO\nAddress: 101
-  El Paso Blvd\, Manitou Springs\, CO 80829\nDashboard: https://arjunganesh
- 2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:sacred-heart-tattoo-studio-el-paso-tx@lead-finder
 DTSTAMP:20260729T162106Z
 DTSTART:20260829T090000
@@ -3285,6 +3227,140 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (804) 928-0928\nEmail: n
  ww.instagram.com/q.nology/ | facebook: https://www.facebook.com/p/Q-Nology
  -Nail-Studio-61585325378028/\nDashboard: https://arjunganesh2011.github.io
  /lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:atlanta-auto-insurance-discounters-atlanta-ga@lead-finder
+DTSTAMP:20260904T180716Z
+DTSTART:20261023T090000
+DTEND:20261023T093000
+SUMMARY:Call lead: Atlanta Auto Insurance Discounters (Atlanta GA)
+LOCATION:934 Glenwood Ave SE #117\, Atlanta\, GA 30316
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (216) 877-3659\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Atlanta GA\nAddress: 
+ 934 Glenwood Ave SE #117\, Atlanta\, GA 30316\nDashboard: https://arjungan
+ esh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darling-paw-spa-sacramento-ca@lead-finder
+DTSTAMP:20260904T180716Z
+DTSTART:20261023T150000
+DTEND:20261023T153000
+SUMMARY:Call lead: Darling Paw Spa (Sacramento CA)
+LOCATION:3023 Arden Wy\, Sacramento\, CA 95825
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (916) 208-9971\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 66.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: dog grooming  |  City: Sacramento CA\nAddr
+ ess: 3023 Arden Wy\, Sacramento\, CA 95825\nSocials: facebook: https://www
+ .facebook.com/profile.php?id=61593059447780\nDashboard: https://arjunganes
+ h2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:precise-bookkeeping-services-llc-reno-nv@lead-finder
+DTSTAMP:20260904T180716Z
+DTSTART:20261023T180000
+DTEND:20261023T183000
+SUMMARY:Call lead: Precise Bookkeeping Services LLC (Reno NV)
+LOCATION:3680 Grant Dr Ste B\, Reno\, NV 89509
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (775) 636-6599\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 64.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 49\nAffordability: Established - go
+ od fit for Growth\nNiche: bookkeeping service  |  City: Reno NV\nAddress: 
+ 3680 Grant Dr Ste B\, Reno\, NV 89509\nDashboard: https://arjunganesh2011.
+ github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:state-flow-massage-st-louis-mo@lead-finder
+DTSTAMP:20260904T180716Z
+DTSTART:20261024T090000
+DTEND:20261024T093000
+SUMMARY:Call lead: State Flow Massage (St Louis MO)
+LOCATION:8000 Bonhomme Ave #319\, Clayton\, MO 63105
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (314) 320-5378\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 47\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: massage therapist  |  City: St Louis MO\nA
+ ddress: 8000 Bonhomme Ave #319\, Clayton\, MO 63105\nDashboard: https://ar
+ junganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shreveport-appliance-repair-elite-shreveport-la@lead-finder
+DTSTAMP:20260904T180716Z
+DTSTART:20261024T150000
+DTEND:20261024T153000
+SUMMARY:Call lead: Shreveport Appliance Repair Elite (Shreveport LA)
+LOCATION:333 Texas St Suite 1334\, Shreveport\, LA 71101
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (239) 610-7118\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Shreveport LA\n
+ Address: 333 Texas St Suite 1334\, Shreveport\, LA 71101\nDashboard: https
+ ://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s-g-jewelers-wichita-ks@lead-finder
+DTSTAMP:20260904T180716Z
+DTSTART:20261024T180000
+DTEND:20261024T183000
+SUMMARY:Call lead: S & G Jewelers (Wichita KS)
+LOCATION:7700 E Kellogg Dr #42\, Wichita\, KS 67207
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (316) 573-7082\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: jewelry store  |  City: Wichita KS\nAddres
+ s: 7700 E Kellogg Dr #42\, Wichita\, KS 67207\nDashboard: https://arjungan
+ esh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eleven11soul-worcester-ma@lead-finder
+DTSTAMP:20260904T180716Z
+DTSTART:20261025T090000
+DTEND:20261025T093000
+SUMMARY:Call lead: Eleven11soul (Worcester MA)
+LOCATION:31 Hope Ave\, Worcester\, MA 01603
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (774) 232-6793\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 50.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 20\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: gift shop  |  City: Worcester MA\nAddress:
+  31 Hope Ave\, Worcester\, MA 01603\nDashboard: https://arjunganesh2011.gi
+ thub.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
