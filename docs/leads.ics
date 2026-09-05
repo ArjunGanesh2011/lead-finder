@@ -8,46 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:sacred-heart-tattoo-studio-el-paso-tx@lead-finder
-DTSTAMP:20260729T162106Z
-DTSTART:20260829T090000
-DTEND:20260829T093000
-SUMMARY:Call lead: Sacred Heart Tattoo Studio (El Paso TX)
-LOCATION:3012 Mountain Pass Blvd Bldg B-2\, Anthony\, TX 79821
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (575) 621-1058\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 80.0  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 68\nAffordability: Established - go
- od fit for Growth\nNiche: tattoo shop  |  City: El Paso TX\nAddress: 3012 
- Mountain Pass Blvd Bldg B-2\, Anthony\, TX 79821\nSocials: instagram: http
- s://instagram.com/SacredHeartTattoosElPaso\nDashboard: https://arjunganesh
- 2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:sergei-affordable-auto-insurance-agency-denver-denver-co@lead-finder
-DTSTAMP:20260729T162106Z
-DTSTART:20260829T150000
-DTEND:20260829T153000
-SUMMARY:Call lead: Sergei Affordable Auto Insurance Agency Denver (Denver C
- O)
-LOCATION:1290 Broadway #1703\, Denver\, CO 80203
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (206) 647-6958\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
- od fit for Growth\nNiche: insurance agency  |  City: Denver CO\nAddress: 1
- 290 Broadway #1703\, Denver\, CO 80203\nDashboard: https://arjunganesh2011
- .github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:socal-plumber-san-diego-san-diego-ca@lead-finder
 DTSTAMP:20260729T162106Z
 DTSTART:20260829T180000
@@ -3361,6 +3321,103 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (774) 232-6793\nEmail: n
   - best pitched Starter\nNiche: gift shop  |  City: Worcester MA\nAddress:
   31 Hope Ave\, Worcester\, MA 01603\nDashboard: https://arjunganesh2011.gi
  thub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moore-chiropractic-san-antonio-sports-injury-neck-back-pain-san-antonio-tx@lead-finder
+DTSTAMP:20260905T170943Z
+DTSTART:20261025T150000
+DTEND:20261025T153000
+SUMMARY:Call lead: Moore Chiropractic San Antonio - Sports Injury | Neck & 
+ Back Pain (San Antonio TX)
+LOCATION:8507 McCullough Ave Suite A-1\, San Antonio\, TX 78216
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (210) 525-9063\nEmail: n
+ ot found\nTier: Premium ($3\,500 build + $499/mo)\nScore: 80.5  |  No-webs
+ ite confidence: 80.0%  |  Buyer signal: 81\nAffordability: High earner - c
+ omfortably fits Premium\nNiche: chiropractor  |  City: San Antonio TX\nAdd
+ ress: 8507 McCullough Ave Suite A-1\, San Antonio\, TX 78216\nDashboard: h
+ ttps://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:rv-associates-accounting-payroll-salt-lake-city-ut@lead-finder
+DTSTAMP:20260905T170943Z
+DTSTART:20261025T180000
+DTEND:20261025T183000
+SUMMARY:Call lead: RV & Associates Accounting & Payroll (Salt Lake City UT)
+LOCATION:140 W 2100 S Expy #244\, Salt Lake City\, UT 84115
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (385) 270-5108\nEmail: n
+ ot found\nTier: Premium ($3\,500 build + $499/mo)\nScore: 78.5  |  No-webs
+ ite confidence: 80.0%  |  Buyer signal: 77\nAffordability: High earner - c
+ omfortably fits Premium\nNiche: accounting firm  |  City: Salt Lake City U
+ T\nAddress: 140 W 2100 S Expy #244\, Salt Lake City\, UT 84115\nDashboard:
+  https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:taqueria-t-a-raquel-spokane-wa@lead-finder
+DTSTAMP:20260905T170943Z
+DTSTART:20261026T090000
+DTEND:20261026T093000
+SUMMARY:Call lead: Taqueria Tía Raquel (Spokane WA)
+LOCATION:3258 E Sprague Ave\, Spokane\, WA 99202
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (509) 558-1145\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 33\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Spokane WA\nAddress: 
+ 3258 E Sprague Ave\, Spokane\, WA 99202\nDashboard: https://arjunganesh201
+ 1.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:attention-to-details-pressure-soft-washing-services-birmingham-al@lead-finder
+DTSTAMP:20260905T170943Z
+DTSTART:20261026T150000
+DTEND:20261026T153000
+SUMMARY:Call lead: Attention to Details pressure & soft washing services (B
+ irmingham AL)
+LOCATION:218 Shoal Run Trail\, Birmingham\, AL 35242
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 60.0  |  No-website confidence
+ : 80.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: pressure washing  |  City: Birmingham AL\nAddress: 21
+ 8 Shoal Run Trail\, Birmingham\, AL 35242\nDashboard: https://arjunganesh2
+ 011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:two-brothers-food-truck-catering-spokane-wa@lead-finder
+DTSTAMP:20260905T170943Z
+DTSTART:20261026T180000
+DTEND:20261026T183000
+SUMMARY:Call lead: Two Brothers Food Truck & Catering (Spokane WA)
+LOCATION:2025 N Hamilton St\, Spokane\, WA 99207
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 54.0  |  No-website confidence
+ : 80.0%  |  Buyer signal: 28\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: food truck  |  City: Spokane WA\nAddress: 2025 N Hami
+ lton St\, Spokane\, WA 99207\nDashboard: https://arjunganesh2011.github.io
+ /lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
