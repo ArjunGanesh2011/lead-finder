@@ -8,63 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:socal-plumber-san-diego-san-diego-ca@lead-finder
-DTSTAMP:20260729T162106Z
-DTSTART:20260829T180000
-DTEND:20260829T183000
-SUMMARY:Call lead: SoCal Plumber San Diego (San Diego CA)
-LOCATION:320 W Ash St\, San Diego\, CA 92101
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (619) 486-5672\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
- od fit for Growth\nNiche: plumber  |  City: San Diego CA\nAddress: 320 W A
- sh St\, San Diego\, CA 92101\nDashboard: https://arjunganesh2011.github.io
- /lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mobile-wood-floor-co-mobile-al@lead-finder
-DTSTAMP:20260729T162106Z
-DTSTART:20260830T090000
-DTEND:20260830T093000
-SUMMARY:Call lead: Mobile Wood Floor Co (Mobile AL)
-LOCATION:1216 E Interstate 65 Service Rd S\, Mobile\, AL 36609
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (251) 333-2422\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 64.5  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 49\nAffordability: Established - go
- od fit for Growth\nNiche: flooring company  |  City: Mobile AL\nAddress: 1
- 216 E Interstate 65 Service Rd S\, Mobile\, AL 36609\nDashboard: https://a
- rjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:gift-baskets-balloons-shop-birmingham-al@lead-finder
-DTSTAMP:20260729T162106Z
-DTSTART:20260830T150000
-DTEND:20260830T153000
-SUMMARY:Call lead: Gift baskets & Balloons shop (Birmingham AL)
-LOCATION:3040 Ensley Ave\, Birmingham\, AL 35208
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (205) 427-2065\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 34\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: gift shop  |  City: Birmingham AL\nAddress
- : 3040 Ensley Ave\, Birmingham\, AL 35208\nDashboard: https://arjunganesh2
- 011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:queen-on-wheels-food-truck-and-catering-new-orleans-la@lead-finder
 DTSTAMP:20260729T162106Z
 DTSTART:20260830T180000
@@ -3418,6 +3361,140 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
  ched Starter\nNiche: food truck  |  City: Spokane WA\nAddress: 2025 N Hami
  lton St\, Spokane\, WA 99207\nDashboard: https://arjunganesh2011.github.io
  /lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raymond-s-electricians-colorado-springs-co@lead-finder
+DTSTAMP:20260906T173040Z
+DTSTART:20261027T090000
+DTEND:20261027T093000
+SUMMARY:Call lead: Raymond's Electricians (Colorado Springs CO)
+LOCATION:6255 Corporate Dr #47E\, Colorado Springs\, CO 80919
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (719) 437-7320\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 69.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 59\nAffordability: Established - go
+ od fit for Growth\nNiche: electrician  |  City: Colorado Springs CO\nAddre
+ ss: 6255 Corporate Dr #47E\, Colorado Springs\, CO 80919\nDashboard: https
+ ://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:josie-and-travis-affordable-auto-insurance-group-birmingham-al@lead-finder
+DTSTAMP:20260906T173040Z
+DTSTART:20261027T150000
+DTEND:20261027T153000
+SUMMARY:Call lead: Josie and Travis Affordable Auto Insurance Group (Birmin
+ gham AL)
+LOCATION:420 20th St N #3011\, Birmingham\, AL 35203
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (205) 709-3881\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Birmingham AL\nAddres
+ s: 420 20th St N #3011\, Birmingham\, AL 35203\nDashboard: https://arjunga
+ nesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:low-cost-auto-insurance-solutions-of-al-birmingham-al@lead-finder
+DTSTAMP:20260906T173040Z
+DTSTART:20261027T180000
+DTEND:20261027T183000
+SUMMARY:Call lead: Low Cost Auto Insurance Solutions Of AL (Birmingham AL)
+LOCATION:2 20th St N #1052\, Birmingham\, AL 35203
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (276) 244-8919\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Birmingham AL\nAddres
+ s: 2 20th St N #1052\, Birmingham\, AL 35203\nDashboard: https://arjungane
+ sh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:appliance-repair-molenaar-park-boise-id@lead-finder
+DTSTAMP:20260906T173040Z
+DTSTART:20261028T090000
+DTEND:20261028T093000
+SUMMARY:Call lead: Appliance Repair Molenaar Park (Boise ID)
+LOCATION:7979 W Woodlark St\, Boise\, ID 83709
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (208) 675-7366\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Boise ID\nAddre
+ ss: 7979 W Woodlark St\, Boise\, ID 83709\nDashboard: https://arjunganesh2
+ 011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:brothers-alliance-appliance-repair-co-boise-id@lead-finder
+DTSTAMP:20260906T173040Z
+DTSTART:20261028T150000
+DTEND:20261028T153000
+SUMMARY:Call lead: Brothers Alliance Appliance Repair Co. (Boise ID)
+LOCATION:6421 S Eisenman Rd\, Boise\, ID 83716
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (208) 675-7408\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Boise ID\nAddre
+ ss: 6421 S Eisenman Rd\, Boise\, ID 83716\nDashboard: https://arjunganesh2
+ 011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:alvarado-power-wash-llc-fort-worth-tx@lead-finder
+DTSTAMP:20260906T173040Z
+DTSTART:20261028T180000
+DTEND:20261028T183000
+SUMMARY:Call lead: Alvarado Power Wash LLC. (Fort Worth TX)
+LOCATION:5840 Trigg Dr\, Fort Worth\, TX 76114
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (817) 791-8265\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: pressure washing  |  City: Fort Worth TX\n
+ Address: 5840 Trigg Dr\, Fort Worth\, TX 76114\nDashboard: https://arjunga
+ nesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nationwide-insurance-service-birmingham-al@lead-finder
+DTSTAMP:20260906T173040Z
+DTSTART:20261029T090000
+DTEND:20261029T093000
+SUMMARY:Call lead: Nationwide Insurance Service (Birmingham AL)
+LOCATION:621 10th Ave S\, Birmingham\, AL 35205
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (334) 453-4773\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: insurance agency  |  City: Birmingham AL\n
+ Address: 621 10th Ave S\, Birmingham\, AL 35205\nDashboard: https://arjung
+ anesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
