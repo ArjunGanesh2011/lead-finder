@@ -8,84 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:queen-on-wheels-food-truck-and-catering-new-orleans-la@lead-finder
-DTSTAMP:20260729T162106Z
-DTSTART:20260830T180000
-DTEND:20260830T183000
-SUMMARY:Call lead: Queen on Wheels Food Truck and Catering (New Orleans LA)
-LOCATION:1021 Convention Center Blvd\, New Orleans\, LA 70130
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (504) 931-8576\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 34\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: New Orleans LA\nAddre
- ss: 1021 Convention Center Blvd\, New Orleans\, LA 70130\nDashboard: https
- ://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:the-studio-on-pine-tulsa-ok@lead-finder
-DTSTAMP:20260729T162106Z
-DTSTART:20260831T090000
-DTEND:20260831T093000
-SUMMARY:Call lead: The Studio on Pine (Tulsa OK)
-LOCATION:750 S Cherokee St Ste p\, Catoosa\, OK 74015
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (918) 510-0725\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 42\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: photography studio  |  City: Tulsa OK\nAdd
- ress: 750 S Cherokee St Ste p\, Catoosa\, OK 74015\nDashboard: https://arj
- unganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:ryan-s-fair-food-s-new-orleans-la@lead-finder
-DTSTAMP:20260729T162106Z
-DTSTART:20260831T150000
-DTEND:20260831T153000
-SUMMARY:Call lead: Ryan's Fair Food's (New Orleans LA)
-LOCATION:2845 S Claiborne Ave\, New Orleans\, LA 70125
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (989) 387-2349\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 48.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 17\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: New Orleans LA\nAddre
- ss: 2845 S Claiborne Ave\, New Orleans\, LA 70125\nDashboard: https://arju
- nganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:ashley-granberry-rn-piercing-wichita-ks@lead-finder
-DTSTAMP:20260730T162544Z
-DTSTART:20260831T180000
-DTEND:20260831T183000
-SUMMARY:Call lead: Ashley Granberry RN Piercing (Wichita KS)
-LOCATION:547 N Armour St\, Wichita\, KS 67206
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (316) 772-7480\nEmail: a
- shleygranberry@gmail.com\nTier: Growth ($1\,800 build + $299/mo)\nScore: 8
- 0.0  |  No-website confidence: 92.0%  |  Buyer signal: 68\nAffordability: 
- Established - good fit for Growth\nNiche: tattoo shop  |  City: Wichita KS
- \nAddress: 547 N Armour St\, Wichita\, KS 67206\nSocials: facebook: https:
- //www.facebook.com/p/Ashley-Granberry-RN-Piercing-100071445204415/ | youtu
- be: https://www.youtube.com/@AshleyGranberry.RN.Piercing\nDashboard: https
- ://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:birrieria-iturbidense-food-truck-indianapolis-in@lead-finder
 DTSTAMP:20260730T162544Z
 DTSTART:20260901T090000
@@ -3495,6 +3417,46 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (334) 453-4773\nEmail: n
   - best pitched Starter\nNiche: insurance agency  |  City: Birmingham AL\n
  Address: 621 10th Ave S\, Birmingham\, AL 35205\nDashboard: https://arjung
  anesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ak-tattoo-tampa-fl@lead-finder
+DTSTAMP:20260907T190028Z
+DTSTART:20261029T150000
+DTEND:20261029T153000
+SUMMARY:Call lead: AK Tattoo (Tampa FL)
+LOCATION:8313 N Armenia Ave\, Tampa\, FL 33604
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (813) 708-3478\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 77.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 63\nAffordability: Established - go
+ od fit for Growth\nNiche: tattoo shop  |  City: Tampa FL\nAddress: 8313 N 
+ Armenia Ave\, Tampa\, FL 33604\nSocials: yelp: https://www.yelp.com/biz/ak
+ -tattoo-anchorage | instagram: https://www.instagram.com/aktattoo_oficial/
+ \nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sule-tattoo-tampa-fl@lead-finder
+DTSTAMP:20260907T190028Z
+DTSTART:20261029T180000
+DTEND:20261029T183000
+SUMMARY:Call lead: Sule Tattoo (Tampa FL)
+LOCATION:5004 N Armenia Ave #2\, Tampa\, FL 33603
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (813) 593-1975\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 73.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 54\nAffordability: Established - go
+ od fit for Growth\nNiche: tattoo shop  |  City: Tampa FL\nAddress: 5004 N 
+ Armenia Ave #2\, Tampa\, FL 33603\nSocials: facebook: https://www.facebook
+ .com/61584760922614/about/\nDashboard: https://arjunganesh2011.github.io/l
+ ead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
