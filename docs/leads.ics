@@ -8,65 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:birrieria-iturbidense-food-truck-indianapolis-in@lead-finder
-DTSTAMP:20260730T162544Z
-DTSTART:20260901T090000
-DTEND:20260901T093000
-SUMMARY:Call lead: Birrieria Iturbidense Food Truck (Indianapolis IN)
-LOCATION:Lot Food Truck\, 6302 W Washington St\, Indianapolis\, IN 46241
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (317) 828-3558\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 73.5  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 55\nAffordability: Established - go
- od fit for Growth\nNiche: food truck  |  City: Indianapolis IN\nAddress: L
- ot Food Truck\, 6302 W Washington St\, Indianapolis\, IN 46241\nSocials: f
- acebook: https://www.facebook.com/BirrieriaIturbidense/ | instagram: https
- ://www.instagram.com/birrieriaiturbidense/\nDashboard: https://arjunganesh
- 2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:sofia-sofia-affordable-insurance-group-memphis-tn@lead-finder
-DTSTAMP:20260730T162544Z
-DTSTART:20260901T150000
-DTEND:20260901T153000
-SUMMARY:Call lead: Sofia & Sofia Affordable Insurance Group (Memphis TN)
-LOCATION:3074 Covington Pike\, Memphis\, TN 38128
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (226) 799-8471\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
- od fit for Growth\nNiche: insurance agency  |  City: Memphis TN\nAddress: 
- 3074 Covington Pike\, Memphis\, TN 38128\nDashboard: https://arjunganesh20
- 11.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:low-cost-auto-insurance-agency-memphis-tn@lead-finder
-DTSTAMP:20260730T162544Z
-DTSTART:20260901T180000
-DTEND:20260901T183000
-SUMMARY:Call lead: Low Cost Auto Insurance Agency (Memphis TN)
-LOCATION:2670 Union Ave Extended Ste 775\, Memphis\, TN 38112
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (669) 317-1485\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
- od fit for Growth\nNiche: insurance agency  |  City: Memphis TN\nAddress: 
- 2670 Union Ave Extended Ste 775\, Memphis\, TN 38112\nDashboard: https://a
- rjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:hobbs-pro-llc-pressure-washing-solar-panel-cleaning-ss32084hg-tucson-az@lead-finder
 DTSTAMP:20260730T162544Z
 DTSTART:20260902T090000
@@ -3457,6 +3398,44 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (813) 593-1975\nEmail: n
  Armenia Ave #2\, Tampa\, FL 33603\nSocials: facebook: https://www.facebook
  .com/61584760922614/about/\nDashboard: https://arjunganesh2011.github.io/l
  ead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mark-costcut-auto-insurance-broom-new-orleans-la@lead-finder
+DTSTAMP:20260908T182033Z
+DTSTART:20261030T090000
+DTEND:20261030T093000
+SUMMARY:Call lead: Mark CostCut Auto Insurance Broom (New Orleans LA)
+LOCATION:3161 Gentilly Blvd\, New Orleans\, LA 70122
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (504) 238-3288\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 57\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: New Orleans LA\nAddre
+ ss: 3161 Gentilly Blvd\, New Orleans\, LA 70122\nDashboard: https://arjung
+ anesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flowers-by-rose-omaha-ne@lead-finder
+DTSTAMP:20260908T182033Z
+DTSTART:20261030T150000
+DTEND:20261030T153000
+SUMMARY:Call lead: Flowers by Rose (Omaha NE)
+LOCATION:15515 Fieldcrest Cir\, Omaha\, NE 68154
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (402) 507-7212\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 59.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: florist  |  City: Omaha NE\nAddress: 15515
+  Fieldcrest Cir\, Omaha\, NE 68154\nDashboard: https://arjunganesh2011.git
+ hub.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
