@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:chris-s-tree-service-winston-salem-nc@lead-finder
-DTSTAMP:20260731T164528Z
-DTSTART:20260903T090000
-DTEND:20260903T093000
-SUMMARY:Call lead: Chris's Tree Service (Winston-Salem NC)
-LOCATION:6883 NC-109\, Winston-Salem\, NC 27107
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (336) 847-1961\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 69.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 47\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: tree service  |  City: Winston-Salem NC\nA
- ddress: 6883 NC-109\, Winston-Salem\, NC 27107\nDashboard: https://arjunga
- nesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:father-and-son-carpet-care-sacramento-ca@lead-finder
-DTSTAMP:20260731T164528Z
-DTSTART:20260903T150000
-DTEND:20260903T153000
-SUMMARY:Call lead: Father And Son Carpet Care (Sacramento CA)
-LOCATION:1781 Heritage Ln\, Sacramento\, CA 95815
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (916) 541-1738\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 67.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: carpet cleaning  |  City: Sacramento CA\nA
- ddress: 1781 Heritage Ln\, Sacramento\, CA 95815\nSocials: yelp: https://w
- ww.yelp.com/biz/father-and-son-carpet-care-los-angeles\nDashboard: https:/
- /arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:s-s-accounting-services-inc-miami-fl@lead-finder
-DTSTAMP:20260801T155947Z
-DTSTART:20260903T180000
-DTEND:20260903T183000
-SUMMARY:Call lead: S & S Accounting Services\, INC. (Miami FL)
-LOCATION:3383 NW 7th St\, Miami\, FL 33125
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (305) 476-1833\nEmail: n
- ot found\nTier: Premium ($3\,500 build + $499/mo)\nScore: 78.5  |  No-webs
- ite confidence: 80.0%  |  Buyer signal: 77\nAffordability: High earner - c
- omfortably fits Premium\nNiche: accounting firm  |  City: Miami FL\nAddres
- s: 3383 NW 7th St\, Miami\, FL 33125\nDashboard: https://arjunganesh2011.g
- ithub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:ethical-accounting-llc-miami-fl@lead-finder
 DTSTAMP:20260801T155947Z
 DTSTART:20260904T090000
@@ -3435,6 +3377,48 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (646) 427-4222\nEmail: n
  ok.com/61592160922094/ | tiktok: https://www.tiktok.com/discover/barakah-r
  olls-house-reviews\nDashboard: https://arjunganesh2011.github.io/lead-find
  er/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tamptax-tampa-fl@lead-finder
+DTSTAMP:20260910T180728Z
+DTSTART:20261031T180000
+DTEND:20261031T183000
+SUMMARY:Call lead: TampTax (Tampa FL)
+LOCATION:309 W Dr Martin Luther King Jr Blvd\, Tampa\, FL 33603
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (813) 237-5567\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 77.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 63\nAffordability: Established - go
+ od fit for Growth\nNiche: accounting firm  |  City: Tampa FL\nAddress: 309
+  W Dr Martin Luther King Jr Blvd\, Tampa\, FL 33603\nSocials: facebook: ht
+ tps://www.facebook.com/TampTax | yelp: https://www.yelp.com/biz/tamptax-ta
+ mpa | instagram: https://www.instagram.com/tamptax/ | linkedin: https://ww
+ w.linkedin.com/company/tamptax\nDashboard: https://arjunganesh2011.github.
+ io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:activate-outdoor-services-des-moines-ia@lead-finder
+DTSTAMP:20260910T180728Z
+DTSTART:20261101T090000
+DTEND:20261101T093000
+SUMMARY:Call lead: Activate Outdoor Services (Des Moines IA)
+LOCATION:3839 57th St\, Des Moines\, IA 50310
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 60.5  |  No-website confidence
+ : 80.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: pressure washing  |  City: Des Moines IA\nAddress: 38
+ 39 57th St\, Des Moines\, IA 50310\nSocials: yelp: https://www.yelp.com/bi
+ z/activate-outdoor-services-des-moines?override_cta=Get+a+quote\nDashboard
+ : https://arjunganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
