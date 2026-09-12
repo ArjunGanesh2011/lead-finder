@@ -8,47 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:alpha-omega-general-contracting-springfield-mo@lead-finder
-DTSTAMP:20260802T155954Z
-DTSTART:20260905T090000
-DTEND:20260905T093000
-SUMMARY:Call lead: Alpha & Omega General Contracting (Springfield MO)
-LOCATION:1722 N Sherman Ave\, Springfield\, MO 65803
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (417) 409-9326\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 74.0  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 56\nAffordability: Established - go
- od fit for Growth\nNiche: general contractor  |  City: Springfield MO\nAdd
- ress: 1722 N Sherman Ave\, Springfield\, MO 65803\nSocials: facebook: http
- s://www.facebook.com/p/Alpha-Omega-General-Contracting-100064148377948/\nD
- ashboard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:tania-s-flower-creations-tucson-az@lead-finder
-DTSTAMP:20260802T155954Z
-DTSTART:20260905T150000
-DTEND:20260905T153000
-SUMMARY:Call lead: Tania's Flower Creations (Tucson AZ)
-LOCATION:650 W Calle Castile\, Tucson\, AZ 85756
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (520) 440-4715\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 67.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: florist  |  City: Tucson AZ\nAddress: 650 
- W Calle Castile\, Tucson\, AZ 85756\nSocials: facebook: https://www.facebo
- ok.com/p/Tanias-Flower-Creations-100090175316102/ | instagram: https://www
- .instagram.com/reel/DXtFvOFDCQR/\nDashboard: https://arjunganesh2011.githu
- b.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:longo-mobile-mechanic-charlotte-nc@lead-finder
 DTSTAMP:20260802T155954Z
 DTSTART:20260905T180000
@@ -3400,6 +3359,65 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (660) 851-1605\nEmail: n
   - best pitched Starter\nNiche: dog grooming  |  City: St Louis MO\nAddres
  s: 5416 Delmar Blvd\, St. Louis\, MO 63112\nDashboard: https://arjunganesh
  2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:vz-tech-pro-appliance-repair-handyman-services-austin-tx@lead-finder
+DTSTAMP:20260912T174059Z
+DTSTART:20261102T090000
+DTEND:20261102T093000
+SUMMARY:Call lead: VZ Tech PRO Appliance repair & Handyman services (Austin
+  TX)
+LOCATION:1907 E 2nd St\, Austin\, TX 78702
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (737) 342-0072\nEmail: n
+ ot found\nTier: Premium ($3\,500 build + $499/mo)\nScore: 76.5  |  No-webs
+ ite confidence: 80.0%  |  Buyer signal: 73\nAffordability: High earner - c
+ omfortably fits Premium\nNiche: appliance repair  |  City: Austin TX\nAddr
+ ess: 1907 E 2nd St\, Austin\, TX 78702\nSocials: instagram: http://instagr
+ am.com/vztechpro\nDashboard: https://arjunganesh2011.github.io/lead-finder
+ /
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:castro-affordable-auto-insurance-tucson-tucson-az@lead-finder
+DTSTAMP:20260912T174059Z
+DTSTART:20261102T150000
+DTEND:20261102T153000
+SUMMARY:Call lead: Castro Affordable Auto Insurance Tucson (Tucson AZ)
+LOCATION:177 N Church Ave #880\, Tucson\, AZ 85701
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (480) 602-0942\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 69.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 46\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: insurance agency  |  City: Tucson AZ\nAddr
+ ess: 177 N Church Ave #880\, Tucson\, AZ 85701\nDashboard: https://arjunga
+ nesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:miami-home-centers-tamiami-miami-fl@lead-finder
+DTSTAMP:20260912T174059Z
+DTSTART:20261102T180000
+DTEND:20261102T183000
+SUMMARY:Call lead: Miami Home Centers-Tamiami (Miami FL)
+LOCATION:13740 SW 8th St\, Miami\, FL 33184
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (305) 221-6828\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 68.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 45\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: hardware store  |  City: Miami FL\nAddress
+ : 13740 SW 8th St\, Miami\, FL 33184\nDashboard: https://arjunganesh2011.g
+ ithub.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
