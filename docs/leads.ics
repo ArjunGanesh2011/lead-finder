@@ -8,82 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:affordable-auto-insurance-professionals-pittsburgh-pa@lead-finder
-DTSTAMP:20260803T170828Z
-DTSTART:20260906T180000
-DTEND:20260906T183000
-SUMMARY:Call lead: Affordable Auto Insurance Professionals (Pittsburgh PA)
-LOCATION:5001 Baum Blvd Ste 552\, Pittsburgh\, PA 15213
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (231) 977-8941\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
- od fit for Growth\nNiche: insurance agency  |  City: Pittsburgh PA\nAddres
- s: 5001 Baum Blvd Ste 552\, Pittsburgh\, PA 15213\nDashboard: https://arju
- nganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:we-got-flavourz-tulsa-ok@lead-finder
-DTSTAMP:20260803T170828Z
-DTSTART:20260907T090000
-DTEND:20260907T093000
-SUMMARY:Call lead: We Got Flavourz (Tulsa OK)
-LOCATION:504 E 11th St\, Tulsa\, OK 74104
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (918) 541-3136\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 35\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: Tulsa OK\nAddress: 50
- 4 E 11th St\, Tulsa\, OK 74104\nDashboard: https://arjunganesh2011.github.
- io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:local-edge-appliance-repair-boise-id@lead-finder
-DTSTAMP:20260803T170828Z
-DTSTART:20260907T150000
-DTEND:20260907T153000
-SUMMARY:Call lead: Local Edge Appliance Repair (Boise ID)
-LOCATION:617 N Orchard St\, Boise\, ID 83706
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (208) 675-7345\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: appliance repair  |  City: Boise ID\nAddre
- ss: 617 N Orchard St\, Boise\, ID 83706\nDashboard: https://arjunganesh201
- 1.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:brothers-first-appliance-repair-boise-id@lead-finder
-DTSTAMP:20260803T170828Z
-DTSTART:20260907T180000
-DTEND:20260907T183000
-SUMMARY:Call lead: Brothers First Appliance Repair (Boise ID)
-LOCATION:414 N 1st St\, Boise\, ID 83712
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (208) 675-7377\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: appliance repair  |  City: Boise ID\nAddre
- ss: 414 N 1st St\, Boise\, ID 83712\nDashboard: https://arjunganesh2011.gi
- thub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:orlando-hvac-air-conditioning-orlando-fl@lead-finder
 DTSTAMP:20260804T165035Z
 DTSTART:20260908T090000
@@ -3398,6 +3322,106 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (316) 250-2308\nEmail: n
  od fit for Growth\nNiche: chiropractor  |  City: Wichita KS\nAddress: 8710
   W 13th St N Ste 107\, Wichita\, KS 67212\nDashboard: https://arjunganesh2
  011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:central-mass-cleanouts-worcester-ma@lead-finder
+DTSTAMP:20260914T194347Z
+DTSTART:20261103T180000
+DTEND:20261103T183000
+SUMMARY:Call lead: Central Mass Cleanouts (Worcester MA)
+LOCATION:6 Linden Ln\, Auburn\, MA 01501
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (508) 320-7488\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 80.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 68\nAffordability: Established - go
+ od fit for Growth\nNiche: junk removal  |  City: Worcester MA\nAddress: 6 
+ Linden Ln\, Auburn\, MA 01501\nSocials: facebook: https://www.facebook.com
+ /centralmasscleanouts | yelp: https://www.yelp.com/search?cflt=junkremoval
+ andhauling&find_loc=Worcester%2C+MA\nDashboard: https://arjunganesh2011.gi
+ thub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-grooming-collective-richmond-va@lead-finder
+DTSTAMP:20260914T194347Z
+DTSTART:20261104T090000
+DTEND:20261104T093000
+SUMMARY:Call lead: The Grooming Collective (Richmond VA)
+LOCATION:16 E Nine Mile Rd\, Highland Springs\, VA 23075
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (804) 247-8490\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 68.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 45\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: dog grooming  |  City: Richmond VA\nAddres
+ s: 16 E Nine Mile Rd\, Highland Springs\, VA 23075\nDashboard: https://arj
+ unganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:celebrity-cutz-reno-nv@lead-finder
+DTSTAMP:20260914T194347Z
+DTSTART:20261104T150000
+DTEND:20261104T153000
+SUMMARY:Call lead: Celebrity Cutz (Reno NV)
+LOCATION:Grant Dr\, Reno\, NV 89509
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 68.0  |  No-website confidence
+ : 92.0%  |  Buyer signal: 44\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: barbershop  |  City: Reno NV\nAddress: Grant Dr\, Ren
+ o\, NV 89509\nSocials: instagram: https://www.instagram.com/explore/locati
+ ons/562708567080621/celebrity-cutz/\nDashboard: https://arjunganesh2011.gi
+ thub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trash-monster-junk-removal-worcester-ma@lead-finder
+DTSTAMP:20260914T194347Z
+DTSTART:20261104T180000
+DTEND:20261104T183000
+SUMMARY:Call lead: Trash Monster Junk Removal (Worcester MA)
+LOCATION:104 Chandler St\, Worcester\, MA 01609
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (508) 371-6453\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 68.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 44\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: junk removal  |  City: Worcester MA\nAddre
+ ss: 104 Chandler St\, Worcester\, MA 01609\nSocials: facebook: https://www
+ .facebook.com/61557107932907\nDashboard: https://arjunganesh2011.github.io
+ /lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flowersbygissela-indianapolis-in@lead-finder
+DTSTAMP:20260914T194347Z
+DTSTART:20261105T090000
+DTEND:20261105T093000
+SUMMARY:Call lead: FlowersbyGissela (Indianapolis IN)
+LOCATION:5435 W 38th St D\, Indianapolis\, IN 46254
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (317) 646-7161\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 65.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: florist  |  City: Indianapolis IN\nAddress
+ : 5435 W 38th St D\, Indianapolis\, IN 46254\nSocials: tiktok: https://www
+ .tiktok.com/@flowersbygissela/video/7561162358421212471\nDashboard: https:
+ //arjunganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
