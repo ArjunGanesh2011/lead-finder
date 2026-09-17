@@ -8,66 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:matt-tortas-greensboro-nc@lead-finder
-DTSTAMP:20260805T164145Z
-DTSTART:20260910T090000
-DTEND:20260910T093000
-SUMMARY:Call lead: Matt tortas (Greensboro NC)
-LOCATION:2915 S Elm-Eugene St\, Greensboro\, NC 27406
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (336) 253-7054\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 64.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 36\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: Greensboro NC\nAddres
- s: 2915 S Elm-Eugene St\, Greensboro\, NC 27406\nSocials: tiktok: https://
- www.tiktok.com/discover/matt-tortas-grensboro\nDashboard: https://arjungan
- esh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:tesla-electric-llc-milwaukee-wi@lead-finder
-DTSTAMP:20260807T155450Z
-DTSTART:20260910T150000
-DTEND:20260910T153000
-SUMMARY:Call lead: TESLA ELECTRIC\, LLC (Milwaukee WI)
-LOCATION:4950 S Nicolet Dr\, New Berlin\, WI 53151
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (414) 861-0776\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 75.5  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 59\nAffordability: Established - go
- od fit for Growth\nNiche: electrician  |  City: Milwaukee WI\nAddress: 495
- 0 S Nicolet Dr\, New Berlin\, WI 53151\nSocials: facebook: https://www.fac
- ebook.com/p/Tesla-Electric-LLC-100066559011251/\nDashboard: https://arjung
- anesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:dana-friends-pet-grooming-mobile-al@lead-finder
-DTSTAMP:20260807T155450Z
-DTSTART:20260910T180000
-DTEND:20260910T183000
-SUMMARY:Call lead: Dana & Friends Pet Grooming (Mobile AL)
-LOCATION:1807 Old Shell Rd\, Mobile\, AL 36607
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (251) 660-2404\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 72.0  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 52\nAffordability: Established - go
- od fit for Growth\nNiche: dog grooming  |  City: Mobile AL\nAddress: 1807 
- Old Shell Rd\, Mobile\, AL 36607\nSocials: yelp: https://www.yelp.com/biz/
- dana-and-friends-pet-grooming-mobile-4\nDashboard: https://arjunganesh2011
- .github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:orlando-tms-therapy-center-orlando-fl@lead-finder
 DTSTAMP:20260807T155450Z
 DTSTART:20260911T090000
@@ -3501,6 +3441,122 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (417) 292-6956\nEmail: n
   - best pitched Starter\nNiche: window cleaning  |  City: Springfield MO\n
  Address: 3710 N Boonville Ave\, Springfield\, MO 65803\nDashboard: https:/
  /arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:image-hair-nails-salon-phoenix-az-phoenix-az@lead-finder
+DTSTAMP:20260917T184915Z
+DTSTART:20261108T180000
+DTEND:20261108T183000
+SUMMARY:Call lead: Image Hair Nails Salon Phoenix AZ (Phoenix AZ)
+LOCATION:2601 W Dunlap Ave Suite 16\, Phoenix\, AZ 85021
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (480) 508-4072\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 74.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 68\nAffordability: Established - go
+ od fit for Growth\nNiche: nail salon  |  City: Phoenix AZ\nAddress: 2601 W
+  Dunlap Ave Suite 16\, Phoenix\, AZ 85021\nDashboard: https://arjunganesh2
+ 011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-insurance-affordables-kansas-city-kansas-city-mo@lead-finder
+DTSTAMP:20260917T184915Z
+DTSTART:20261109T090000
+DTEND:20261109T093000
+SUMMARY:Call lead: Auto Insurance Affordables - Kansas City (Kansas City MO
+ )
+LOCATION:1200 Main St Ste 3805\, Kansas City\, MO 64105
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (986) 256-3451\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Kansas City MO\nAddre
+ ss: 1200 Main St Ste 3805\, Kansas City\, MO 64105\nDashboard: https://arj
+ unganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kansas-city-auto-insurance-kansas-city-mo@lead-finder
+DTSTAMP:20260917T184915Z
+DTSTART:20261109T150000
+DTEND:20261109T153000
+SUMMARY:Call lead: Kansas City Auto Insurance (Kansas City MO)
+LOCATION:950 McGee St\, Kansas City\, MO 64106
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (816) 888-3435\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Kansas City MO\nAddre
+ ss: 950 McGee St\, Kansas City\, MO 64106\nDashboard: https://arjunganesh2
+ 011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:preferred-missouri-sr22-insurance-kansas-city-mo@lead-finder
+DTSTAMP:20260917T184915Z
+DTSTART:20261109T180000
+DTEND:20261109T183000
+SUMMARY:Call lead: Preferred Missouri SR22 Insurance (Kansas City MO)
+LOCATION:700 E 8th St Unit 900 Floor #2\, Kansas City\, MO 64106
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (235) 529-8465\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Kansas City MO\nAddre
+ ss: 700 E 8th St Unit 900 Floor #2\, Kansas City\, MO 64106\nDashboard: ht
+ tps://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:innate-chiropractor-detroit-mi@lead-finder
+DTSTAMP:20260917T184915Z
+DTSTART:20261110T090000
+DTEND:20261110T093000
+SUMMARY:Call lead: Innate Chiropractor (Detroit MI)
+LOCATION:18700 Woodward Ave\, Detroit\, MI 48203
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (313) 366-2247\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 59.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 38\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: chiropractor  |  City: Detroit MI\nAddress
+ : 18700 Woodward Ave\, Detroit\, MI 48203\nDashboard: https://arjunganesh2
+ 011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:foodtrucksunderground-atlanta-ga@lead-finder
+DTSTAMP:20260917T184915Z
+DTSTART:20261110T150000
+DTEND:20261110T153000
+SUMMARY:Call lead: foodtrucksunderground (Atlanta GA)
+LOCATION:50 Upper Alabama St\, Atlanta\, GA 30303
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (678) 322-6857\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 54.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 17\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Atlanta GA\nAddress: 
+ 50 Upper Alabama St\, Atlanta\, GA 30303\nSocials: instagram: https://www.
+ instagram.com/foodtrucksunderground/\nDashboard: https://arjunganesh2011.g
+ ithub.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
