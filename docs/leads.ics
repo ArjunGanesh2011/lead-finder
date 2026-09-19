@@ -8,44 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:palina-insurance-detroit-detroit-mi@lead-finder
-DTSTAMP:20260808T152831Z
-DTSTART:20260912T090000
-DTEND:20260912T093000
-SUMMARY:Call lead: Palina Insurance Detroit (Detroit MI)
-LOCATION:333 E Jefferson Ave #263\, Detroit\, MI 48226
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (313) 484-8465\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.5  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 57\nAffordability: Established - go
- od fit for Growth\nNiche: insurance agency  |  City: Detroit MI\nAddress: 
- 333 E Jefferson Ave #263\, Detroit\, MI 48226\nDashboard: https://arjungan
- esh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:twin-cities-elite-car-detailing-minneapolis-mn@lead-finder
-DTSTAMP:20260808T152831Z
-DTSTART:20260912T150000
-DTEND:20260912T153000
-SUMMARY:Call lead: Twin Cities Elite Car Detailing (Minneapolis MN)
-LOCATION:2333 NE Jackson St\, Minneapolis\, MN 55418
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (763) 292-3060\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: auto detailing  |  City: Minneapolis MN\nA
- ddress: 2333 NE Jackson St\, Minneapolis\, MN 55418\nDashboard: https://ar
- junganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:driveguard-affordable-auto-insurance-detroit-mi-detroit-mi@lead-finder
 DTSTAMP:20260808T152831Z
 DTSTART:20260912T180000
@@ -3500,6 +3462,87 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (678) 322-6857\nEmail: n
  50 Upper Alabama St\, Atlanta\, GA 30303\nSocials: instagram: https://www.
  instagram.com/foodtrucksunderground/\nDashboard: https://arjunganesh2011.g
  ithub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:perfectic-photography-studio-phoenix-az@lead-finder
+DTSTAMP:20260919T174754Z
+DTSTART:20261110T180000
+DTEND:20261110T183000
+SUMMARY:Call lead: Perfectic Photography Studio (Phoenix AZ)
+LOCATION:4205 N 7th Ave Ste 205\, Phoenix\, AZ 85013
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (602) 668-2118\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 81.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 71\nAffordability: Established - go
+ od fit for Growth\nNiche: photography studio  |  City: Phoenix AZ\nAddress
+ : 4205 N 7th Ave Ste 205\, Phoenix\, AZ 85013\nSocials: facebook: https://
+ www.facebook.com/perfecticphotographystudio/\nDashboard: https://arjungane
+ sh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:southern-insurance-providers-mobile-al@lead-finder
+DTSTAMP:20260919T174754Z
+DTSTART:20261111T090000
+DTEND:20261111T093000
+SUMMARY:Call lead: Southern Insurance Providers (Mobile AL)
+LOCATION:3925 Michael Blvd # D\, Mobile\, AL 36609
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (251) 470-0555\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 73.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 55\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Mobile AL\nAddress: 3
+ 925 Michael Blvd # D\, Mobile\, AL 36609\nSocials: yelp: https://www.yelp.
+ com/biz/southern-insurance-providers-mobile | facebook: https://www.facebo
+ ok.com/p/Southern-Insurance-Providers-100069250084588/\nDashboard: https:/
+ /arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:heartline-tattoo-winston-salem-nc@lead-finder
+DTSTAMP:20260919T174754Z
+DTSTART:20261111T150000
+DTEND:20261111T153000
+SUMMARY:Call lead: HEARTLINE TATTOO (Winston-Salem NC)
+LOCATION:717 S Marshall St\, Winston-Salem\, NC 27101
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 69.5  |  No-website confidence
+ : 92.0%  |  Buyer signal: 47\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: tattoo shop  |  City: Winston-Salem NC\nAddress: 717 
+ S Marshall St\, Winston-Salem\, NC 27101\nSocials: instagram: https://www.
+ instagram.com/heartline.tattoo/ | tiktok: https://www.tiktok.com/@permanen
+ t_pokes_/video/7310219793250913567\nDashboard: https://arjunganesh2011.git
+ hub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:amy-essential-touch-massage-shreveport-la@lead-finder
+DTSTAMP:20260919T174754Z
+DTSTART:20261111T180000
+DTEND:20261111T183000
+SUMMARY:Call lead: Amy Essential Touch Massage (Shreveport LA)
+LOCATION:5862 Line Ave Suite B3\, Shreveport\, LA 71106
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (850) 220-5990\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 51.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 22\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: massage therapist  |  City: Shreveport LA\
+ nAddress: 5862 Line Ave Suite B3\, Shreveport\, LA 71106\nDashboard: https
+ ://arjunganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
