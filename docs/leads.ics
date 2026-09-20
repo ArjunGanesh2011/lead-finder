@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:driveguard-affordable-auto-insurance-detroit-mi-detroit-mi@lead-finder
-DTSTAMP:20260808T152831Z
-DTSTART:20260912T180000
-DTEND:20260912T183000
-SUMMARY:Call lead: DriveGuard Affordable Auto Insurance - Detroit MI (Detro
- it MI)
-LOCATION:400 Monroe St Ste 270\, Detroit\, MI 48226
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (231) 417-0601\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: insurance agency  |  City: Detroit MI\nAdd
- ress: 400 Monroe St Ste 270\, Detroit\, MI 48226\nDashboard: https://arjun
- ganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:vegas-signature-window-cleaning-las-vegas-nv@lead-finder
-DTSTAMP:20260808T152831Z
-DTSTART:20260913T090000
-DTEND:20260913T093000
-SUMMARY:Call lead: Vegas Signature Window Cleaning (Las Vegas NV)
-LOCATION:4005 N Kindhearted Ct\, North Las Vegas\, NV 89032
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (725) 216-7524\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 59.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: window cleaning  |  City: Las Vegas NV\nAd
- dress: 4005 N Kindhearted Ct\, North Las Vegas\, NV 89032\nDashboard: http
- s://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:lawn-care-philadelphia-philadelphia-pa@lead-finder
-DTSTAMP:20260809T153030Z
-DTSTART:20260913T150000
-DTEND:20260913T153000
-SUMMARY:Call lead: Lawn Care Philadelphia (Philadelphia PA)
-LOCATION:1224 Pine St\, Philadelphia\, PA 19107
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (844) 213-9501\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 66.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: lawn care service  |  City: Philadelphia P
- A\nAddress: 1224 Pine St\, Philadelphia\, PA 19107\nDashboard: https://arj
- unganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:round-of-a-pawz-grooming-fort-wayne-in@lead-finder
 DTSTAMP:20260809T153030Z
 DTSTART:20260913T180000
@@ -3543,6 +3485,86 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (850) 220-5990\nEmail: n
   - best pitched Starter\nNiche: massage therapist  |  City: Shreveport LA\
  nAddress: 5862 Line Ave Suite B3\, Shreveport\, LA 71106\nDashboard: https
  ://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:edible-crush-custom-catering-buffalo-ny@lead-finder
+DTSTAMP:20260920T175914Z
+DTSTART:20261112T090000
+DTEND:20261112T093000
+SUMMARY:Call lead: Edible Crush Custom Catering (Buffalo NY)
+LOCATION:39 E Main St\, Springville\, NY 14141
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (716) 359-8286\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 64.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 37\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: catering company  |  City: Buffalo NY\nAdd
+ ress: 39 E Main St\, Springville\, NY 14141\nSocials: yelp: https://www.ye
+ lp.com/biz/edible-crush-custom-catering-springville-2 | facebook: https://
+ www.facebook.com/ediblecrushcatering/ | instagram: https://www.instagram.c
+ om/ediblecrush/\nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lazy-day-health-and-beauty-spa-shreveport-la@lead-finder
+DTSTAMP:20260920T175914Z
+DTSTART:20261112T150000
+DTEND:20261112T153000
+SUMMARY:Call lead: Lazy Day Health and Beauty Spa (Shreveport LA)
+LOCATION:2710 Douglas Dr\, Bossier City\, LA 71111
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (332) 286-7988\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 46\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: day spa  |  City: Shreveport LA\nAddress: 
+ 2710 Douglas Dr\, Bossier City\, LA 71111\nDashboard: https://arjunganesh2
+ 011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ay-caramba-food-truck-richmond-va@lead-finder
+DTSTAMP:20260920T175914Z
+DTSTART:20261112T180000
+DTEND:20261112T183000
+SUMMARY:Call lead: Ay Caramba Food Truck (Richmond VA)
+LOCATION:Capitol District\, Richmond\, VA 23219
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 56.5  |  No-website confidence
+ : 80.0%  |  Buyer signal: 33\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: food truck  |  City: Richmond VA\nAddress: Capitol Di
+ strict\, Richmond\, VA 23219\nDashboard: https://arjunganesh2011.github.io
+ /lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:la-chelita-food-truck-richmond-va@lead-finder
+DTSTAMP:20260920T175914Z
+DTSTART:20261113T090000
+DTEND:20261113T093000
+SUMMARY:Call lead: LA CHELITA FOOD TRUCK (Richmond VA)
+LOCATION:5000 Rte 1\, Richmond\, VA 23234
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (804) 877-5225\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 54.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 17\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Richmond VA\nAddress:
+  5000 Rte 1\, Richmond\, VA 23234\nSocials: facebook: https://www.facebook
+ .com/Barbi503/ | tiktok: https://www.tiktok.com/discover/taco-food-truck-i
+ n-richmond-va | instagram: https://www.instagram.com/p/DVrQEsrkc62/\nDashb
+ oard: https://arjunganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
