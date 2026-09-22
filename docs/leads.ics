@@ -8,67 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:home-goods-warehouse-usa-toledo-oh@lead-finder
-DTSTAMP:20260810T155845Z
-DTSTART:20260915T090000
-DTEND:20260915T093000
-SUMMARY:Call lead: Home Goods Warehouse USA (Toledo OH)
-LOCATION:3901 Hill Ave Unit B\, Toledo\, OH 43607
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (419) 973-4355\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 65.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 38\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: furniture store  |  City: Toledo OH\nAddre
- ss: 3901 Hill Ave Unit B\, Toledo\, OH 43607\nSocials: facebook: https://w
- ww.facebook.com/LiquidationBidsToledo/ | yelp: https://www.yelp.com/biz/ho
- me-goods-warehouse-usa-northwood\nDashboard: https://arjunganesh2011.githu
- b.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:april-dailey-tattoos-mobile-al@lead-finder
-DTSTAMP:20260810T155845Z
-DTSTART:20260915T150000
-DTEND:20260915T153000
-SUMMARY:Call lead: April Dailey Tattoos (Mobile AL)
-LOCATION:762 Downtowner Loop W\, Mobile\, AL 36609
-DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
- ier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website confidence
- : 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage - best pit
- ched Starter\nNiche: tattoo shop  |  City: Mobile AL\nAddress: 762 Downtow
- ner Loop W\, Mobile\, AL 36609\nSocials: instagram: https://www.instagram.
- com/april.tattoos?igsh=ODdzYW9vd2l0aGlk\nDashboard: https://arjunganesh201
- 1.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:anna-s-nails-and-spa-shreveport-la@lead-finder
-DTSTAMP:20260811T160013Z
-DTSTART:20260915T180000
-DTEND:20260915T183000
-SUMMARY:Call lead: Anna's Nails and Spa (Shreveport LA)
-LOCATION:4424 Youree Dr\, Shreveport\, LA 71105
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (318) 562-3909\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 67.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 42\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: nail salon  |  City: Shreveport LA\nAddres
- s: 4424 Youree Dr\, Shreveport\, LA 71105\nSocials: facebook: https://www.
- facebook.com/p/Annas-Nails-and-Spa-100063768484708/\nDashboard: https://ar
- junganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:hello-atlanta-atlanta-ga@lead-finder
 DTSTAMP:20260811T160013Z
 DTSTART:20260916T090000
@@ -3566,6 +3505,65 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
  ans African American Museum\, Villa Meilleur - Servant's Quarters\, 1418 G
  overnor Nicholls St Gift Shop\, New Orleans\, LA 70116\nDashboard: https:/
  /arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:m-a-y-auto-detailing-spa-services-llc-san-antonio-tx@lead-finder
+DTSTAMP:20260922T183110Z
+DTSTART:20261114T180000
+DTEND:20261114T183000
+SUMMARY:Call lead: M.A.Y Auto Detailing Spa Services\, LLC (San Antonio TX)
+LOCATION:22211 I-10 Ste 1206\, San Antonio\, TX 78257
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (210) 953-8035\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 70.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 49\nAffordability: Established - go
+ od fit for Growth\nNiche: auto detailing  |  City: San Antonio TX\nAddress
+ : 22211 I-10 Ste 1206\, San Antonio\, TX 78257\nSocials: instagram: https:
+ //www.instagram.com/m.a.yautodetailingspaservices/\nDashboard: https://arj
+ unganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jonathan-s-carpet-renewal-toledo-oh@lead-finder
+DTSTAMP:20260922T183110Z
+DTSTART:20261115T090000
+DTEND:20261115T093000
+SUMMARY:Call lead: Jonathan's Carpet Renewal (Toledo OH)
+LOCATION:3504 149th St\, Toledo\, OH 43611
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (440) 789-4080\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 66.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: carpet cleaning  |  City: Toledo OH\nAddre
+ ss: 3504 149th St\, Toledo\, OH 43611\nSocials: facebook: http://facebook.
+ com/jonathanscarpetrenewal\nDashboard: https://arjunganesh2011.github.io/l
+ ead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:riley-s-carpet-flooring-cleaning-toledo-oh@lead-finder
+DTSTAMP:20260922T183110Z
+DTSTART:20261115T150000
+DTEND:20261115T153000
+SUMMARY:Call lead: Riley's Carpet / Flooring & Cleaning (Toledo OH)
+LOCATION:2104 N Reynolds Rd\, Toledo\, OH 43615
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (419) 535-5542\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 33\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: carpet cleaning  |  City: Toledo OH\nAddre
+ ss: 2104 N Reynolds Rd\, Toledo\, OH 43615\nDashboard: https://arjunganesh
+ 2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
