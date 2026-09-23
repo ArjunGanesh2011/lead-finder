@@ -8,66 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:hello-atlanta-atlanta-ga@lead-finder
-DTSTAMP:20260811T160013Z
-DTSTART:20260916T090000
-DTEND:20260916T093000
-SUMMARY:Call lead: Hello Atlanta (Atlanta GA)
-LOCATION:250 Park Ave W NW Unit 101\, Atlanta\, GA 30313
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (404) 223-0411\nEmail: m
- arketing@avenuesgifts.com\nTier: Starter ($800 build + $150/mo)\nScore: 64
- .0  |  No-website confidence: 92.0%  |  Buyer signal: 36\nAffordability: L
- ean / early-stage - best pitched Starter\nNiche: gift shop  |  City: Atlan
- ta GA\nAddress: 250 Park Ave W NW Unit 101\, Atlanta\, GA 30313\nSocials: 
- facebook: https://www.facebook.com/p/Hello-Atlanta-100085146792199/ | yelp
- : https://www.yelp.com/biz/hello-atlanta-atlanta\nDashboard: https://arjun
- ganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:balanced-bookkeeping-tax-services-indianapolis-in@lead-finder
-DTSTAMP:20260812T155825Z
-DTSTART:20260916T150000
-DTEND:20260916T153000
-SUMMARY:Call lead: Balanced Bookkeeping & Tax Services (Indianapolis IN)
-LOCATION:4701 N Keystone Ave\, Indianapolis\, IN 46205
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (317) 257-6035\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 70.0  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 48\nAffordability: Established - go
- od fit for Growth\nNiche: bookkeeping service  |  City: Indianapolis IN\nA
- ddress: 4701 N Keystone Ave\, Indianapolis\, IN 46205\nSocials: yelp: http
- s://www.yelp.com/biz/balanced-bookkeeping-and-tax-services-lincoln\nDashbo
- ard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:brillante-dreams-flowers-louisville-ky@lead-finder
-DTSTAMP:20260812T155825Z
-DTSTART:20260916T180000
-DTEND:20260916T183000
-SUMMARY:Call lead: Brillante Dreams Flowers (Louisville KY)
-LOCATION:5460 New Cut Rd Ste 101\, Louisville\, KY 40214
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (502) 442-8112\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 64.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 48\nAffordability: Established - go
- od fit for Growth\nNiche: florist  |  City: Louisville KY\nAddress: 5460 N
- ew Cut Rd Ste 101\, Louisville\, KY 40214\nDashboard: https://arjunganesh2
- 011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:el-jaripeo-8-street-food-salt-lake-city-ut@lead-finder
 DTSTAMP:20260812T155825Z
 DTSTART:20260917T090000
@@ -3564,6 +3504,126 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (419) 535-5542\nEmail: n
   - best pitched Starter\nNiche: carpet cleaning  |  City: Toledo OH\nAddre
  ss: 2104 N Reynolds Rd\, Toledo\, OH 43615\nDashboard: https://arjunganesh
  2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:heavy-haulers-junk-removal-jacksonville-fl@lead-finder
+DTSTAMP:20260923T185153Z
+DTSTART:20261115T180000
+DTEND:20261115T183000
+SUMMARY:Call lead: Heavy Haulers & Junk Removal (Jacksonville FL)
+LOCATION:1120 Park Ave # D\, Orange Park\, FL 32073
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (904) 576-8383\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 81.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 71\nAffordability: Established - go
+ od fit for Growth\nNiche: junk removal  |  City: Jacksonville FL\nAddress:
+  1120 Park Ave # D\, Orange Park\, FL 32073\nSocials: facebook: https://ww
+ w.facebook.com/people/Heavy-Haulers-Junk-Removal/61576815912556/ | yelp: h
+ ttps://www.yelp.com/biz/heavy-haulers-orange-park\nDashboard: https://arju
+ nganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pain-for-sale-grand-rapids-mi@lead-finder
+DTSTAMP:20260923T185153Z
+DTSTART:20261116T090000
+DTEND:20261116T093000
+SUMMARY:Call lead: Pain For Sale (Grand Rapids MI)
+LOCATION:865 28th St SE #100\, Grand Rapids\, MI 49508
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (616) 635-2522\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 76.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 60\nAffordability: Established - go
+ od fit for Growth\nNiche: tattoo shop  |  City: Grand Rapids MI\nAddress: 
+ 865 28th St SE #100\, Grand Rapids\, MI 49508\nSocials: yelp: https://www.
+ yelp.com/biz/pain-for-sale-tattooing-grand-rapids-2 | facebook: https://ww
+ w.facebook.com/28thStSe/ | instagram: https://www.instagram.com/painforsal
+ e/\nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:22nd-street-barber-lounge-tampa-fl@lead-finder
+DTSTAMP:20260923T185153Z
+DTSTART:20261116T150000
+DTEND:20261116T153000
+SUMMARY:Call lead: 22nd Street Barber Lounge (Tampa FL)
+LOCATION:1207 S 22nd St\, Tampa\, FL 33605
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (813) 575-0941\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 72.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 53\nAffordability: Established - go
+ od fit for Growth\nNiche: barbershop  |  City: Tampa FL\nAddress: 1207 S 2
+ 2nd St\, Tampa\, FL 33605\nSocials: instagram: https://www.instagram.com/2
+ 2ndstreetbarberlounge?stkn=MWZ0dTdxcmpnbHM5Mw%3D%3D&utm_source=qr\nDashboa
+ rd: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4dresin-el-paso-tx@lead-finder
+DTSTAMP:20260923T185153Z
+DTSTART:20261116T180000
+DTEND:20261116T183000
+SUMMARY:Call lead: 4dresin (El Paso TX)
+LOCATION:3425 Frutas Ave\, El Paso\, TX 79905
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (915) 217-9366\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 70.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 49\nAffordability: Established - go
+ od fit for Growth\nNiche: flooring company  |  City: El Paso TX\nAddress: 
+ 3425 Frutas Ave\, El Paso\, TX 79905\nSocials: facebook: https://www.faceb
+ ook.com/epgoon2/ | instagram: https://www.instagram.com/4dresin/\nDashboar
+ d: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pest-control-kc-kansas-city-mo@lead-finder
+DTSTAMP:20260923T185153Z
+DTSTART:20261117T090000
+DTEND:20261117T093000
+SUMMARY:Call lead: Pest Control KC (Kansas City MO)
+LOCATION:300 E 39th St #4552\, Kansas City\, MO 64111
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (816) 678-0893\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 65.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 50\nAffordability: Established - go
+ od fit for Growth\nNiche: pest control  |  City: Kansas City MO\nAddress: 
+ 300 E 39th St #4552\, Kansas City\, MO 64111\nDashboard: https://arjungane
+ sh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:happy-tail-s-mobile-pet-grooming-llc-memphis-tn@lead-finder
+DTSTAMP:20260923T185153Z
+DTSTART:20261117T150000
+DTEND:20261117T153000
+SUMMARY:Call lead: Happy Tail’s Mobile Pet Grooming LLC (Memphis TN)
+LOCATION:Whitworth Cove\, Southaven\, MS 38671
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (901) 833-7644\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 46\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: dog grooming  |  City: Memphis TN\nAddress
+ : Whitworth Cove\, Southaven\, MS 38671\nDashboard: https://arjunganesh201
+ 1.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
