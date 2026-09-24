@@ -8,65 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:el-jaripeo-8-street-food-salt-lake-city-ut@lead-finder
-DTSTAMP:20260812T155825Z
-DTSTART:20260917T090000
-DTEND:20260917T093000
-SUMMARY:Call lead: El Jaripeo 8 Street Food (Salt Lake City UT)
-LOCATION:857 N Redwood Rd\, Salt Lake City\, UT 84116
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (801) 901-0853\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 33\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: Salt Lake City UT\nAd
- dress: 857 N Redwood Rd\, Salt Lake City\, UT 84116\nSocials: instagram: h
- ttps://www.instagram.com/eljaripeo8/ | facebook: https://www.facebook.com/
- eljaripeo8/\nDashboard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:indianapolis-accounting-service-indianapolis-in@lead-finder
-DTSTAMP:20260812T155825Z
-DTSTART:20260917T150000
-DTEND:20260917T153000
-SUMMARY:Call lead: Indianapolis Accounting Service (Indianapolis IN)
-LOCATION:8425 Woodfield Crossing Blvd\, Indianapolis\, IN 46240
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (317) 542-3154\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 32\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: bookkeeping service  |  City: Indianapolis
-  IN\nAddress: 8425 Woodfield Crossing Blvd\, Indianapolis\, IN 46240\nSoci
- als: yelp: https://www.yelp.com/biz/indianapolis-accounting-service-indian
- apolis\nDashboard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:317-bookkeeping-llc-indianapolis-in@lead-finder
-DTSTAMP:20260812T155825Z
-DTSTART:20260917T180000
-DTEND:20260917T183000
-SUMMARY:Call lead: 317 Bookkeeping\, LLC (Indianapolis IN)
-LOCATION:10693 Newgate Ln\, Indianapolis\, IN 46231
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (317) 341-3580\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 32\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: bookkeeping service  |  City: Indianapolis
-  IN\nAddress: 10693 Newgate Ln\, Indianapolis\, IN 46231\nDashboard: https
- ://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:envy-nail-llc-phoenix-az@lead-finder
 DTSTAMP:20260813T155816Z
 DTSTART:20260918T090000
@@ -3624,6 +3565,87 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (901) 833-7644\nEmail: n
   - best pitched Starter\nNiche: dog grooming  |  City: Memphis TN\nAddress
  : Whitworth Cove\, Southaven\, MS 38671\nDashboard: https://arjunganesh201
  1.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:atlantic-silver-jewelry-and-permanent-jewelry-virginia-beach-va@lead-finder
+DTSTAMP:20260924T185015Z
+DTSTART:20261117T180000
+DTEND:20261117T183000
+SUMMARY:Call lead: Atlantic Silver Jewelry and Permanent Jewelry (Virginia 
+ Beach VA)
+LOCATION:1912B Atlantic Ave\, Virginia Beach\, VA 23451
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (757) 799-0978\nEmail: n
+ ot found\nTier: Premium ($3\,500 build + $499/mo)\nScore: 83.0  |  No-webs
+ ite confidence: 92.0%  |  Buyer signal: 74\nAffordability: High earner - c
+ omfortably fits Premium\nNiche: jewelry store  |  City: Virginia Beach VA\
+ nAddress: 1912B Atlantic Ave\, Virginia Beach\, VA 23451\nSocials: faceboo
+ k: https://www.facebook.com/fb-answers/atlantic-silver-jewelry-and-permane
+ nt-jewelry-virginia-beach/\nDashboard: https://arjunganesh2011.github.io/l
+ ead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cutz-by-cal-minneapolis-mn@lead-finder
+DTSTAMP:20260924T185015Z
+DTSTART:20261118T090000
+DTEND:20261118T093000
+SUMMARY:Call lead: Cutz By Cal ✂️ (Minneapolis MN)
+LOCATION:2626 NE 2nd St\, Minneapolis\, MN 55418
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (612) 607-3638\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 80.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 68\nAffordability: Established - go
+ od fit for Growth\nNiche: barbershop  |  City: Minneapolis MN\nAddress: 26
+ 26 NE 2nd St\, Minneapolis\, MN 55418\nDashboard: https://arjunganesh2011.
+ github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tampa-door-hardware-tampa-fl@lead-finder
+DTSTAMP:20260924T185015Z
+DTSTART:20261118T150000
+DTEND:20261118T153000
+SUMMARY:Call lead: Tampa Door & Hardware (Tampa FL)
+LOCATION:4001 N Nebraska Ave\, Tampa\, FL 33603
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (813) 234-1935\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 70.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 49\nAffordability: Established - go
+ od fit for Growth\nNiche: hardware store  |  City: Tampa FL\nAddress: 4001
+  N Nebraska Ave\, Tampa\, FL 33603\nSocials: yelp: https://www.yelp.com/bi
+ z/tampa-door-and-hardware-tampa | facebook: https://www.facebook.com/p/Tam
+ pa-Door-Hardware-100026565412136/\nDashboard: https://arjunganesh2011.gith
+ ub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:central-electrical-pros-birmingham-al@lead-finder
+DTSTAMP:20260924T185015Z
+DTSTART:20261118T180000
+DTEND:20261118T183000
+SUMMARY:Call lead: Central Electrical Pros (Birmingham AL)
+LOCATION:2826 Central Ave\, Homewood\, AL 35209
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (659) 212-6027\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 67.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 54\nAffordability: Established - go
+ od fit for Growth\nNiche: electrician  |  City: Birmingham AL\nAddress: 28
+ 26 Central Ave\, Homewood\, AL 35209\nDashboard: https://arjunganesh2011.g
+ ithub.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
