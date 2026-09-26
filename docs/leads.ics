@@ -8,63 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:schmig-bookkeeping-services-spokane-wa@lead-finder
-DTSTAMP:20260813T155816Z
-DTSTART:20260919T090000
-DTEND:20260919T093000
-SUMMARY:Call lead: Schmig Bookkeeping Services (Spokane WA)
-LOCATION:1412 N Post St C3\, Spokane\, WA 99201
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (509) 793-8211\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 64.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 48\nAffordability: Established - go
- od fit for Growth\nNiche: bookkeeping service  |  City: Spokane WA\nAddres
- s: 1412 N Post St C3\, Spokane\, WA 99201\nDashboard: https://arjunganesh2
- 011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:taquer-a-rosita-s-mexican-food-truck-tucson-az@lead-finder
-DTSTAMP:20260814T155040Z
-DTSTART:20260919T150000
-DTEND:20260919T153000
-SUMMARY:Call lead: Taquería Rosita's | Mexican Food Truck (Tucson AZ)
-LOCATION:2733-2801 E Valencia Rd\, Tucson\, AZ 85706
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (520) 909-5800\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 70.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 60\nAffordability: Established - go
- od fit for Growth\nNiche: food truck  |  City: Tucson AZ\nAddress: 2733-28
- 01 E Valencia Rd\, Tucson\, AZ 85706\nDashboard: https://arjunganesh2011.g
- ithub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:davison-appliance-services-springfield-mo@lead-finder
-DTSTAMP:20260814T155040Z
-DTSTART:20260919T180000
-DTEND:20260919T183000
-SUMMARY:Call lead: Davison Appliance Services (Springfield MO)
-LOCATION:3313 W Seminole St\, Springfield\, MO 65807
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (417) 379-2445\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 67.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: appliance repair  |  City: Springfield MO\
- nAddress: 3313 W Seminole St\, Springfield\, MO 65807\nDashboard: https://
- arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:appliance-repair-tech-springfield-springfield-mo@lead-finder
 DTSTAMP:20260814T155040Z
 DTSTART:20260920T090000
@@ -3684,6 +3627,84 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (775) 742-9173\nEmail: n
   S Virginia St\, Reno\, NV 89502\nSocials: facebook: https://www.facebook.
  com/myscandinavialiving | yelp: https://www.yelp.com/biz/my-scandinavia-re
  no-2\nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:phoenix-electrical-contracting-phoenix-az@lead-finder
+DTSTAMP:20260926T182106Z
+DTSTART:20261120T180000
+DTEND:20261120T183000
+SUMMARY:Call lead: Phoenix Electrical Contracting (Phoenix AZ)
+LOCATION:4717 N 39th Dr\, Phoenix\, AZ 85019
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (866) 650-9644\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 72.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 53\nAffordability: Established - go
+ od fit for Growth\nNiche: electrician  |  City: Phoenix AZ\nAddress: 4717 
+ N 39th Dr\, Phoenix\, AZ 85019\nDashboard: https://arjunganesh2011.github.
+ io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:405-house-of-fades-oklahoma-city-ok@lead-finder
+DTSTAMP:20260926T182106Z
+DTSTART:20261121T090000
+DTEND:20261121T093000
+SUMMARY:Call lead: 405 House of Fades (Oklahoma City OK)
+LOCATION:2000 N MacArthur Blvd\, Oklahoma City\, OK 73127
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (405) 673-7142\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 70.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 48\nAffordability: Established - go
+ od fit for Growth\nNiche: barbershop  |  City: Oklahoma City OK\nAddress: 
+ 2000 N MacArthur Blvd\, Oklahoma City\, OK 73127\nSocials: yelp: https://w
+ ww.yelp.com/biz/405-house-of-fades-oklahoma-city | facebook: https://www.f
+ acebook.com/p/405-House-of-Fades-61583335062850/\nDashboard: https://arjun
+ ganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shaner-bros-bookkeeping-llc-des-moines-ia@lead-finder
+DTSTAMP:20260926T182106Z
+DTSTART:20261121T150000
+DTEND:20261121T153000
+SUMMARY:Call lead: Shaner Bros Bookkeeping LLC (Des Moines IA)
+LOCATION:6455 Galleria Dr\, West Des Moines\, IA 50266
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (531) 346-6990\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 64.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 48\nAffordability: Established - go
+ od fit for Growth\nNiche: bookkeeping service  |  City: Des Moines IA\nAdd
+ ress: 6455 Galleria Dr\, West Des Moines\, IA 50266\nDashboard: https://ar
+ junganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-little-loaf-bakery-fort-wayne-in@lead-finder
+DTSTAMP:20260926T182106Z
+DTSTART:20261121T180000
+DTEND:20261121T183000
+SUMMARY:Call lead: The Little Loaf Bakery (Fort Wayne IN)
+LOCATION:4124 Knightway Dr\, Fort Wayne\, IN 46815
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (260) 348-3287\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 52.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 25\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: bakery  |  City: Fort Wayne IN\nAddress: 4
+ 124 Knightway Dr\, Fort Wayne\, IN 46815\nDashboard: https://arjunganesh20
+ 11.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
