@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:appliance-repair-tech-springfield-springfield-mo@lead-finder
-DTSTAMP:20260814T155040Z
-DTSTART:20260920T090000
-DTEND:20260920T093000
-SUMMARY:Call lead: Appliance Repair Tech Springfield (Springfield MO)
-LOCATION:415 S Robberson Ave\, Springfield\, MO 65806
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (417) 605-6667\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: appliance repair  |  City: Springfield MO\
- nAddress: 415 S Robberson Ave\, Springfield\, MO 65806\nDashboard: https:/
- /arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:bright-appliance-repair-masters-springfield-mo@lead-finder
-DTSTAMP:20260814T155040Z
-DTSTART:20260920T150000
-DTEND:20260920T153000
-SUMMARY:Call lead: Bright Appliance Repair Masters (Springfield MO)
-LOCATION:927 Glenstone Ave\, Springfield\, MO 65802
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (417) 458-9438\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: appliance repair  |  City: Springfield MO\
- nAddress: 927 Glenstone Ave\, Springfield\, MO 65802\nDashboard: https://a
- rjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:fresno-catering-service-fresno-ca@lead-finder
-DTSTAMP:20260815T151859Z
-DTSTART:20260920T180000
-DTEND:20260920T183000
-SUMMARY:Call lead: Fresno Catering Service (Fresno CA)
-LOCATION:103 N Broadway St\, Fresno\, CA 93701
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (559) 441-7134\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 70.0  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 48\nAffordability: Established - go
- od fit for Growth\nNiche: catering company  |  City: Fresno CA\nAddress: 1
- 03 N Broadway St\, Fresno\, CA 93701\nSocials: yelp: https://www.yelp.com/
- biz/fresno-catering-service-fresno\nDashboard: https://arjunganesh2011.git
- hub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:low-cost-auto-insurance-premier-sacramento-ca@lead-finder
 DTSTAMP:20260815T151859Z
 DTSTART:20260921T090000
@@ -3705,6 +3647,178 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (260) 348-3287\nEmail: n
   - best pitched Starter\nNiche: bakery  |  City: Fort Wayne IN\nAddress: 4
  124 Knightway Dr\, Fort Wayne\, IN 46815\nDashboard: https://arjunganesh20
  11.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mooney-brothers-electricians-pittsburgh-pa@lead-finder
+DTSTAMP:20260927T185417Z
+DTSTART:20261122T090000
+DTEND:20261122T093000
+SUMMARY:Call lead: Mooney Brothers Electricians (Pittsburgh PA)
+LOCATION:430 E 10th Ave #7300\, Munhall\, PA 15120
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (412) 899-2855\nEmail: n
+ ot found\nTier: Premium ($3\,500 build + $499/mo)\nScore: 83.5  |  No-webs
+ ite confidence: 92.0%  |  Buyer signal: 75\nAffordability: High earner - c
+ omfortably fits Premium\nNiche: electrician  |  City: Pittsburgh PA\nAddre
+ ss: 430 E 10th Ave #7300\, Munhall\, PA 15120\nDashboard: https://arjungan
+ esh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nathan-sons-electricians-pittsburgh-pa@lead-finder
+DTSTAMP:20260927T185417Z
+DTSTART:20261122T150000
+DTEND:20261122T153000
+SUMMARY:Call lead: Nathan & Sons Electricians (Pittsburgh PA)
+LOCATION:100 Graham St #5500\, McKees Rocks\, PA 15136
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (412) 850-2587\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 78.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 64\nAffordability: Established - go
+ od fit for Growth\nNiche: electrician  |  City: Pittsburgh PA\nAddress: 10
+ 0 Graham St #5500\, McKees Rocks\, PA 15136\nDashboard: https://arjunganes
+ h2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pioneers-affordable-auto-insurance-agency-spokane-wa@lead-finder
+DTSTAMP:20260927T185417Z
+DTSTART:20261122T180000
+DTEND:20261122T183000
+SUMMARY:Call lead: Pioneers Affordable Auto Insurance Agency (Spokane WA)
+LOCATION:1212 N Washington St #149\, Spokane\, WA 99201
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (480) 916-3349\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Spokane WA\nAddress: 
+ 1212 N Washington St #149\, Spokane\, WA 99201\nDashboard: https://arjunga
+ nesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:midwest-appliance-repair-solutions-cleveland-oh@lead-finder
+DTSTAMP:20260927T185417Z
+DTSTART:20261123T090000
+DTEND:20261123T093000
+SUMMARY:Call lead: Midwest Appliance Repair Solutions (Cleveland OH)
+LOCATION:3339 W 117th St\, Cleveland\, OH 44111
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (216) 493-9869\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Cleveland OH\nA
+ ddress: 3339 W 117th St\, Cleveland\, OH 44111\nDashboard: https://arjunga
+ nesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cedar-appliance-repair-professionals-cleveland-oh@lead-finder
+DTSTAMP:20260927T185417Z
+DTSTART:20261123T150000
+DTEND:20261123T153000
+SUMMARY:Call lead: Cedar Appliance Repair Professionals (Cleveland OH)
+LOCATION:7510 US-6\, Cleveland\, OH 44103
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (216) 493-9828\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Cleveland OH\nA
+ ddress: 7510 US-6\, Cleveland\, OH 44103\nDashboard: https://arjunganesh20
+ 11.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:crosscounty-appliance-repair-professionals-cleveland-oh@lead-finder
+DTSTAMP:20260927T185417Z
+DTSTART:20261123T180000
+DTEND:20261123T183000
+SUMMARY:Call lead: CrossCounty Appliance Repair Professionals (Cleveland OH
+ )
+LOCATION:4212 Green Ct\, Cleveland\, OH 44104
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (216) 493-9831\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Cleveland OH\nA
+ ddress: 4212 Green Ct\, Cleveland\, OH 44104\nDashboard: https://arjungane
+ sh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cedarbrook-appliance-repair-solutions-cleveland-oh@lead-finder
+DTSTAMP:20260927T185417Z
+DTSTART:20261124T090000
+DTEND:20261124T093000
+SUMMARY:Call lead: Cedarbrook Appliance Repair Solutions (Cleveland OH)
+LOCATION:2132 S Taylor Rd\, Cleveland Heights\, OH 44118
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (216) 493-9887\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Cleveland OH\nA
+ ddress: 2132 S Taylor Rd\, Cleveland Heights\, OH 44118\nDashboard: https:
+ //arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dawson-appliance-repair-services-cleveland-oh@lead-finder
+DTSTAMP:20260927T185417Z
+DTSTART:20261124T150000
+DTEND:20261124T153000
+SUMMARY:Call lead: Dawson Appliance Repair Services (Cleveland OH)
+LOCATION:1550 Brownell Ct\, Cleveland\, OH 44115
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (216) 493-9874\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Cleveland OH\nA
+ ddress: 1550 Brownell Ct\, Cleveland\, OH 44115\nDashboard: https://arjung
+ anesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:perfect-insurance-wa-spokane-wa@lead-finder
+DTSTAMP:20260927T185417Z
+DTSTART:20261124T180000
+DTEND:20261124T183000
+SUMMARY:Call lead: Perfect Insurance WA (Spokane WA)
+LOCATION:215 N Walnut St\, Spokane\, WA 99201
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (206) 672-9991\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: insurance agency  |  City: Spokane WA\nAdd
+ ress: 215 N Walnut St\, Spokane\, WA 99201\nDashboard: https://arjunganesh
+ 2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
