@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:low-cost-auto-insurance-premier-sacramento-ca@lead-finder
-DTSTAMP:20260815T151859Z
-DTSTART:20260921T090000
-DTEND:20260921T093000
-SUMMARY:Call lead: Low Cost Auto Insurance Premier (Sacramento CA)
-LOCATION:4600 47th Ave Ste 135\, Sacramento\, CA 95824
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (771) 243-1550\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
- od fit for Growth\nNiche: insurance agency  |  City: Sacramento CA\nAddres
- s: 4600 47th Ave Ste 135\, Sacramento\, CA 95824\nDashboard: https://arjun
- ganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:brightwell-sr22-insurance-agency-california-sacramento-ca@lead-finder
-DTSTAMP:20260815T151859Z
-DTSTART:20260921T150000
-DTEND:20260921T153000
-SUMMARY:Call lead: Brightwell SR22 Insurance Agency California (Sacramento 
- CA)
-LOCATION:3311 Northgate Blvd\, Sacramento\, CA 95834
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (209) 224-9775\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
- od fit for Growth\nNiche: insurance agency  |  City: Sacramento CA\nAddres
- s: 3311 Northgate Blvd\, Sacramento\, CA 95834\nDashboard: https://arjunga
- nesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:advisory-affordable-auto-insurance-corp-sacramento-ca@lead-finder
-DTSTAMP:20260815T151859Z
-DTSTART:20260921T180000
-DTEND:20260921T183000
-SUMMARY:Call lead: Advisory Affordable Auto Insurance Corp (Sacramento CA)
-LOCATION:3400 Broadway #150\, Sacramento\, CA 95817
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (464) 266-2974\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 66.5  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 53\nAffordability: Established - go
- od fit for Growth\nNiche: insurance agency  |  City: Sacramento CA\nAddres
- s: 3400 Broadway #150\, Sacramento\, CA 95817\nDashboard: https://arjungan
- esh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:insurance-agency-unit-sacramento-sacramento-ca@lead-finder
 DTSTAMP:20260815T151859Z
 DTSTART:20260922T090000
@@ -3819,6 +3761,45 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (206) 672-9991\nEmail: n
   - best pitched Starter\nNiche: insurance agency  |  City: Spokane WA\nAdd
  ress: 215 N Walnut St\, Spokane\, WA 99201\nDashboard: https://arjunganesh
  2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:swank-hair-studio-pittsburgh-pa@lead-finder
+DTSTAMP:20260928T210436Z
+DTSTART:20261125T090000
+DTEND:20261125T093000
+SUMMARY:Call lead: Swank Hair Studio (Pittsburgh PA)
+LOCATION:5329 Butler St\, Pittsburgh\, PA 15201
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (412) 781-2642\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 81.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 70\nAffordability: Established - go
+ od fit for Growth\nNiche: hair salon  |  City: Pittsburgh PA\nAddress: 532
+ 9 Butler St\, Pittsburgh\, PA 15201\nSocials: yelp: https://www.yelp.com/b
+ iz/swank-hair-studio-pittsburgh | facebook: https://www.facebook.com/swank
+ hairstudios/\nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wet-tacos-nashville-nashville-tn@lead-finder
+DTSTAMP:20260928T210436Z
+DTSTART:20261125T150000
+DTEND:20261125T153000
+SUMMARY:Call lead: Wet Tacos Nashville (Nashville TN)
+LOCATION:606 Monroe St\, Nashville\, TN 37208
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (615) 207-4668\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 65.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Nashville TN\nAddress
+ : 606 Monroe St\, Nashville\, TN 37208\nDashboard: https://arjunganesh2011
+ .github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
