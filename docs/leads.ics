@@ -8,63 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:los-rollin-bros-food-truck-catering-mobile-al@lead-finder
-DTSTAMP:20260816T152033Z
-DTSTART:20260923T090000
-DTEND:20260923T093000
-SUMMARY:Call lead: Los Rollin’ Bros food truck & catering (Mobile AL)
-LOCATION:6302 Aaron Dr S\, Mobile\, AL 36608
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (251) 391-3510\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 52.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 24\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: Mobile AL\nAddress: 6
- 302 Aaron Dr S\, Mobile\, AL 36608\nDashboard: https://arjunganesh2011.git
- hub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:una-vida-tattoo-u-v-tattoo-mesa-az@lead-finder
-DTSTAMP:20260817T152403Z
-DTSTART:20260923T150000
-DTEND:20260923T153000
-SUMMARY:Call lead: Una vida Tattoo (U.V. TATTOO) (Mesa AZ)
-LOCATION:330 S Gilbert Rd #7\, Mesa\, AZ 85204
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (602) 756-7848\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 74.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 68\nAffordability: Established - go
- od fit for Growth\nNiche: tattoo shop  |  City: Mesa AZ\nAddress: 330 S Gi
- lbert Rd #7\, Mesa\, AZ 85204\nDashboard: https://arjunganesh2011.github.i
- o/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:new-hvac-services-atlanta-ga@lead-finder
-DTSTAMP:20260817T152403Z
-DTSTART:20260923T180000
-DTEND:20260923T183000
-SUMMARY:Call lead: New HVAC Services (Atlanta GA)
-LOCATION:2002 Juniper St NE\, Atlanta\, GA 30308
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (203) 280-1264\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.5  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 57\nAffordability: Established - go
- od fit for Growth\nNiche: HVAC company  |  City: Atlanta GA\nAddress: 2002
-  Juniper St NE\, Atlanta\, GA 30308\nDashboard: https://arjunganesh2011.gi
- thub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:dark-legion-tattoo-studio-mesa-az@lead-finder
 DTSTAMP:20260817T152403Z
 DTSTART:20260924T090000
@@ -3815,6 +3758,146 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (909) 728-7635\nEmail: n
   - best pitched Starter\nNiche: dog grooming  |  City: Boise ID\nAddress: 
  2796 S Quercus Ave\, Boise\, ID 83709\nDashboard: https://arjunganesh2011.
  github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a-special-touch-floral-shop-savannah-ga@lead-finder
+DTSTAMP:20260930T195113Z
+DTSTART:20261127T090000
+DTEND:20261127T093000
+SUMMARY:Call lead: A Special Touch Floral Shop (Savannah GA)
+LOCATION:425 E Collins St\, Pooler\, GA 31322
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (912) 748-8058\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 74.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 57\nAffordability: Established - go
+ od fit for Growth\nNiche: florist  |  City: Savannah GA\nAddress: 425 E Co
+ llins St\, Pooler\, GA 31322\nSocials: facebook: https://www.facebook.com/
+ pages/A-Special-Touch-Floral-Shop/155375474499545\nDashboard: https://arju
+ nganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sonshyne-electric-llc-spokane-wa@lead-finder
+DTSTAMP:20260930T195113Z
+DTSTART:20261127T150000
+DTEND:20261127T153000
+SUMMARY:Call lead: Sonshyne Electric LLC (Spokane WA)
+LOCATION:2424 E 8th Ave\, Spokane\, WA 99202
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (509) 202-9833\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 73.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 55\nAffordability: Established - go
+ od fit for Growth\nNiche: electrician  |  City: Spokane WA\nAddress: 2424 
+ E 8th Ave\, Spokane\, WA 99202\nSocials: facebook: https://www.facebook.co
+ m/share/1AxH1LCDuG/\nDashboard: https://arjunganesh2011.github.io/lead-fin
+ der/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pressure-tech-sa-san-antonio-tx@lead-finder
+DTSTAMP:20260930T195113Z
+DTSTART:20261127T180000
+DTEND:20261127T183000
+SUMMARY:Call lead: Pressure Tech SA (San Antonio TX)
+LOCATION:9333 SW Loop 410\, San Antonio\, TX 78242
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (726) 888-2084\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 72.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 65\nAffordability: Established - go
+ od fit for Growth\nNiche: pressure washing  |  City: San Antonio TX\nAddre
+ ss: 9333 SW Loop 410\, San Antonio\, TX 78242\nSocials: tiktok: https://ww
+ w.tiktok.com/@pressure.tech.sa?_r=1&_t=ZP-92iaqKisFUE\nDashboard: https://
+ arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:frank-car-insurance-milwaukee-wi@lead-finder
+DTSTAMP:20260930T195113Z
+DTSTART:20261128T090000
+DTEND:20261128T093000
+SUMMARY:Call lead: Frank Car Insurance (Milwaukee WI)
+LOCATION:3931 S Howell Ave\, Milwaukee\, WI 53207
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Growth ($1\,800 build + $299/mo)\nScore: 70.5  |  No-website confiden
+ ce: 80.0%  |  Buyer signal: 61\nAffordability: Established - good fit for 
+ Growth\nNiche: insurance agency  |  City: Milwaukee WI\nAddress: 3931 S Ho
+ well Ave\, Milwaukee\, WI 53207\nDashboard: https://arjunganesh2011.github
+ .io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:splash-bros-co-pressure-washing-san-antonio-tx@lead-finder
+DTSTAMP:20260930T195113Z
+DTSTART:20261128T150000
+DTEND:20261128T153000
+SUMMARY:Call lead: Splash Bros Co. Pressure Washing (San Antonio TX)
+LOCATION:Potranco Rd\, San Antonio\, TX 78245
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (210) 386-0667\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 69.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 46\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: pressure washing  |  City: San Antonio TX\
+ nAddress: Potranco Rd\, San Antonio\, TX 78245\nSocials: facebook: https:/
+ /www.facebook.com/p/Splash-Bros-Co-Pressure-Washing-100087495170118/ | ins
+ tagram: https://www.instagram.com/p/C4xwgagO0Zd/\nDashboard: https://arjun
+ ganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-skylark-society-floral-plant-studio-savannah-ga@lead-finder
+DTSTAMP:20260930T195113Z
+DTSTART:20261128T180000
+DTEND:20261128T183000
+SUMMARY:Call lead: The Skylark Society | Floral & Plant Studio (Savannah GA
+ )
+LOCATION:51 Johnny Mercer Blvd Ste B1\, Savannah\, GA 31410
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (912) 398-9916\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 66.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: florist  |  City: Savannah GA\nAddress: 51
+  Johnny Mercer Blvd Ste B1\, Savannah\, GA 31410\nDashboard: https://arjun
+ ganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:designer-s-fashion-boutique-shreveport-la@lead-finder
+DTSTAMP:20260930T195113Z
+DTSTART:20261129T090000
+DTEND:20261129T093000
+SUMMARY:Call lead: Designer's Fashion Boutique (Shreveport LA)
+LOCATION:3610 Jewella Ave # B\, Shreveport\, LA 71109
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (318) 635-9111\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 59.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 27\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: bridal shop  |  City: Shreveport LA\nAddre
+ ss: 3610 Jewella Ave # B\, Shreveport\, LA 71109\nSocials: yelp: https://w
+ ww.yelp.com/biz/designers-fashion-boutique-shreveport\nDashboard: https://
+ arjunganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
