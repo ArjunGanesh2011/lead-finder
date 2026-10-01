@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dark-legion-tattoo-studio-mesa-az@lead-finder
-DTSTAMP:20260817T152403Z
-DTSTART:20260924T090000
-DTEND:20260924T093000
-SUMMARY:Call lead: Dark Legion Tattoo Studio (Mesa AZ)
-LOCATION:2632 W Baseline Rd\, Mesa\, AZ 85202
-DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
- ier: Starter ($800 build + $150/mo)\nScore: 65.0  |  No-website confidence
- : 92.0%  |  Buyer signal: 38\nAffordability: Lean / early-stage - best pit
- ched Starter\nNiche: tattoo shop  |  City: Mesa AZ\nAddress: 2632 W Baseli
- ne Rd\, Mesa\, AZ 85202\nDashboard: https://arjunganesh2011.github.io/lead
- -finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:the-arizona-art-collective-mesa-az@lead-finder
-DTSTAMP:20260817T152403Z
-DTSTART:20260924T150000
-DTEND:20260924T153000
-SUMMARY:Call lead: The Arizona Art Collective (Mesa AZ)
-LOCATION:2828 S Country Club Dr\, Mesa\, AZ 85210
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (480) 810-3583\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 45\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: tattoo shop  |  City: Mesa AZ\nAddress: 28
- 28 S Country Club Dr\, Mesa\, AZ 85210\nSocials: instagram: https://www.in
- stagram.com/thearizonaartcollective?igsh=Z2tqd3J2ejJlZHM=\nDashboard: http
- s://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:tacos-el-cardenal-food-truck-raleigh-nc@lead-finder
-DTSTAMP:20260817T152403Z
-DTSTART:20260924T180000
-DTEND:20260924T183000
-SUMMARY:Call lead: Tacos El Cardenal | Food Truck (Raleigh NC)
-LOCATION:Raleigh\, NC 27610
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (919) 236-5332\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 57.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 35\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: Raleigh NC\nAddress: 
- Raleigh\, NC 27610\nDashboard: https://arjunganesh2011.github.io/lead-find
- er/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:mobile-bay-dental-the-shoppes-at-bel-air-mobile-al@lead-finder
 DTSTAMP:20260818T153035Z
 DTSTART:20260925T090000
@@ -3898,6 +3840,45 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (318) 635-9111\nEmail: n
  ss: 3610 Jewella Ave # B\, Shreveport\, LA 71109\nSocials: yelp: https://w
  ww.yelp.com/biz/designers-fashion-boutique-shreveport\nDashboard: https://
  arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:winston-salem-heating-air-conditioning-winston-salem-nc@lead-finder
+DTSTAMP:20261001T200751Z
+DTSTART:20261129T150000
+DTEND:20261129T153000
+SUMMARY:Call lead: Winston-Salem Heating & Air Conditioning (Winston-Salem 
+ NC)
+LOCATION:2686 Peters Creek Pkwy\, Winston-Salem\, NC 27127
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (743) 226-7488\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 74.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: HVAC company  |  City: Winston-Salem NC\nAddress
+ : 2686 Peters Creek Pkwy\, Winston-Salem\, NC 27127\nDashboard: https://ar
+ junganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fresh-food-company-dining-hall-mobile-al@lead-finder
+DTSTAMP:20261001T200751Z
+DTSTART:20261129T180000
+DTEND:20261129T183000
+SUMMARY:Call lead: Fresh Food Company/Dining Hall (Mobile AL)
+LOCATION:6351 Tonsmeire Dr\, Mobile\, AL 36688
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 65.0  |  No-website confidence
+ : 92.0%  |  Buyer signal: 38\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: food truck  |  City: Mobile AL\nAddress: 6351 Tonsmei
+ re Dr\, Mobile\, AL 36688\nDashboard: https://arjunganesh2011.github.io/le
+ ad-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
