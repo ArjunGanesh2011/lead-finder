@@ -8,66 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:mobile-bay-dental-the-shoppes-at-bel-air-mobile-al@lead-finder
-DTSTAMP:20260818T153035Z
-DTSTART:20260925T090000
-DTEND:20260925T093000
-SUMMARY:Call lead: Mobile Bay Dental - The Shoppes at Bel Air (Mobile AL)
-LOCATION:3281 Joe Treadwell Dr Ste G18A\, Mobile\, AL 36606
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (251) 301-6555\nEmail: n
- ot found\nTier: Premium ($3\,500 build + $499/mo)\nScore: 86.0  |  No-webs
- ite confidence: 92.0%  |  Buyer signal: 80\nAffordability: High earner - c
- omfortably fits Premium\nNiche: dental office  |  City: Mobile AL\nAddress
- : 3281 Joe Treadwell Dr Ste G18A\, Mobile\, AL 36606\nDashboard: https://a
- rjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:the-taco-spot-worcester-ma@lead-finder
-DTSTAMP:20260818T153035Z
-DTSTART:20260925T150000
-DTEND:20260925T153000
-SUMMARY:Call lead: The Taco Spot (Worcester MA)
-LOCATION:6 Hartford Tpke\, Shrewsbury\, MA 01545
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (774) 502-8149\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 76.0  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 60\nAffordability: Established - go
- od fit for Growth\nNiche: food truck  |  City: Worcester MA\nAddress: 6 Ha
- rtford Tpke\, Shrewsbury\, MA 01545\nSocials: facebook: https://www.facebo
- ok.com/thetacospotworcester/ | yelp: https://www.yelp.com/biz/the-taco-spo
- t-worcester | instagram: https://www.instagram.com/thetacospot/?hl=en\nDas
- hboard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:nisha-s-sarees-bridal-non-bridal-store-sacramento-ca@lead-finder
-DTSTAMP:20260818T153035Z
-DTSTART:20260925T180000
-DTEND:20260925T183000
-SUMMARY:Call lead: Nisha's Sarees - Bridal / Non Bridal Store (Sacramento C
- A)
-LOCATION:849 Jefferson Blvd #104\, West Sacramento\, CA 95691
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (916) 761-1273\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 75.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 70\nAffordability: Established - go
- od fit for Growth\nNiche: bridal shop  |  City: Sacramento CA\nAddress: 84
- 9 Jefferson Blvd #104\, West Sacramento\, CA 95691\nDashboard: https://arj
- unganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:firstclass-des-moines-electrical-services-des-moines-ia@lead-finder
 DTSTAMP:20260818T153035Z
 DTSTART:20260926T090000
