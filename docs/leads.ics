@@ -8,65 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:firstclass-des-moines-electrical-services-des-moines-ia@lead-finder
-DTSTAMP:20260818T153035Z
-DTSTART:20260926T090000
-DTEND:20260926T093000
-SUMMARY:Call lead: FirstClass Des Moines Electrical Services (Des Moines IA
- )
-LOCATION:4910 Urbandale Ave\, Des Moines\, IA 50310
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (515) 416-4209\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 66.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 52\nAffordability: Established - go
- od fit for Growth\nNiche: electrician  |  City: Des Moines IA\nAddress: 49
- 10 Urbandale Ave\, Des Moines\, IA 50310\nDashboard: https://arjunganesh20
- 11.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:boutique-collective-the-willow-kansas-city-mo@lead-finder
-DTSTAMP:20260818T153035Z
-DTSTART:20260926T150000
-DTEND:20260926T153000
-SUMMARY:Call lead: Boutique Collective The Willow (Kansas City MO)
-LOCATION:7420 NW 87th St\, Kansas City\, MO 64153
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (816) 344-9333\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 32\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: boutique  |  City: Kansas City MO\nAddress
- : 7420 NW 87th St\, Kansas City\, MO 64153\nSocials: facebook: https://www
- .facebook.com/61590874522160/\nDashboard: https://arjunganesh2011.github.i
- o/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:affordable-heating-cooling-repair-richmond-va@lead-finder
-DTSTAMP:20260818T153035Z
-DTSTART:20260926T180000
-DTEND:20260926T183000
-SUMMARY:Call lead: Affordable Heating & Cooling Repair (Richmond VA)
-LOCATION:5601 Sandstone Ridge Rd\, Midlothian\, VA 23112
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (804) 739-5330\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: appliance repair  |  City: Richmond VA\nAd
- dress: 5601 Sandstone Ridge Rd\, Midlothian\, VA 23112\nDashboard: https:/
- /arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:boutique-collective-the-blossom-kansas-city-mo@lead-finder
 DTSTAMP:20260818T153035Z
 DTSTART:20260927T090000
@@ -3819,6 +3760,181 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
  ched Starter\nNiche: food truck  |  City: Mobile AL\nAddress: 6351 Tonsmei
  re Dr\, Mobile\, AL 36688\nDashboard: https://arjunganesh2011.github.io/le
  ad-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smart-insurance-cleveland-cleveland-oh@lead-finder
+DTSTAMP:20261003T183251Z
+DTSTART:20261130T090000
+DTEND:20261130T093000
+SUMMARY:Call lead: Smart Insurance Cleveland (Cleveland OH)
+LOCATION:4421 W 150th St\, Cleveland\, OH 44135
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (216) 220-6691\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 69.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 59\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Cleveland OH\nAddress
+ : 4421 W 150th St\, Cleveland\, OH 44135\nDashboard: https://arjunganesh20
+ 11.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nonna-mia1965-orlando-fl@lead-finder
+DTSTAMP:20261003T183251Z
+DTSTART:20261130T150000
+DTEND:20261130T153000
+SUMMARY:Call lead: Nonna Mia1965 (Orlando FL)
+LOCATION:5805 W Irlo Bronson Memorial Hwy\, Kissimmee\, FL 34746
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (407) 722-9295\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 69.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 58\nAffordability: Established - go
+ od fit for Growth\nNiche: food truck  |  City: Orlando FL\nAddress: 5805 W
+  Irlo Bronson Memorial Hwy\, Kissimmee\, FL 34746\nDashboard: https://arju
+ nganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cleveland-insurance-inc-cleveland-oh@lead-finder
+DTSTAMP:20261003T183251Z
+DTSTART:20261130T180000
+DTEND:20261130T183000
+SUMMARY:Call lead: Cleveland Insurance Inc (Cleveland OH)
+LOCATION:5851 Twin Lakes Dr\, Cleveland\, OH 44129
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (216) 354-2036\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 57\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Cleveland OH\nAddress
+ : 5851 Twin Lakes Dr\, Cleveland\, OH 44129\nDashboard: https://arjunganes
+ h2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:blendz-sports-barbershop-des-moines-ia@lead-finder
+DTSTAMP:20261003T183251Z
+DTSTART:20261201T090000
+DTEND:20261201T093000
+SUMMARY:Call lead: Blendz Sports Barbershop (Des Moines IA)
+LOCATION:1271 8th St Ste 300\, West Des Moines\, IA 50265
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (515) 402-3220\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 68.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 45\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: barbershop  |  City: Des Moines IA\nAddres
+ s: 1271 8th St Ste 300\, West Des Moines\, IA 50265\nSocials: yelp: https:
+ //www.yelp.com/biz/blendz-sports-barbershop-west-des-moines | facebook: ht
+ tps://www.facebook.com/p/Blendz-Sports-barbershop-100064002276859/ | insta
+ gram: https://www.instagram.com/blendzsportsbarbershop/\nDashboard: https:
+ //arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:best-insurance-quotes-oh-cleveland-oh@lead-finder
+DTSTAMP:20261003T183251Z
+DTSTART:20261201T150000
+DTEND:20261201T153000
+SUMMARY:Call lead: Best Insurance Quotes OH (Cleveland OH)
+LOCATION:3807 E 71st St\, Cleveland\, OH 44105
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-website confiden
+ ce: 80.0%  |  Buyer signal: 56\nAffordability: Established - good fit for 
+ Growth\nNiche: insurance agency  |  City: Cleveland OH\nAddress: 3807 E 71
+ st St\, Cleveland\, OH 44105\nDashboard: https://arjunganesh2011.github.io
+ /lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cost-auto-insurance-discounters-cleveland-oh@lead-finder
+DTSTAMP:20261003T183251Z
+DTSTART:20261201T180000
+DTEND:20261201T183000
+SUMMARY:Call lead: Cost Auto Insurance Discounters (Cleveland OH)
+LOCATION:4269 Pearl Rd #73\, Cleveland\, OH 44109
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (239) 364-5849\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Cleveland OH\nAddress
+ : 4269 Pearl Rd #73\, Cleveland\, OH 44109\nDashboard: https://arjunganesh
+ 2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:all-star-roof-repair-replacement-fresno-ca@lead-finder
+DTSTAMP:20261003T183251Z
+DTSTART:20261202T090000
+DTEND:20261202T093000
+SUMMARY:Call lead: All Star Roof Repair & Replacement (Fresno CA)
+LOCATION:1099 E Champlain Dr\, Fresno\, CA 93720
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (350) 203-9256\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: roofing company  |  City: Fresno CA\nAddress: 10
+ 99 E Champlain Dr\, Fresno\, CA 93720\nDashboard: https://arjunganesh2011.
+ github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:integrity-first-insurance-agency-cleveland-oh@lead-finder
+DTSTAMP:20261003T183251Z
+DTSTART:20261202T150000
+DTEND:20261202T153000
+SUMMARY:Call lead: Integrity First Insurance Agency (Cleveland OH)
+LOCATION:12 Aetna Rd\, Cleveland\, OH 44105
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (216) 202-8393\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 66.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 53\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Cleveland OH\nAddress
+ : 12 Aetna Rd\, Cleveland\, OH 44105\nDashboard: https://arjunganesh2011.g
+ ithub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jacksonville-landscape-designers-architects-jacksonville-fl@lead-finder
+DTSTAMP:20261003T183251Z
+DTSTART:20261202T180000
+DTEND:20261202T183000
+SUMMARY:Call lead: Jacksonville Landscape Designers & Architects (Jacksonvi
+ lle FL)
+LOCATION:50 N Laura St\, Jacksonville\, FL 32202
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (904) 925-4738\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 47\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: landscaping company  |  City: Jacksonville
+  FL\nAddress: 50 N Laura St\, Jacksonville\, FL 32202\nDashboard: https://
+ arjunganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
