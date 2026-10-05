@@ -8,65 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:venus-nail-spa-dayton-dayton-oh@lead-finder
-DTSTAMP:20260819T152944Z
-DTSTART:20260928T090000
-DTEND:20260928T093000
-SUMMARY:Call lead: Venus Nail Spa Dayton (Dayton OH)
-LOCATION:1070 Patterson Rd\, Dayton\, OH 45420
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (937) 256-2605\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 70.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 60\nAffordability: Established - go
- od fit for Growth\nNiche: nail salon  |  City: Dayton OH\nAddress: 1070 Pa
- tterson Rd\, Dayton\, OH 45420\nSocials: facebook: https://www.facebook.co
- m/venusnails45420\nDashboard: https://arjunganesh2011.github.io/lead-finde
- r/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:monarca-lawn-service-houston-tx@lead-finder
-DTSTAMP:20260819T152944Z
-DTSTART:20260928T150000
-DTEND:20260928T153000
-SUMMARY:Call lead: Monarca Lawn service (Houston TX)
-LOCATION:13203 Vista Oro Dr\, Houston\, TX 77041
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (832) 207-2789\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 69.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 46\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: lawn care service  |  City: Houston TX\nAd
- dress: 13203 Vista Oro Dr\, Houston\, TX 77041\nSocials: instagram: https:
- //www.instagram.com/monarcalawnservices/\nDashboard: https://arjunganesh20
- 11.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:tacon-mdres-columbus-oh@lead-finder
-DTSTAMP:20260819T152944Z
-DTSTART:20260928T180000
-DTEND:20260928T183000
-SUMMARY:Call lead: Tacon Mdres (Columbus OH)
-LOCATION:1877 E 17th Ave\, Columbus\, OH 43219
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (614) 288-5731\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 35\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: Columbus OH\nAddress:
-  1877 E 17th Ave\, Columbus\, OH 43219\nDashboard: https://arjunganesh2011
- .github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:new-york-stylez-barbershop-razor-shave-latino-nyc-raleigh-nc@lead-finder
 DTSTAMP:20260820T153214Z
 DTSTART:20260929T090000
@@ -3994,6 +3935,84 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (313) 633-1587\nEmail: n
  23 W Warren Ave\, Detroit\, MI 48228\nSocials: instagram: https://www.inst
  agram.com/touchy_gift_shop?igsh=NGRtZzE0c3lzejl1\nDashboard: https://arjun
  ganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:east-side-carpet-flooring-el-paso-tx@lead-finder
+DTSTAMP:20261005T215008Z
+DTSTART:20261205T090000
+DTEND:20261205T093000
+SUMMARY:Call lead: East Side Carpet & Flooring (El Paso TX)
+LOCATION:11394 James Watt Dr\, El Paso\, TX 79936
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (915) 790-1095\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 69.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 47\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: flooring company  |  City: El Paso TX\nAdd
+ ress: 11394 James Watt Dr\, El Paso\, TX 79936\nDashboard: https://arjunga
+ nesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:greater-boston-cleaning-worcester-ma@lead-finder
+DTSTAMP:20261005T215008Z
+DTSTART:20261205T150000
+DTEND:20261205T153000
+SUMMARY:Call lead: Greater Boston Cleaning (Worcester MA)
+LOCATION:18 Hilltop Dr\, Millbury\, MA 01527
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (617) 545-4725\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 66.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: pressure washing  |  City: Worcester MA\nA
+ ddress: 18 Hilltop Dr\, Millbury\, MA 01527\nSocials: yelp: https://www.ye
+ lp.com/biz/greater-boston-cleaning-millbury | facebook: https://www.facebo
+ ok.com/p/Greater-Boston-Cleaning-61558022190093/\nDashboard: https://arjun
+ ganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a-realiable-appliance-chattanooga-tn@lead-finder
+DTSTAMP:20261005T215008Z
+DTSTART:20261205T180000
+DTEND:20261205T183000
+SUMMARY:Call lead: A Realiable Appliance. (Chattanooga TN)
+LOCATION:4811 Bellbrook Dr\, Chattanooga\, TN 37416
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (423) 719-3535\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 56.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 33\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Chattanooga TN\
+ nAddress: 4811 Bellbrook Dr\, Chattanooga\, TN 37416\nDashboard: https://a
+ rjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urgent-lawn-care-philadelphia-philadelphia-pa@lead-finder
+DTSTAMP:20261005T215008Z
+DTSTART:20261206T090000
+DTEND:20261206T093000
+SUMMARY:Call lead: Urgent Lawn Care Philadelphia (Philadelphia PA)
+LOCATION:3417 Janney St\, Philadelphia\, PA 19134
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (844) 613-3070\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 52.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 25\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: lawn care service  |  City: Philadelphia P
+ A\nAddress: 3417 Janney St\, Philadelphia\, PA 19134\nDashboard: https://a
+ rjunganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
