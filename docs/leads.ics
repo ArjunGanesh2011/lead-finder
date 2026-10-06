@@ -8,69 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:new-york-stylez-barbershop-razor-shave-latino-nyc-raleigh-nc@lead-finder
-DTSTAMP:20260820T153214Z
-DTSTART:20260929T090000
-DTEND:20260929T093000
-SUMMARY:Call lead: NEW YORK STYLEZ | BARBERSHOP | RAZOR SHAVE | LATINO | NY
- C (Raleigh NC)
-LOCATION:4904 Atlantic Ave #104\, Raleigh\, NC 27616
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (917) 554-1852\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 77.5  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 63\nAffordability: Established - go
- od fit for Growth\nNiche: barbershop  |  City: Raleigh NC\nAddress: 4904 A
- tlantic Ave #104\, Raleigh\, NC 27616\nSocials: yelp: https://www.yelp.com
- /biz/new-york-stylez-raleigh | facebook: https://www.facebook.com/nystylez
- barbershop/ | instagram: https://www.instagram.com/explore/locations/15524
- 58251449951/ny-stylez/\nDashboard: https://arjunganesh2011.github.io/lead-
- finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:teresa-s-pool-and-spa-care-portland-or@lead-finder
-DTSTAMP:20260820T153214Z
-DTSTART:20260929T150000
-DTEND:20260929T153000
-SUMMARY:Call lead: Teresa's Pool and Spa Care (Portland OR)
-LOCATION:5954 Duniway Ave\, Gladstone\, OR 97207
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (971) 837-5632\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 75.0  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 58\nAffordability: Established - go
- od fit for Growth\nNiche: pool service  |  City: Portland OR\nAddress: 595
- 4 Duniway Ave\, Gladstone\, OR 97207\nDashboard: https://arjunganesh2011.g
- ithub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:natural-nails-spa-cincinnati-oh@lead-finder
-DTSTAMP:20260820T153214Z
-DTSTART:20260929T180000
-DTEND:20260929T183000
-SUMMARY:Call lead: Natural Nails & Spa (Cincinnati OH)
-LOCATION:5367 Ridge Ave\, Cincinnati\, OH 45213
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (513) 731-7600\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 74.5  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 57\nAffordability: Established - go
- od fit for Growth\nNiche: nail salon  |  City: Cincinnati OH\nAddress: 536
- 7 Ridge Ave\, Cincinnati\, OH 45213\nSocials: facebook: https://www.facebo
- ok.com/p/Natural-Nails-Spa-100063639726858/ | yelp: https://www.yelp.com/b
- iz/natural-nails-and-spa-cincinnati\nDashboard: https://arjunganesh2011.gi
- thub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:shyne-cleaning-services-birmingham-al@lead-finder
 DTSTAMP:20260820T153214Z
 DTSTART:20260930T090000
@@ -4013,6 +3950,106 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (844) 613-3070\nEmail: n
   - best pitched Starter\nNiche: lawn care service  |  City: Philadelphia P
  A\nAddress: 3417 Janney St\, Philadelphia\, PA 19134\nDashboard: https://a
  rjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pure-lite-pressure-washing-colorado-springs-co@lead-finder
+DTSTAMP:20261006T195849Z
+DTSTART:20261206T150000
+DTEND:20261206T153000
+SUMMARY:Call lead: PURE LITE PRESSURE WASHING (Colorado Springs CO)
+LOCATION:410 Valley Hi Cir 410 B\, Colorado Springs\, CO 80910
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (719) 651-4310\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 66.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: pressure washing  |  City: Colorado Spring
+ s CO\nAddress: 410 Valley Hi Cir 410 B\, Colorado Springs\, CO 80910\nSoci
+ als: yelp: https://www.yelp.com/search?find_desc=Painters&find_near=pure-l
+ ite-pressure-washing-colorado-springs\nDashboard: https://arjunganesh2011.
+ github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:all-star-balloons-more-new-orleans-la@lead-finder
+DTSTAMP:20261006T195849Z
+DTSTART:20261206T180000
+DTEND:20261206T183000
+SUMMARY:Call lead: All Star Balloons & More (New Orleans LA)
+LOCATION:1531 N Claiborne Ave\, New Orleans\, LA 70116
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (504) 635-5600\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 66.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: florist  |  City: New Orleans LA\nAddress:
+  1531 N Claiborne Ave\, New Orleans\, LA 70116\nDashboard: https://arjunga
+ nesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:k-b-paint-and-stain-llc-colorado-springs-co@lead-finder
+DTSTAMP:20261006T195849Z
+DTSTART:20261207T090000
+DTEND:20261207T093000
+SUMMARY:Call lead: K&B Paint And Stain LLC (Colorado Springs CO)
+LOCATION:1423 E San Miguel St\, Colorado Springs\, CO 80909
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (719) 728-7285\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 65.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: pressure washing  |  City: Colorado Spring
+ s CO\nAddress: 1423 E San Miguel St\, Colorado Springs\, CO 80909\nSocials
+ : facebook: https://www.facebook.com/p/KB-Paint-And-Stain-LLC-615880047949
+ 39/ | tiktok: https://www.tiktok.com/@kb.paint.and.stainllc\nDashboard: ht
+ tps://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:spic-span-window-cleaning-winston-salem-nc@lead-finder
+DTSTAMP:20261006T195849Z
+DTSTART:20261207T150000
+DTEND:20261207T153000
+SUMMARY:Call lead: Spic & span window cleaning (Winston-Salem NC)
+LOCATION:426 Gumtree Rd\, Winston-Salem\, NC 27107
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (336) 247-6634\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 65.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: window cleaning  |  City: Winston-Salem NC
+ \nAddress: 426 Gumtree Rd\, Winston-Salem\, NC 27107\nSocials: yelp: https
+ ://www.yelp.com/biz/spic-and-span-pros-piscataway-township-2\nDashboard: h
+ ttps://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ct-flooring-supply-house-chattanooga-tn@lead-finder
+DTSTAMP:20261006T195849Z
+DTSTART:20261207T180000
+DTEND:20261207T183000
+SUMMARY:Call lead: CT Flooring Supply House (Chattanooga TN)
+LOCATION:2005 E 25th St\, Chattanooga\, TN 37407
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (423) 697-7665\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 47\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: flooring company  |  City: Chattanooga TN\
+ nAddress: 2005 E 25th St\, Chattanooga\, TN 37407\nDashboard: https://arju
+ nganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
