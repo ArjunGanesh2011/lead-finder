@@ -1,10 +1,38 @@
 {
-  "generated": "2026-10-06T19:58:49.542277+00:00",
+  "generated": "2026-10-07T20:24:50.110704+00:00",
   "count": 300,
-  "new_today": 5,
-  "queries_used_this_month": 180,
+  "new_today": 1,
+  "queries_used_this_month": 210,
   "query_budget": 950,
   "leads": [
+    {
+      "business_name": "OC Cleaning Solutions LLC - Carpet Cleaning and Pressure Soft Washing",
+      "niche": "carpet cleaning",
+      "city": "Orlando FL",
+      "slug": "oc-cleaning-solutions-llc-carpet-cleaning-and-pressure-soft-washing-orlando-fl",
+      "phone": "(689) 213-1606",
+      "email": null,
+      "contact_name": null,
+      "instagram": "https://instagram.com/oc_cleaning_solutions?igshid=YmMyMTA2M2Y=",
+      "address": "4913 Cason Cove Dr, Orlando, FL 32811",
+      "maps_url": "https://maps.google.com/?cid=4974621664173740255&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 5,
+      "review_count": 72,
+      "description": "",
+      "socials": {
+        "instagram": "https://instagram.com/oc_cleaning_solutions?igshid=YmMyMTA2M2Y="
+      },
+      "no_website_confidence": 80.0,
+      "buyer_signal_score": 52,
+      "affordability": "Established - good fit for Growth",
+      "overall_score": 66.0,
+      "suggested_tier": "Growth",
+      "suggested_price": "$1,800 build + $299/mo",
+      "added": "2026-10-07",
+      "logo_image": null,
+      "palette": null,
+      "prompt_file": "prompts/oc-cleaning-solutions-llc-carpet-cleaning-and-pressure-soft-washing-orlando-fl.md"
+    },
     {
       "business_name": "PURE LITE PRESSURE WASHING",
       "niche": "pressure washing",
@@ -8043,32 +8071,6 @@
       "logo_image": null,
       "palette": null,
       "prompt_file": "prompts/mobile-wood-floor-co-mobile-al.md"
-    },
-    {
-      "business_name": "Gift baskets & Balloons shop",
-      "niche": "gift shop",
-      "city": "Birmingham AL",
-      "slug": "gift-baskets-balloons-shop-birmingham-al",
-      "phone": "(205) 427-2065",
-      "email": null,
-      "contact_name": null,
-      "instagram": null,
-      "address": "3040 Ensley Ave, Birmingham, AL 35208",
-      "maps_url": "https://maps.google.com/?cid=18305547652365384533&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "rating": 4.7,
-      "review_count": 15,
-      "description": "Gift baskets & Balloons shop at 3040 Ensley Ave, Birmingham AL 35208 - hours, address, map, directions, phone number, customer ratings and reviews.",
-      "socials": {},
-      "no_website_confidence": 92.0,
-      "buyer_signal_score": 34,
-      "affordability": "Lean / early-stage - best pitched Starter",
-      "overall_score": 63.0,
-      "suggested_tier": "Starter",
-      "suggested_price": "$800 build + $150/mo",
-      "added": "2026-07-29",
-      "logo_image": null,
-      "palette": null,
-      "prompt_file": "prompts/gift-baskets-balloons-shop-birmingham-al.md"
     }
   ]
 }

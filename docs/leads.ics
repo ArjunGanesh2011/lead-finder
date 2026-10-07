@@ -8,65 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:shyne-cleaning-services-birmingham-al@lead-finder
-DTSTAMP:20260820T153214Z
-DTSTART:20260930T090000
-DTEND:20260930T093000
-SUMMARY:Call lead: Shyne Cleaning Services (Birmingham AL)
-LOCATION:3201 Berkeley Ln\, Birmingham\, AL 35242
-DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
- ier: Starter ($800 build + $150/mo)\nScore: 66.0  |  No-website confidence
- : 92.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage - best pit
- ched Starter\nNiche: window cleaning  |  City: Birmingham AL\nAddress: 320
- 1 Berkeley Ln\, Birmingham\, AL 35242\nSocials: facebook: https://www.face
- book.com/p/Shyne-Cleaning-Services-100093262503971/ | linkedin: https://ww
- w.linkedin.com/company/shyne-cleaning-services-llc\nDashboard: https://arj
- unganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:danys-appliance-repair-llc-denver-co@lead-finder
-DTSTAMP:20260820T153214Z
-DTSTART:20260930T150000
-DTEND:20260930T153000
-SUMMARY:Call lead: Danys Appliance Repair LLC (Denver CO)
-LOCATION:1200 Galapago St\, Denver\, CO 80204
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (303) 669-7217\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 45\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: appliance repair  |  City: Denver CO\nAddr
- ess: 1200 Galapago St\, Denver\, CO 80204\nDashboard: https://arjunganesh2
- 011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pure-ink-tattoo-piercing-atlanta-ga@lead-finder
-DTSTAMP:20260820T153214Z
-DTSTART:20260930T180000
-DTEND:20260930T183000
-SUMMARY:Call lead: PURE INK TATTOO & PIERCING (Atlanta GA)
-LOCATION:26 Peachtree Cir NE\, Atlanta\, GA 30309
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (817) 310-9629\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 51.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 22\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: tattoo shop  |  City: Atlanta GA\nAddress:
-  26 Peachtree Cir NE\, Atlanta\, GA 30309\nDashboard: https://arjunganesh2
- 011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:el-flacko-locksmith-el-paso-tx@lead-finder
 DTSTAMP:20260821T153145Z
 DTSTART:20261001T090000
@@ -4049,6 +3990,27 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (423) 697-7665\nEmail: n
   confidence: 80.0%  |  Buyer signal: 47\nAffordability: Lean / early-stage
   - best pitched Starter\nNiche: flooring company  |  City: Chattanooga TN\
  nAddress: 2005 E 25th St\, Chattanooga\, TN 37407\nDashboard: https://arju
+ nganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oc-cleaning-solutions-llc-carpet-cleaning-and-pressure-soft-washing-orlando-fl@lead-finder
+DTSTAMP:20261007T202450Z
+DTSTART:20261208T090000
+DTEND:20261208T093000
+SUMMARY:Call lead: OC Cleaning Solutions LLC - Carpet Cleaning and Pressure
+  Soft Washing (Orlando FL)
+LOCATION:4913 Cason Cove Dr\, Orlando\, FL 32811
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (689) 213-1606\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 66.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 52\nAffordability: Established - go
+ od fit for Growth\nNiche: carpet cleaning  |  City: Orlando FL\nAddress: 4
+ 913 Cason Cove Dr\, Orlando\, FL 32811\nSocials: instagram: https://instag
+ ram.com/oc_cleaning_solutions?igshid=YmMyMTA2M2Y=\nDashboard: https://arju
  nganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
