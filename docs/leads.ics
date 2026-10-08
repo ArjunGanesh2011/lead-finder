@@ -8,66 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:el-flacko-locksmith-el-paso-tx@lead-finder
-DTSTAMP:20260821T153145Z
-DTSTART:20261001T090000
-DTEND:20261001T093000
-SUMMARY:Call lead: El Flacko Locksmith (El Paso TX)
-LOCATION:6420 Cheyenne Trail\, El Paso\, TX 79925
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (915) 226-1505\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 67.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 42\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: locksmith  |  City: El Paso TX\nAddress: 6
- 420 Cheyenne Trail\, El Paso\, TX 79925\nSocials: facebook: https://www.fa
- cebook.com/elflackolocksmith/\nDashboard: https://arjunganesh2011.github.i
- o/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:village-pet-grooming-winston-salem-nc@lead-finder
-DTSTAMP:20260821T153145Z
-DTSTART:20261001T150000
-DTEND:20261001T153000
-SUMMARY:Call lead: Village pet grooming (Winston-Salem NC)
-LOCATION:2555 Old Glory Rd\, Clemmons\, NC 27012
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (336) 766-8100\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 65.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: dog grooming  |  City: Winston-Salem NC\nA
- ddress: 2555 Old Glory Rd\, Clemmons\, NC 27012\nSocials: yelp: https://ww
- w.yelp.com/search?cflt=groomer&find_loc=Winston-Salem\,+NC+27103 | faceboo
- k: https://www.facebook.com/share/17mNckgybp/?mibextid=wwXIfr\nDashboard: 
- https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:harvest-blessing-food-truck-denver-co@lead-finder
-DTSTAMP:20260821T153145Z
-DTSTART:20261001T180000
-DTEND:20261001T183000
-SUMMARY:Call lead: Harvest blessing food truck (Denver CO)
-LOCATION:2260 S Xanadu Way\, Aurora\, CO 80014
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (720) 727-3810\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 58.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 36\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: Denver CO\nAddress: 2
- 260 S Xanadu Way\, Aurora\, CO 80014\nDashboard: https://arjunganesh2011.g
- ithub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:garden-state-slider-co-food-truck-denver-co@lead-finder
 DTSTAMP:20260821T153145Z
 DTSTART:20261002T090000
@@ -4012,6 +3952,90 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (689) 213-1606\nEmail: n
  913 Cason Cove Dr\, Orlando\, FL 32811\nSocials: instagram: https://instag
  ram.com/oc_cleaning_solutions?igshid=YmMyMTA2M2Y=\nDashboard: https://arju
  nganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:patco-ac-service-mobile-al@lead-finder
+DTSTAMP:20261008T203025Z
+DTSTART:20261208T150000
+DTEND:20261208T153000
+SUMMARY:Call lead: Patco AC Service (Mobile AL)
+LOCATION:4457 Halls Mill Rd\, Mobile\, AL 36693
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (251) 660-9595\nEmail: n
+ ot found\nTier: Premium ($3\,500 build + $499/mo)\nScore: 88.0  |  No-webs
+ ite confidence: 92.0%  |  Buyer signal: 84\nAffordability: High earner - c
+ omfortably fits Premium\nNiche: HVAC company  |  City: Mobile AL\nAddress:
+  4457 Halls Mill Rd\, Mobile\, AL 36693\nSocials: yelp: https://www.yelp.c
+ om/biz/patco-ac-service-mobile | facebook: https://www.facebook.com/PATCOA
+ C/posts/beat-the-heat-with-patco-ac-service-in-mobile-al-our-emergency-ser
+ vice-is-just-a/893940796086032/\nDashboard: https://arjunganesh2011.github
+ .io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:el-barbershop-llc-springfield-mo@lead-finder
+DTSTAMP:20261008T203025Z
+DTSTART:20261208T180000
+DTEND:20261208T183000
+SUMMARY:Call lead: El Barbershop LLC (Springfield MO)
+LOCATION:1318 W Sunshine St\, Springfield\, MO 65807
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (805) 318-0134\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 77.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 63\nAffordability: Established - go
+ od fit for Growth\nNiche: barbershop  |  City: Springfield MO\nAddress: 13
+ 18 W Sunshine St\, Springfield\, MO 65807\nSocials: facebook: https://www.
+ facebook.com/elbarbershopllc/ | tiktok: https://www.tiktok.com/discover/el
+ -barbershop-llc-springfield-mo | instagram: https://www.instagram.com/expl
+ ore/locations/113730571217193/el-barbershop-llc/recent/\nDashboard: https:
+ //arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:christian-s-clips-springfield-mo-barber-springfield-mo@lead-finder
+DTSTAMP:20261008T203025Z
+DTSTART:20261209T090000
+DTEND:20261209T093000
+SUMMARY:Call lead: Christian’s Clips | Springfield MO Barber (Springfield
+  MO)
+LOCATION:1925 E Bennett St J\, Springfield\, MO 65804
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Growth ($1\,800 build + $299/mo)\nScore: 72.5  |  No-website confiden
+ ce: 92.0%  |  Buyer signal: 53\nAffordability: Established - good fit for 
+ Growth\nNiche: barbershop  |  City: Springfield MO\nAddress: 1925 E Bennet
+ t St J\, Springfield\, MO 65804\nDashboard: https://arjunganesh2011.github
+ .io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noah-s-bark-dog-grooming-des-moines-ia@lead-finder
+DTSTAMP:20261008T203025Z
+DTSTART:20261209T150000
+DTEND:20261209T153000
+SUMMARY:Call lead: Noah's Bark Dog Grooming (Des Moines IA)
+LOCATION:5191 Maple Dr suite n\, Pleasant Hill\, IA 50327
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (515) 480-2047\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 59.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 38\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: dog grooming  |  City: Des Moines IA\nAddr
+ ess: 5191 Maple Dr suite n\, Pleasant Hill\, IA 50327\nSocials: facebook: 
+ https://www.facebook.com/share/1Awrn1niH6/\nDashboard: https://arjunganesh
+ 2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
