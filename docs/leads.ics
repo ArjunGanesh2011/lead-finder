@@ -8,63 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:garden-state-slider-co-food-truck-denver-co@lead-finder
-DTSTAMP:20260821T153145Z
-DTSTART:20261002T090000
-DTEND:20261002T093000
-SUMMARY:Call lead: Garden State Slider Co. Food Truck (Denver CO)
-LOCATION:500 S Santa Fe Dr\, Denver\, CO 80223
-DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
- ier: Starter ($800 build + $150/mo)\nScore: 56.5  |  No-website confidence
- : 80.0%  |  Buyer signal: 33\nAffordability: Lean / early-stage - best pit
- ched Starter\nNiche: food truck  |  City: Denver CO\nAddress: 500 S Santa 
- Fe Dr\, Denver\, CO 80223\nDashboard: https://arjunganesh2011.github.io/le
- ad-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:magnolia-paws-grooming-winston-salem-nc@lead-finder
-DTSTAMP:20260821T153145Z
-DTSTART:20261002T150000
-DTEND:20261002T153000
-SUMMARY:Call lead: Magnolia Paws Grooming (Winston-Salem NC)
-LOCATION:10714 Old U.S. Hwy 52\, Winston-Salem\, NC 27107
-DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
- ier: Starter ($800 build + $150/mo)\nScore: 51.0  |  No-website confidence
- : 80.0%  |  Buyer signal: 22\nAffordability: Lean / early-stage - best pit
- ched Starter\nNiche: dog grooming  |  City: Winston-Salem NC\nAddress: 107
- 14 Old U.S. Hwy 52\, Winston-Salem\, NC 27107\nDashboard: https://arjungan
- esh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pavani-low-cost-auto-insurance-company-llc-richmond-va@lead-finder
-DTSTAMP:20260822T151919Z
-DTSTART:20261002T180000
-DTEND:20261002T183000
-SUMMARY:Call lead: Pavani Low Cost Auto Insurance Company LLC (Richmond VA)
-LOCATION:919 E Main St #1054\, Richmond\, VA 23219
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (267) 857-2944\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
- od fit for Growth\nNiche: insurance agency  |  City: Richmond VA\nAddress:
-  919 E Main St #1054\, Richmond\, VA 23219\nDashboard: https://arjunganesh
- 2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:brad-sr22-insurance-agency-richmond-va@lead-finder
 DTSTAMP:20260822T151919Z
 DTSTART:20261003T090000
@@ -4036,6 +3979,86 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (515) 480-2047\nEmail: n
  ess: 5191 Maple Dr suite n\, Pleasant Hill\, IA 50327\nSocials: facebook: 
  https://www.facebook.com/share/1Awrn1niH6/\nDashboard: https://arjunganesh
  2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-group-insurance-of-colorado-springs-colorado-springs-co@lead-finder
+DTSTAMP:20261009T195936Z
+DTSTART:20261209T180000
+DTEND:20261209T183000
+SUMMARY:Call lead: Premier Group Insurance of Colorado Springs (Colorado Sp
+ rings CO)
+LOCATION:634 S Academy Blvd\, Colorado Springs\, CO 80910
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (719) 368-6182\nEmail: n
+ ot found\nTier: Premium ($3\,500 build + $499/mo)\nScore: 84.5  |  No-webs
+ ite confidence: 92.0%  |  Buyer signal: 77\nAffordability: High earner - c
+ omfortably fits Premium\nNiche: insurance agency  |  City: Colorado Spring
+ s CO\nAddress: 634 S Academy Blvd\, Colorado Springs\, CO 80910\nSocials: 
+ yelp: https://www.yelp.com/biz/premier-group-insurance-of-colorado-springs
+ -colorado-springs\nDashboard: https://arjunganesh2011.github.io/lead-finde
+ r/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:loz-studio-jacksonville-fl@lead-finder
+DTSTAMP:20261009T195936Z
+DTSTART:20261210T090000
+DTEND:20261210T093000
+SUMMARY:Call lead: LOZ Studio (Jacksonville FL)
+LOCATION:8200 Cypress Plaza Dr #404\, Jacksonville\, FL 32256
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (904) 613-7909\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 68.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 45\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: photography studio  |  City: Jacksonville 
+ FL\nAddress: 8200 Cypress Plaza Dr #404\, Jacksonville\, FL 32256\nSocials
+ : yelp: https://www.yelp.com/biz/loz-studios-jacksonville\nDashboard: http
+ s://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bare-hvac-repair-detroit-detroit-mi@lead-finder
+DTSTAMP:20261009T195936Z
+DTSTART:20261210T150000
+DTEND:20261210T153000
+SUMMARY:Call lead: Bare HVAC Repair Detroit (Detroit MI)
+LOCATION:4257 Woodward Ave\, Detroit\, MI 48201
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (313) 261-2212\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: HVAC company  |  City: Detroit MI\nAddress: 4257
+  Woodward Ave\, Detroit\, MI 48201\nDashboard: https://arjunganesh2011.git
+ hub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:rose-s-sugarhouse-bakery-llc-shreveport-la@lead-finder
+DTSTAMP:20261009T195936Z
+DTSTART:20261210T180000
+DTEND:20261210T183000
+SUMMARY:Call lead: Rose's Sugarhouse Bakery\, LLC (Shreveport LA)
+LOCATION:Shreveport\, LA 71115
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (318) 458-0528\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 66.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: bakery  |  City: Shreveport LA\nAddress: S
+ hreveport\, LA 71115\nDashboard: https://arjunganesh2011.github.io/lead-fi
+ nder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
