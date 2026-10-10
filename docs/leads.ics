@@ -8,63 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:brad-sr22-insurance-agency-richmond-va@lead-finder
-DTSTAMP:20260822T151919Z
-DTSTART:20261003T090000
-DTEND:20261003T093000
-SUMMARY:Call lead: Brad SR22 Insurance Agency (Richmond VA)
-LOCATION:2920 W Broad St #184\, Richmond\, VA 23230
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (229) 252-4861\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
- od fit for Growth\nNiche: insurance agency  |  City: Richmond VA\nAddress:
-  2920 W Broad St #184\, Richmond\, VA 23230\nDashboard: https://arjunganes
- h2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:value-low-cost-auto-insurance-center-richmond-va@lead-finder
-DTSTAMP:20260822T151919Z
-DTSTART:20261003T150000
-DTEND:20261003T153000
-SUMMARY:Call lead: Value Low Cost Auto Insurance Center (Richmond VA)
-LOCATION:1111 E Main St #711\, Richmond\, VA 23219
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (743) 264-6166\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
- od fit for Growth\nNiche: insurance agency  |  City: Richmond VA\nAddress:
-  1111 E Main St #711\, Richmond\, VA 23219\nDashboard: https://arjunganesh
- 2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:garlux-garage-door-s-repairs-detroit-mi@lead-finder
-DTSTAMP:20260822T151919Z
-DTSTART:20261003T180000
-DTEND:20261003T183000
-SUMMARY:Call lead: Garlux Garage Door's Repairs (Detroit MI)
-LOCATION:2111 Woodward Ave\, Detroit\, MI 48201
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (313) 569-2225\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 64.5  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 49\nAffordability: Established - go
- od fit for Growth\nNiche: garage door company  |  City: Detroit MI\nAddres
- s: 2111 Woodward Ave\, Detroit\, MI 48201\nDashboard: https://arjunganesh2
- 011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:service-insurance-inc-richmond-va@lead-finder
 DTSTAMP:20260822T151919Z
 DTSTART:20261004T090000
@@ -4059,6 +4002,87 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (318) 458-0528\nEmail: n
   - best pitched Starter\nNiche: bakery  |  City: Shreveport LA\nAddress: S
  hreveport\, LA 71115\nDashboard: https://arjunganesh2011.github.io/lead-fi
  nder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:scott-s-finishing-touch-indianapolis-in@lead-finder
+DTSTAMP:20261010T190736Z
+DTSTART:20261211T090000
+DTEND:20261211T093000
+SUMMARY:Call lead: Scott's Finishing Touch (Indianapolis IN)
+LOCATION:8110 W 10th St\, Indianapolis\, IN 46214
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (317) 271-7771\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 80.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 69\nAffordability: Established - go
+ od fit for Growth\nNiche: auto detailing  |  City: Indianapolis IN\nAddres
+ s: 8110 W 10th St\, Indianapolis\, IN 46214\nSocials: yelp: https://www.ye
+ lp.com/biz/scotts-finishing-touch-avon | instagram: https://www.instagram.
+ com/scottsfinishingtouch/\nDashboard: https://arjunganesh2011.github.io/le
+ ad-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:henderson-bearded-barber-lounge-dallas-tx@lead-finder
+DTSTAMP:20261010T190736Z
+DTSTART:20261211T150000
+DTEND:20261211T153000
+SUMMARY:Call lead: HENDERSON BEARDED BARBER LOUNGE (Dallas TX)
+LOCATION:2332 N Henderson Ave\, Dallas\, TX 75206
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (972) 703-3967\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 77.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 63\nAffordability: Established - go
+ od fit for Growth\nNiche: barbershop  |  City: Dallas TX\nAddress: 2332 N 
+ Henderson Ave\, Dallas\, TX 75206\nSocials: yelp: https://www.yelp.com/sea
+ rch?find_desc=Barberia&find_loc=Dallas%2C+TX\nDashboard: https://arjungane
+ sh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:v-s-powerwash-restoration-grand-rapids-mi@lead-finder
+DTSTAMP:20261010T190736Z
+DTSTART:20261211T180000
+DTEND:20261211T183000
+SUMMARY:Call lead: V's PowerWash & Restoration (Grand Rapids MI)
+LOCATION:853 Ferris St NW\, Grand Rapids\, MI 49544
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (616) 514-4497\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 71.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 51\nAffordability: Established - go
+ od fit for Growth\nNiche: pressure washing  |  City: Grand Rapids MI\nAddr
+ ess: 853 Ferris St NW\, Grand Rapids\, MI 49544\nSocials: yelp: https://ww
+ w.yelp.com/biz/vs-powerwash-and-restoration-grand-rapids-2 | facebook: htt
+ ps://www.facebook.com/profile.php?id=100090406787683\nDashboard: https://a
+ rjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cleveland-appliance-repair-experts-cleveland-oh@lead-finder
+DTSTAMP:20261010T190736Z
+DTSTART:20261212T090000
+DTEND:20261212T093000
+SUMMARY:Call lead: Cleveland Appliance Repair Experts (Cleveland OH)
+LOCATION:12913 St Clair Ave.\, Cleveland\, OH 44108
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (216) 681-2524\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 58.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 37\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Cleveland OH\nA
+ ddress: 12913 St Clair Ave.\, Cleveland\, OH 44108\nDashboard: https://arj
+ unganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
