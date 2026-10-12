@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:safety-insurance-co-tucson-az@lead-finder
-DTSTAMP:20260823T152033Z
-DTSTART:20261005T090000
-DTEND:20261005T093000
-SUMMARY:Call lead: Safety Insurance Co (Tucson AZ)
-LOCATION:6818 N Oracle Rd\, Tucson\, AZ 85704
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (520) 645-3774\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
- od fit for Growth\nNiche: insurance agency  |  City: Tucson AZ\nAddress: 6
- 818 N Oracle Rd\, Tucson\, AZ 85704\nDashboard: https://arjunganesh2011.gi
- thub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:central-auto-insurance-tucson-tucson-az@lead-finder
-DTSTAMP:20260823T152033Z
-DTSTART:20261005T150000
-DTEND:20261005T153000
-SUMMARY:Call lead: Central Auto Insurance Tucson (Tucson AZ)
-LOCATION:267 W Flavia Pl\, Tucson\, AZ 85705
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (520) 844-8709\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
- od fit for Growth\nNiche: insurance agency  |  City: Tucson AZ\nAddress: 2
- 67 W Flavia Pl\, Tucson\, AZ 85705\nDashboard: https://arjunganesh2011.git
- hub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:taqueria-los-boxitos-springfield-mo@lead-finder
-DTSTAMP:20260823T152033Z
-DTSTART:20261005T180000
-DTEND:20261005T183000
-SUMMARY:Call lead: Taqueria Los Boxitos (Springfield MO)
-LOCATION:3250 W Chestnut Expy\, Springfield\, MO 65802
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (417) 812-4402\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 65.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: Springfield MO\nAddre
- ss: 3250 W Chestnut Expy\, Springfield\, MO 65802\nSocials: facebook: http
- s://www.facebook.com/p/Taqueria-Los-Boxitos-61556673103528/\nDashboard: ht
- tps://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:appliance-repair-technologies-buffalo-buffalo-ny@lead-finder
 DTSTAMP:20260823T152033Z
 DTSTART:20261006T090000
@@ -4125,6 +4067,63 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (817) 753-4320\nEmail: n
   - best pitched Starter\nNiche: appliance repair  |  City: Fort Worth TX\n
  Address: 339 Houston St\, Fort Worth\, TX 76102\nDashboard: https://arjung
  anesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:melvin-s-electric-richmond-va@lead-finder
+DTSTAMP:20261012T222343Z
+DTSTART:20261214T090000
+DTEND:20261214T093000
+SUMMARY:Call lead: Melvin's Electric (Richmond VA)
+LOCATION:7811 Iron Bridge Rd #1711\, Richmond\, VA 23237
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (804) 395-7746\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 77.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 62\nAffordability: Established - go
+ od fit for Growth\nNiche: electrician  |  City: Richmond VA\nAddress: 7811
+  Iron Bridge Rd #1711\, Richmond\, VA 23237\nDashboard: https://arjunganes
+ h2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:swiftquote-auto-insurance-advisors-minneapolis-mn@lead-finder
+DTSTAMP:20261012T222343Z
+DTSTART:20261214T150000
+DTEND:20261214T153000
+SUMMARY:Call lead: SwiftQuote Auto Insurance Advisors (Minneapolis MN)
+LOCATION:1229 Tyler St NE #298\, Minneapolis\, MN 55413
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (405) 374-6955\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Minneapolis MN\nAddre
+ ss: 1229 Tyler St NE #298\, Minneapolis\, MN 55413\nDashboard: https://arj
+ unganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:richmond-electrical-services-richmond-va@lead-finder
+DTSTAMP:20261012T222343Z
+DTSTART:20261214T180000
+DTEND:20261214T183000
+SUMMARY:Call lead: Richmond Electrical Services (Richmond VA)
+LOCATION:5321 Lakeside Ave\, Richmond\, VA 23228
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (804) 388-6464\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 64.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 37\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: electrician  |  City: Richmond VA\nAddress
+ : 5321 Lakeside Ave\, Richmond\, VA 23228\nDashboard: https://arjunganesh2
+ 011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
