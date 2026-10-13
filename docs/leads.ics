@@ -8,63 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:appliance-repair-technologies-buffalo-buffalo-ny@lead-finder
-DTSTAMP:20260823T152033Z
-DTSTART:20261006T090000
-DTEND:20261006T093000
-SUMMARY:Call lead: Appliance Repair Technologies Buffalo (Buffalo NY)
-LOCATION:495 Main St\, Buffalo\, NY 14203
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (716) 426-1020\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: appliance repair  |  City: Buffalo NY\nAdd
- ress: 495 Main St\, Buffalo\, NY 14203\nDashboard: https://arjunganesh2011
- .github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:taconmadres-mexican-food-food-truck-springfield-mo@lead-finder
-DTSTAMP:20260823T152033Z
-DTSTART:20261006T150000
-DTEND:20261006T153000
-SUMMARY:Call lead: TACONMADRES Mexican Food - Food Truck (Springfield MO)
-LOCATION:1201 S W Bypass\, Springfield\, MO 65807
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (417) 470-5562\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 57.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 34\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: Springfield MO\nAddre
- ss: 1201 S W Bypass\, Springfield\, MO 65807\nDashboard: https://arjungane
- sh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:family-discount-furniture-south-tampa-tampa-fl@lead-finder
-DTSTAMP:20260824T153806Z
-DTSTART:20261006T180000
-DTEND:20261006T183000
-SUMMARY:Call lead: Family Discount Furniture South Tampa (Tampa FL)
-LOCATION:3916 S Dale Mabry Hwy\, Tampa\, FL 33611
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (813) 499-0981\nEmail: n
- ot found\nTier: Premium ($3\,500 build + $499/mo)\nScore: 76.0  |  No-webs
- ite confidence: 80.0%  |  Buyer signal: 72\nAffordability: High earner - c
- omfortably fits Premium\nNiche: furniture store  |  City: Tampa FL\nAddres
- s: 3916 S Dale Mabry Hwy\, Tampa\, FL 33611\nDashboard: https://arjunganes
- h2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:david-c-hinton-cpa-pa-winston-salem-nc@lead-finder
 DTSTAMP:20260824T153806Z
 DTSTART:20261007T090000
@@ -4124,6 +4067,84 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (804) 388-6464\nEmail: n
   - best pitched Starter\nNiche: electrician  |  City: Richmond VA\nAddress
  : 5321 Lakeside Ave\, Richmond\, VA 23228\nDashboard: https://arjunganesh2
  011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ez-clean-carpet-cleaning-salt-lake-city-ut@lead-finder
+DTSTAMP:20261013T203007Z
+DTSTART:20261215T090000
+DTEND:20261215T093000
+SUMMARY:Call lead: EZ Clean Carpet Cleaning (Salt Lake City UT)
+LOCATION:3590 S 6400 W\, West Valley City\, UT 84128
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (385) 218-3192\nEmail: e
+ zcleanslc@gmail.com\nTier: Growth ($1\,800 build + $299/mo)\nScore: 73.0  
+ |  No-website confidence: 92.0%  |  Buyer signal: 54\nAffordability: Estab
+ lished - good fit for Growth\nNiche: carpet cleaning  |  City: Salt Lake C
+ ity UT\nAddress: 3590 S 6400 W\, West Valley City\, UT 84128\nSocials: yel
+ p: https://www.yelp.com/biz/ez-clean-carpet-cleaning-west-valley | faceboo
+ k: https://www.facebook.com/EZcleanSLC/\nDashboard: https://arjunganesh201
+ 1.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:patty-hustle-food-truck-fort-wayne-in@lead-finder
+DTSTAMP:20261013T203007Z
+DTSTART:20261215T150000
+DTEND:20261215T153000
+SUMMARY:Call lead: Patty Hustle food truck (Fort Wayne IN)
+LOCATION:13925 IN-14\, Fort Wayne\, IN 46814
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 56.5  |  No-website confidence
+ : 80.0%  |  Buyer signal: 33\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: food truck  |  City: Fort Wayne IN\nAddress: 13925 IN
+ -14\, Fort Wayne\, IN 46814\nDashboard: https://arjunganesh2011.github.io/
+ lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:noah-dayton-appliance-repair-dayton-oh@lead-finder
+DTSTAMP:20261013T203007Z
+DTSTART:20261215T180000
+DTEND:20261215T183000
+SUMMARY:Call lead: Noah Dayton Appliance Repair (Dayton OH)
+LOCATION:1 S Main St #800\, Dayton\, OH 45402
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (928) 437-5118\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 53.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 27\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Dayton OH\nAddr
+ ess: 1 S Main St #800\, Dayton\, OH 45402\nDashboard: https://arjunganesh2
+ 011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:desi-cravings-indian-food-truck-fort-wayne-in@lead-finder
+DTSTAMP:20261013T203007Z
+DTSTART:20261216T090000
+DTEND:20261216T093000
+SUMMARY:Call lead: Desi Cravings - Indian Food Truck (Fort Wayne IN)
+LOCATION:909 E Coliseum Blvd\, Fort Wayne\, IN 46805
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (260) 446-5648\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 52.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 24\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Fort Wayne IN\nAddres
+ s: 909 E Coliseum Blvd\, Fort Wayne\, IN 46805\nDashboard: https://arjunga
+ nesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
