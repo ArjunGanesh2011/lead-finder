@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:david-c-hinton-cpa-pa-winston-salem-nc@lead-finder
-DTSTAMP:20260824T153806Z
-DTSTART:20261007T090000
-DTEND:20261007T093000
-SUMMARY:Call lead: David C Hinton\, CPA PA (Winston-Salem NC)
-LOCATION:123 Fayette St NW\, Winston-Salem\, NC 27101
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (336) 724-4261\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 74.5  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 57\nAffordability: Established - go
- od fit for Growth\nNiche: accounting firm  |  City: Winston-Salem NC\nAddr
- ess: 123 Fayette St NW\, Winston-Salem\, NC 27101\nDashboard: https://arju
- nganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:integrity-painting-llc-lexington-ky@lead-finder
-DTSTAMP:20260824T153806Z
-DTSTART:20261007T150000
-DTEND:20261007T153000
-SUMMARY:Call lead: Integrity Painting LLC (Lexington KY)
-LOCATION:508 W Maple St\, Nicholasville\, KY 40356
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (859) 953-8571\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 67.5  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 55\nAffordability: Established - go
- od fit for Growth\nNiche: painting company  |  City: Lexington KY\nAddress
- : 508 W Maple St\, Nicholasville\, KY 40356\nSocials: facebook: https://ww
- w.facebook.com/profile.php?id=100091585840924\nDashboard: https://arjungan
- esh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:aletacos-food-truck-san-diego-ca@lead-finder
-DTSTAMP:20260824T153806Z
-DTSTART:20261007T180000
-DTEND:20261007T183000
-SUMMARY:Call lead: Aletacos food truck (San Diego CA)
-LOCATION:8455 Commerce Ave\, San Diego\, CA 92121
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (619) 735-6291\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 57.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 34\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: San Diego CA\nAddress
- : 8455 Commerce Ave\, San Diego\, CA 92121\nDashboard: https://arjunganesh
- 2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:foodtruck-loncheria-aletacos-san-diego-ca@lead-finder
 DTSTAMP:20260824T153806Z
 DTSTART:20261008T090000
@@ -4145,6 +4087,85 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (260) 446-5648\nEmail: n
   - best pitched Starter\nNiche: food truck  |  City: Fort Wayne IN\nAddres
  s: 909 E Coliseum Blvd\, Fort Wayne\, IN 46805\nDashboard: https://arjunga
  nesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:quannies-quality-pet-grooming-llc-lexington-ky@lead-finder
+DTSTAMP:20261014T191052Z
+DTSTART:20261216T150000
+DTEND:20261216T153000
+SUMMARY:Call lead: Quannies Quality Pet Grooming LLC (Lexington KY)
+LOCATION:169 E Reynolds Rd Ste 100 c\, Lexington\, KY 40517
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (859) 436-7776\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 70.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 48\nAffordability: Established - go
+ od fit for Growth\nNiche: dog grooming  |  City: Lexington KY\nAddress: 16
+ 9 E Reynolds Rd Ste 100 c\, Lexington\, KY 40517\nDashboard: https://arjun
+ ganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-junk-removal-dumpster-rental-detroit-mi@lead-finder
+DTSTAMP:20261014T191052Z
+DTSTART:20261216T180000
+DTEND:20261216T183000
+SUMMARY:Call lead: MICHIGAN JUNK REMOVAL & DUMPSTER RENTAL (Detroit MI)
+LOCATION:6103 Wayne Rd\, Romulus\, MI 48174
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (734) 934-2019\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: junk removal  |  City: Detroit MI\nAddress: 6103
+  Wayne Rd\, Romulus\, MI 48174\nDashboard: https://arjunganesh2011.github.
+ io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:stephanie-s-colors-gift-shop-greensboro-nc@lead-finder
+DTSTAMP:20261014T191052Z
+DTSTART:20261217T090000
+DTEND:20261217T093000
+SUMMARY:Call lead: Stephanie's Colors Gift shop (Greensboro NC)
+LOCATION:Town Center\, 410 Four Seasons Blvd store 120\, Greensboro\, NC 27
+ 407
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 58.0  |  No-website confidence
+ : 80.0%  |  Buyer signal: 36\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: gift shop  |  City: Greensboro NC\nAddress: Town Cent
+ er\, 410 Four Seasons Blvd store 120\, Greensboro\, NC 27407\nSocials: ins
+ tagram: https://www.instagram.com/steph_colors/\nDashboard: https://arjung
+ anesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flamingo-rd-co-boutique-gift-shop-greensboro-nc@lead-finder
+DTSTAMP:20261014T191052Z
+DTSTART:20261217T150000
+DTEND:20261217T153000
+SUMMARY:Call lead: Flamingo Rd & Co - Boutique & Gift Shop (Greensboro NC)
+LOCATION:5828 N Church St ste d\, Greensboro\, NC 27455
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (336) 441-2700\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 56.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 33\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: gift shop  |  City: Greensboro NC\nAddress
+ : 5828 N Church St ste d\, Greensboro\, NC 27455\nSocials: facebook: https
+ ://www.facebook.com/profile/php?I'd=61572628809285\nDashboard: https://arj
+ unganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
