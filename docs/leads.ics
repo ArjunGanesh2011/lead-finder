@@ -8,65 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:foodtruck-loncheria-aletacos-san-diego-ca@lead-finder
-DTSTAMP:20260824T153806Z
-DTSTART:20261008T090000
-DTEND:20261008T093000
-SUMMARY:Call lead: Foodtruck | Loncheria Aletacos (San Diego CA)
-LOCATION:5300 Kearny Villa Way\, San Diego\, CA 92123
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (619) 560-2469\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 57.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 34\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: San Diego CA\nAddress
- : 5300 Kearny Villa Way\, San Diego\, CA 92123\nDashboard: https://arjunga
- nesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mark-aut-o-insu-rance-broom-new-orleans-la@lead-finder
-DTSTAMP:20260825T154038Z
-DTSTART:20261008T150000
-DTEND:20261008T153000
-SUMMARY:Call lead: Mark & Aut-o Insu-rance Broom (New Orleans LA)
-LOCATION:3161 Gentilly Blvd\, New Orleans\, LA 70122
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (504) 238-3288\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.5  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 57\nAffordability: Established - go
- od fit for Growth\nNiche: insurance agency  |  City: New Orleans LA\nAddre
- ss: 3161 Gentilly Blvd\, New Orleans\, LA 70122\nDashboard: https://arjung
- anesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:infinity-rosas-fort-worth-tx@lead-finder
-DTSTAMP:20260825T154038Z
-DTSTART:20261008T180000
-DTEND:20261008T183000
-SUMMARY:Call lead: Infinity Rosas (Fort Worth TX)
-LOCATION:2620 NW 22nd St suite100\, Fort Worth\, TX 76106
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (817) 448-7035\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 66.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: florist  |  City: Fort Worth TX\nAddress: 
- 2620 NW 22nd St suite100\, Fort Worth\, TX 76106\nSocials: facebook: https
- ://www.facebook.com/565144660025831 | instagram: https://www.instagram.com
- /infinityrosassindy/reel/DNtkurC0mfd/\nDashboard: https://arjunganesh2011.
- github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:dynamic-express-carpet-cleaning-service-detroit-mi@lead-finder
 DTSTAMP:20260825T154038Z
 DTSTART:20261009T090000
@@ -4166,6 +4107,26 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (336) 441-2700\nEmail: n
  : 5828 N Church St ste d\, Greensboro\, NC 27455\nSocials: facebook: https
  ://www.facebook.com/profile/php?I'd=61572628809285\nDashboard: https://arj
  unganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:house-of-dreams-boutique-de-quincea-eras-memphis-tn@lead-finder
+DTSTAMP:20261015T185307Z
+DTSTART:20261217T180000
+DTEND:20261217T183000
+SUMMARY:Call lead: House of Dreams/ Boutique de Quinceañeras (Memphis TN)
+LOCATION:4352 Stage Rd Ste 2\, Memphis\, TN 38128
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (901) 644-8226\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 68.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 44\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: bridal shop  |  City: Memphis TN\nAddress:
+  4352 Stage Rd Ste 2\, Memphis\, TN 38128\nSocials: instagram: https://www
+ .instagram.com/popular/house-of-dreams-boutique-de-quincea%C3%B1eras-photo
+ s/\nDashboard: https://arjunganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead

@@ -1,10 +1,38 @@
 {
-  "generated": "2026-10-14T19:10:52.816895+00:00",
+  "generated": "2026-10-15T18:53:07.020894+00:00",
   "count": 300,
-  "new_today": 4,
-  "queries_used_this_month": 420,
+  "new_today": 1,
+  "queries_used_this_month": 450,
   "query_budget": 950,
   "leads": [
+    {
+      "business_name": "House of Dreams/ Boutique de Quincea\u00f1eras",
+      "niche": "bridal shop",
+      "city": "Memphis TN",
+      "slug": "house-of-dreams-boutique-de-quincea-eras-memphis-tn",
+      "phone": "(901) 644-8226",
+      "email": null,
+      "contact_name": null,
+      "instagram": "https://www.instagram.com/popular/house-of-dreams-boutique-de-quincea%C3%B1eras-photos/",
+      "address": "4352 Stage Rd Ste 2, Memphis, TN 38128",
+      "maps_url": "https://maps.google.com/?cid=7211281681948311525&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.6,
+      "review_count": 37,
+      "description": "Welcome back to Instagram. Sign in to see what your friends, family and interests have been capturing and sharing around the world.",
+      "socials": {
+        "instagram": "https://www.instagram.com/popular/house-of-dreams-boutique-de-quincea%C3%B1eras-photos/"
+      },
+      "no_website_confidence": 92.0,
+      "buyer_signal_score": 44,
+      "affordability": "Lean / early-stage - best pitched Starter",
+      "overall_score": 68.0,
+      "suggested_tier": "Starter",
+      "suggested_price": "$800 build + $150/mo",
+      "added": "2026-10-15",
+      "logo_image": null,
+      "palette": null,
+      "prompt_file": "prompts/house-of-dreams-boutique-de-quincea-eras-memphis-tn.md"
+    },
     {
       "business_name": "Quannies Quality Pet Grooming LLC",
       "niche": "dog grooming",
@@ -8054,34 +8082,6 @@
       "logo_image": null,
       "palette": null,
       "prompt_file": "prompts/orlando-hvac-air-conditioning-orlando-fl.md"
-    },
-    {
-      "business_name": "LoneStar Automotive",
-      "niche": "auto repair shop",
-      "city": "El Paso TX",
-      "slug": "lonestar-automotive-el-paso-tx",
-      "phone": "(915) 234-7989",
-      "email": null,
-      "contact_name": null,
-      "instagram": null,
-      "address": "900 Hawkins A #1, El Paso, TX 79915",
-      "maps_url": "https://maps.google.com/?cid=9893232550824725304&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "rating": 4.9,
-      "review_count": 73,
-      "description": "Read 50 customer reviews of LoneStar Automotive, one of the best Automotive businesses at 900 Hawkins A #1, El Paso, TX 79915 United States. Find reviews, ratings, directions, business hours, and book appointments online.",
-      "socials": {
-        "yelp": "https://www.yelp.com/biz/lonestar-automotive-dallas"
-      },
-      "no_website_confidence": 92.0,
-      "buyer_signal_score": 60,
-      "affordability": "Established - good fit for Growth",
-      "overall_score": 76.0,
-      "suggested_tier": "Growth",
-      "suggested_price": "$1,800 build + $299/mo",
-      "added": "2026-08-04",
-      "logo_image": null,
-      "palette": null,
-      "prompt_file": "prompts/lonestar-automotive-el-paso-tx.md"
     }
   ]
 }
