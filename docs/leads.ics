@@ -8,63 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dynamic-express-carpet-cleaning-service-detroit-mi@lead-finder
-DTSTAMP:20260825T154038Z
-DTSTART:20261009T090000
-DTEND:20261009T093000
-SUMMARY:Call lead: Dynamic Express Carpet Cleaning Service (Detroit MI)
-LOCATION:15094 Hubbell Ave\, Detroit\, MI 48227
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (586) 404-2325\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 35\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: carpet cleaning  |  City: Detroit MI\nAddr
- ess: 15094 Hubbell Ave\, Detroit\, MI 48227\nDashboard: https://arjunganes
- h2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:the-man-cometh-greensboro-nc@lead-finder
-DTSTAMP:20260825T154038Z
-DTSTART:20261009T150000
-DTEND:20261009T153000
-SUMMARY:Call lead: The Man Cometh (Greensboro NC)
-LOCATION:2726 McConnell Rd Unit d\, Greensboro\, NC 27401
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (984) 244-1180\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 59.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 38\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: window cleaning  |  City: Greensboro NC\nA
- ddress: 2726 McConnell Rd Unit d\, Greensboro\, NC 27401\nDashboard: https
- ://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:elevated-styles-ink-sacramento-ca@lead-finder
-DTSTAMP:20260825T154038Z
-DTSTART:20261009T180000
-DTEND:20261009T183000
-SUMMARY:Call lead: Elevated styles Ink (Sacramento CA)
-LOCATION:1810 Del Paso Blvd Ste b\, Sacramento\, CA 95815
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (916) 203-1546\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 51.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 22\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: tattoo shop  |  City: Sacramento CA\nAddre
- ss: 1810 Del Paso Blvd Ste b\, Sacramento\, CA 95815\nDashboard: https://a
- rjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:de-la-guaira-food-truck-orlando-fl@lead-finder
 DTSTAMP:20260826T161649Z
 DTSTART:20261010T090000
@@ -4127,6 +4070,46 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (901) 644-8226\nEmail: n
   4352 Stage Rd Ste 2\, Memphis\, TN 38128\nSocials: instagram: https://www
  .instagram.com/popular/house-of-dreams-boutique-de-quincea%C3%B1eras-photo
  s/\nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bowlin-accounting-payroll-llc-shreveport-la@lead-finder
+DTSTAMP:20261016T183732Z
+DTSTART:20261218T090000
+DTEND:20261218T093000
+SUMMARY:Call lead: Bowlin Accounting & Payroll LLC (Shreveport LA)
+LOCATION:12026 Mansfield Rd\, Keithville\, LA 71047
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (318) 655-3049\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 64.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 49\nAffordability: Established - go
+ od fit for Growth\nNiche: bookkeeping service  |  City: Shreveport LA\nAdd
+ ress: 12026 Mansfield Rd\, Keithville\, LA 71047\nSocials: facebook: https
+ ://www.facebook.com/share/1CFAJt2Ucq/?mibextid=wwXIfr\nDashboard: https://
+ arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:grace-professional-service-shreveport-la@lead-finder
+DTSTAMP:20261016T183732Z
+DTSTART:20261218T150000
+DTEND:20261218T153000
+SUMMARY:Call lead: Grace Professional Service (Shreveport LA)
+LOCATION:9314 Normandie Dr\, Shreveport\, LA 71118
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (318) 562-3596\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 32\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: bookkeeping service  |  City: Shreveport L
+ A\nAddress: 9314 Normandie Dr\, Shreveport\, LA 71118\nSocials: facebook: 
+ https://www.facebook.com/GRACEBookkeepingNotary/\nDashboard: https://arjun
+ ganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
