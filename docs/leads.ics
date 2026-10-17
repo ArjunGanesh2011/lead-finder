@@ -8,47 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:de-la-guaira-food-truck-orlando-fl@lead-finder
-DTSTAMP:20260826T161649Z
-DTSTART:20261010T090000
-DTEND:20261010T093000
-SUMMARY:Call lead: De la Guaira Food Truck (Orlando FL)
-LOCATION:10473 Moss Park Rd\, Orlando\, FL 32832
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (954) 380-0513\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 34\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: Orlando FL\nAddress: 
- 10473 Moss Park Rd\, Orlando\, FL 32832\nSocials: facebook: https://www.fa
- cebook.com/61580571196220/ | instagram: https://www.instagram.com/delaguai
- rafoodtruck/ | tiktok: https://www.tiktok.com/@delaguairafoodtruck\nDashbo
- ard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:sealections-virginia-beach-va@lead-finder
-DTSTAMP:20260826T161649Z
-DTSTART:20261010T150000
-DTEND:20261010T153000
-SUMMARY:Call lead: SeaLections (Virginia Beach VA)
-LOCATION:2545 Sandpiper Rd\, Virginia Beach\, VA 23456
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (757) 426-0625\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 30\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: gift shop  |  City: Virginia Beach VA\nAdd
- ress: 2545 Sandpiper Rd\, Virginia Beach\, VA 23456\nSocials: facebook: ht
- tps://www.facebook.com/sealections/\nDashboard: https://arjunganesh2011.gi
- thub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:franco-food-truck-orlando-fl@lead-finder
 DTSTAMP:20260826T161649Z
 DTSTART:20261010T180000
@@ -4110,6 +4069,85 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (318) 562-3596\nEmail: n
  A\nAddress: 9314 Normandie Dr\, Shreveport\, LA 71118\nSocials: facebook: 
  https://www.facebook.com/GRACEBookkeepingNotary/\nDashboard: https://arjun
  ganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:stp-images-photography-studio-houston-tx@lead-finder
+DTSTAMP:20261017T174544Z
+DTSTART:20261218T180000
+DTEND:20261218T183000
+SUMMARY:Call lead: STP Images Photography Studio (Houston TX)
+LOCATION:3420 Rusk St #16\, Houston\, TX 77003
+DESCRIPTION:Contact: Todd Parker\nPhone: n/a\nEmail: todd@stpimages.com\nTi
+ er: Growth ($1\,800 build + $299/mo)\nScore: 74.5  |  No-website confidenc
+ e: 92.0%  |  Buyer signal: 57\nAffordability: Established - good fit for G
+ rowth\nNiche: photography studio  |  City: Houston TX\nAddress: 3420 Rusk 
+ St #16\, Houston\, TX 77003\nSocials: yelp: https://www.yelp.com/biz/stp-i
+ mages-photography-studio-houston-3 | facebook: https://www.facebook.com/st
+ pimagesphotographystudio/\nDashboard: https://arjunganesh2011.github.io/le
+ ad-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:rope-and-rig-tree-removal-llc-mobile-al@lead-finder
+DTSTAMP:20261017T174544Z
+DTSTART:20261219T090000
+DTEND:20261219T093000
+SUMMARY:Call lead: Rope and Rig Tree Removal LLC (Mobile AL)
+LOCATION:3912 Bayfront Rd\, Mobile\, AL 36605
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (251) 307-4497\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 69.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 47\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: tree service  |  City: Mobile AL\nAddress:
+  3912 Bayfront Rd\, Mobile\, AL 36605\nSocials: facebook: https://www.face
+ book.com/p/Rope-and-Rig-Tree-Removal-LLC-61583414370113/\nDashboard: https
+ ://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:detroit-low-cost-auto-insurance-group-detroit-mi@lead-finder
+DTSTAMP:20261017T174544Z
+DTSTART:20261219T150000
+DTEND:20261219T153000
+SUMMARY:Call lead: Detroit Low Cost Auto Insurance Group (Detroit MI)
+LOCATION:11000 W McNichols Rd\, Detroit\, MI 48221
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (816) 300-8728\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Detroit MI\nAddress: 
+ 11000 W McNichols Rd\, Detroit\, MI 48221\nDashboard: https://arjunganesh2
+ 011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bradsen-low-cost-auto-insurance-detroit-mi@lead-finder
+DTSTAMP:20261017T174544Z
+DTSTART:20261219T180000
+DTEND:20261219T183000
+SUMMARY:Call lead: Bradsen Low Cost Auto Insurance (Detroit MI)
+LOCATION:7310 Woodward Ave #386\, Detroit\, MI 48202
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (657) 656-3877\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Detroit MI\nAddress: 
+ 7310 Woodward Ave #386\, Detroit\, MI 48202\nDashboard: https://arjunganes
+ h2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
