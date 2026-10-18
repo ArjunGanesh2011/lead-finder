@@ -8,63 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:franco-food-truck-orlando-fl@lead-finder
-DTSTAMP:20260826T161649Z
-DTSTART:20261010T180000
-DTEND:20261010T183000
-SUMMARY:Call lead: FRANCO FOOD TRUCK (Orlando FL)
-LOCATION:601 W Taft Vineland Rd\, Orlando\, FL 32824
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (904) 994-7253\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: Orlando FL\nAddress: 
- 601 W Taft Vineland Rd\, Orlando\, FL 32824\nDashboard: https://arjunganes
- h2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:hda-window-cleaning-el-paso-tx-el-paso-tx@lead-finder
-DTSTAMP:20260826T161649Z
-DTSTART:20261011T090000
-DTEND:20261011T093000
-SUMMARY:Call lead: HDA Window cleaning El Paso tx (El Paso TX)
-LOCATION:4017 Tierra Eva Pl\, El Paso\, TX 79938
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (915) 282-5705\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 51.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 22\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: window cleaning  |  City: El Paso TX\nAddr
- ess: 4017 Tierra Eva Pl\, El Paso\, TX 79938\nDashboard: https://arjungane
- sh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:juan-elegant-barbershop-tampa-fl@lead-finder
-DTSTAMP:20260828T001441Z
-DTSTART:20261011T150000
-DTEND:20261011T153000
-SUMMARY:Call lead: Juan Elegant Barbershop (Tampa FL)
-LOCATION:1201 W Hillsborough Ave\, Tampa\, FL 33603
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (813) 875-7077\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 74.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 68\nAffordability: Established - go
- od fit for Growth\nNiche: barbershop  |  City: Tampa FL\nAddress: 1201 W H
- illsborough Ave\, Tampa\, FL 33603\nDashboard: https://arjunganesh2011.git
- hub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:sonic-power-washing-minneapolis-mn@lead-finder
 DTSTAMP:20260828T001441Z
 DTSTART:20261011T180000
@@ -4148,6 +4091,124 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (657) 656-3877\nEmail: n
  od fit for Growth\nNiche: insurance agency  |  City: Detroit MI\nAddress: 
  7310 Woodward Ave #386\, Detroit\, MI 48202\nDashboard: https://arjunganes
  h2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nails-narrows-nail-salon-birmingham-al-birmingham-al@lead-finder
+DTSTAMP:20261018T175057Z
+DTSTART:20261220T090000
+DTEND:20261220T093000
+SUMMARY:Call lead: Nails @ Narrows Nail Salon Birmingham AL (Birmingham AL)
+LOCATION:13521 Old Hwy 280 #137\, Birmingham\, AL 35242
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (205) 593-4374\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 77.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 62\nAffordability: Established - go
+ od fit for Growth\nNiche: nail salon  |  City: Birmingham AL\nAddress: 135
+ 21 Old Hwy 280 #137\, Birmingham\, AL 35242\nSocials: instagram: https://w
+ ww.instagram.com/popular/nails-narrows-nail-salon-birmingham-al/\nDashboar
+ d: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:franko-fadezz-sacramento-ca@lead-finder
+DTSTAMP:20261018T175057Z
+DTSTART:20261220T150000
+DTEND:20261220T153000
+SUMMARY:Call lead: Franko Fadezz (Sacramento CA)
+LOCATION:283 Arden Wy\, Sacramento\, CA 95815
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (916) 696-0881\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 71.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 50\nAffordability: Established - go
+ od fit for Growth\nNiche: barbershop  |  City: Sacramento CA\nAddress: 283
+  Arden Wy\, Sacramento\, CA 95815\nSocials: instagram: https://www.instagr
+ am.com/franko.fadezz/\nDashboard: https://arjunganesh2011.github.io/lead-f
+ inder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:travis-mobile-powerwash-llc-springfield-mo@lead-finder
+DTSTAMP:20261018T175057Z
+DTSTART:20261220T180000
+DTEND:20261220T183000
+SUMMARY:Call lead: Travis Mobile Powerwash LLC (Springfield MO)
+LOCATION:N Farm Rd 127\, Springfield\, MO 65803
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (417) 833-7858\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 66.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: pressure washing  |  City: Springfield MO\
+ nAddress: N Farm Rd 127\, Springfield\, MO 65803\nSocials: facebook: https
+ ://www.facebook.com/TravisMobilePowerwash | instagram: https://www.instagr
+ am.com/travismobilepowerwash/\nDashboard: https://arjunganesh2011.github.i
+ o/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:v-allure-boutique-seattle-wa@lead-finder
+DTSTAMP:20261018T175057Z
+DTSTART:20261221T090000
+DTEND:20261221T093000
+SUMMARY:Call lead: V'Allure Boutique (Seattle WA)
+LOCATION:5512 20th Ave NW\, Seattle\, WA 98107
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (206) 257-9793\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 66.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: boutique  |  City: Seattle WA\nAddress: 55
+ 12 20th Ave NW\, Seattle\, WA 98107\nDashboard: https://arjunganesh2011.gi
+ thub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:elitefix-appliance-repair-service-nashville-tn@lead-finder
+DTSTAMP:20261018T175057Z
+DTSTART:20261221T150000
+DTEND:20261221T153000
+SUMMARY:Call lead: EliteFix Appliance Repair Service (Nashville TN)
+LOCATION:2616 Brick Church Pike\, Nashville\, TN 37207
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (615) 601-3223\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 44\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Nashville TN\nA
+ ddress: 2616 Brick Church Pike\, Nashville\, TN 37207\nDashboard: https://
+ arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:harding-appliance-repair-solution-nashville-tn@lead-finder
+DTSTAMP:20261018T175057Z
+DTSTART:20261221T180000
+DTEND:20261221T183000
+SUMMARY:Call lead: Harding Appliance Repair Solution (Nashville TN)
+LOCATION:107 Heady Dr\, Nashville\, TN 37205
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website confidence
+ : 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: appliance repair  |  City: Nashville TN\nAddress: 107
+  Heady Dr\, Nashville\, TN 37205\nDashboard: https://arjunganesh2011.githu
+ b.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
