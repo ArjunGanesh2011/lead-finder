@@ -8,88 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:sonic-power-washing-minneapolis-mn@lead-finder
-DTSTAMP:20260828T001441Z
-DTSTART:20261011T180000
-DTEND:20261011T183000
-SUMMARY:Call lead: Sonic Power Washing (Minneapolis MN)
-LOCATION:6460 Oxford St\, St Louis Park\, MN 55426
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (612) 324-5819\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 71.5  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 51\nAffordability: Established - go
- od fit for Growth\nNiche: pressure washing  |  City: Minneapolis MN\nAddre
- ss: 6460 Oxford St\, St Louis Park\, MN 55426\nSocials: yelp: https://www.
- yelp.com/biz/sonic-power-washing-saint-louis-park\nDashboard: https://arju
- nganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pereira-flooring-llc-flooring-installation-in-new-orleans-la-new-orleans-la@lead-finder
-DTSTAMP:20260828T001441Z
-DTSTART:20261012T090000
-DTEND:20261012T093000
-SUMMARY:Call lead: Pereira Flooring llc flooring installation in New Orlean
- s la (New Orleans LA)
-LOCATION:3507 Meadow Park Ln\, New Orleans\, LA 70131
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (504) 201-9025\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 66.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 52\nAffordability: Established - go
- od fit for Growth\nNiche: flooring company  |  City: New Orleans LA\nAddre
- ss: 3507 Meadow Park Ln\, New Orleans\, LA 70131\nSocials: instagram: http
- s://www.instagram.com/pereiraflooring?igsh=MWVsOWw1ZnczMWcyeg%3D%3D&utm_so
- urce=qr\nDashboard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:el-taconazo-food-truck-winston-salem-nc@lead-finder
-DTSTAMP:20260828T001441Z
-DTSTART:20261012T150000
-DTEND:20261012T153000
-SUMMARY:Call lead: El Taconazo Food Truck (Winston-Salem NC)
-LOCATION:6116 University Pkwy\, Winston-Salem\, NC 27105
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (336) 582-8956\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 64.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 36\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: Winston-Salem NC\nAdd
- ress: 6116 University Pkwy\, Winston-Salem\, NC 27105\nSocials: instagram:
-  https://www.instagram.com/explore/locations/834649583411647/tacos-el-taco
- nazo-food-truck/ | facebook: https://www.facebook.com/p/Tacos-el-Taconazo-
- Food-Truck-100057652561747/\nDashboard: https://arjunganesh2011.github.io/
- lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:tacos-ponchis-food-truck-winston-salem-nc@lead-finder
-DTSTAMP:20260828T001441Z
-DTSTART:20261012T180000
-DTEND:20261012T183000
-SUMMARY:Call lead: TACOS PONCHIS FOOD TRUCK (Winston-Salem NC)
-LOCATION:By-Lo Citgo\, 4000 Country Club Rd\, Winston-Salem\, NC 27104
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (336) 775-9784\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 29\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: Winston-Salem NC\nAdd
- ress: By-Lo Citgo\, 4000 Country Club Rd\, Winston-Salem\, NC 27104\nDashb
- oard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:la-chingada-taqueria-foodtruck-winston-salem-nc@lead-finder
 DTSTAMP:20260828T001441Z
 DTSTART:20261013T090000
@@ -4209,6 +4127,84 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
  ched Starter\nNiche: appliance repair  |  City: Nashville TN\nAddress: 107
   Heady Dr\, Nashville\, TN 37205\nDashboard: https://arjunganesh2011.githu
  b.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:saint-lux-barber-studio-edgemere-el-paso-tx@lead-finder
+DTSTAMP:20261019T202239Z
+DTSTART:20261222T090000
+DTEND:20261222T093000
+SUMMARY:Call lead: Saint Lux Barber Studio Edgemere (El Paso TX)
+LOCATION:15000 Edgemere Blvd\, El Paso\, TX 79938
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (915) 336-5974\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 78.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 65\nAffordability: Established - go
+ od fit for Growth\nNiche: barbershop  |  City: El Paso TX\nAddress: 15000 
+ Edgemere Blvd\, El Paso\, TX 79938\nDashboard: https://arjunganesh2011.git
+ hub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:thy-kingdom-barbershop-el-paso-tx@lead-finder
+DTSTAMP:20261019T202239Z
+DTSTART:20261222T150000
+DTEND:20261222T153000
+SUMMARY:Call lead: Thy Kingdom Barbershop (El Paso TX)
+LOCATION:8402 Alameda Ave\, El Paso\, TX 79907
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (915) 271-1331\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 76.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 60\nAffordability: Established - go
+ od fit for Growth\nNiche: barbershop  |  City: El Paso TX\nAddress: 8402 A
+ lameda Ave\, El Paso\, TX 79907\nDashboard: https://arjunganesh2011.github
+ .io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:spotless-cleaning-services-336-llc-winston-salem-nc@lead-finder
+DTSTAMP:20261019T202239Z
+DTSTART:20261222T180000
+DTEND:20261222T183000
+SUMMARY:Call lead: Spotless cleaning services 336 llc (Winston-Salem NC)
+LOCATION:500 W 5th St\, Winston-Salem\, NC 27101
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (336) 682-6306\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 75.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 58\nAffordability: Established - go
+ od fit for Growth\nNiche: carpet cleaning  |  City: Winston-Salem NC\nAddr
+ ess: 500 W 5th St\, Winston-Salem\, NC 27101\nDashboard: https://arjungane
+ sh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-physical-therapy-shreveport-la@lead-finder
+DTSTAMP:20261019T202239Z
+DTSTART:20261223T090000
+DTEND:20261223T093000
+SUMMARY:Call lead: Edge Physical Therapy (Shreveport LA)
+LOCATION:727 American Way\, Shreveport\, LA 71106
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (318) 841-0696\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 72.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 52\nAffordability: Established - go
+ od fit for Growth\nNiche: physical therapy clinic  |  City: Shreveport LA\
+ nAddress: 727 American Way\, Shreveport\, LA 71106\nSocials: facebook: htt
+ ps://www.facebook.com/edgephysicaltherapy/ | yelp: https://www.yelp.com/bi
+ z/the-edge-physical-therapy-shreveport\nDashboard: https://arjunganesh2011
+ .github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
