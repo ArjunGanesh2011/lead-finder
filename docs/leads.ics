@@ -8,65 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:la-chingada-taqueria-foodtruck-winston-salem-nc@lead-finder
-DTSTAMP:20260828T001441Z
-DTSTART:20261013T090000
-DTEND:20261013T093000
-SUMMARY:Call lead: LA CHINGADA TAQUERIA FOODTRUCK (Winston-Salem NC)
-LOCATION:1450 Lumber Ln\, Winston-Salem\, NC 27127
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (336) 934-0152\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 56.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 33\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: Winston-Salem NC\nAdd
- ress: 1450 Lumber Ln\, Winston-Salem\, NC 27127\nDashboard: https://arjung
- anesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:the-art-of-men-s-grooming-toledo-oh@lead-finder
-DTSTAMP:20260828T235227Z
-DTSTART:20261013T150000
-DTEND:20261013T153000
-SUMMARY:Call lead: The Art of Men's Grooming (Toledo OH)
-LOCATION:6725 Central Ave Suite KK\, Toledo\, OH 43617
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (419) 405-5775\nEmail: t
- heartofmensgrooming@outlook.com\nTier: Growth ($1\,800 build + $299/mo)\nS
- core: 76.0  |  No-website confidence: 92.0%  |  Buyer signal: 60\nAffordab
- ility: Established - good fit for Growth\nNiche: barbershop  |  City: Tole
- do OH\nAddress: 6725 Central Ave Suite KK\, Toledo\, OH 43617\nSocials: fa
- cebook: https://www.facebook.com/TheArtOfMensGrooming/ | yelp: https://www
- .yelp.com/biz/the-art-of-mens-grooming-toledo\nDashboard: https://arjungan
- esh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:best-insurance-grand-rapids-grand-rapids-mi@lead-finder
-DTSTAMP:20260828T235227Z
-DTSTART:20261013T180000
-DTEND:20261013T183000
-SUMMARY:Call lead: Best Insurance Grand Rapids (Grand Rapids MI)
-LOCATION:1361 Emerald Ave NE\, Grand Rapids\, MI 49505
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (616) 319-2624\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
- od fit for Growth\nNiche: insurance agency  |  City: Grand Rapids MI\nAddr
- ess: 1361 Emerald Ave NE\, Grand Rapids\, MI 49505\nDashboard: https://arj
- unganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:philly-blendz-toledo-line-up-and-beard-specialist-toledo-oh@lead-finder
 DTSTAMP:20260828T235227Z
 DTSTART:20261014T090000
@@ -4205,6 +4146,25 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (318) 841-0696\nEmail: n
  ps://www.facebook.com/edgephysicaltherapy/ | yelp: https://www.yelp.com/bi
  z/the-edge-physical-therapy-shreveport\nDashboard: https://arjunganesh2011
  .github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-adam-shop-toledo-oh@lead-finder
+DTSTAMP:20261020T185547Z
+DTSTART:20261223T150000
+DTEND:20261223T153000
+SUMMARY:Call lead: The Adam Shop (Toledo OH)
+LOCATION:1236 N Detroit Ave Unit D\, Toledo\, OH 43607
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 58.0  |  No-website confidence
+ : 80.0%  |  Buyer signal: 36\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: gift shop  |  City: Toledo OH\nAddress: 1236 N Detroi
+ t Ave Unit D\, Toledo\, OH 43607\nDashboard: https://arjunganesh2011.githu
+ b.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
