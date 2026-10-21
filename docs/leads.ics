@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:philly-blendz-toledo-line-up-and-beard-specialist-toledo-oh@lead-finder
-DTSTAMP:20260828T235227Z
-DTSTART:20261014T090000
-DTEND:20261014T093000
-SUMMARY:Call lead: Philly Blendz | Toledo Line Up And Beard Specialist (Tol
- edo OH)
-LOCATION:3501 Upton Ave\, Toledo\, OH 43613
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (419) 913-9504\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 67.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 42\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: barbershop  |  City: Toledo OH\nAddress: 3
- 501 Upton Ave\, Toledo\, OH 43613\nDashboard: https://arjunganesh2011.gith
- ub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:grand-rapids-health-insurance-agency-grand-rapids-mi@lead-finder
-DTSTAMP:20260828T235227Z
-DTSTART:20261014T150000
-DTEND:20261014T153000
-SUMMARY:Call lead: Grand Rapids Health Insurance Agency (Grand Rapids MI)
-LOCATION:630 3 Mile Rd NW\, Grand Rapids\, MI 49544
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (616) 274-0435\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 66.5  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 53\nAffordability: Established - go
- od fit for Growth\nNiche: insurance agency  |  City: Grand Rapids MI\nAddr
- ess: 630 3 Mile Rd NW\, Grand Rapids\, MI 49544\nDashboard: https://arjung
- anesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:king-rio-kuts-llc-toledo-oh@lead-finder
-DTSTAMP:20260828T235227Z
-DTSTART:20261014T180000
-DTEND:20261014T183000
-SUMMARY:Call lead: king Rio Kuts LLC (Toledo OH)
-LOCATION:1119 W Bancroft St\, Toledo\, OH 43606
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (419) 609-8874\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 66.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: barbershop  |  City: Toledo OH\nAddress: 1
- 119 W Bancroft St\, Toledo\, OH 43606\nDashboard: https://arjunganesh2011.
- github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:artist-unlimited-tattoo-gallery-llc-milwaukee-wi@lead-finder
 DTSTAMP:20260828T235227Z
 DTSTART:20261015T090000
@@ -4165,6 +4107,27 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
  ched Starter\nNiche: gift shop  |  City: Toledo OH\nAddress: 1236 N Detroi
  t Ave Unit D\, Toledo\, OH 43607\nDashboard: https://arjunganesh2011.githu
  b.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:el-pana-grill-toledo-oh@lead-finder
+DTSTAMP:20261021T190710Z
+DTSTART:20261223T180000
+DTEND:20261223T183000
+SUMMARY:Call lead: El pana grill (Toledo OH)
+LOCATION:2915 Glendale Ave\, Toledo\, OH 43614
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (567) 317-5108\nEmail: e
+ lpanagrill@gmail.com\nTier: Starter ($800 build + $150/mo)\nScore: 63.0  |
+   No-website confidence: 92.0%  |  Buyer signal: 34\nAffordability: Lean /
+  early-stage - best pitched Starter\nNiche: food truck  |  City: Toledo OH
+ \nAddress: 2915 Glendale Ave\, Toledo\, OH 43614\nSocials: facebook: https
+ ://www.facebook.com/p/El-pana-grill-61586384445672/ | instagram: https://w
+ ww.instagram.com/el_pana_grill/\nDashboard: https://arjunganesh2011.github
+ .io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
