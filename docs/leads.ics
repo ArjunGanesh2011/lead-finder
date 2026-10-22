@@ -8,63 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:artist-unlimited-tattoo-gallery-llc-milwaukee-wi@lead-finder
-DTSTAMP:20260828T235227Z
-DTSTART:20261015T090000
-DTEND:20261015T093000
-SUMMARY:Call lead: Artist Unlimited Tattoo Gallery LLC (Milwaukee WI)
-LOCATION:306 E Wisconsin Ave\, Milwaukee\, WI 53202
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (414) 249-5908\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 46\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: tattoo shop  |  City: Milwaukee WI\nAddres
- s: 306 E Wisconsin Ave\, Milwaukee\, WI 53202\nDashboard: https://arjungan
- esh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:glass-city-barbershop-toledo-oh@lead-finder
-DTSTAMP:20260828T235227Z
-DTSTART:20261015T150000
-DTEND:20261015T153000
-SUMMARY:Call lead: Glass city barbershop (Toledo OH)
-LOCATION:3558 Stickney Ave\, Toledo\, OH 43608
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (419) 261-2229\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: barbershop  |  City: Toledo OH\nAddress: 3
- 558 Stickney Ave\, Toledo\, OH 43608\nDashboard: https://arjunganesh2011.g
- ithub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:limited-barbershop-toledo-oh@lead-finder
-DTSTAMP:20260828T235227Z
-DTSTART:20261015T180000
-DTEND:20261015T183000
-SUMMARY:Call lead: Limited barbershop (Toledo OH)
-LOCATION:5333 Secor Rd\, Toledo\, OH 43623
-DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
- ier: Starter ($800 build + $150/mo)\nScore: 59.0  |  No-website confidence
- : 80.0%  |  Buyer signal: 38\nAffordability: Lean / early-stage - best pit
- ched Starter\nNiche: barbershop  |  City: Toledo OH\nAddress: 5333 Secor R
- d\, Toledo\, OH 43623\nDashboard: https://arjunganesh2011.github.io/lead-f
- inder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:tous-les-jours-virginia-beach-va-virginia-beach-va@lead-finder
 DTSTAMP:20260829T181104Z
 DTSTART:20261016T090000
@@ -4128,6 +4071,25 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (567) 317-5108\nEmail: e
  ://www.facebook.com/p/El-pana-grill-61586384445672/ | instagram: https://w
  ww.instagram.com/el_pana_grill/\nDashboard: https://arjunganesh2011.github
  .io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tacos-el-paisa-2-lubbock-tx@lead-finder
+DTSTAMP:20261022T190309Z
+DTSTART:20261224T090000
+DTEND:20261224T093000
+SUMMARY:Call lead: Tacos El Paisa 2 (Lubbock TX)
+LOCATION:2504 50th St\, Lubbock\, TX 79413
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (806) 853-3381\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 58.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 24\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: food truck  |  City: Lubbock TX\nAddress: 
+ 2504 50th St\, Lubbock\, TX 79413\nDashboard: https://arjunganesh2011.gith
+ ub.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
