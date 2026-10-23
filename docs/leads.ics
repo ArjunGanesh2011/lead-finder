@@ -8,66 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:tous-les-jours-virginia-beach-va-virginia-beach-va@lead-finder
-DTSTAMP:20260829T181104Z
-DTSTART:20261016T090000
-DTEND:20261016T093000
-SUMMARY:Call lead: Tous Les Jours - Virginia Beach\, VA (Virginia Beach VA)
-LOCATION:Behind the Wendy's\, 550 First Colonial Rd #400\, Virginia Beach\,
-  VA 23451
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (757) 904-0924\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 77.5  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 63\nAffordability: Established - go
- od fit for Growth\nNiche: cafe  |  City: Virginia Beach VA\nAddress: Behin
- d the Wendy's\, 550 First Colonial Rd #400\, Virginia Beach\, VA 23451\nSo
- cials: facebook: https://www.facebook.com/p/Tous-Les-Jours-Virginia-Beach-
- VA-61583649705386/ | yelp: https://www.yelp.com/biz/tous-les-jours-virgini
- a-beach-2\nDashboard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:leena-coffee-virginia-beach-va@lead-finder
-DTSTAMP:20260829T181104Z
-DTSTART:20261016T150000
-DTEND:20261016T153000
-SUMMARY:Call lead: Leena coffee (Virginia Beach VA)
-LOCATION:3845 Bonney Rd #101\, Virginia Beach\, VA 23452
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (757) 528-7781\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 71.5  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 51\nAffordability: Established - go
- od fit for Growth\nNiche: cafe  |  City: Virginia Beach VA\nAddress: 3845 
- Bonney Rd #101\, Virginia Beach\, VA 23452\nDashboard: https://arjunganesh
- 2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:el-paso-heating-and-air-conditioning-el-paso-tx@lead-finder
-DTSTAMP:20260829T181104Z
-DTSTART:20261016T180000
-DTEND:20261016T183000
-SUMMARY:Call lead: El Paso Heating and Air Conditioning (El Paso TX)
-LOCATION:503 N Mesa St\, El Paso\, TX 79902
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (915) 339-8021\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 69.5  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 59\nAffordability: Established - go
- od fit for Growth\nNiche: HVAC company  |  City: El Paso TX\nAddress: 503 
- N Mesa St\, El Paso\, TX 79902\nDashboard: https://arjunganesh2011.github.
- io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:the-crooked-sideburn-barbershop-lubbock-tx@lead-finder
 DTSTAMP:20260829T181104Z
 DTSTART:20261017T090000
@@ -4090,6 +4030,25 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (806) 853-3381\nEmail: n
   - best pitched Starter\nNiche: food truck  |  City: Lubbock TX\nAddress: 
  2504 50th St\, Lubbock\, TX 79413\nDashboard: https://arjunganesh2011.gith
  ub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dayton-flooring-company-dayton-oh@lead-finder
+DTSTAMP:20261023T185329Z
+DTSTART:20261224T150000
+DTEND:20261224T153000
+SUMMARY:Call lead: Dayton Flooring Company (Dayton OH)
+LOCATION:3305\, 3307 Linden Ave\, Dayton\, OH 45410
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (937) 221-9706\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 65.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 50\nAffordability: Established - go
+ od fit for Growth\nNiche: flooring company  |  City: Dayton OH\nAddress: 3
+ 305\, 3307 Linden Ave\, Dayton\, OH 45410\nDashboard: https://arjunganesh2
+ 011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
