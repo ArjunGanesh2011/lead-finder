@@ -8,44 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:the-crooked-sideburn-barbershop-lubbock-tx@lead-finder
-DTSTAMP:20260829T181104Z
-DTSTART:20261017T090000
-DTEND:20261017T093000
-SUMMARY:Call lead: The Crooked Sideburn Barbershop (Lubbock TX)
-LOCATION:2811 74th St Ste B\, Lubbock\, TX 79423
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (806) 777-2741\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 68.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 44\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: barbershop  |  City: Lubbock TX\nAddress: 
- 2811 74th St Ste B\, Lubbock\, TX 79423\nDashboard: https://arjunganesh201
- 1.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:t-r-worcester-ma@lead-finder
-DTSTAMP:20260830T182536Z
-DTSTART:20261017T150000
-DTEND:20261017T153000
-SUMMARY:Call lead: T&R (Worcester MA)
-LOCATION:57 W Boylston St\, Worcester\, MA 01606
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (508) 852-7933\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 72.0  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 52\nAffordability: Established - go
- od fit for Growth\nNiche: auto repair shop  |  City: Worcester MA\nAddress
- : 57 W Boylston St\, Worcester\, MA 01606\nDashboard: https://arjunganesh2
- 011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:william-affordable-auto-insurance-agency-mesa-az@lead-finder
 DTSTAMP:20260830T182536Z
 DTSTART:20261017T180000
@@ -4049,6 +4011,85 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (937) 221-9706\nEmail: n
  od fit for Growth\nNiche: flooring company  |  City: Dayton OH\nAddress: 3
  305\, 3307 Linden Ave\, Dayton\, OH 45410\nDashboard: https://arjunganesh2
  011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:supreme-electric-el-paso-el-paso-tx@lead-finder
+DTSTAMP:20261024T175132Z
+DTSTART:20261224T180000
+DTEND:20261224T183000
+SUMMARY:Call lead: Supreme Electric El Paso (El Paso TX)
+LOCATION:3708 Alameda Ave\, El Paso\, TX 79905
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (915) 347-9074\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 71.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 50\nAffordability: Established - go
+ od fit for Growth\nNiche: electrician  |  City: El Paso TX\nAddress: 3708 
+ Alameda Ave\, El Paso\, TX 79905\nSocials: youtube: https://www.youtube.co
+ m/watch?v=InI5UdMg9Io\nDashboard: https://arjunganesh2011.github.io/lead-f
+ inder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:vitalguard-insurance-new-york-buffalo-ny@lead-finder
+DTSTAMP:20261024T175132Z
+DTSTART:20261225T090000
+DTEND:20261225T093000
+SUMMARY:Call lead: VitalGuard Insurance\, New York (Buffalo NY)
+LOCATION:1459 Kensington Ave\, Buffalo\, NY 14215
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (716) 577-9159\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 69.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 58\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Buffalo NY\nAddress: 
+ 1459 Kensington Ave\, Buffalo\, NY 14215\nDashboard: https://arjunganesh20
+ 11.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fifth-st-services-llc-fresno-ca@lead-finder
+DTSTAMP:20261024T175132Z
+DTSTART:20261225T150000
+DTEND:20261225T153000
+SUMMARY:Call lead: FIFTH ST SERVICES LLC (Fresno CA)
+LOCATION:1900-1998 S Fifth St\, Fresno\, CA 93702
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (559) 666-8599\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 69.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 46\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: catering company  |  City: Fresno CA\nAddr
+ ess: 1900-1998 S Fifth St\, Fresno\, CA 93702\nSocials: facebook: https://
+ www.facebook.com/emmasTacos/ | instagram: https://www.instagram.com/fifth_
+ st_services_llc/\nDashboard: https://arjunganesh2011.github.io/lead-finder
+ /
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fast-insurance-ny-buffalo-ny@lead-finder
+DTSTAMP:20261024T175132Z
+DTSTART:20261225T180000
+DTEND:20261225T183000
+SUMMARY:Call lead: Fast Insurance\, NY (Buffalo NY)
+LOCATION:3186-3218 Sheridan Dr\, Buffalo\, NY 14226
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (516) 406-8119\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 65.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 51\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Buffalo NY\nAddress: 
+ 3186-3218 Sheridan Dr\, Buffalo\, NY 14226\nDashboard: https://arjunganesh
+ 2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
