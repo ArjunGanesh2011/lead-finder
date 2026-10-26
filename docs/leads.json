@@ -1,10 +1,39 @@
 {
-  "generated": "2026-10-25T18:09:40.490657+00:00",
+  "generated": "2026-10-26T20:18:37.384761+00:00",
   "count": 300,
-  "new_today": 0,
-  "queries_used_this_month": 750,
+  "new_today": 1,
+  "queries_used_this_month": 780,
   "query_budget": 950,
   "leads": [
+    {
+      "business_name": "Divine Bridal Co.",
+      "niche": "bridal shop",
+      "city": "Richmond VA",
+      "slug": "divine-bridal-co-richmond-va",
+      "phone": "(804) 320-1415",
+      "email": null,
+      "contact_name": null,
+      "instagram": "https://www.instagram.com/divine_bridalco/",
+      "address": "9550 Midlothian Turnpike Ste 102, Richmond, VA 23235",
+      "maps_url": "https://maps.google.com/?cid=284903274404906287&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 5,
+      "review_count": 13,
+      "description": "We offer high-quality styles at affordable prices, along with expert alterations by Designer Maliah of Lucy\u2019s Divine Creations, backed by 30 years of experience. She is currently a 5 star business in Richmond, VA. Find your perfect bridal look at Divine Bridal Co.",
+      "socials": {
+        "yelp": "https://www.yelp.com/biz/divine-bridal-bon-air",
+        "instagram": "https://www.instagram.com/divine_bridalco/"
+      },
+      "no_website_confidence": 92.0,
+      "buyer_signal_score": 45,
+      "affordability": "Lean / early-stage - best pitched Starter",
+      "overall_score": 68.5,
+      "suggested_tier": "Starter",
+      "suggested_price": "$800 build + $150/mo",
+      "added": "2026-10-26",
+      "logo_image": null,
+      "palette": null,
+      "prompt_file": "prompts/divine-bridal-co-richmond-va.md"
+    },
     {
       "business_name": "Supreme Electric El Paso",
       "niche": "electrician",
@@ -8051,35 +8080,6 @@
       "logo_image": null,
       "palette": null,
       "prompt_file": "prompts/brillante-dreams-flowers-louisville-ky.md"
-    },
-    {
-      "business_name": "El Jaripeo 8 Street Food",
-      "niche": "food truck",
-      "city": "Salt Lake City UT",
-      "slug": "el-jaripeo-8-street-food-salt-lake-city-ut",
-      "phone": "(801) 901-0853",
-      "email": null,
-      "contact_name": null,
-      "instagram": "https://www.instagram.com/eljaripeo8/",
-      "address": "857 N Redwood Rd, Salt Lake City, UT 84116",
-      "maps_url": "https://maps.google.com/?cid=12738982468044985034&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "rating": 5,
-      "review_count": 4,
-      "description": "73 Followers, 2 Following, 111 Posts - El Jaripeo 8 Street Food LLC (@eljaripeo8) on Instagram: \"We now have 2 locations! Parking lot of Dollar General 857 N. Redwood Rd. Salt Lake City, UT 84116 & Parking lot of Reams\"",
-      "socials": {
-        "instagram": "https://www.instagram.com/eljaripeo8/",
-        "facebook": "https://www.facebook.com/eljaripeo8/"
-      },
-      "no_website_confidence": 92.0,
-      "buyer_signal_score": 33,
-      "affordability": "Lean / early-stage - best pitched Starter",
-      "overall_score": 62.5,
-      "suggested_tier": "Starter",
-      "suggested_price": "$800 build + $150/mo",
-      "added": "2026-08-12",
-      "logo_image": null,
-      "palette": null,
-      "prompt_file": "prompts/el-jaripeo-8-street-food-salt-lake-city-ut.md"
     }
   ]
 }
