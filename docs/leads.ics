@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:hair-shop-underground-hair-extensions-sacramento-sacramento-ca@lead-finder
-DTSTAMP:20260902T182613Z
-DTSTART:20261021T090000
-DTEND:20261021T093000
-SUMMARY:Call lead: Hair Shop Underground | Hair Extensions Sacramento (Sacr
- amento CA)
-LOCATION:106 L St #7\, Sacramento\, CA 95814
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (831) 585-6564\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 65.5  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 51\nAffordability: Established - go
- od fit for Growth\nNiche: hair salon  |  City: Sacramento CA\nAddress: 106
-  L St #7\, Sacramento\, CA 95814\nDashboard: https://arjunganesh2011.githu
- b.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:barry-s-pool-service-of-miami-miami-fl@lead-finder
-DTSTAMP:20260902T182613Z
-DTSTART:20261021T150000
-DTEND:20261021T153000
-SUMMARY:Call lead: Barry's Pool Service of Miami (Miami FL)
-LOCATION:1750 N Bayshore Dr Apt A\, Miami\, FL 33132
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (305) 614-5034\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 46\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: pool service  |  City: Miami FL\nAddress: 
- 1750 N Bayshore Dr Apt A\, Miami\, FL 33132\nDashboard: https://arjunganes
- h2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:signature-blends-barbershop-dayton-oh@lead-finder
-DTSTAMP:20260902T182613Z
-DTSTART:20261021T180000
-DTEND:20261021T183000
-SUMMARY:Call lead: Signature Blends Barbershop (Dayton OH)
-LOCATION:3081 Valley Pike\, Dayton\, OH 45404
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (937) 361-3151\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: barbershop  |  City: Dayton OH\nAddress: 3
- 081 Valley Pike\, Dayton\, OH 45404\nDashboard: https://arjunganesh2011.gi
- thub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:nayda-col-n-boutique-salon-orlando-fl@lead-finder
 DTSTAMP:20260902T182613Z
 DTSTART:20261022T090000
@@ -3956,6 +3898,25 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (419) 593-1041\nEmail: n
   - best pitched Starter\nNiche: appliance repair  |  City: Toledo OH\nAddr
  ess: 300 Madison Ave #277\, Toledo\, OH 43604\nDashboard: https://arjungan
  esh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boise-flooring-inc-boise-id@lead-finder
+DTSTAMP:20261028T200452Z
+DTSTART:20261227T090000
+DTEND:20261227T093000
+SUMMARY:Call lead: Boise Flooring Inc. (Boise ID)
+LOCATION:1310 S Vista Ave #4\, Boise\, ID 83705
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (208) 495-5303\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 66.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 53\nAffordability: Established - go
+ od fit for Growth\nNiche: flooring company  |  City: Boise ID\nAddress: 13
+ 10 S Vista Ave #4\, Boise\, ID 83705\nDashboard: https://arjunganesh2011.g
+ ithub.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
