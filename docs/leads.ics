@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:atlanta-auto-insurance-discounters-atlanta-ga@lead-finder
-DTSTAMP:20260904T180716Z
-DTSTART:20261023T090000
-DTEND:20261023T093000
-SUMMARY:Call lead: Atlanta Auto Insurance Discounters (Atlanta GA)
-LOCATION:934 Glenwood Ave SE #117\, Atlanta\, GA 30316
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (216) 877-3659\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
- od fit for Growth\nNiche: insurance agency  |  City: Atlanta GA\nAddress: 
- 934 Glenwood Ave SE #117\, Atlanta\, GA 30316\nDashboard: https://arjungan
- esh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:darling-paw-spa-sacramento-ca@lead-finder
-DTSTAMP:20260904T180716Z
-DTSTART:20261023T150000
-DTEND:20261023T153000
-SUMMARY:Call lead: Darling Paw Spa (Sacramento CA)
-LOCATION:3023 Arden Wy\, Sacramento\, CA 95825
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (916) 208-9971\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 66.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: dog grooming  |  City: Sacramento CA\nAddr
- ess: 3023 Arden Wy\, Sacramento\, CA 95825\nSocials: facebook: https://www
- .facebook.com/profile.php?id=61593059447780\nDashboard: https://arjunganes
- h2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:precise-bookkeeping-services-llc-reno-nv@lead-finder
-DTSTAMP:20260904T180716Z
-DTSTART:20261023T180000
-DTEND:20261023T183000
-SUMMARY:Call lead: Precise Bookkeeping Services LLC (Reno NV)
-LOCATION:3680 Grant Dr Ste B\, Reno\, NV 89509
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (775) 636-6599\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 64.5  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 49\nAffordability: Established - go
- od fit for Growth\nNiche: bookkeeping service  |  City: Reno NV\nAddress: 
- 3680 Grant Dr Ste B\, Reno\, NV 89509\nDashboard: https://arjunganesh2011.
- github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:state-flow-massage-st-louis-mo@lead-finder
 DTSTAMP:20260904T180716Z
 DTSTART:20261024T090000
