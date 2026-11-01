@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:eleven11soul-worcester-ma@lead-finder
-DTSTAMP:20260904T180716Z
-DTSTART:20261025T090000
-DTEND:20261025T093000
-SUMMARY:Call lead: Eleven11soul (Worcester MA)
-LOCATION:31 Hope Ave\, Worcester\, MA 01603
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (774) 232-6793\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 50.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 20\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: gift shop  |  City: Worcester MA\nAddress:
-  31 Hope Ave\, Worcester\, MA 01603\nDashboard: https://arjunganesh2011.gi
- thub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:moore-chiropractic-san-antonio-sports-injury-neck-back-pain-san-antonio-tx@lead-finder
-DTSTAMP:20260905T170943Z
-DTSTART:20261025T150000
-DTEND:20261025T153000
-SUMMARY:Call lead: Moore Chiropractic San Antonio - Sports Injury | Neck & 
- Back Pain (San Antonio TX)
-LOCATION:8507 McCullough Ave Suite A-1\, San Antonio\, TX 78216
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (210) 525-9063\nEmail: n
- ot found\nTier: Premium ($3\,500 build + $499/mo)\nScore: 80.5  |  No-webs
- ite confidence: 80.0%  |  Buyer signal: 81\nAffordability: High earner - c
- omfortably fits Premium\nNiche: chiropractor  |  City: San Antonio TX\nAdd
- ress: 8507 McCullough Ave Suite A-1\, San Antonio\, TX 78216\nDashboard: h
- ttps://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:rv-associates-accounting-payroll-salt-lake-city-ut@lead-finder
-DTSTAMP:20260905T170943Z
-DTSTART:20261025T180000
-DTEND:20261025T183000
-SUMMARY:Call lead: RV & Associates Accounting & Payroll (Salt Lake City UT)
-LOCATION:140 W 2100 S Expy #244\, Salt Lake City\, UT 84115
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (385) 270-5108\nEmail: n
- ot found\nTier: Premium ($3\,500 build + $499/mo)\nScore: 78.5  |  No-webs
- ite confidence: 80.0%  |  Buyer signal: 77\nAffordability: High earner - c
- omfortably fits Premium\nNiche: accounting firm  |  City: Salt Lake City U
- T\nAddress: 140 W 2100 S Expy #244\, Salt Lake City\, UT 84115\nDashboard:
-  https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:taqueria-t-a-raquel-spokane-wa@lead-finder
 DTSTAMP:20260905T170943Z
 DTSTART:20261026T090000
@@ -3862,6 +3804,26 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (971) 339-1794\nEmail: n
  od fit for Growth\nNiche: insurance agency  |  City: Grand Rapids MI\nAddr
  ess: 950 28th St SE 209 E\, Grand Rapids\, MI 49508\nDashboard: https://ar
  junganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:knockouts-haircuts-grooming-bryant-irvin-barbershop-fort-worth-tx@lead-finder
+DTSTAMP:20261101T192223Z
+DTSTART:20261229T150000
+DTEND:20261229T153000
+SUMMARY:Call lead: Knockouts Haircuts & Grooming - Bryant Irvin - Barbersho
+ p (Fort Worth TX)
+LOCATION:4487 Bryant Irvin Rd\, Fort Worth\, TX 76132
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (682) 250-3462\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 71.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 62\nAffordability: Established - go
+ od fit for Growth\nNiche: barbershop  |  City: Fort Worth TX\nAddress: 448
+ 7 Bryant Irvin Rd\, Fort Worth\, TX 76132\nDashboard: https://arjunganesh2
+ 011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
