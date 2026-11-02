@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:taqueria-t-a-raquel-spokane-wa@lead-finder
-DTSTAMP:20260905T170943Z
-DTSTART:20261026T090000
-DTEND:20261026T093000
-SUMMARY:Call lead: Taqueria Tía Raquel (Spokane WA)
-LOCATION:3258 E Sprague Ave\, Spokane\, WA 99202
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (509) 558-1145\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 33\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: Spokane WA\nAddress: 
- 3258 E Sprague Ave\, Spokane\, WA 99202\nDashboard: https://arjunganesh201
- 1.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:attention-to-details-pressure-soft-washing-services-birmingham-al@lead-finder
-DTSTAMP:20260905T170943Z
-DTSTART:20261026T150000
-DTEND:20261026T153000
-SUMMARY:Call lead: Attention to Details pressure & soft washing services (B
- irmingham AL)
-LOCATION:218 Shoal Run Trail\, Birmingham\, AL 35242
-DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
- ier: Starter ($800 build + $150/mo)\nScore: 60.0  |  No-website confidence
- : 80.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage - best pit
- ched Starter\nNiche: pressure washing  |  City: Birmingham AL\nAddress: 21
- 8 Shoal Run Trail\, Birmingham\, AL 35242\nDashboard: https://arjunganesh2
- 011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:two-brothers-food-truck-catering-spokane-wa@lead-finder
-DTSTAMP:20260905T170943Z
-DTSTART:20261026T180000
-DTEND:20261026T183000
-SUMMARY:Call lead: Two Brothers Food Truck & Catering (Spokane WA)
-LOCATION:2025 N Hamilton St\, Spokane\, WA 99207
-DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
- ier: Starter ($800 build + $150/mo)\nScore: 54.0  |  No-website confidence
- : 80.0%  |  Buyer signal: 28\nAffordability: Lean / early-stage - best pit
- ched Starter\nNiche: food truck  |  City: Spokane WA\nAddress: 2025 N Hami
- lton St\, Spokane\, WA 99207\nDashboard: https://arjunganesh2011.github.io
- /lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raymond-s-electricians-colorado-springs-co@lead-finder
 DTSTAMP:20260906T173040Z
 DTSTART:20261027T090000
