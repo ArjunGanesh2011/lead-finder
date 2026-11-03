@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:raymond-s-electricians-colorado-springs-co@lead-finder
-DTSTAMP:20260906T173040Z
-DTSTART:20261027T090000
-DTEND:20261027T093000
-SUMMARY:Call lead: Raymond's Electricians (Colorado Springs CO)
-LOCATION:6255 Corporate Dr #47E\, Colorado Springs\, CO 80919
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (719) 437-7320\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 69.5  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 59\nAffordability: Established - go
- od fit for Growth\nNiche: electrician  |  City: Colorado Springs CO\nAddre
- ss: 6255 Corporate Dr #47E\, Colorado Springs\, CO 80919\nDashboard: https
- ://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:josie-and-travis-affordable-auto-insurance-group-birmingham-al@lead-finder
-DTSTAMP:20260906T173040Z
-DTSTART:20261027T150000
-DTEND:20261027T153000
-SUMMARY:Call lead: Josie and Travis Affordable Auto Insurance Group (Birmin
- gham AL)
-LOCATION:420 20th St N #3011\, Birmingham\, AL 35203
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (205) 709-3881\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
- od fit for Growth\nNiche: insurance agency  |  City: Birmingham AL\nAddres
- s: 420 20th St N #3011\, Birmingham\, AL 35203\nDashboard: https://arjunga
- nesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:low-cost-auto-insurance-solutions-of-al-birmingham-al@lead-finder
-DTSTAMP:20260906T173040Z
-DTSTART:20261027T180000
-DTEND:20261027T183000
-SUMMARY:Call lead: Low Cost Auto Insurance Solutions Of AL (Birmingham AL)
-LOCATION:2 20th St N #1052\, Birmingham\, AL 35203
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (276) 244-8919\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
- od fit for Growth\nNiche: insurance agency  |  City: Birmingham AL\nAddres
- s: 2 20th St N #1052\, Birmingham\, AL 35203\nDashboard: https://arjungane
- sh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:appliance-repair-molenaar-park-boise-id@lead-finder
 DTSTAMP:20260906T173040Z
 DTSTART:20261028T090000
@@ -3766,6 +3708,44 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (682) 250-3462\nEmail: n
  od fit for Growth\nNiche: barbershop  |  City: Fort Worth TX\nAddress: 448
  7 Bryant Irvin Rd\, Fort Worth\, TX 76132\nDashboard: https://arjunganesh2
  011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:effective-automotive-repair-memphis-tn@lead-finder
+DTSTAMP:20261103T204651Z
+DTSTART:20261229T180000
+DTEND:20261229T183000
+SUMMARY:Call lead: Effective Automotive Repair (Memphis TN)
+LOCATION:6250 Summer Ave\, Memphis\, TN 38134
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (901) 382-9191\nEmail: n
+ ot found\nTier: Premium ($3\,500 build + $499/mo)\nScore: 84.0  |  No-webs
+ ite confidence: 92.0%  |  Buyer signal: 76\nAffordability: High earner - c
+ omfortably fits Premium\nNiche: auto repair shop  |  City: Memphis TN\nAdd
+ ress: 6250 Summer Ave\, Memphis\, TN 38134\nDashboard: https://arjunganesh
+ 2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:casa-aurea-pittsburgh-pittsburgh-pa@lead-finder
+DTSTAMP:20261103T204651Z
+DTSTART:20261230T090000
+DTEND:20261230T093000
+SUMMARY:Call lead: Casa Aurea Pittsburgh (Pittsburgh PA)
+LOCATION:1933 Crafton Blvd\, Pittsburgh\, PA 15205
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (412) 356-3833\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 42\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: photography studio  |  City: Pittsburgh PA
+ \nAddress: 1933 Crafton Blvd\, Pittsburgh\, PA 15205\nDashboard: https://a
+ rjunganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
