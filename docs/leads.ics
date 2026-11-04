@@ -8,63 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:appliance-repair-molenaar-park-boise-id@lead-finder
-DTSTAMP:20260906T173040Z
-DTSTART:20261028T090000
-DTEND:20261028T093000
-SUMMARY:Call lead: Appliance Repair Molenaar Park (Boise ID)
-LOCATION:7979 W Woodlark St\, Boise\, ID 83709
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (208) 675-7366\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: appliance repair  |  City: Boise ID\nAddre
- ss: 7979 W Woodlark St\, Boise\, ID 83709\nDashboard: https://arjunganesh2
- 011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:brothers-alliance-appliance-repair-co-boise-id@lead-finder
-DTSTAMP:20260906T173040Z
-DTSTART:20261028T150000
-DTEND:20261028T153000
-SUMMARY:Call lead: Brothers Alliance Appliance Repair Co. (Boise ID)
-LOCATION:6421 S Eisenman Rd\, Boise\, ID 83716
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (208) 675-7408\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: appliance repair  |  City: Boise ID\nAddre
- ss: 6421 S Eisenman Rd\, Boise\, ID 83716\nDashboard: https://arjunganesh2
- 011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:alvarado-power-wash-llc-fort-worth-tx@lead-finder
-DTSTAMP:20260906T173040Z
-DTSTART:20261028T180000
-DTEND:20261028T183000
-SUMMARY:Call lead: Alvarado Power Wash LLC. (Fort Worth TX)
-LOCATION:5840 Trigg Dr\, Fort Worth\, TX 76114
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (817) 791-8265\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: pressure washing  |  City: Fort Worth TX\n
- Address: 5840 Trigg Dr\, Fort Worth\, TX 76114\nDashboard: https://arjunga
- nesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:nationwide-insurance-service-birmingham-al@lead-finder
 DTSTAMP:20260906T173040Z
 DTSTART:20261029T090000
@@ -3746,6 +3689,45 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (412) 356-3833\nEmail: n
   - best pitched Starter\nNiche: photography studio  |  City: Pittsburgh PA
  \nAddress: 1933 Crafton Blvd\, Pittsburgh\, PA 15205\nDashboard: https://a
  rjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lubbock-pet-grooming-lubbock-tx@lead-finder
+DTSTAMP:20261104T210338Z
+DTSTART:20261230T150000
+DTEND:20261230T153000
+SUMMARY:Call lead: Lubbock Pet Grooming (Lubbock TX)
+LOCATION:4029 34th St\, Lubbock\, TX 79410
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (806) 785-1010\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 72.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 52\nAffordability: Established - go
+ od fit for Growth\nNiche: dog grooming  |  City: Lubbock TX\nAddress: 4029
+  34th St\, Lubbock\, TX 79410\nSocials: yelp: https://www.yelp.com/biz/lub
+ bock-pet-grooming-lubbock | facebook: https://www.facebook.com/LubbockPetG
+ rooming/about\nDashboard: https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-insurance-agency-ga-savannah-ga@lead-finder
+DTSTAMP:20261104T210338Z
+DTSTART:20261230T180000
+DTEND:20261230T183000
+SUMMARY:Call lead: Auto Insurance Agency GA (Savannah GA)
+LOCATION:401 W 46th St\, Savannah\, GA 31405
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (912) 297-9308\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 69.0  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 58\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Savannah GA\nAddress:
+  401 W 46th St\, Savannah\, GA 31405\nDashboard: https://arjunganesh2011.g
+ ithub.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
