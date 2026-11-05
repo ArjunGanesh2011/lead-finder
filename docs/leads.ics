@@ -8,65 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:nationwide-insurance-service-birmingham-al@lead-finder
-DTSTAMP:20260906T173040Z
-DTSTART:20261029T090000
-DTEND:20261029T093000
-SUMMARY:Call lead: Nationwide Insurance Service (Birmingham AL)
-LOCATION:621 10th Ave S\, Birmingham\, AL 35205
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (334) 453-4773\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: insurance agency  |  City: Birmingham AL\n
- Address: 621 10th Ave S\, Birmingham\, AL 35205\nDashboard: https://arjung
- anesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:ak-tattoo-tampa-fl@lead-finder
-DTSTAMP:20260907T190028Z
-DTSTART:20261029T150000
-DTEND:20261029T153000
-SUMMARY:Call lead: AK Tattoo (Tampa FL)
-LOCATION:8313 N Armenia Ave\, Tampa\, FL 33604
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (813) 708-3478\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 77.5  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 63\nAffordability: Established - go
- od fit for Growth\nNiche: tattoo shop  |  City: Tampa FL\nAddress: 8313 N 
- Armenia Ave\, Tampa\, FL 33604\nSocials: yelp: https://www.yelp.com/biz/ak
- -tattoo-anchorage | instagram: https://www.instagram.com/aktattoo_oficial/
- \nDashboard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:sule-tattoo-tampa-fl@lead-finder
-DTSTAMP:20260907T190028Z
-DTSTART:20261029T180000
-DTEND:20261029T183000
-SUMMARY:Call lead: Sule Tattoo (Tampa FL)
-LOCATION:5004 N Armenia Ave #2\, Tampa\, FL 33603
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (813) 593-1975\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 73.0  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 54\nAffordability: Established - go
- od fit for Growth\nNiche: tattoo shop  |  City: Tampa FL\nAddress: 5004 N 
- Armenia Ave #2\, Tampa\, FL 33603\nSocials: facebook: https://www.facebook
- .com/61584760922614/about/\nDashboard: https://arjunganesh2011.github.io/l
- ead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:mark-costcut-auto-insurance-broom-new-orleans-la@lead-finder
 DTSTAMP:20260908T182033Z
 DTSTART:20261030T090000
@@ -3728,6 +3669,86 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (912) 297-9308\nEmail: n
  od fit for Growth\nNiche: insurance agency  |  City: Savannah GA\nAddress:
   401 W 46th St\, Savannah\, GA 31405\nDashboard: https://arjunganesh2011.g
  ithub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:615-barbershop-nashville-tn@lead-finder
+DTSTAMP:20261105T212014Z
+DTSTART:20261231T090000
+DTEND:20261231T093000
+SUMMARY:Call lead: 615 Barbershop (Nashville TN)
+LOCATION:4116 Gallatin Pike\, Nashville\, TN 37216
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (615) 206-7302\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 79.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 66\nAffordability: Established - go
+ od fit for Growth\nNiche: barbershop  |  City: Nashville TN\nAddress: 4116
+  Gallatin Pike\, Nashville\, TN 37216\nSocials: yelp: https://www.yelp.com
+ /biz/615-barbershop-nashville\nDashboard: https://arjunganesh2011.github.i
+ o/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:valentine-s-bakery-el-paso-tx@lead-finder
+DTSTAMP:20261105T212014Z
+DTSTART:20261231T150000
+DTEND:20261231T153000
+SUMMARY:Call lead: Valentine's Bakery (El Paso TX)
+LOCATION:530 S Yarbrough Dr\, El Paso\, TX 79915
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (915) 858-8720\nEmail: c
+ ontact@valentines-bakery.com\nTier: Growth ($1\,800 build + $299/mo)\nScor
+ e: 74.0  |  No-website confidence: 92.0%  |  Buyer signal: 56\nAffordabili
+ ty: Established - good fit for Growth\nNiche: bakery  |  City: El Paso TX\
+ nAddress: 530 S Yarbrough Dr\, El Paso\, TX 79915\nSocials: yelp: https://
+ www.yelp.com/biz/valentines-bakery-el-paso | instagram: https://www.instag
+ ram.com/valentinesbakerytx/ | facebook: https://www.facebook.com/p/Valenti
+ nes-Bakery-61565918791974/\nDashboard: https://arjunganesh2011.github.io/l
+ ead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:super-home-cleaning-services-worcester-ma@lead-finder
+DTSTAMP:20261105T212014Z
+DTSTART:20261231T180000
+DTEND:20261231T183000
+SUMMARY:Call lead: Super home cleaning services (Worcester MA)
+LOCATION:16 Orient St\, Worcester\, MA 01604
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (774) 606-5081\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 65.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: carpet cleaning  |  City: Worcester MA\nAd
+ dress: 16 Orient St\, Worcester\, MA 01604\nDashboard: https://arjunganesh
+ 2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:moving-company-toledo-ohio-toledo-oh@lead-finder
+DTSTAMP:20261105T212014Z
+DTSTART:20270101T090000
+DTEND:20270101T093000
+SUMMARY:Call lead: Moving Company Toledo Ohio (Toledo OH)
+LOCATION:1302 Palmetto Ave\, Toledo\, OH 43606
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (419) 379-3034\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 32\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: moving company  |  City: Toledo OH\nAddres
+ s: 1302 Palmetto Ave\, Toledo\, OH 43606\nDashboard: https://arjunganesh20
+ 11.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
