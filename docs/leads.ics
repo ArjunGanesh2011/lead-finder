@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:mark-costcut-auto-insurance-broom-new-orleans-la@lead-finder
-DTSTAMP:20260908T182033Z
-DTSTART:20261030T090000
-DTEND:20261030T093000
-SUMMARY:Call lead: Mark CostCut Auto Insurance Broom (New Orleans LA)
-LOCATION:3161 Gentilly Blvd\, New Orleans\, LA 70122
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (504) 238-3288\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.5  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 57\nAffordability: Established - go
- od fit for Growth\nNiche: insurance agency  |  City: New Orleans LA\nAddre
- ss: 3161 Gentilly Blvd\, New Orleans\, LA 70122\nDashboard: https://arjung
- anesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:flowers-by-rose-omaha-ne@lead-finder
-DTSTAMP:20260908T182033Z
-DTSTART:20261030T150000
-DTEND:20261030T153000
-SUMMARY:Call lead: Flowers by Rose (Omaha NE)
-LOCATION:15515 Fieldcrest Cir\, Omaha\, NE 68154
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (402) 507-7212\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 59.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: florist  |  City: Omaha NE\nAddress: 15515
-  Fieldcrest Cir\, Omaha\, NE 68154\nDashboard: https://arjunganesh2011.git
- hub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:timeless-ink-tattoos-columbus-oh@lead-finder
-DTSTAMP:20260909T181911Z
-DTSTART:20261030T180000
-DTEND:20261030T183000
-SUMMARY:Call lead: Timeless Ink Tattoos (Columbus OH)
-LOCATION:623 S Hamilton Rd\, Whitehall\, OH 43213
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (614) 696-4005\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 78.5  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 65\nAffordability: Established - go
- od fit for Growth\nNiche: tattoo shop  |  City: Columbus OH\nAddress: 623 
- S Hamilton Rd\, Whitehall\, OH 43213\nSocials: facebook: https://www.faceb
- ook.com/timelessinktattoosohio/\nDashboard: https://arjunganesh2011.github
- .io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:eighth-house-tattoo-columbus-oh@lead-finder
 DTSTAMP:20260909T181911Z
 DTSTART:20261031T090000
@@ -3749,6 +3691,86 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (419) 379-3034\nEmail: n
   - best pitched Starter\nNiche: moving company  |  City: Toledo OH\nAddres
  s: 1302 Palmetto Ave\, Toledo\, OH 43606\nDashboard: https://arjunganesh20
  11.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:airport-chiropractic-celebrating-26-years-austin-tx@lead-finder
+DTSTAMP:20261106T204136Z
+DTSTART:20270101T150000
+DTEND:20270101T153000
+SUMMARY:Call lead: Airport Chiropractic CELEBRATING 26 YEARS (Austin TX)
+LOCATION:1144 Airport Blvd #210\, Austin\, TX 78702
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (512) 926-0990\nEmail: n
+ ot found\nTier: Premium ($3\,500 build + $499/mo)\nScore: 83.5  |  No-webs
+ ite confidence: 92.0%  |  Buyer signal: 75\nAffordability: High earner - c
+ omfortably fits Premium\nNiche: chiropractor  |  City: Austin TX\nAddress:
+  1144 Airport Blvd #210\, Austin\, TX 78702\nDashboard: https://arjunganes
+ h2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:home-floor-decor-salt-lake-city-ut@lead-finder
+DTSTAMP:20261106T204136Z
+DTSTART:20270101T180000
+DTEND:20270101T183000
+SUMMARY:Call lead: Home floor decor (Salt Lake City UT)
+LOCATION:2358 S Redwood Rd\, West Valley City\, UT 84119
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (801) 935-4199\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 76.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 61\nAffordability: Established - go
+ od fit for Growth\nNiche: flooring company  |  City: Salt Lake City UT\nAd
+ dress: 2358 S Redwood Rd\, West Valley City\, UT 84119\nSocials: yelp: htt
+ ps://www.yelp.com/biz/home-floor-decor-salt-lake-city | facebook: https://
+ www.facebook.com/p/Home-Floor-Decor-100063502152731/ | linkedin: https://w
+ ww.linkedin.com/in/fernando-orozco-ba06aa184/\nDashboard: https://arjungan
+ esh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:the-orthopaedic-center-physical-therapy-south-tulsa-tulsa-ok@lead-finder
+DTSTAMP:20261106T204136Z
+DTSTART:20270102T090000
+DTEND:20270102T093000
+SUMMARY:Call lead: The Orthopaedic Center Physical Therapy - South Tulsa (T
+ ulsa OK)
+LOCATION:10123 S Sheridan Rd\, Tulsa\, OK 74133
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (918) 301-3113\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 72.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 52\nAffordability: Established - go
+ od fit for Growth\nNiche: physical therapy clinic  |  City: Tulsa OK\nAddr
+ ess: 10123 S Sheridan Rd\, Tulsa\, OK 74133\nDashboard: https://arjunganes
+ h2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lymphatic-drainage-massage-milwaukee-llc-milwaukee-wi@lead-finder
+DTSTAMP:20261106T204136Z
+DTSTART:20270102T150000
+DTEND:20270102T153000
+SUMMARY:Call lead: Lymphatic Drainage Massage Milwaukee LLC (Milwaukee WI)
+LOCATION:3030 S 40th St\, Milwaukee\, WI 53215
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (262) 825-4111\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 66.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: massage therapist  |  City: Milwaukee WI\n
+ Address: 3030 S 40th St\, Milwaukee\, WI 53215\nDashboard: https://arjunga
+ nesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
