@@ -8,65 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:activate-outdoor-services-des-moines-ia@lead-finder
-DTSTAMP:20260910T180728Z
-DTSTART:20261101T090000
-DTEND:20261101T093000
-SUMMARY:Call lead: Activate Outdoor Services (Des Moines IA)
-LOCATION:3839 57th St\, Des Moines\, IA 50310
-DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
- ier: Starter ($800 build + $150/mo)\nScore: 60.5  |  No-website confidence
- : 80.0%  |  Buyer signal: 41\nAffordability: Lean / early-stage - best pit
- ched Starter\nNiche: pressure washing  |  City: Des Moines IA\nAddress: 38
- 39 57th St\, Des Moines\, IA 50310\nSocials: yelp: https://www.yelp.com/bi
- z/activate-outdoor-services-des-moines?override_cta=Get+a+quote\nDashboard
- : https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:cruz-yard-maintenance-fresno-ca@lead-finder
-DTSTAMP:20260911T181112Z
-DTSTART:20261101T150000
-DTEND:20261101T153000
-SUMMARY:Call lead: Cruz yard maintenance (Fresno CA)
-LOCATION:3055 E Brown Ave\, Fresno\, CA 93703
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (559) 800-4225\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 67.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 42\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: lawn care service  |  City: Fresno CA\nAdd
- ress: 3055 E Brown Ave\, Fresno\, CA 93703\nSocials: yelp: https://www.yel
- p.com/biz/cruz-yard-maintenance-fresno\nDashboard: https://arjunganesh2011
- .github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:furgroomly-st-louis-mo@lead-finder
-DTSTAMP:20260911T181112Z
-DTSTART:20261101T180000
-DTEND:20261101T183000
-SUMMARY:Call lead: FurGroomly (St Louis MO)
-LOCATION:5416 Delmar Blvd\, St. Louis\, MO 63112
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (660) 851-1605\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 51.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 22\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: dog grooming  |  City: St Louis MO\nAddres
- s: 5416 Delmar Blvd\, St. Louis\, MO 63112\nDashboard: https://arjunganesh
- 2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:vz-tech-pro-appliance-repair-handyman-services-austin-tx@lead-finder
 DTSTAMP:20260912T174059Z
 DTSTART:20261102T090000
@@ -3750,6 +3691,88 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (417) 866-4331\nEmail: n
  ttps://www.facebook.com/p/Missouri-Rug-Cleaners-100057514416898/ | yelp: h
  ttps://www.yelp.com/biz/missouri-rug-cleaners-springfield\nDashboard: http
  s://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:utopia-nails-spa-oklahoma-city-ok@lead-finder
+DTSTAMP:20261108T192045Z
+DTSTART:20270103T150000
+DTEND:20270103T153000
+SUMMARY:Call lead: UTOPIA NAILS & SPA (Oklahoma City OK)
+LOCATION:12301 S Western Ave Bldg B Suite 4\, Oklahoma City\, OK 73170
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (405) 703-0253\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 77.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 63\nAffordability: Established - go
+ od fit for Growth\nNiche: nail salon  |  City: Oklahoma City OK\nAddress: 
+ 12301 S Western Ave Bldg B Suite 4\, Oklahoma City\, OK 73170\nSocials: fa
+ cebook: https://www.facebook.com/UtopiaNailsSpaOK/ | tiktok: https://www.t
+ iktok.com/place/Utopia-Nail-&-Spa-Salon-21568226269275353 | instagram: htt
+ ps://www.instagram.com/p/DGm2Y5_ucMT/\nDashboard: https://arjunganesh2011.
+ github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:s-class-exclusive-barber-lounge-new-orleans-la@lead-finder
+DTSTAMP:20261108T192045Z
+DTSTART:20270103T180000
+DTEND:20270103T183000
+SUMMARY:Call lead: S-Class Exclusive Barber Lounge (New Orleans LA)
+LOCATION:1220 Deslonde St\, New Orleans\, LA 70117
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (504) 908-8900\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 69.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 46\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: barbershop  |  City: New Orleans LA\nAddre
+ ss: 1220 Deslonde St\, New Orleans\, LA 70117\nSocials: tiktok: https://ww
+ w.tiktok.com/discover/the-lounge-exclusive-barber-monterey-park\nDashboard
+ : https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a-barkingham-palace-formally-locks-of-love-pet-parlor-shreveport-la@lead-finder
+DTSTAMP:20261108T192045Z
+DTSTART:20270104T090000
+DTEND:20270104T093000
+SUMMARY:Call lead: A Barkingham Palace formally Locks of Love Pet Parlor (S
+ hreveport LA)
+LOCATION:8925 Jewella Ave Ste 1\, Shreveport\, LA 71118
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Starter ($800 build + $150/mo)\nScore: 65.5  |  No-website confidence
+ : 92.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage - best pit
+ ched Starter\nNiche: dog grooming  |  City: Shreveport LA\nAddress: 8925 J
+ ewella Ave Ste 1\, Shreveport\, LA 71118\nDashboard: https://arjunganesh20
+ 11.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:in-out-barber-beauty-salon-new-orleans-la@lead-finder
+DTSTAMP:20261108T192045Z
+DTSTART:20270104T150000
+DTEND:20270104T153000
+SUMMARY:Call lead: In & Out Barber & Beauty Salon (New Orleans LA)
+LOCATION:401 S Claiborne Ave\, New Orleans\, LA 70112
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (504) 505-2418\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 65.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: barbershop  |  City: New Orleans LA\nAddre
+ ss: 401 S Claiborne Ave\, New Orleans\, LA 70112\nSocials: yelp: https://w
+ ww.yelp.com/biz/in-and-out-barber-and-beauty-salon-new-orleans\nDashboard:
+  https://arjunganesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
