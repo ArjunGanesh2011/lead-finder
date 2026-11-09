@@ -8,65 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:vz-tech-pro-appliance-repair-handyman-services-austin-tx@lead-finder
-DTSTAMP:20260912T174059Z
-DTSTART:20261102T090000
-DTEND:20261102T093000
-SUMMARY:Call lead: VZ Tech PRO Appliance repair & Handyman services (Austin
-  TX)
-LOCATION:1907 E 2nd St\, Austin\, TX 78702
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (737) 342-0072\nEmail: n
- ot found\nTier: Premium ($3\,500 build + $499/mo)\nScore: 76.5  |  No-webs
- ite confidence: 80.0%  |  Buyer signal: 73\nAffordability: High earner - c
- omfortably fits Premium\nNiche: appliance repair  |  City: Austin TX\nAddr
- ess: 1907 E 2nd St\, Austin\, TX 78702\nSocials: instagram: http://instagr
- am.com/vztechpro\nDashboard: https://arjunganesh2011.github.io/lead-finder
- /
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:castro-affordable-auto-insurance-tucson-tucson-az@lead-finder
-DTSTAMP:20260912T174059Z
-DTSTART:20261102T150000
-DTEND:20261102T153000
-SUMMARY:Call lead: Castro Affordable Auto Insurance Tucson (Tucson AZ)
-LOCATION:177 N Church Ave #880\, Tucson\, AZ 85701
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (480) 602-0942\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 69.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 46\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: insurance agency  |  City: Tucson AZ\nAddr
- ess: 177 N Church Ave #880\, Tucson\, AZ 85701\nDashboard: https://arjunga
- nesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:miami-home-centers-tamiami-miami-fl@lead-finder
-DTSTAMP:20260912T174059Z
-DTSTART:20261102T180000
-DTEND:20261102T183000
-SUMMARY:Call lead: Miami Home Centers-Tamiami (Miami FL)
-LOCATION:13740 SW 8th St\, Miami\, FL 33184
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (305) 221-6828\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 68.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 45\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: hardware store  |  City: Miami FL\nAddress
- : 13740 SW 8th St\, Miami\, FL 33184\nDashboard: https://arjunganesh2011.g
- ithub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:all-seamless-gutters-seamless-rain-gutter-installation-mobile-al@lead-finder
 DTSTAMP:20260913T175513Z
 DTSTART:20261103T090000
@@ -3773,6 +3714,101 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (504) 505-2418\nEmail: n
  ss: 401 S Claiborne Ave\, New Orleans\, LA 70112\nSocials: yelp: https://w
  ww.yelp.com/biz/in-and-out-barber-and-beauty-salon-new-orleans\nDashboard:
   https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sophia-nail-bar-shreveport-la@lead-finder
+DTSTAMP:20261109T234131Z
+DTSTART:20270104T180000
+DTEND:20270104T183000
+SUMMARY:Call lead: Sophia Nail Bar (Shreveport LA)
+LOCATION:614 E 70th St\, Shreveport\, LA 71106
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (318) 869-2997\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 77.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 63\nAffordability: Established - go
+ od fit for Growth\nNiche: nail salon  |  City: Shreveport LA\nAddress: 614
+  E 70th St\, Shreveport\, LA 71106\nDashboard: https://arjunganesh2011.git
+ hub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:express-appliance-repair-lake-city-salt-lake-city-ut@lead-finder
+DTSTAMP:20261109T234131Z
+DTSTART:20270105T090000
+DTEND:20270105T093000
+SUMMARY:Call lead: Express Appliance Repair Lake City (Salt Lake City UT)
+LOCATION:2015 Windsor St\, Salt Lake City\, UT 84105
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (385) 410-4574\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Salt Lake City 
+ UT\nAddress: 2015 Windsor St\, Salt Lake City\, UT 84105\nDashboard: https
+ ://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:local-appliance-service-and-repair-salt-lake-city-ut@lead-finder
+DTSTAMP:20261109T234131Z
+DTSTART:20270105T150000
+DTEND:20270105T153000
+SUMMARY:Call lead: Local Appliance Service And Repair (Salt Lake City UT)
+LOCATION:2090 N Redwood Park Ln\, Salt Lake City\, UT 84116
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (385) 300-1356\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Salt Lake City 
+ UT\nAddress: 2090 N Redwood Park Ln\, Salt Lake City\, UT 84116\nDashboard
+ : https://arjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:salt-lake-appliance-repair-solutions-salt-lake-city-ut@lead-finder
+DTSTAMP:20261109T234131Z
+DTSTART:20270105T180000
+DTEND:20270105T183000
+SUMMARY:Call lead: Salt Lake Appliance Repair Solutions (Salt Lake City UT)
+LOCATION:1460 400 W\, South Salt Lake\, UT 84115
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (505) 587-1829\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: appliance repair  |  City: Salt Lake City 
+ UT\nAddress: 1460 400 W\, South Salt Lake\, UT 84115\nDashboard: https://a
+ rjunganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worcester-roofing-repair-worcester-ma@lead-finder
+DTSTAMP:20261109T234131Z
+DTSTART:20270106T090000
+DTEND:20270106T093000
+SUMMARY:Call lead: Worcester Roofing Repair (Worcester MA)
+LOCATION:89 E Central St\, Worcester\, MA 01605
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (339) 329-2717\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: roofing company  |  City: Worcester MA\nAd
+ dress: 89 E Central St\, Worcester\, MA 01605\nDashboard: https://arjungan
+ esh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
