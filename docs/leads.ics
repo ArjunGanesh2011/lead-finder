@@ -8,66 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:all-seamless-gutters-seamless-rain-gutter-installation-mobile-al@lead-finder
-DTSTAMP:20260913T175513Z
-DTSTART:20261103T090000
-DTEND:20261103T093000
-SUMMARY:Call lead: All Seamless Gutters : Seamless Rain Gutter Installation
-  (Mobile AL)
-LOCATION:813 Overbey Dr\, Mobile\, AL 36608
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (251) 463-9292\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 80.0  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 68\nAffordability: Established - go
- od fit for Growth\nNiche: window cleaning  |  City: Mobile AL\nAddress: 81
- 3 Overbey Dr\, Mobile\, AL 36608\nDashboard: https://arjunganesh2011.githu
- b.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:juan-martinez-jr-chiropractor-wichita-ks@lead-finder
-DTSTAMP:20260913T175513Z
-DTSTART:20261103T150000
-DTEND:20261103T153000
-SUMMARY:Call lead: Juan Martinez\, Jr.\, Chiropractor (Wichita KS)
-LOCATION:8710 W 13th St N Ste 107\, Wichita\, KS 67212
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (316) 250-2308\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 69.5  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 59\nAffordability: Established - go
- od fit for Growth\nNiche: chiropractor  |  City: Wichita KS\nAddress: 8710
-  W 13th St N Ste 107\, Wichita\, KS 67212\nDashboard: https://arjunganesh2
- 011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:central-mass-cleanouts-worcester-ma@lead-finder
-DTSTAMP:20260914T194347Z
-DTSTART:20261103T180000
-DTEND:20261103T183000
-SUMMARY:Call lead: Central Mass Cleanouts (Worcester MA)
-LOCATION:6 Linden Ln\, Auburn\, MA 01501
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (508) 320-7488\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 80.0  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 68\nAffordability: Established - go
- od fit for Growth\nNiche: junk removal  |  City: Worcester MA\nAddress: 6 
- Linden Ln\, Auburn\, MA 01501\nSocials: facebook: https://www.facebook.com
- /centralmasscleanouts | yelp: https://www.yelp.com/search?cflt=junkremoval
- andhauling&find_loc=Worcester%2C+MA\nDashboard: https://arjunganesh2011.gi
- thub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:the-grooming-collective-richmond-va@lead-finder
 DTSTAMP:20260914T194347Z
 DTSTART:20261104T090000
@@ -3808,6 +3748,44 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (339) 329-2717\nEmail: n
   confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
   - best pitched Starter\nNiche: roofing company  |  City: Worcester MA\nAd
  dress: 89 E Central St\, Worcester\, MA 01605\nDashboard: https://arjungan
+ esh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cleveland-hvac-solutions-cleveland-oh@lead-finder
+DTSTAMP:20261110T211153Z
+DTSTART:20270106T150000
+DTEND:20270106T153000
+SUMMARY:Call lead: Cleveland HVAC Solutions (Cleveland OH)
+LOCATION:13729 Madison Ave\, Cleveland\, OH 44107
+DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
+ ier: Growth ($1\,800 build + $299/mo)\nScore: 70.5  |  No-website confiden
+ ce: 80.0%  |  Buyer signal: 61\nAffordability: Established - good fit for 
+ Growth\nNiche: HVAC company  |  City: Cleveland OH\nAddress: 13729 Madison
+  Ave\, Cleveland\, OH 44107\nDashboard: https://arjunganesh2011.github.io/
+ lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:full-service-lawn-care-by-ed-llc-birmingham-al@lead-finder
+DTSTAMP:20261110T211153Z
+DTSTART:20270106T180000
+DTEND:20270106T183000
+SUMMARY:Call lead: Full Service Lawn Care by Ed LLC (Birmingham AL)
+LOCATION:1104 Hampton Pl\, Hoover\, AL 35216
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (205) 438-7939\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 59.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 39\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: lawn care service  |  City: Birmingham AL\
+ nAddress: 1104 Hampton Pl\, Hoover\, AL 35216\nDashboard: https://arjungan
  esh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
