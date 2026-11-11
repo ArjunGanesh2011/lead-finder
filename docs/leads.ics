@@ -8,65 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:the-grooming-collective-richmond-va@lead-finder
-DTSTAMP:20260914T194347Z
-DTSTART:20261104T090000
-DTEND:20261104T093000
-SUMMARY:Call lead: The Grooming Collective (Richmond VA)
-LOCATION:16 E Nine Mile Rd\, Highland Springs\, VA 23075
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (804) 247-8490\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 68.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 45\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: dog grooming  |  City: Richmond VA\nAddres
- s: 16 E Nine Mile Rd\, Highland Springs\, VA 23075\nDashboard: https://arj
- unganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:celebrity-cutz-reno-nv@lead-finder
-DTSTAMP:20260914T194347Z
-DTSTART:20261104T150000
-DTEND:20261104T153000
-SUMMARY:Call lead: Celebrity Cutz (Reno NV)
-LOCATION:Grant Dr\, Reno\, NV 89509
-DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
- ier: Starter ($800 build + $150/mo)\nScore: 68.0  |  No-website confidence
- : 92.0%  |  Buyer signal: 44\nAffordability: Lean / early-stage - best pit
- ched Starter\nNiche: barbershop  |  City: Reno NV\nAddress: Grant Dr\, Ren
- o\, NV 89509\nSocials: instagram: https://www.instagram.com/explore/locati
- ons/562708567080621/celebrity-cutz/\nDashboard: https://arjunganesh2011.gi
- thub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:trash-monster-junk-removal-worcester-ma@lead-finder
-DTSTAMP:20260914T194347Z
-DTSTART:20261104T180000
-DTEND:20261104T183000
-SUMMARY:Call lead: Trash Monster Junk Removal (Worcester MA)
-LOCATION:104 Chandler St\, Worcester\, MA 01609
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (508) 371-6453\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 68.0  |  No-website
-  confidence: 92.0%  |  Buyer signal: 44\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: junk removal  |  City: Worcester MA\nAddre
- ss: 104 Chandler St\, Worcester\, MA 01609\nSocials: facebook: https://www
- .facebook.com/61557107932907\nDashboard: https://arjunganesh2011.github.io
- /lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:flowersbygissela-indianapolis-in@lead-finder
 DTSTAMP:20260914T194347Z
 DTSTART:20261105T090000
@@ -3787,6 +3728,65 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (205) 438-7939\nEmail: n
   - best pitched Starter\nNiche: lawn care service  |  City: Birmingham AL\
  nAddress: 1104 Hampton Pl\, Hoover\, AL 35216\nDashboard: https://arjungan
  esh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:carrillo-cutz-barbershop-llc-fort-wayne-in@lead-finder
+DTSTAMP:20261111T214447Z
+DTSTART:20270107T090000
+DTEND:20270107T093000
+SUMMARY:Call lead: Carrillo Cutz Barbershop LLC (Fort Wayne IN)
+LOCATION:2229 Oliver St\, Fort Wayne\, IN 46803
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (260) 363-4653\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 75.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 59\nAffordability: Established - go
+ od fit for Growth\nNiche: barbershop  |  City: Fort Wayne IN\nAddress: 222
+ 9 Oliver St\, Fort Wayne\, IN 46803\nDashboard: https://arjunganesh2011.gi
+ thub.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:peace-together-boutique-indianapolis-in@lead-finder
+DTSTAMP:20261111T214447Z
+DTSTART:20270107T150000
+DTEND:20270107T153000
+SUMMARY:Call lead: Peace Together Boutique (Indianapolis IN)
+LOCATION:916 E Westfield Blvd\, Indianapolis\, IN 46220
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (317) 446-7338\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 67.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 42\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: boutique  |  City: Indianapolis IN\nAddres
+ s: 916 E Westfield Blvd\, Indianapolis\, IN 46220\nDashboard: https://arju
+ nganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dubai-jewelry-worcester-ma@lead-finder
+DTSTAMP:20261111T214447Z
+DTSTART:20270107T180000
+DTEND:20270107T183000
+SUMMARY:Call lead: Dubai Jewelry (Worcester MA)
+LOCATION:145 Pleasant St\, Worcester\, MA 01609
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (781) 990-9769\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 62.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 32\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: jewelry store  |  City: Worcester MA\nAddr
+ ess: 145 Pleasant St\, Worcester\, MA 01609\nSocials: facebook: https://ww
+ w.facebook.com/p/DUBAI-Jewelry-100063754861931/ | instagram: https://www.i
+ nstagram.com/dubaijewelryllc/\nDashboard: https://arjunganesh2011.github.i
+ o/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
