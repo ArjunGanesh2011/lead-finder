@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:buffalo-heating-air-conditioning-buffalo-ny@lead-finder
-DTSTAMP:20260915T184312Z
-DTSTART:20261106T090000
-DTEND:20261106T093000
-SUMMARY:Call lead: Buffalo Heating & Air Conditioning (Buffalo NY)
-LOCATION:2136 Delaware Ave\, Buffalo\, NY 14216
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (716) 385-9541\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 71.5  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 51\nAffordability: Established - go
- od fit for Growth\nNiche: HVAC company  |  City: Buffalo NY\nAddress: 2136
-  Delaware Ave\, Buffalo\, NY 14216\nSocials: facebook: https://www.faceboo
- k.com/buffaloheating/\nDashboard: https://arjunganesh2011.github.io/lead-f
- inder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:dimitar-iliev-massage-therapy-spokane-wa@lead-finder
-DTSTAMP:20260915T184312Z
-DTSTART:20261106T150000
-DTEND:20261106T153000
-SUMMARY:Call lead: Dimitar Iliev\, Massage Therapy (Spokane WA)
-LOCATION:2718 E 57th Ave Rm 4\, Spokane\, WA 99223
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (509) 448-9990\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.5  |  No-website
-  confidence: 80.0%  |  Buyer signal: 47\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: massage therapist  |  City: Spokane WA\nAd
- dress: 2718 E 57th Ave Rm 4\, Spokane\, WA 99223\nDashboard: https://arjun
- ganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:gogo-catering-co-lubbock-tx@lead-finder
-DTSTAMP:20260915T184312Z
-DTSTART:20261106T180000
-DTEND:20261106T183000
-SUMMARY:Call lead: GoGo Catering Co. (Lubbock TX)
-LOCATION:1601 University Ave\, Lubbock\, TX 79401
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (214) 603-7013\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 55.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 30\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: catering company  |  City: Lubbock TX\nAdd
- ress: 1601 University Ave\, Lubbock\, TX 79401\nDashboard: https://arjunga
- nesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:baths-barks-bubbles-pet-spa-at-the-ridge-birmingham-al@lead-finder
 DTSTAMP:20260916T184007Z
 DTSTART:20261107T090000
