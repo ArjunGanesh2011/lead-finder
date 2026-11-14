@@ -8,67 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:baths-barks-bubbles-pet-spa-at-the-ridge-birmingham-al@lead-finder
-DTSTAMP:20260916T184007Z
-DTSTART:20261107T090000
-DTEND:20261107T093000
-SUMMARY:Call lead: Baths Barks & Bubbles Pet Spa at The Ridge (Birmingham A
- L)
-LOCATION:2488 Rocky Ridge Rd Building 2\, Vestavia Hills\, AL 35243
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (205) 214-3782\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 74.5  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 57\nAffordability: Established - go
- od fit for Growth\nNiche: dog grooming  |  City: Birmingham AL\nAddress: 2
- 488 Rocky Ridge Rd Building 2\, Vestavia Hills\, AL 35243\nSocials: facebo
- ok: https://www.facebook.com/BathsBarksAndBubblesPetSpa\nDashboard: https:
- //arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mr-clean-windows-gutters-springfield-mo@lead-finder
-DTSTAMP:20260916T184007Z
-DTSTART:20261107T150000
-DTEND:20261107T153000
-SUMMARY:Call lead: Mr Clean Windows & Gutters (Springfield MO)
-LOCATION:Springfield\, MO 65802
-DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
- ier: Starter ($800 build + $150/mo)\nScore: 65.0  |  No-website confidence
- : 92.0%  |  Buyer signal: 38\nAffordability: Lean / early-stage - best pit
- ched Starter\nNiche: window cleaning  |  City: Springfield MO\nAddress: Sp
- ringfield\, MO 65802\nSocials: yelp: https://www.yelp.com/biz/mr-clean-win
- dows-and-gutters-springfield-17 | facebook: https://www.facebook.com/p/Mr-
- Clean-Windows-Gutters-100043014200736/\nDashboard: https://arjunganesh2011
- .github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:integrity-insurance-indiana-fort-wayne-in@lead-finder
-DTSTAMP:20260916T184007Z
-DTSTART:20261107T180000
-DTEND:20261107T183000
-SUMMARY:Call lead: Integrity Insurance Indiana (Fort Wayne IN)
-LOCATION:1942 E Dupont Rd\, Fort Wayne\, IN 46825
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (260) 319-8630\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: insurance agency  |  City: Fort Wayne IN\n
- Address: 1942 E Dupont Rd\, Fort Wayne\, IN 46825\nDashboard: https://arju
- nganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:isaiah-s-clearview-window-cleaning-springfield-mo@lead-finder
 DTSTAMP:20260916T184007Z
 DTSTART:20261108T090000
@@ -3708,6 +3647,86 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
  ched Starter\nNiche: pressure washing  |  City: Salt Lake City UT\nAddress
  : 227 S 400 E\, Salt Lake City\, UT 84111\nDashboard: https://arjunganesh2
  011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:king-barber-cut-tampa-fl@lead-finder
+DTSTAMP:20261114T194321Z
+DTSTART:20270108T180000
+DTEND:20270108T183000
+SUMMARY:Call lead: King Barber Cut (Tampa FL)
+LOCATION:4817 E Busch Blvd Ste 105\, Tampa\, FL 33617
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (813) 879-7884\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 80.0  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 68\nAffordability: Established - go
+ od fit for Growth\nNiche: barbershop  |  City: Tampa FL\nAddress: 4817 E B
+ usch Blvd Ste 105\, Tampa\, FL 33617\nSocials: tiktok: https://www.tiktok.
+ com/discover/barber-king-taupo\nDashboard: https://arjunganesh2011.github.
+ io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7-mares-restaurant-food-truck-grand-rapids-mi@lead-finder
+DTSTAMP:20261114T194321Z
+DTSTART:20270109T090000
+DTEND:20270109T093000
+SUMMARY:Call lead: 7 Mares Restaurant & Food Truck (Grand Rapids MI)
+LOCATION:1403 Kalamazoo Ave SE\, Grand Rapids\, MI 49507
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (616) 301-8555\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 67.5  |  No-websi
+ te confidence: 80.0%  |  Buyer signal: 55\nAffordability: Established - go
+ od fit for Growth\nNiche: food truck  |  City: Grand Rapids MI\nAddress: 1
+ 403 Kalamazoo Ave SE\, Grand Rapids\, MI 49507\nSocials: facebook: https:/
+ /m.facebook.com/7MaresGR/\nDashboard: https://arjunganesh2011.github.io/le
+ ad-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sparklean-pool-service-el-paso-tx@lead-finder
+DTSTAMP:20261114T194321Z
+DTSTART:20270109T150000
+DTEND:20270109T153000
+SUMMARY:Call lead: SparKlean Pool Service (El Paso TX)
+LOCATION:638 JALYNN GRACE DR\, Canutillo\, TX 79835
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (915) 504-2282\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 64.5  |  No-website
+  confidence: 92.0%  |  Buyer signal: 37\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: pool service  |  City: El Paso TX\nAddress
+ : 638 JALYNN GRACE DR\, Canutillo\, TX 79835\nSocials: linkedin: https://w
+ ww.linkedin.com/in/gabriel-valenzuela-22aa2a1b9/\nDashboard: https://arjun
+ ganesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:worcester-insurance-agency-ma-insurance-company-worcester-ma@lead-finder
+DTSTAMP:20261114T194321Z
+DTSTART:20270109T180000
+DTEND:20270109T183000
+SUMMARY:Call lead: Worcester Insurance Agency MA-Insurance Company (Worcest
+ er MA)
+LOCATION:494 Main St\, Worcester\, MA 01608
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (774) 701-7773\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 60.0  |  No-website
+  confidence: 80.0%  |  Buyer signal: 40\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: insurance agency  |  City: Worcester MA\nA
+ ddress: 494 Main St\, Worcester\, MA 01608\nDashboard: https://arjunganesh
+ 2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
