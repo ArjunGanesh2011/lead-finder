@@ -8,63 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:isaiah-s-clearview-window-cleaning-springfield-mo@lead-finder
-DTSTAMP:20260916T184007Z
-DTSTART:20261108T090000
-DTEND:20261108T093000
-SUMMARY:Call lead: Isaiah’s ClearView Window Cleaning (Springfield MO)
-LOCATION:2702 W Water St\, Springfield\, MO 65802
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (417) 306-8423\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 51.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 22\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: window cleaning  |  City: Springfield MO\n
- Address: 2702 W Water St\, Springfield\, MO 65802\nDashboard: https://arju
- nganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:skyline-window-washing-inc-springfield-mo@lead-finder
-DTSTAMP:20260916T184007Z
-DTSTART:20261108T150000
-DTEND:20261108T153000
-SUMMARY:Call lead: Skyline window washing inc (Springfield MO)
-LOCATION:3710 N Boonville Ave\, Springfield\, MO 65803
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (417) 292-6956\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 51.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 22\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: window cleaning  |  City: Springfield MO\n
- Address: 3710 N Boonville Ave\, Springfield\, MO 65803\nDashboard: https:/
- /arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:image-hair-nails-salon-phoenix-az-phoenix-az@lead-finder
-DTSTAMP:20260917T184915Z
-DTSTART:20261108T180000
-DTEND:20261108T183000
-SUMMARY:Call lead: Image Hair Nails Salon Phoenix AZ (Phoenix AZ)
-LOCATION:2601 W Dunlap Ave Suite 16\, Phoenix\, AZ 85021
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (480) 508-4072\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 74.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 68\nAffordability: Established - go
- od fit for Growth\nNiche: nail salon  |  City: Phoenix AZ\nAddress: 2601 W
-  Dunlap Ave Suite 16\, Phoenix\, AZ 85021\nDashboard: https://arjunganesh2
- 011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:auto-insurance-affordables-kansas-city-kansas-city-mo@lead-finder
 DTSTAMP:20260917T184915Z
 DTSTART:20261109T090000
