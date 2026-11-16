@@ -1,10 +1,36 @@
 {
-  "generated": "2026-11-15T20:09:33.394055+00:00",
+  "generated": "2026-11-16T23:38:59.692149+00:00",
   "count": 300,
-  "new_today": 0,
-  "queries_used_this_month": 450,
+  "new_today": 1,
+  "queries_used_this_month": 480,
   "query_budget": 950,
   "leads": [
+    {
+      "business_name": "Casualty Insurance Agency, TN",
+      "niche": "insurance agency",
+      "city": "Memphis TN",
+      "slug": "casualty-insurance-agency-tn-memphis-tn",
+      "phone": "(901) 286-5810",
+      "email": null,
+      "contact_name": null,
+      "instagram": null,
+      "address": "3565 Ridge Meadow Pkwy, Memphis, TN 38115",
+      "maps_url": "https://maps.google.com/?cid=2425129784525723663&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "rating": 4.8,
+      "review_count": 17,
+      "description": "Casualty Insurance Agency, TN is located at 6010 Knight Arnold Rd in Memphis, Tennessee 38115.",
+      "socials": {},
+      "no_website_confidence": 92.0,
+      "buyer_signal_score": 55,
+      "affordability": "Established - good fit for Growth",
+      "overall_score": 73.5,
+      "suggested_tier": "Growth",
+      "suggested_price": "$1,800 build + $299/mo",
+      "added": "2026-11-16",
+      "logo_image": null,
+      "palette": null,
+      "prompt_file": "prompts/casualty-insurance-agency-tn-memphis-tn.md"
+    },
     {
       "business_name": "King Barber Cut",
       "niche": "barbershop",
@@ -8058,35 +8084,6 @@
       "logo_image": null,
       "palette": null,
       "prompt_file": "prompts/el-flacko-locksmith-el-paso-tx.md"
-    },
-    {
-      "business_name": "Village pet grooming",
-      "niche": "dog grooming",
-      "city": "Winston-Salem NC",
-      "slug": "village-pet-grooming-winston-salem-nc",
-      "phone": "(336) 766-8100",
-      "email": null,
-      "contact_name": null,
-      "instagram": null,
-      "address": "2555 Old Glory Rd, Clemmons, NC 27012",
-      "maps_url": "https://maps.google.com/?cid=13944735780695815653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-      "rating": 5,
-      "review_count": 7,
-      "description": "Looking for a new groomer for my pups...suggestions please \u00b7 Tresa M. replied: ... Linda M. replied: Ruff Housing on Witt St. Side street opposite Arby's on Knollwood. Rick B. replied: Donna Fraley at Village Pet Grooming in Clemmons is fantastic!",
-      "socials": {
-        "yelp": "https://www.yelp.com/search?cflt=groomer&find_loc=Winston-Salem,+NC+27103",
-        "facebook": "https://www.facebook.com/share/17mNckgybp/?mibextid=wwXIfr"
-      },
-      "no_website_confidence": 92.0,
-      "buyer_signal_score": 39,
-      "affordability": "Lean / early-stage - best pitched Starter",
-      "overall_score": 65.5,
-      "suggested_tier": "Starter",
-      "suggested_price": "$800 build + $150/mo",
-      "added": "2026-08-21",
-      "logo_image": null,
-      "palette": null,
-      "prompt_file": "prompts/village-pet-grooming-winston-salem-nc.md"
     }
   ]
 }

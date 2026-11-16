@@ -8,64 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:auto-insurance-affordables-kansas-city-kansas-city-mo@lead-finder
-DTSTAMP:20260917T184915Z
-DTSTART:20261109T090000
-DTEND:20261109T093000
-SUMMARY:Call lead: Auto Insurance Affordables - Kansas City (Kansas City MO
- )
-LOCATION:1200 Main St Ste 3805\, Kansas City\, MO 64105
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (986) 256-3451\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
- od fit for Growth\nNiche: insurance agency  |  City: Kansas City MO\nAddre
- ss: 1200 Main St Ste 3805\, Kansas City\, MO 64105\nDashboard: https://arj
- unganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:kansas-city-auto-insurance-kansas-city-mo@lead-finder
-DTSTAMP:20260917T184915Z
-DTSTART:20261109T150000
-DTEND:20261109T153000
-SUMMARY:Call lead: Kansas City Auto Insurance (Kansas City MO)
-LOCATION:950 McGee St\, Kansas City\, MO 64106
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (816) 888-3435\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
- od fit for Growth\nNiche: insurance agency  |  City: Kansas City MO\nAddre
- ss: 950 McGee St\, Kansas City\, MO 64106\nDashboard: https://arjunganesh2
- 011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:preferred-missouri-sr22-insurance-kansas-city-mo@lead-finder
-DTSTAMP:20260917T184915Z
-DTSTART:20261109T180000
-DTEND:20261109T183000
-SUMMARY:Call lead: Preferred Missouri SR22 Insurance (Kansas City MO)
-LOCATION:700 E 8th St Unit 900 Floor #2\, Kansas City\, MO 64106
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (235) 529-8465\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 68.0  |  No-websi
- te confidence: 80.0%  |  Buyer signal: 56\nAffordability: Established - go
- od fit for Growth\nNiche: insurance agency  |  City: Kansas City MO\nAddre
- ss: 700 E 8th St Unit 900 Floor #2\, Kansas City\, MO 64106\nDashboard: ht
- tps://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:innate-chiropractor-detroit-mi@lead-finder
 DTSTAMP:20260917T184915Z
 DTSTART:20261110T090000
@@ -3670,6 +3612,25 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (774) 701-7773\nEmail: n
   - best pitched Starter\nNiche: insurance agency  |  City: Worcester MA\nA
  ddress: 494 Main St\, Worcester\, MA 01608\nDashboard: https://arjunganesh
  2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:casualty-insurance-agency-tn-memphis-tn@lead-finder
+DTSTAMP:20261116T233859Z
+DTSTART:20270110T090000
+DTEND:20270110T093000
+SUMMARY:Call lead: Casualty Insurance Agency\, TN (Memphis TN)
+LOCATION:3565 Ridge Meadow Pkwy\, Memphis\, TN 38115
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (901) 286-5810\nEmail: n
+ ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 73.5  |  No-websi
+ te confidence: 92.0%  |  Buyer signal: 55\nAffordability: Established - go
+ od fit for Growth\nNiche: insurance agency  |  City: Memphis TN\nAddress: 
+ 3565 Ridge Meadow Pkwy\, Memphis\, TN 38115\nDashboard: https://arjunganes
+ h2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
