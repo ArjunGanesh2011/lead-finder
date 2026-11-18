@@ -8,67 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:southern-insurance-providers-mobile-al@lead-finder
-DTSTAMP:20260919T174754Z
-DTSTART:20261111T090000
-DTEND:20261111T093000
-SUMMARY:Call lead: Southern Insurance Providers (Mobile AL)
-LOCATION:3925 Michael Blvd # D\, Mobile\, AL 36609
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (251) 470-0555\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 73.5  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 55\nAffordability: Established - go
- od fit for Growth\nNiche: insurance agency  |  City: Mobile AL\nAddress: 3
- 925 Michael Blvd # D\, Mobile\, AL 36609\nSocials: yelp: https://www.yelp.
- com/biz/southern-insurance-providers-mobile | facebook: https://www.facebo
- ok.com/p/Southern-Insurance-Providers-100069250084588/\nDashboard: https:/
- /arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:heartline-tattoo-winston-salem-nc@lead-finder
-DTSTAMP:20260919T174754Z
-DTSTART:20261111T150000
-DTEND:20261111T153000
-SUMMARY:Call lead: HEARTLINE TATTOO (Winston-Salem NC)
-LOCATION:717 S Marshall St\, Winston-Salem\, NC 27101
-DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
- ier: Starter ($800 build + $150/mo)\nScore: 69.5  |  No-website confidence
- : 92.0%  |  Buyer signal: 47\nAffordability: Lean / early-stage - best pit
- ched Starter\nNiche: tattoo shop  |  City: Winston-Salem NC\nAddress: 717 
- S Marshall St\, Winston-Salem\, NC 27101\nSocials: instagram: https://www.
- instagram.com/heartline.tattoo/ | tiktok: https://www.tiktok.com/@permanen
- t_pokes_/video/7310219793250913567\nDashboard: https://arjunganesh2011.git
- hub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:amy-essential-touch-massage-shreveport-la@lead-finder
-DTSTAMP:20260919T174754Z
-DTSTART:20261111T180000
-DTEND:20261111T183000
-SUMMARY:Call lead: Amy Essential Touch Massage (Shreveport LA)
-LOCATION:5862 Line Ave Suite B3\, Shreveport\, LA 71106
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (850) 220-5990\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 51.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 22\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: massage therapist  |  City: Shreveport LA\
- nAddress: 5862 Line Ave Suite B3\, Shreveport\, LA 71106\nDashboard: https
- ://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:edible-crush-custom-catering-buffalo-ny@lead-finder
 DTSTAMP:20260920T175914Z
 DTSTART:20261112T090000
@@ -3649,6 +3588,45 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (260) 445-0716\nEmail: n
   confidence: 80.0%  |  Buyer signal: 42\nAffordability: Lean / early-stage
   - best pitched Starter\nNiche: auto detailing  |  City: Fort Wayne IN\nAd
  dress: 9926 Red Pine Ct\, Fort Wayne\, IN 46804\nDashboard: https://arjung
+ anesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:george-s-flower-shoppe-detroit-mi@lead-finder
+DTSTAMP:20261118T222832Z
+DTSTART:20270111T180000
+DTEND:20270111T183000
+SUMMARY:Call lead: George's Flower Shoppe (Detroit MI)
+LOCATION:5423 Vernor Hwy\, Detroit\, MI 48209
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (313) 554-1940\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 67.0  |  No-website
+  confidence: 92.0%  |  Buyer signal: 42\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: florist  |  City: Detroit MI\nAddress: 542
+ 3 Vernor Hwy\, Detroit\, MI 48209\nSocials: facebook: https://www.facebook
+ .com/157446410955166\nDashboard: https://arjunganesh2011.github.io/lead-fi
+ nder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kingdom-pools-and-spas-llc-kansas-city-mo@lead-finder
+DTSTAMP:20261118T222832Z
+DTSTART:20270112T090000
+DTEND:20270112T093000
+SUMMARY:Call lead: Kingdom Pools and Spas LLC (Kansas City MO)
+LOCATION:3809 N Flora Ave\, Kansas City\, MO 64116
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (816) 469-6204\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 47\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: pool service  |  City: Kansas City MO\nAdd
+ ress: 3809 N Flora Ave\, Kansas City\, MO 64116\nDashboard: https://arjung
  anesh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
