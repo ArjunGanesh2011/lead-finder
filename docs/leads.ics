@@ -8,65 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:edible-crush-custom-catering-buffalo-ny@lead-finder
-DTSTAMP:20260920T175914Z
-DTSTART:20261112T090000
-DTEND:20261112T093000
-SUMMARY:Call lead: Edible Crush Custom Catering (Buffalo NY)
-LOCATION:39 E Main St\, Springville\, NY 14141
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (716) 359-8286\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 64.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 37\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: catering company  |  City: Buffalo NY\nAdd
- ress: 39 E Main St\, Springville\, NY 14141\nSocials: yelp: https://www.ye
- lp.com/biz/edible-crush-custom-catering-springville-2 | facebook: https://
- www.facebook.com/ediblecrushcatering/ | instagram: https://www.instagram.c
- om/ediblecrush/\nDashboard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:lazy-day-health-and-beauty-spa-shreveport-la@lead-finder
-DTSTAMP:20260920T175914Z
-DTSTART:20261112T150000
-DTEND:20261112T153000
-SUMMARY:Call lead: Lazy Day Health and Beauty Spa (Shreveport LA)
-LOCATION:2710 Douglas Dr\, Bossier City\, LA 71111
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (332) 286-7988\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 63.0  |  No-website
-  confidence: 80.0%  |  Buyer signal: 46\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: day spa  |  City: Shreveport LA\nAddress: 
- 2710 Douglas Dr\, Bossier City\, LA 71111\nDashboard: https://arjunganesh2
- 011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:ay-caramba-food-truck-richmond-va@lead-finder
-DTSTAMP:20260920T175914Z
-DTSTART:20261112T180000
-DTEND:20261112T183000
-SUMMARY:Call lead: Ay Caramba Food Truck (Richmond VA)
-LOCATION:Capitol District\, Richmond\, VA 23219
-DESCRIPTION:Contact: unknown - ask on call\nPhone: n/a\nEmail: not found\nT
- ier: Starter ($800 build + $150/mo)\nScore: 56.5  |  No-website confidence
- : 80.0%  |  Buyer signal: 33\nAffordability: Lean / early-stage - best pit
- ched Starter\nNiche: food truck  |  City: Richmond VA\nAddress: Capitol Di
- strict\, Richmond\, VA 23219\nDashboard: https://arjunganesh2011.github.io
- /lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:la-chelita-food-truck-richmond-va@lead-finder
 DTSTAMP:20260920T175914Z
 DTSTART:20261113T090000
