@@ -8,67 +8,6 @@ X-WR-CALDESC:Lead calls - 9am / 3pm / 6pm, 3 per day
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:la-chelita-food-truck-richmond-va@lead-finder
-DTSTAMP:20260920T175914Z
-DTSTART:20261113T090000
-DTEND:20261113T093000
-SUMMARY:Call lead: LA CHELITA FOOD TRUCK (Richmond VA)
-LOCATION:5000 Rte 1\, Richmond\, VA 23234
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (804) 877-5225\nEmail: n
- ot found\nTier: Starter ($800 build + $150/mo)\nScore: 54.5  |  No-website
-  confidence: 92.0%  |  Buyer signal: 17\nAffordability: Lean / early-stage
-  - best pitched Starter\nNiche: food truck  |  City: Richmond VA\nAddress:
-  5000 Rte 1\, Richmond\, VA 23234\nSocials: facebook: https://www.facebook
- .com/Barbi503/ | tiktok: https://www.tiktok.com/discover/taco-food-truck-i
- n-richmond-va | instagram: https://www.instagram.com/p/DVrQEsrkc62/\nDashb
- oard: https://arjunganesh2011.github.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:move-better-massage-therapy-llc-dayton-oh@lead-finder
-DTSTAMP:20260921T195213Z
-DTSTART:20261113T150000
-DTEND:20261113T153000
-SUMMARY:Call lead: Move Better Massage Therapy LLC (Dayton OH)
-LOCATION:28 E Rahn Rd\, Kettering\, OH 45429
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (937) 915-6858\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 80.0  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 68\nAffordability: Established - go
- od fit for Growth\nNiche: massage therapist  |  City: Dayton OH\nAddress: 
- 28 E Rahn Rd\, Kettering\, OH 45429\nSocials: facebook: https://www.facebo
- ok.com/MoveBetterMassageTherapyLLC/\nDashboard: https://arjunganesh2011.gi
- thub.io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:charm-nails-spa-homewood-birmingham-al@lead-finder
-DTSTAMP:20260921T195213Z
-DTSTART:20261113T180000
-DTEND:20261113T183000
-SUMMARY:Call lead: Charm Nails Spa - Homewood (Birmingham AL)
-LOCATION:2902 18th St S #110\, Homewood\, AL 35209
-DESCRIPTION:Contact: unknown - ask on call\nPhone: (205) 593-4594\nEmail: n
- ot found\nTier: Growth ($1\,800 build + $299/mo)\nScore: 76.0  |  No-websi
- te confidence: 92.0%  |  Buyer signal: 60\nAffordability: Established - go
- od fit for Growth\nNiche: nail salon  |  City: Birmingham AL\nAddress: 290
- 2 18th St S #110\, Homewood\, AL 35209\nSocials: yelp: https://www.yelp.co
- m/biz/charm-nails-spa-homewood\nDashboard: https://arjunganesh2011.github.
- io/lead-finder/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Call this lead
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pool-aide-pool-service-fresno-ca@lead-finder
 DTSTAMP:20260921T195213Z
 DTSTART:20261114T090000
@@ -3569,6 +3508,25 @@ DESCRIPTION:Contact: unknown - ask on call\nPhone: (816) 469-6204\nEmail: n
   - best pitched Starter\nNiche: pool service  |  City: Kansas City MO\nAdd
  ress: 3809 N Flora Ave\, Kansas City\, MO 64116\nDashboard: https://arjung
  anesh2011.github.io/lead-finder/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Call this lead
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:studio-1211-tulsa-ok@lead-finder
+DTSTAMP:20261120T220716Z
+DTSTART:20270112T150000
+DTEND:20270112T153000
+SUMMARY:Call lead: STUDIO 1211 (Tulsa OK)
+LOCATION:1211 E Admiral Blvd\, Tulsa\, OK 74120
+DESCRIPTION:Contact: unknown - ask on call\nPhone: (918) 853-1479\nEmail: n
+ ot found\nTier: Starter ($800 build + $150/mo)\nScore: 61.5  |  No-website
+  confidence: 80.0%  |  Buyer signal: 43\nAffordability: Lean / early-stage
+  - best pitched Starter\nNiche: photography studio  |  City: Tulsa OK\nAdd
+ ress: 1211 E Admiral Blvd\, Tulsa\, OK 74120\nDashboard: https://arjungane
+ sh2011.github.io/lead-finder/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Call this lead
